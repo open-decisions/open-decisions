@@ -244,7 +244,7 @@ Fünf Dokumente vor der ersten Codezeile, vier parallel dazu, alle im Repo unter
 | 3 | Maßnahmen-Schema mit Referenzbeispiel | Datenvertrag zwischen Redaktion und Code (englisch, länderfähig): Vorhaben, Maßnahme, Beispielhaushalte pro Land; Klimabonus komplett befüllt; Prüfung mit `uv run --with pyyaml --with jsonschema schema/validate.py` | `/schema/massnahme.schema.json`, `/households/AT.yaml`, `/vorhaben/AT-XXVIII-I-69.yaml`, `/massnahmen/at-2025-klimabonus.yaml` | Ja |
 | 4 | Arbeitsplan und Gates | Kanban, Wochenbudget, Pausenkriterium | GitHub Projects + unten | Ja |
 | 5 | Interview-Leitfaden und Raster | 10–15 Gespräche auswertbar machen | unten | Ja |
-| 6 | Entscheidungslog | Ein Eintrag pro Entscheidung mit Grund | `/docs/decisions.md`, Vorlage unten | Parallel |
+| 6 | Entscheidungslog | Ein Eintrag pro Entscheidung mit Grund | `/docs/decisions.md` | Läuft |
 | 7 | Governance- und Transparenzseite | Wer, wie finanziert, Beirat, Interessenkonflikte, Korrekturkontakt | Entwurf unten → Website | Parallel |
 | 8 | Rechtliches Minimum | Lizenz, Impressum, Datenschutz, Disclaimer | `/LICENSE`, `/docs/legal.md` | Parallel |
 | 9 | Stakeholder-Liste | Wer, warum, wann ansprechen, Status | private Tabelle | Parallel |
@@ -273,17 +273,9 @@ Auswertungsraster, eine Zeile pro Gespräch:
 
 Muster zählen ab 10 Gesprächen: Wenn 7 von 10 die Wirkung richtig wiedergeben, ist Ebene 1 gut genug. Wenn weniger als 5 der Zahl glauben, kommt der Uni-Partner vor den Launch.
 
-**Entscheidungslog – Vorlage**
+**Entscheidungslog**
 
-| Datum | Entscheidung | Alternativen | Grund | Revidierbar? |
-| --- | --- | --- | --- | --- |
-| 2026-10 | EUROMOD statt eigenem Modell | GETTSIM, OpenFisca-Eigenbau | AT-Abdeckung, HHoT ohne Mikrodaten, offizielle Pflege durch JRC | ja, bei AT-Modell mit API |
-| 2026-10 | Beispielhaushalte vor Dezilen | Dezile zuerst | Kein SILC-Zugang, verständlicher | Ergänzung bei Datenzugang |
-| 2026-10 | Start als Privatperson, Verein später | Sofort Verein | netidee akzeptiert Privatpersonen, weniger Verwaltung | ja |
-| 2026-10 | Karten ohne eigene Rechnung vor EUROMOD | EUROMOD als Phase-0-Gate | Parlaments-API, WFA und Budgetdienst reichen für „Übernommen" und „nicht bezifferbar"; Pauschalbeträge sind Arithmetik; EUROMOD nur für Tarifänderungen nötig; Hypothese früher testbar | ja, wenn Interviews eine Zahl vor dem Satz verlangen |
-| 2026-10 | Wahlhilfe erst 2029, als Bilanz | Wahlassistent zuerst | Nächste Nationalratswahl 2029; wahlkabine.at und wahl.chat decken Positionen ab; Wahlprogramme sind die schwerste Quelle; Bilanz aus Beschlüssen und Abstimmungen ist das eigene Alleinstellungsmerkmal | ja, bei vorgezogener Wahl |
-| 2026-10 | Initiativanträge der Regierungsfraktionen gleichwertig zu Regierungsvorlagen | Nur Regierungsvorlagen | BSMG 2025 (73/A) kam als Initiativantrag ohne WFA; Ausschluss würde Konsolidierungspakete verfehlen; Beleg dann Gesetzestext plus Budgetdienst | ja |
-| 2026-10 | Code und Schema englisch, Inhalte in der Landessprache, Schema mit Jurisdiktion und Quellenrollen | Alles deutsch | Spätere Ausweitung auf EU-Länder; Quellen und Leser:innen bleiben lokal, der Datenvertrag nicht | ja |
+Geführt in `docs/decisions.md`, ein Eintrag pro Entscheidung mit Datum, Alternativen, Grund und Revidierbarkeit.
 
 **Governance- und Transparenzseite – Entwurf**
 
