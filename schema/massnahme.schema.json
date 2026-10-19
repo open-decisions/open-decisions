@@ -1,0 +1,394 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/schema/massnahme.schema.json",
+  "title": "Data contract v0: bill, measure, households",
+  "description": "Three record kinds. A bill is one item of a parliament's legislative process, keyed by jurisdiction plus the parliament's own key. A measure is one provision inside a bill that changes household finances directly; it gets the card. A households file defines the example households of one jurisdiction. Field names and enum values are English; content is written in the language of the jurisdiction (lang). Every number carries a confidence label, every statement a source reference.",
+  "oneOf": [
+    { "$ref": "#/$defs/bill" },
+    { "$ref": "#/$defs/measure" },
+    { "$ref": "#/$defs/households" }
+  ],
+  "$defs": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "url": { "type": "string", "pattern": "^https?://" },
+    "jurisdiction": { "type": "string", "pattern": "^[A-Z]{2}$", "description": "ISO 3166-1 alpha-2, e.g. AT" },
+    "lang": { "type": "string", "pattern": "^[a-z]{2}(-[A-Z]{2})?$", "description": "BCP 47 tag of the content language, e.g. de-AT" },
+    "bill_id": {
+      "type": "string",
+      "description": "Jurisdiction plus the parliament's own key. Austria: AT/<GP>/<ITYP>/<INR>, e.g. AT/XXVIII/I/69",
+      "pattern": "^[A-Z]{2}/[A-Za-z0-9/-]+$"
+    },
+    "measure_id": {
+      "type": "string",
+      "description": "Lower-case jurisdiction, year of decision, short name; equals the file name without extension",
+      "pattern": "^[a-z]{2}-\\d{4}-[a-z0-9-]+$"
+    },
+    "household_id": { "type": "string", "pattern": "^[A-Z]{2}-H[1-9]$", "description": "Defined in households/<jurisdiction>.yaml" },
+    "confidence": {
+      "type": "string",
+      "description": "calculated: microsimulation from legal parameters, reproducible in the repo. adopted: taken from an official source, not recalculated. estimated: own calculation with at least one material assumption, range required. not_quantifiable: no defensible number, reason required.",
+      "enum": ["calculated", "adopted", "estimated", "not_quantifiable"]
+    },
+    "source_role": {
+      "type": "string",
+      "description": "Country-independent role of a source. Each jurisdiction maps its institutions to roles in its methodology appendix. Precedence on conflict: law_text > impact_assessment > parliamentary_budget_office > statistics > study > government_communication; government_communication may only back the 'said' element.",
+      "enum": ["law_text", "impact_assessment", "parliamentary_budget_office", "statistics", "study", "government_communication"]
+    },
+    "source_ref": {
+      "type": "object",
+      "description": "Reference to an entry in sources, with the exact location",
+      "required": ["source", "ref"],
+      "additionalProperties": false,
+      "properties": {
+        "source": { "type": "string", "description": "id from sources" },
+        "ref": { "type": "string", "description": "Page, section, article or field, e.g. 'p. 46', '§ 2 (2)', 'Art. 71'" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["id", "role", "title", "url", "retrieved"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "role": { "$ref": "#/$defs/source_role" },
+        "institution": { "type": "string", "description": "The concrete body, e.g. 'Budgetdienst des Parlaments'" },
+        "title": { "type": "string" },
+        "url": { "$ref": "#/$defs/url" },
+        "retrieved": { "$ref": "#/$defs/date" },
+        "archive": { "type": ["string", "null"], "description": "Web archive link or path of the local copy in the repo" },
+        "note": { "type": "string" }
+      }
+    },
+    "amount": {
+      "type": "object",
+      "description": "A number with label and source. estimated requires low, high and assumptions. not_quantifiable requires reason and a null value. adopted, calculated and estimated require sources.",
+      "required": ["value", "unit", "label"],
+      "additionalProperties": false,
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "low": { "type": "number" },
+        "high": { "type": "number" },
+        "unit": { "type": "string", "enum": ["eur_per_year", "eur_per_month", "eur_once", "mio_eur_per_year", "bn_eur_per_year", "bn_eur_total", "percent_of_income", "persons", "households"] },
+        "label": { "$ref": "#/$defs/confidence" },
+        "year": { "type": "integer" },
+        "sources": { "type": "array", "items": { "$ref": "#/$defs/source_ref" } },
+        "assumptions": { "type": "array", "items": { "type": "string" }, "description": "ids from assumptions" },
+        "reason": { "type": "string", "description": "Required for not_quantifiable: one sentence" },
+        "calculation": { "type": "string", "description": "One-line calculation or path to the input file in the repo" }
+      },
+      "allOf": [
+        { "if": { "properties": { "label": { "const": "estimated" } } }, "then": { "required": ["low", "high", "assumptions"] } },
+        { "if": { "properties": { "label": { "const": "not_quantifiable" } } }, "then": { "required": ["reason"], "properties": { "value": { "type": "null" } } } },
+        { "if": { "properties": { "label": { "enum": ["adopted", "calculated", "estimated"] } } }, "then": { "required": ["sources"] } }
+      ]
+    },
+    "party_vote": {
+      "type": "object",
+      "required": ["party", "seats", "in_favor"],
+      "additionalProperties": false,
+      "properties": {
+        "party": { "type": "string" },
+        "seats": { "type": "integer", "minimum": 0 },
+        "in_favor": { "type": "boolean" }
+      }
+    },
+    "bill": {
+      "type": "object",
+      "title": "Bill",
+      "required": ["kind", "jurisdiction", "lang", "id", "type", "title", "introduced", "status", "phases", "documents", "sources", "measures", "retrieved"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "const": "bill" },
+        "jurisdiction": { "$ref": "#/$defs/jurisdiction" },
+        "lang": { "$ref": "#/$defs/lang" },
+        "id": { "$ref": "#/$defs/bill_id" },
+        "type": {
+          "type": "string",
+          "enum": ["government_bill", "members_bill"],
+          "description": "government_bill: introduced by the government (AT: Regierungsvorlage). members_bill: introduced by members of parliament (AT: Initiativantrag). Both are eligible."
+        },
+        "title": { "type": "string" },
+        "citation": { "type": "string", "description": "The parliament's citation, e.g. '69 d.B.'" },
+        "parliament_url": { "$ref": "#/$defs/url" },
+        "introduced": { "$ref": "#/$defs/date" },
+        "introduced_by": { "type": "array", "items": { "type": "string" } },
+        "status": {
+          "type": "object",
+          "required": ["stage"],
+          "additionalProperties": false,
+          "properties": {
+            "stage": { "type": "string", "enum": ["pre_parliamentary", "introduced", "committee", "passed_first_chamber", "passed_second_chamber", "published"] },
+            "source_status": { "type": "string", "description": "The parliament's own status code, verbatim" },
+            "gazette": { "type": ["string", "null"], "description": "Official gazette citation, e.g. 'BGBl. I Nr. 25/2025'" },
+            "gazette_url": { "$ref": "#/$defs/url" }
+          }
+        },
+        "pre_parliamentary": {
+          "type": "array",
+          "description": "Drafts before introduction, e.g. consultation drafts. Empty for members' bills.",
+          "items": {
+            "type": "object", "required": ["citation", "title", "url"], "additionalProperties": false,
+            "properties": { "citation": { "type": "string" }, "title": { "type": "string" }, "url": { "$ref": "#/$defs/url" } }
+          }
+        },
+        "phases": {
+          "type": "array",
+          "description": "Stations for the law tracker, chronological. chamber names the body in local terms.",
+          "items": {
+            "type": "object", "required": ["phase", "date", "text"], "additionalProperties": false,
+            "properties": {
+              "phase": { "type": "string", "enum": ["pre_parliamentary", "introduced", "committee", "plenary", "second_chamber_introduced", "second_chamber_committee", "second_chamber_plenary", "published"] },
+              "chamber": { "type": "string" },
+              "date": { "$ref": "#/$defs/date" },
+              "text": { "type": "string" },
+              "url": { "$ref": "#/$defs/url" }
+            }
+          }
+        },
+        "vote": {
+          "type": ["object", "null"],
+          "description": "Final vote in the first chamber, per party",
+          "required": ["date", "result"],
+          "additionalProperties": false,
+          "properties": {
+            "date": { "$ref": "#/$defs/date" },
+            "session": { "type": "string" },
+            "result": { "type": "array", "items": { "$ref": "#/$defs/party_vote" } },
+            "note": { "type": "string" }
+          }
+        },
+        "documents": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "law_text_html": { "$ref": "#/$defs/url" },
+            "law_text_pdf": { "$ref": "#/$defs/url" },
+            "explanations_pdf": { "$ref": "#/$defs/url" },
+            "comparison_pdf": { "$ref": "#/$defs/url" },
+            "impact_assessment_pdf": { "type": "array", "items": { "$ref": "#/$defs/url" }, "description": "AT: Vorblatt und WFA. Empty for members' bills." }
+          }
+        },
+        "budget_office_analyses": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["title", "date", "url"], "additionalProperties": false,
+            "properties": { "title": { "type": "string" }, "date": { "$ref": "#/$defs/date" }, "url": { "$ref": "#/$defs/url" }, "pdf_url": { "$ref": "#/$defs/url" } }
+          }
+        },
+        "measures": { "type": "array", "items": { "$ref": "#/$defs/measure_id" }, "description": "Measures that get a card. Other provisions of the bill are not recorded." },
+        "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/source" } },
+        "retrieved": { "$ref": "#/$defs/date" }
+      }
+    },
+    "measure": {
+      "type": "object",
+      "title": "Measure",
+      "required": ["kind", "jurisdiction", "lang", "id", "bill", "article", "title", "status", "selection", "said", "law_change", "affected", "timing", "effects", "unclear", "assumptions", "sources", "follow_up", "review", "changelog"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "const": "measure" },
+        "jurisdiction": { "$ref": "#/$defs/jurisdiction" },
+        "lang": { "$ref": "#/$defs/lang" },
+        "id": { "$ref": "#/$defs/measure_id" },
+        "bill": { "$ref": "#/$defs/bill_id" },
+        "article": { "type": "string", "description": "Article or part of the bill, e.g. 'Art. 71'" },
+        "law": {
+          "type": "object", "additionalProperties": false,
+          "properties": {
+            "title": { "type": "string" }, "abbreviation": { "type": "string" },
+            "original_gazette": { "type": "string" }, "consolidated_url": { "$ref": "#/$defs/url" }
+          }
+        },
+        "title": { "type": "string", "description": "Card element 1: plain language, max. 8 words" },
+        "status": {
+          "type": "object", "required": ["state", "since"], "additionalProperties": false,
+          "description": "Card element 2",
+          "properties": {
+            "state": { "type": "string", "enum": ["announced", "introduced", "passed", "in_force"] },
+            "since": { "$ref": "#/$defs/date" },
+            "sources": { "type": "array", "items": { "$ref": "#/$defs/source_ref" } }
+          }
+        },
+        "selection": {
+          "type": "object", "required": ["status_ok", "household_relevance", "evidence_ok", "rationale", "decided_on"], "additionalProperties": false,
+          "description": "All three selection criteria plus one sentence",
+          "properties": {
+            "status_ok": { "type": "boolean" },
+            "household_relevance": { "type": "string", "enum": ["taxes", "transfers", "pensions", "fees", "minimum_wage", "indexation", "other"] },
+            "evidence_ok": { "type": "boolean" },
+            "rationale": { "type": "string" },
+            "decided_on": { "$ref": "#/$defs/date" }
+          }
+        },
+        "said": {
+          "type": "object", "required": ["quote", "speaker", "role", "date", "sources"], "additionalProperties": false,
+          "description": "Card element 3: verbatim quote of the official message. The only place where persons and parties are named.",
+          "properties": {
+            "quote": { "type": "string" },
+            "speaker": { "type": "string" },
+            "role": { "type": "string" },
+            "date": { "$ref": "#/$defs/date" },
+            "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/source_ref" } }
+          }
+        },
+        "law_change": {
+          "type": "object", "required": ["summary", "parameters"], "additionalProperties": false,
+          "description": "Card element 4",
+          "properties": {
+            "summary": { "type": "string", "description": "2 to 3 sentences, no jargon, no judgement" },
+            "parameters": {
+              "type": "array", "minItems": 1,
+              "items": {
+                "type": "object", "required": ["name", "old", "new", "applies_from", "sources"], "additionalProperties": false,
+                "properties": {
+                  "name": { "type": "string" },
+                  "old": { "type": ["number", "string", "null"] },
+                  "new": { "type": ["number", "string", "null"] },
+                  "unit": { "type": "string" },
+                  "applies_from": { "type": "string", "description": "Date or calendar year" },
+                  "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/source_ref" } }
+                }
+              }
+            }
+          }
+        },
+        "affected": {
+          "type": "object", "required": ["who", "count"], "additionalProperties": false,
+          "properties": {
+            "who": { "type": "string" },
+            "condition": { "type": "string" },
+            "count": { "$ref": "#/$defs/amount" }
+          }
+        },
+        "timing": {
+          "type": "object", "required": ["effective_from", "first_full_year", "fifth_year", "indexation"], "additionalProperties": false,
+          "properties": {
+            "effective_from": { "$ref": "#/$defs/date" },
+            "first_full_year": { "type": "integer" },
+            "fifth_year": { "type": "integer" },
+            "limited_until": { "type": ["string", "null"] },
+            "transition": { "type": ["string", "null"] },
+            "indexation": { "type": "string", "enum": ["none", "statutory", "discretionary", "not_applicable"], "description": "Is the new value adjusted for inflation?" },
+            "note": { "type": "string" }
+          }
+        },
+        "effects": {
+          "type": "object", "required": ["households", "aggregate"], "additionalProperties": false,
+          "description": "Card element 5. Every example household of the jurisdiction has an entry, including 'no change'.",
+          "properties": {
+            "households": {
+              "type": "array", "minItems": 1,
+              "items": {
+                "type": "object", "required": ["household", "short_term", "long_term"], "additionalProperties": false,
+                "properties": {
+                  "household": { "$ref": "#/$defs/household_id" },
+                  "short_term": { "$ref": "#/$defs/amount" },
+                  "long_term": { "$ref": "#/$defs/amount" },
+                  "share_of_income": { "type": ["number", "null"], "description": "Share of disposable yearly income, required above 500 EUR" },
+                  "note": { "type": "string" }
+                }
+              }
+            },
+            "aggregate": {
+              "type": "array",
+              "items": {
+                "type": "object", "required": ["description", "amount"], "additionalProperties": false,
+                "properties": { "description": { "type": "string" }, "amount": { "$ref": "#/$defs/amount" } }
+              }
+            },
+            "distribution": {
+              "type": "object", "additionalProperties": false,
+              "description": "Decile statements, usually adopted from the parliamentary budget office",
+              "properties": {
+                "description": { "type": "string" },
+                "label": { "$ref": "#/$defs/confidence" },
+                "sources": { "type": "array", "items": { "$ref": "#/$defs/source_ref" } }
+              }
+            }
+          }
+        },
+        "unclear": { "type": "array", "minItems": 1, "items": { "type": "string" }, "description": "Card element 6: 1 to 3 items, never empty" },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["id", "what", "why", "alternative"], "additionalProperties": false,
+            "properties": {
+              "id": { "type": "string", "pattern": "^A\\d+$" },
+              "what": { "type": "string" },
+              "why": { "type": "string" },
+              "alternative": { "type": "string", "description": "What would change under a different reading" }
+            }
+          }
+        },
+        "contradictions": { "type": "array", "items": { "type": "string" } },
+        "open_questions": { "type": "array", "items": { "type": "string" } },
+        "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/source" } },
+        "follow_up": {
+          "type": "object", "required": ["date", "what"], "additionalProperties": false,
+          "properties": { "date": { "$ref": "#/$defs/date" }, "what": { "type": "string" }, "sources_to_check": { "type": "array", "items": { "type": "string" } } }
+        },
+        "review": {
+          "type": "object", "required": ["created", "approved", "checklist"], "additionalProperties": false,
+          "description": "Release checklist. Approval no earlier than 24 h after creation.",
+          "properties": {
+            "created": { "$ref": "#/$defs/date" },
+            "approved": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+            "approved_by": { "type": "string" },
+            "checklist": {
+              "type": "object", "additionalProperties": false,
+              "required": ["parameters_checked", "assumptions_documented", "reproducible", "labels_correct", "style_checked", "quote_sourced", "unclear_filled"],
+              "properties": {
+                "parameters_checked": { "type": "boolean" },
+                "assumptions_documented": { "type": "boolean" },
+                "reproducible": { "type": "boolean" },
+                "labels_correct": { "type": "boolean" },
+                "style_checked": { "type": "boolean" },
+                "quote_sourced": { "type": "boolean" },
+                "unclear_filled": { "type": "boolean" }
+              }
+            }
+          }
+        },
+        "changelog": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["date", "change", "reason"], "additionalProperties": false,
+            "properties": { "date": { "$ref": "#/$defs/date" }, "change": { "type": "string" }, "reason": { "type": "string" } }
+          }
+        }
+      }
+    },
+    "households": {
+      "type": "object",
+      "title": "Example households of one jurisdiction",
+      "required": ["kind", "jurisdiction", "lang", "version", "households"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "const": "households" },
+        "jurisdiction": { "$ref": "#/$defs/jurisdiction" },
+        "lang": { "$ref": "#/$defs/lang" },
+        "version": { "type": "string" },
+        "note": { "type": "string" },
+        "households": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "required": ["id", "label", "adults", "children", "gross_income_month", "housing", "region"], "additionalProperties": false,
+            "properties": {
+              "id": { "$ref": "#/$defs/household_id" },
+              "label": { "type": "string", "description": "Short description shown on the card" },
+              "adults": { "type": "integer", "minimum": 1 },
+              "children": { "type": "array", "items": { "type": "integer", "minimum": 0 }, "description": "Ages of children" },
+              "employment": { "type": "string" },
+              "gross_income_month": { "type": "array", "items": { "type": "number" }, "description": "One entry per adult, EUR per month; 0 for no earned income" },
+              "other_income": { "type": "string" },
+              "housing": { "type": "string" },
+              "region": { "type": "string" },
+              "disposable_income_year": { "type": ["number", "null"], "description": "Filled once calculated; used for share_of_income" },
+              "input_file": { "type": "string", "description": "Path of the microsimulation input file in the repo" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

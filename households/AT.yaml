@@ -1,0 +1,70 @@
+kind: households
+jurisdiction: AT
+lang: de-AT
+version: v0
+note: Beispielhaushalte laut Methodik-Handbuch v0, Abschnitt 5. Anpassbar nach den Interviews. Unten, Mitte und oben bewusst abgedeckt.
+households:
+  - id: AT-H1
+    label: Alleinerziehende, 1 Kind (6 J.), Teilzeit 30 h
+    adults: 1
+    children: [6]
+    employment: Teilzeit 30 Stunden, unselbständig
+    gross_income_month: [2100]
+    housing: Miete
+    region: Wien
+    disposable_income_year: null
+  - id: AT-H2
+    label: Pensionistin, allein, Ausgleichszulage
+    adults: 1
+    children: []
+    employment: Pension mit Ausgleichszulage
+    gross_income_month: [1270]
+    housing: Miete
+    region: Landgemeinde
+    disposable_income_year: null
+  - id: AT-H3
+    label: Paar, 2 Kinder (4 und 9 J.), beide Vollzeit
+    adults: 2
+    children: [4, 9]
+    employment: beide Vollzeit, unselbständig
+    gross_income_month: [3200, 2600]
+    housing: Eigentum mit Kredit
+    region: Stadtrand
+    disposable_income_year: null
+  - id: AT-H4
+    label: Student, Nebenjob geringfügig, eigene Wohnung
+    adults: 1
+    children: []
+    employment: geringfügig beschäftigt, Studium
+    gross_income_month: [550]
+    other_income: Familienbeihilfe
+    housing: WG, Miete
+    region: Graz
+    disposable_income_year: null
+  - id: AT-H5
+    label: Selbstständiger, allein, Einzelunternehmer
+    adults: 1
+    children: []
+    employment: selbständig, Gewinn 45.000 € pro Jahr
+    gross_income_month: [3750]
+    housing: Miete
+    region: Linz
+    disposable_income_year: null
+  - id: AT-H6
+    label: Paar ohne Kinder, ein Einkommen, Industriearbeiter
+    adults: 2
+    children: []
+    employment: ein Vollzeiteinkommen, unselbständig
+    gross_income_month: [3400, 0]
+    housing: Eigentum abbezahlt
+    region: Land
+    disposable_income_year: null
+  - id: AT-H7
+    label: Paar, 1 Kind, hohe Einkommen
+    adults: 2
+    children: [10]
+    employment: beide Vollzeit, unselbständig
+    gross_income_month: [7500, 5000]
+    housing: Eigentum
+    region: Wien
+    disposable_income_year: null

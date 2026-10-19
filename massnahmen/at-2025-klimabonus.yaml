@@ -1,0 +1,255 @@
+kind: measure
+jurisdiction: AT
+lang: de-AT
+id: at-2025-klimabonus
+bill: AT/XXVIII/I/69
+article: Art. 71
+law:
+  title: Bundesgesetz über den regionalen Klimabonus
+  abbreviation: KliBG
+  original_gazette: BGBl. I Nr. 11/2022
+  consolidated_url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011840
+
+title: Der Klimabonus wird nicht mehr ausgezahlt
+
+status:
+  state: in_force
+  since: "2025-06-30"
+  sources:
+    - { source: ris-klibg-p2, ref: "§ 2, Inkrafttretensdatum" }
+    - { source: parl-detail, ref: "status.bgbllinks" }
+
+selection:
+  status_ok: true
+  household_relevance: transfers
+  evidence_ok: true
+  rationale: Betrifft fast alle Personen mit Hauptwohnsitz in Österreich mit einem festen Betrag pro Jahr; Gesetzestext, WFA und Budgetdienst-Analyse liegen vor.
+  decided_on: "2026-10-19"
+
+said:
+  quote: >-
+    Auf der Ausgabenseite bringt die Abschaffung des Klimabonus unmittelbar die größten Einsparungen.
+    Sie betragen bereits heuer etwa 2 Milliarden Euro. Der Klimabonus war an sich ein politisch,
+    wirtschaftlich und sozial sinnvoller Ausgleich zur Einführung der CO2-Bepreisung, doch er litt
+    unter einer Reihe von Unzulänglichkeiten. Zuletzt wurden etwa doppelt so viele Mittel ausgezahlt
+    wie eingenommen – das geht finanziell einfach nicht.
+  speaker: Markus Marterbauer
+  role: Bundesminister für Finanzen, Budgetrede zum Doppelbudget 2025/2026
+  date: "2025-05-13"
+  sources:
+    - { source: budgetrede-protokoll, ref: "Stenographisches Protokoll, 21. Sitzung, TOP 1" }
+    - { source: budgetrede-bmf, ref: "Volltext BMF" }
+
+law_change:
+  summary: >-
+    Den Klimabonus gab es für die Jahre 2022 bis 2024. Für 2025 und später entsteht kein Anspruch mehr.
+    Wer für 2022 bis 2024 noch Geld bekommen hätte, kann es weiterhin nachträglich beantragen.
+  parameters:
+    - name: Letztes Anspruchsjahr für den regionalen Klimabonus
+      old: "unbefristet (jährlich)"
+      new: "2024"
+      applies_from: Kalenderjahr 2025
+      sources:
+        - { source: ris-klibg-p2, ref: "§ 2 Abs. 2 letzter Satz" }
+        - { source: bbg-gesetzestext, ref: "Art. 71 Z 1" }
+    - name: Sockelbetrag pro Person und Jahr (Stufe 1, zuletzt 2024)
+      old: 145
+      new: 0
+      unit: EUR
+      applies_from: Kalenderjahr 2025
+      sources:
+        - { source: ris-klibg-p3, ref: "§ 3 Abs. 1" }
+    - name: Höchstbetrag pro Person und Jahr mit Regionalausgleich (Stufe 4, zuletzt 2024)
+      old: 290
+      new: 0
+      unit: EUR
+      applies_from: Kalenderjahr 2025
+      sources:
+        - { source: ris-klibg-p3, ref: "§ 3 Abs. 1 in Verbindung mit § 4" }
+        - { source: bd-konsolidierung, ref: "S. 46" }
+    - name: Betrag für Personen unter 18 Jahren
+      old: "50 % des Erwachsenenbetrags"
+      new: 0
+      applies_from: Kalenderjahr 2025
+      sources:
+        - { source: ris-klibg-p3, ref: "§ 3 Abs. 2" }
+
+affected:
+  who: Alle Personen, die im Kalenderjahr mindestens 183 Tage mit Hauptwohnsitz in Österreich gemeldet waren, einschließlich Kinder
+  condition: Hauptwohnsitz im Inland an mindestens 183 Tagen des Jahres (§ 2 Abs. 1 KliBG)
+  count:
+    value: null
+    unit: persons
+    label: not_quantifiable
+    reason: Die WFA zu Art. 71 nennt keine Zahl der Anspruchsberechtigten; der Budgetdienst weist nur das Volumen aus.
+
+timing:
+  effective_from: "2025-06-30"
+  first_full_year: 2025
+  fifth_year: 2029
+  limited_until: null
+  transition: Ansprüche für 2022 bis 2024 können weiterhin nachträglich geltend gemacht werden (§ 9a KliBG).
+  indexation: not_applicable
+  note: >-
+    Der weggefallene Betrag wäre laut § 4 KliBG per Verordnung an den CO2-Preis anzupassen gewesen.
+    Der Verlust gegenüber dem alten Recht könnte also in späteren Jahren höher sein als der Wert von 2024 (siehe A1).
+
+effects:
+  households:
+    - household: AT-H1
+      short_term: { value: -217.5, low: -217.5, high: -217.5, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A2], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }], calculation: "1 Erwachsene × 145 + 1 Kind × 72,50 (Wien, Stufe 1)" }
+      long_term: { value: -217.5, low: -217.5, high: -217.5, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A2], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }], calculation: "wie kurzfristig, Betrag 2024 unverändert fortgeschrieben" }
+      note: Wien ist Stufe 1 ohne Regionalausgleich.
+    - household: AT-H2
+      short_term: { value: -267.5, low: -290, high: -245, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }, { source: bd-konsolidierung, ref: "S. 46" }], calculation: "1 Erwachsene × 245 bis 290 (Landgemeinde, Stufe 3 oder 4), Mitte angegeben" }
+      long_term: { value: -267.5, low: -290, high: -245, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "wie kurzfristig" }
+    - household: AT-H3
+      short_term: { value: -660, low: -735, high: -585, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }, { source: bd-konsolidierung, ref: "S. 46" }], calculation: "2 Erwachsene × 195 bis 245 + 2 Kinder × 97,50 bis 122,50 (Stadtrand, Stufe 2 oder 3)" }
+      long_term: { value: -660, low: -735, high: -585, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }], calculation: "wie kurzfristig" }
+      share_of_income: null
+      note: Anteil am verfügbaren Einkommen wird ergänzt, sobald disposable_income_year in households/AT.yaml befüllt ist.
+    - household: AT-H4
+      short_term: { value: -170, low: -195, high: -145, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "1 Erwachsener × 145 bis 195 (Graz, Stufe 1 oder 2)" }
+      long_term: { value: -170, low: -195, high: -145, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "wie kurzfristig" }
+    - household: AT-H5
+      short_term: { value: -170, low: -195, high: -145, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "1 Erwachsener × 145 bis 195 (Linz, Stufe 1 oder 2)" }
+      long_term: { value: -170, low: -195, high: -145, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "wie kurzfristig" }
+    - household: AT-H6
+      short_term: { value: -535, low: -580, high: -490, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }, { source: bd-konsolidierung, ref: "S. 46" }], calculation: "2 Erwachsene × 245 bis 290 (Land, Stufe 3 oder 4)" }
+      long_term: { value: -535, low: -580, high: -490, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "wie kurzfristig" }
+      share_of_income: null
+    - household: AT-H7
+      short_term: { value: -362.5, low: -362.5, high: -362.5, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A2, A4], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }], calculation: "2 Erwachsene × 145 + 1 Kind × 72,50 (Wien, Stufe 1)" }
+      long_term: { value: -362.5, low: -362.5, high: -362.5, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A2, A4], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }], calculation: "wie kurzfristig" }
+      note: Für 2024 war der Klimabonus bei hohen Einkommen steuerpflichtig; für 2025 hätte das ohne neuen Beschluss nicht gegolten (A4).
+  aggregate:
+    - description: Konsolidierungsvolumen durch die Abschaffung pro Jahr
+      amount: { value: 2.0, unit: bn_eur_per_year, label: adopted, year: 2025, sources: [{ source: bd-konsolidierung, ref: "S. 46" }] }
+    - description: Konsolidierungsvolumen 2025 bis 2029 gesamt
+      amount: { value: 10, unit: bn_eur_total, label: adopted, sources: [{ source: bd-konsolidierung, ref: "S. 46, 'knapp 10 Mrd. EUR'" }] }
+    - description: Nettofinanzierung des Bundes laut WFA zu Art. 71 im Jahr 2025 (Abwicklung der Altansprüche, nicht die Einsparung)
+      amount: { value: -119.157, unit: mio_eur_per_year, label: adopted, year: 2025, sources: [{ source: bbg-wfa, ref: "S. 357 von 408" }] }
+  distribution:
+    description: >-
+      Laut Budgetdienst verteilt sich das Volumen als einkommensunabhängige Maßnahme im Wesentlichen gleichmäßig
+      auf die Einkommensdezile; Unterschiede ergeben sich aus dem Kinderanteil und der regionalen Stufe.
+      Im Verhältnis zum Einkommen trifft der Wegfall niedrige Einkommen stärker.
+    label: adopted
+    sources:
+      - { source: bd-konsolidierung, ref: "S. 5 und S. 46" }
+
+unclear:
+  - Die regionale Stufe eines Wohnorts bestimmt den Betrag zwischen 145 und 290 Euro; für die Beispielhaushalte außerhalb Wiens ist sie angenommen, nicht nachgeschlagen.
+  - Ohne Abschaffung wäre der Betrag ab 2025 per Verordnung an den CO2-Preis angepasst worden; wie hoch er gewesen wäre, ist nicht bekannt. Alle Zahlen schreiben den Wert von 2024 fort.
+  - Die WFA nennt keine Zahl der Betroffenen und keine Wirkung pro Haushalt; die Einsparung von rund 2 Milliarden Euro pro Jahr stammt aus der Rechnung des Budgetdienstes.
+
+assumptions:
+  - id: A1
+    what: Der Klimabonus wäre ohne Abschaffung ab 2025 in gleicher Höhe wie 2024 ausgezahlt worden.
+    why: Konservativste Lesart; der Budgetdienst rechnet mit derselben Annahme (S. 46).
+    alternative: Bei Anpassung an den gestiegenen CO2-Preis wäre der Verlust pro Person höher, besonders im fünften Jahr.
+  - id: A2
+    what: Wien ist Stufe 1 (nur Sockelbetrag, kein Regionalausgleich).
+    why: Wien wird in der Klimabonus-Einstufung als urbanes Zentrum mit sehr gutem öffentlichem Verkehr geführt.
+    alternative: Keine; die Einstufung Wiens ist eindeutig, wird aber gegen die Verordnung geprüft (offene Frage).
+  - id: A3
+    what: Für Landgemeinde Stufe 3 oder 4, für Stadtrand Stufe 2 oder 3, für Graz und Linz Stufe 1 oder 2.
+    why: Die Beispielhaushalte haben keinen konkreten Wohnort; die Spannweite deckt die plausiblen Stufen ab.
+    alternative: Ein konkreter Wohnort würde die Spannweite auf einen Wert verengen.
+  - id: A4
+    what: Für 2025 wäre der Klimabonus auch bei hohen Einkommen nicht steuerpflichtig gewesen.
+    why: Die Steuerpflicht war nur für 2024 beschlossen (§ 6 Abs. 2 KliBG; Budgetdienst S. 46, Fußnote 24).
+    alternative: Bei fortgeführter Steuerpflicht wäre der Nettoverlust für AT-H7 etwa halb so hoch.
+
+contradictions:
+  - Die WFA zu Art. 71 weist für 2025 eine Nettofinanzierung von minus 119 Millionen Euro aus (Abwicklung der Altansprüche), die Budgetrede nennt eine Einsparung von etwa 2 Milliarden Euro. Beides gilt, bezieht sich aber auf verschiedene Größen; die Einsparung steht nicht in der WFA-Tabelle.
+
+open_questions:
+  - Verordnung mit der Gemeinde-Einstufung 2024 nachschlagen und A2/A3 durch Fakten ersetzen.
+  - Statistik Austria nach der Zahl der Hauptwohnsitz-Gemeldeten fragen, um die Betroffenen beziffern zu können.
+
+sources:
+  - id: ris-klibg-p2
+    role: law_text
+    institution: RIS (Bundeskanzleramt)
+    title: Klimabonusgesetz § 2, geltende Fassung (NOR40269985)
+    url: https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269985/NOR40269985.html
+    retrieved: "2026-10-19"
+    archive: null
+  - id: ris-klibg-p3
+    role: law_text
+    institution: RIS (Bundeskanzleramt)
+    title: Klimabonusgesetz § 3, geltende Fassung (NOR40269986)
+    url: https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269986/NOR40269986.html
+    retrieved: "2026-10-19"
+    archive: null
+  - id: bbg-gesetzestext
+    role: law_text
+    institution: Parlament Österreich
+    title: Budgetbegleitgesetz 2025, Regierungsvorlage 69 d.B., Gesetzestext
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html
+    retrieved: "2026-10-19"
+    archive: null
+  - id: parl-detail
+    role: law_text
+    institution: Parlament Österreich
+    title: Verhandlungsgegenstand 69 d.B., Detail-JSON
+    url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69?json=TRUE
+    retrieved: "2026-10-19"
+    archive: null
+  - id: bbg-wfa
+    role: impact_assessment
+    institution: Bundesregierung (BMLUK)
+    title: Vorblatt und WFA zum Budgetbegleitgesetz 2025, Abschnitt zu Art. 71 (S. 357 bis 369)
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+    retrieved: "2026-10-19"
+    archive: null
+  - id: bd-konsolidierung
+    role: parliamentary_budget_office
+    institution: Budgetdienst des Parlaments
+    title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen, 19.05.2025
+    url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
+    retrieved: "2026-10-19"
+    archive: null
+  - id: budgetrede-protokoll
+    role: government_communication
+    institution: Parlament Österreich (Stenographisches Protokoll)
+    title: 21. Sitzung des Nationalrates, 13.05.2025, Budgetrede des Finanzministers
+    url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/21/A_-_10_08_26_00789433.html
+    retrieved: "2026-10-19"
+    archive: null
+  - id: budgetrede-bmf
+    role: government_communication
+    institution: Bundesministerium für Finanzen
+    title: Budgetrede 2025, Volltext
+    url: https://www.bmf.gv.at/dam/jcr:51e19f55-1581-428a-98f2-6ad6aa4afd1a/BUDGETREDE.pdf
+    retrieved: "2026-10-19"
+    archive: null
+
+follow_up:
+  date: "2026-07-01"
+  what: Budgetvollzug 2025 prüfen, ob die Einsparung von rund 2 Milliarden Euro eingetreten ist; Nachzahlungen für Altansprüche abfragen.
+  sources_to_check:
+    - Bundesrechnungsabschluss 2025 (Rechnungshof)
+    - Budgetdienst, Analyse zum Budgetvollzug 2025
+
+review:
+  created: "2026-10-19"
+  approved: null
+  approved_by: ""
+  checklist:
+    parameters_checked: true
+    assumptions_documented: true
+    reproducible: true
+    labels_correct: true
+    style_checked: false
+    quote_sourced: true
+    unclear_filled: true
+
+changelog:
+  - date: "2026-10-19"
+    change: Erstfassung als Referenzbeispiel für Schema v0
+    reason: Startdokument 3 laut Projektkonzept
+  - date: "2026-10-19"
+    change: Schema auf Jurisdiktion, Sprache, Quellenrollen und AT-Haushalts-IDs umgestellt
+    reason: Erweiterung auf weitere EU-Länder vorbereiten
