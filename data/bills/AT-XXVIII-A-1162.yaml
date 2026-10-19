@@ -1,0 +1,54 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1162
+type: members_bill
+title: Qualitäts-Journalismus-Förderungs-Gesetz
+citation: 1162/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1162
+introduced: '2026-10-15'
+introduced_by:
+- Mag. Wolfgang Gerstl
+- Klaus Seltenheim
+- Henrike Brandstötter
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung an das Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '103. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/103
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '104. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/104
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1162/fname_1784211.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1162/fnameorig_1784211.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1162/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1162?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

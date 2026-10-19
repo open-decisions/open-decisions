@@ -1,0 +1,67 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/496
+type: members_bill
+title: Fortpflanzungsmedizingesetz, Änderung
+citation: 496/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/496
+introduced: '2025-10-15'
+introduced_by:
+- Mag. Meri Disoski
+identifiers:
+  eurovoc:
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Übermittlung an das Bundesministerium für Frauen, Wissenschaft und Forschung, das Bundesministerium für Arbeit, Soziales,
+    Gesundheit, Pflege und Konsumentenschutz und Büro der Bundesministerin für Europa, Integration und Familie
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Vorgesehen für den Gleichbehandlungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GL/1/00923
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '45. Sitzung des Nationalrates : Zuweisung an den Gleichbehandlungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/45
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-21'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 21. Oktober 2025
+    vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16566800.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/496/fname_1716496.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/496/fnameorig_1716496.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/496/fname_1717397.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 496/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/496?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

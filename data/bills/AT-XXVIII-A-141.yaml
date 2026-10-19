@@ -1,0 +1,75 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/141
+type: members_bill
+title: Asylverfahrens-Beschleunigungsnovelle 2025
+citation: 141/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/141
+introduced: '2025-03-26'
+introduced_by:
+- MMag. Dr. Michael Schilchegger
+identifiers:
+  eurovoc:
+  - Flüchtling
+  - Verfassung
+  topics:
+  - Außenpolitik
+  - Inneres und Recht
+  keywords:
+  - Bundesverfassung
+  - Flüchtlinge
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '14. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/14
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-08'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 8. Mai 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16535543.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/141/fname_1674688.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/141/fnameorig_1674688.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 141/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/141?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

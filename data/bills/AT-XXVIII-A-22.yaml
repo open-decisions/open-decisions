@@ -1,0 +1,77 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/22
+type: members_bill
+title: Energiekostenbegrenzungsgesetz 2025
+citation: 22/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/22
+introduced: '2025-01-22'
+introduced_by:
+- Alois Schroll
+identifiers:
+  eurovoc:
+  - Elektrizitätsindustrie
+  - Energie
+  - Preis
+  - Steuerwesen
+  - Umwelt
+  - Verfassung
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Klima, Umwelt und Energie
+  - Wirtschaft
+  keywords:
+  - Bundesverfassung
+  - Energiewirtschaft
+  - Elektrizität
+  - Preise
+  - Steuern und Gebühren
+  - Umweltschutz
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: '7. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/7
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: '8. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/8
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/22/fname_1666579.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/22/fnameorig_1666579.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/22/fname_1666603.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 22/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/22?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

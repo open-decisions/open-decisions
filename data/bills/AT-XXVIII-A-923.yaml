@@ -1,0 +1,71 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/923
+type: members_bill
+title: Konversionsmaßnahmen-Schutz-Gesetz - Konv-Sch-G
+citation: 923/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/923
+introduced: '2026-06-10'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Frau
+  - Gesundheit
+  - Gleichbehandlung
+  topics:
+  - Frauen und Gleichbehandlung
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+  - Frauen und Gleichbehandlung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, das Bundesministerium
+    für Justiz und das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Vorgesehen für den Ausschuss für Menschenrechte und Volksanwaltschaft
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-MV/1/00943
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '81. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/81
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '82. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Menschenrechte und Volksanwaltschaft'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/82
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Ausschuss für Menschenrechte und Volksanwaltschaft: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung
+    vom 23. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-MV/1/00943/TO_16898420.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/923/fname_1764050.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/923/fnameorig_1764050.html
+  comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 923/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/923?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,279 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/68
+type: government_bill
+title: Bundesfinanzgesetz 2026 – BFG 2026 samt Anlagen
+citation: 68 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/68
+introduced: '2025-05-13'
+introduced_by: []
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/23
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Haushaltsplan
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Bundeshaushalt I. Bundesfinanzgesetze
+  - Erste Lesungen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 23/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_23
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Bundesfinanzgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: '21. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/21
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-14'
+  text: '23. Sitzung des Nationalrates: Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-03'
+  text: 'Budgetausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung vom 3. Juni 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520383.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-04'
+  text: 'Budgetausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520396.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-05'
+  text: 'Budgetausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520397.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-06'
+  text: 'Budgetausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520398.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-10'
+  text: 'Budgetausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520399.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-11'
+  text: 'Budgetausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520400.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-11'
+  text: 'Budgetausschuss: Bericht 109 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/109
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Auf der Tagesordnung der 32. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/32/TO_16575966.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Beschluss im Nationalrat 34/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/34
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '32. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (teils einstimmig,
+    teils mehrstimmig (dafür: V, S, N))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '32. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-20'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-18'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-20'
+  text: 'Einlangen im Bundesrat (Frist: 15.08.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung : Bekanntgabe des Gesetzesbeschlusses'
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979
+vote:
+  date: '2025-06-18'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/68/fname_1685162.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/68/fnameorig_1685162.html
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/68/imfname_1685303.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 68 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/68?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

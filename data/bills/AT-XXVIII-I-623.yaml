@@ -1,0 +1,137 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/623
+type: government_bill
+title: IFI-Beitragsgesetz 2026
+citation: 623 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/623
+introduced: '2026-09-22'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eurovoc:
+  - Finanzwesen
+  - Politik der Zusammenarbeit
+  - Umwelt
+  topics:
+  - Außenpolitik
+  - Budget und Finanzen
+  - Klima, Umwelt und Energie
+  keywords:
+  - Kreditwesen
+  - Entwicklungszusammenarbeit
+  - Umweltschutz
+status:
+  stage: passed_first_chamber
+  source_status: '5'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/133
+  title: IFI Beitragsgesetz 2026
+  citation: 133/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-22'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-22'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-29'
+  text: 'Finanzausschuss: auf Tagesordnung in der 14. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FI/1/00921/TO_16949153.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-29'
+  text: 'Finanzausschuss: Bericht 636 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/636
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Auf der Tagesordnung der 101. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/101/TO_16770188.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Beschluss im Nationalrat 222/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/222
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-14'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: 'Einlangen im Bundesrat (Frist: 10.12.2026)'
+vote:
+  date: '2026-10-14'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 17
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/623/fname_1779272.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/623/fnameorig_1779272.html
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/623/fname_1779274.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/623/imfname_1779275.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 623 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/623?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

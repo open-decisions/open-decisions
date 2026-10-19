@@ -1,0 +1,112 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/179
+type: members_bill
+title: Asylstopp-Novelle 2025
+citation: 179/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/179
+introduced: '2025-03-27'
+introduced_by:
+- MMag. Dr. Michael Schilchegger
+identifiers:
+  eurovoc:
+  - Flüchtling
+  - öffentliche Sicherheit
+  topics:
+  - Außenpolitik
+  - Inneres und Recht
+  keywords:
+  - Flüchtlinge
+  - Sicherheitswesen
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Vorgesehen für den Ausschuss für innere Angelegenheiten
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-IA/1/00924
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '15. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/15
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '16. Sitzung des Nationalrates : Zuweisung an den Ausschuss für innere Angelegenheiten'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/16
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-22'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 22. April
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16505582.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: 'Verlangen der Abgeordneten Mag. Gernot Darmann , MMag. Dr. Michael Schilchegger , Markus Leinfellner , Werner Herbert
+    und Reinhold Maier auf Berichterstattung binnen eines Jahres nach Zuweisung durch den Ausschuss für innere Angelegenheiten
+    (Frist: 27.03.2026)'
+  url: https://www.parlament.gv.at/person/35469
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '36. Sitzung des Nationalrates : Mitteilung des Einlangens des Verlangens auf Berichterstattung binnen eines Jahres
+    nach Zuweisung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/36
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-18'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung vom 18. September
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16657558.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-15'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 11. Sitzung des Ausschusses Wiederaufnahme der am 18.
+    September 2025 vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16762782.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-15'
+  text: 'Ausschuss für innere Angelegenheiten: Bericht 375 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/375
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Auf der Tagesordnung der 63. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/63/TO_16604143.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/179/fname_1674722.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/179/fnameorig_1674722.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 179/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/179?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

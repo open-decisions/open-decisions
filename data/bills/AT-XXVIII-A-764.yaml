@@ -1,0 +1,210 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/764
+type: members_bill
+title: Preisgesetz, Energie-Control-Gesetz, Änderung
+citation: 764/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/764
+introduced: '2026-03-23'
+introduced_by:
+- Laurenz Pöttinger
+- Alois Schroll
+- Dipl.-Ing. Karin Doppelbauer
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/13
+  eurovoc:
+  - Elektrizitätsindustrie
+  - Energie
+  - namentliche Abstimmung
+  - Preis
+  - Verfassung
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Klima, Umwelt und Energie
+  - Wirtschaft
+  keywords:
+  - Abstimmungen, namentliche
+  - Bundesverfassung
+  - Elektrizität
+  - Energiewirtschaft
+  - Preise
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 13/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_13
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: '69. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/69
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: '70. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/70
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-24'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16823132.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-24'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 439 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/439
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Auf der Tagesordnung der 71. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/71/TO_16604173.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Leonore Gewessler, BA , Kolleginnen
+    und Kollegen betreffend Konkreter Ausstiegsplan aus der fossilen Abhängigkeit Österreichs (173/UEA) abgelehnt Dafür: GRÜNE,
+    dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5653
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Laurenz Pöttinger , Alois Schroll , Dipl.-Ing.
+    Karin Doppelbauer , Mag. Dr. Jakob Schwarz, BA , Kolleginnen und Kollegen ( AA-60 ) angenommen Dafür: ÖVP, SPÖ, NEOS,
+    GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/5486
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Namentliche Abstimmung (abgegebene
+    Stimmen: 177; davon Ja-Stimmen: 123, Nein-Stimmen: 54)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Beschluss im Nationalrat 140/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/140
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-26'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11778/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11778
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-26'
+  text: 'Einlangen im Bundesrat (Frist: 21.05.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-26'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-26'
+  text: Zuweisung an den Wirtschaftsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WR-BR/1/00312
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: 'Wirtschaftsausschuss des Bundesrates: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WR-BR/1/00312/TO_16834169.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: 'Wirtschaftsausschuss des Bundesrates: Bericht 11781/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11781
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Auf der Tagesordnung der 988. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/988
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: '988. Sitzung: Berichterstattung durch den Bundesrat Ferdinand Tiefnig'
+  url: https://www.parlament.gv.at/person/18446
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: '988. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: '988. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: '988. Sitzung: Antrag, Zustimmung zu Verfassungsgesetzen bzw. -bestimmungen, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS,
+    dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: '988. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Michael Bernard , Kolleginnen und Kollegen betreffend
+    Freigabe der strategischen Energiereserven zur Preissenkung für Endkunden samt verpflichtender Wiedereinspeicherung durch
+    den Lieferanten (799/UEA-BR/2026) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, GRÜNE, NEOS'
+  url: https://www.parlament.gv.at/person/3460
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: '988. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Claudia Hauschildt-Buschberger , Kolleginnen und
+    Kollegen betreffend Konkreter Ausstiegsplan aus der fossilen Abhängigkeit Österreichs (800/UEA-BR/2026) abgelehnt Dafür:
+    GRÜNE, dagegen: ÖVP, SPÖ, FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5932
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Beschluss im Bundesrat 140/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/140
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/764/fname_1746816.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/764/fnameorig_1746816.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/764/fname_1746911.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 764/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/764?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

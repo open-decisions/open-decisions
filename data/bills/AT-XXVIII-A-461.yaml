@@ -1,0 +1,71 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/461
+type: members_bill
+title: Gesundheits- und Krankenpflegegesetz, Änderung
+citation: 461/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/461
+introduced: '2025-09-24'
+introduced_by:
+- Ralph Schallmeiner
+identifiers:
+  eurovoc:
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 8. Oktober
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16595100.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-18'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 6. Sitzung des Ausschusses In der Sitzung vom 18. Februar
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16732546.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/461/fname_1712353.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/461/fnameorig_1712353.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 461/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/461?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,188 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/369
+type: government_bill
+title: Bildungsinvestitionsgesetz, Änderung
+citation: 369 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/369
+introduced: '2025-12-10'
+introduced_by:
+- Christoph Wiederkehr, MA (Bundesministerium für Bildung)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/3
+  eurovoc:
+  - Bildung
+  - Organisation des Unterrichtswesens
+  topics:
+  - Bildung
+  keywords:
+  - Bildungswesen VIII. Sonstiges
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 3/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_3
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: Vorgesehen für den Bildungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BI/1/00942
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: '56. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/56
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates : Zuweisung an den Bildungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/57
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-14'
+  text: 'Bildungsausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BI/1/00942/TO_16757853.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-14'
+  text: 'Bildungsausschuss: Bericht 373 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/373
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Auf der Tagesordnung der 63. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/63/TO_16604143.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Sigrid Maurer, BA , Kolleginnen
+    und Kollegen betreffend Schule aus einer Hand - Reform der Freizeit- und Stützpädagogik (162/UEA) abgelehnt Dafür: GRÜNE,
+    dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/83101
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Beschluss im Nationalrat 129/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/129
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-23'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: 'Einlangen im Bundesrat (Frist: 20.03.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: Zuweisung an den Unterrichtsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-UN-BR/1/00865
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-02-03'
+  text: 'Unterrichtsausschuss des Bundesrates: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-UN-BR/1/00865/TO_16775218.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-02-03'
+  text: 'Unterrichtsausschuss des Bundesrates: Bericht 11766/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11766
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: Auf der Tagesordnung der 986. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: '986. Sitzung: Berichterstattung durch die Bundesrätin Margit Göll'
+  url: https://www.parlament.gv.at/person/23966
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: '986. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: '986. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: 'Unselbständiger Entschließungsantrag der Bundesräte Simone Jagl , Kolleginnen und Kollegen betreffend Schule aus
+    einer Hand - Reform der Freizeit- und Stützpädagogik (796/UEA-BR/2026) abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ, FPÖ,
+    NEOS'
+  url: https://www.parlament.gv.at/person/23967
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: Beschluss im Bundesrat 129/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/129
+vote:
+  date: '2026-01-21'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/369/fname_1728826.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/369/fnameorig_1728826.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/369/fname_1728829.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/369/fname_1728828.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/369/imfname_1728830.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 369 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/369?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

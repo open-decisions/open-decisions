@@ -1,0 +1,72 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/296
+type: members_bill
+title: Konversionsmaßnahmen-Schutz-Gesetz – Konv-Sch-G
+citation: 296/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/296
+introduced: '2025-05-22'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Erste Lesungen
+  - Gesundheit
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz und das Bundesministerium
+    für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 16.10.2025)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/27
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: '39. Sitzung des Nationalrates: Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung vom 30. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926462.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/296/fname_1688038.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/296/fnameorig_1688038.html
+  comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 296/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/296?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

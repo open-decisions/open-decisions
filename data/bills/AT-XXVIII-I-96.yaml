@@ -1,0 +1,182 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/96
+type: government_bill
+title: Universitätsgesetz, Bildungsdokumentationsgesetz, Änderung
+citation: 96 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/96
+introduced: '2025-05-21'
+introduced_by:
+- Eva-Maria Holzleitner, BSc (Bundesministerium für Frauen, Wissenschaft und Forschung)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/28
+  eurovoc:
+  - Hochschulausbildung
+  - Statistik
+  topics:
+  - Bildung
+  - Innovation, Technologie und Forschung
+  keywords:
+  - Bildungswesen IV. Universitäten und Hochschulen
+  - Statistik
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 28/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_28
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/14
+  title: Universitätsgesetz, Bildungsdokumentationsgesetz, Änderung
+  citation: 14/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-21'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-21'
+  text: Vorgesehen für den Ausschuss für Wissenschaft, Forschung und Digitalisierung
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-21'
+  text: '26. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/26
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wissenschaft, Forschung und Digitalisierung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/27
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-04'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WI/1/00941/TO_16558575.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-04'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: Bericht 103 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/103
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 30. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/30/TO_16447526.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Beschluss im Nationalrat 31/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/31
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: 'Einlangen im Bundesrat (Frist: 12.08.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: Zuweisung an den Ausschuss für Wissenschaft und Forschung des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WF-BR/1/00270
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-06-24'
+  text: 'Ausschuss für Wissenschaft und Forschung des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WF-BR/1/00270/TO_16583440.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-06-24'
+  text: 'Ausschuss für Wissenschaft und Forschung des Bundesrates: Bericht 11648/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11648
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: Auf der Tagesordnung der 979. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Berichterstattung durch den Bundesrat Sebastian Forstner'
+  url: https://www.parlament.gv.at/person/31905
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ (dafür:
+    V, S, A (G,N); dagegen: F)'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: Beschluss im Bundesrat 31/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/31
+vote:
+  date: '2025-06-16'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/96/fname_1687372.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/96/fnameorig_1687372.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/96/fname_1687375.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/96/fname_1687374.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/96/imfname_1687376.pdf
+  - https://www.parlament.gv.at/dokument/XXVIII/I/96/imfname_1687377.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 96 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/96?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

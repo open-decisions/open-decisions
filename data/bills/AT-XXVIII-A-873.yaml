@@ -1,0 +1,74 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/873
+type: members_bill
+title: Arbeitsverfassungsgesetz, Arbeitslosenversicherungsgesetz, Änderung
+citation: 873/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/873
+introduced: '2026-05-20'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Arbeitslosenversicherung
+  - Arbeitsrecht
+  topics:
+  - Arbeit
+  - Soziales
+  keywords:
+  - Arbeitsrecht I. österreichisches
+  - Sozialversicherung V. Arbeitslosenversicherung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/77
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '78. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/78
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-02'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung vom 2. Juni
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16732548.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-09'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 10. Sitzung des Ausschusses In der Sitzung vom 9. September
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16904239.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/873/fname_1758622.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/873/fnameorig_1758622.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 873/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/873?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

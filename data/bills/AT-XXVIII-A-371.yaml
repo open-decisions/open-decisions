@@ -1,0 +1,117 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/371
+type: members_bill
+title: Feuerwehr-Entbürokratisierungsgesetz
+citation: 371/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/371
+introduced: '2025-07-09'
+introduced_by:
+- Ing. Harald Thau
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Steuerwesen
+  - Straßenverkehr
+  - Zivilschutz
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Verkehr und Infrastruktur
+  keywords:
+  - Erste Lesungen
+  - Zivilschutz
+  - Steuern und Gebühren
+  - Verkehr I. Straßenverkehr
+status:
+  stage: committee
+  source_status: '4'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Übermittlung an das Bundesministerium für Innovation, Mobilität und Infrastruktur
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 03.12.2025)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates: Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-06'
+  text: 'Ausschuss für Verkehr und Mobilität: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VE/1/00939/TO_16626395.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-06'
+  text: 'Ausschuss für Verkehr und Mobilität: Bericht 287 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/287
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Auf der Tagesordnung der 52. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/52/TO_16447538.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates: Antrag, den Ausschussbericht zur Kenntnis zu nehmen, angenommen Dafür: FPÖ, ÖVP, SPÖ,
+    NEOS, GRÜNE, dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Neu zugewiesen an den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Finanzausschuss : auf Tagesordnung in der 6. Sitzung des Ausschusses In der Sitzung vom 2. Dezember 2025 vertagt'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: 'Verlangen auf Berichterstattung binnen eines Jahres nach Zuweisung durch den Finanzausschuss (Frist: 20.11.2026)'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '58. Sitzung des Nationalrates : Mitteilung des Einlangens des Verlangens auf Berichterstattung binnen eines Jahres
+    nach Zuweisung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/58
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Finanzausschuss: auf Tagesordnung in der 12. Sitzung des Ausschusses In der Sitzung vom 23. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FI/1/00921/TO_16707534.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/371/fname_1702347.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/371/fnameorig_1702347.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/371/fname_1703348.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 371/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/371?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,191 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/132
+type: government_bill
+title: Alternative Investmentfonds Manager-Gesetz, Investmentfondsgesetz u.a., Änderung
+citation: 132 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/132
+introduced: '2025-06-18'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/49
+  eurovoc:
+  - Finanzwesen
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Kreditwesen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 49/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_49
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/9
+  title: Alternative Investmentfonds Manager-Gesetz, Investmentfondsgesetz u.a., Änderung
+  citation: 9/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '33. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '34. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/34
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-24'
+  text: 'Finanzausschuss: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FI/1/00921/TO_16588551.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-24'
+  text: 'Finanzausschuss: Bericht 139 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/139
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Auf der Tagesordnung der 35. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/35/TO_16447529.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Nina Tomaselli , Kolleginnen
+    und Kollegen betreffend gesetzliche Implementierung der KIM-VO-Regeln (95/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP,
+    SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5678
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Beschluss im Nationalrat 38/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/38
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-10'
+  text: 'Einlangen im Bundesrat (Frist: 04.09.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-10'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-10'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Finanzausschuss des Bundesrates: Bericht 11680/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11680
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_16617287.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Auf der Tagesordnung der 980. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Berichterstattung durch den Bundesrat Dr. Manfred Mertel'
+  url: https://www.parlament.gv.at/person/24112
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen
+    betreffend gesetzliche Implementierung der KIM-VO-Regeln (762/UEA-BR/2025) abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ,
+    FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Beschluss im Bundesrat 38/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/38
+vote:
+  date: '2025-07-09'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/132/fname_1693624.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/132/fnameorig_1693624.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/132/imfname_1693627.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/132/fname_1693626.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/132/imfname_1693628.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 132 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/132?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

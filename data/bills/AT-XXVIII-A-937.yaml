@@ -1,0 +1,103 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/937
+type: members_bill
+title: Allgemeine Sozialversicherungsgesetz, Änderung
+citation: 937/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/937
+introduced: '2026-06-11'
+introduced_by:
+- August Wöginger
+- Josef Muchitsch
+- Johannes Gasser, BA Bakk. MSc
+identifiers:
+  eurovoc:
+  - soziale Sicherheit
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  - Soziales
+  keywords:
+  - Bundesverfassung
+  - Sozialversicherung I. Allgemeine Sozialversicherung
+status:
+  stage: committee
+  source_status: '3'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '84. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/84
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16732549.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: 'Ausschuss für Arbeit und Soziales: Bericht 575 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/575
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Antrag der Abgeordneten Josef Muchitsch , Kolleginnen und Kollegen auf Rückverweisung
+    an den Ausschuss für Arbeit und Soziales ( 922/GO ) angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen: -'
+  url: https://www.parlament.gv.at/person/35497
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: 'Zurückverwiesen an den Ausschuss für Arbeit und Soziales Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen: -'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/937/fname_1764286.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/937/fnameorig_1764286.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/937/fname_1764496.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 937/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/937?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

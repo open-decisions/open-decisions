@@ -1,0 +1,84 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/188
+type: members_bill
+title: Ehe- und Partnerschaftsrechts-Änderungsgesetz 2025 – EPaRÄG 2025
+citation: 188/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/188
+introduced: '2025-03-27'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Bürgerliches Recht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '15. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/15
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '16. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/16
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-01'
+  text: 'Justizausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses In der Sitzung vom 1. April 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16510728.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-24'
+  text: 'Justizausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses Wiederaufnahme der am 1. April 2025 vertagten
+    Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16588613.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-24'
+  text: 'Justizausschuss: Miterledigt mit Bericht 147 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/147
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Auf der Tagesordnung der 37. Sitzung des Nationalrates Miterledigung
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/37
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Wortmeldungen in der Debatte
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/188/fname_1674704.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/188/fnameorig_1674704.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 188/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/188?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

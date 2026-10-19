@@ -1,0 +1,89 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/762
+type: members_bill
+title: Energiekosten Entlastungspaket - Halbierung der MÖST und Abschaffung der C02-Bepreisung
+citation: 762/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/762
+introduced: '2026-03-23'
+introduced_by:
+- Herbert Kickl
+identifiers:
+  eurovoc:
+  - Energie
+  - Steuerwesen
+  - Umwelt
+  topics:
+  - Budget und Finanzen
+  - Klima, Umwelt und Energie
+  keywords:
+  - Steuern und Gebühren
+  - Energiewirtschaft
+  - Umweltschutz
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: '69. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/69
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-23'
+  text: '70. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/70
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-24'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16823132.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-24'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 441 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/441
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Auf der Tagesordnung der 71. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/71/TO_16604173.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/762/fname_1746782.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/762/fnameorig_1746782.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/762/fname_1747007.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 762/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/762?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

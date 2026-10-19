@@ -1,0 +1,55 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/153
+type: members_bill
+title: Bundeshaushaltsgesetz 2013, Änderung
+citation: 153/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/153
+introduced: '2025-03-26'
+introduced_by:
+- Leonore Gewessler, BA
+identifiers:
+  eurovoc:
+  - Öffentliche Finanzen und Haushaltspolitik
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Bundeshaushalt III. Sonstiges
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '14. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/14
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/153/fname_1673952.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/153/fnameorig_1673952.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 153/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/153?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,177 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/475
+type: government_bill
+title: Organtransplantationsgesetz, Änderung
+citation: 475 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/475
+introduced: '2026-04-22'
+introduced_by:
+- Korinna Schumann (Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/42
+  eurovoc:
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 42/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_42
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/72
+  title: Organtransplantationsgesetz, Änderung
+  citation: 72/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-22'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-22'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: '75. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/75
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-24'
+  text: '76. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/76
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-28'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765623.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-28'
+  text: 'Gesundheitsausschuss: Bericht 478 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/478
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Auf der Tagesordnung der 77. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/77/TO_16604237.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Beschluss im Nationalrat 162/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/162
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-21'
+  text: 'Einlangen im Bundesrat (Frist: 16.07.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-21'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-05-21'
+  text: Zuweisung an den Gesundheitsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-GH-BR/1/00064
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-01'
+  text: 'Gesundheitsausschuss des Bundesrates: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-GH-BR/1/00064/TO_16890178.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-01'
+  text: 'Gesundheitsausschuss des Bundesrates: Bericht 11818/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11818
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Auf der Tagesordnung der 991. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/991
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Berichterstattung durch den Bundesrat Michael Wanner'
+  url: https://www.parlament.gv.at/person/3441
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Beschluss im Bundesrat 162/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/162
+vote:
+  date: '2026-05-20'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/475/fname_1753547.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/475/fnameorig_1753547.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/475/fname_1753550.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/475/fname_1753549.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/475/imfname_1753551.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 475 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/475?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

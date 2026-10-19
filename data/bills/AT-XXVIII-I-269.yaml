@@ -1,0 +1,177 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/269
+type: government_bill
+title: 5. Mietrechtliches Inflationslinderungsgesetz – 5. MILG
+citation: 269 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/269
+introduced: '2025-10-22'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/114
+  eurovoc:
+  - Wohnungspolitik
+  topics:
+  - Soziales
+  keywords:
+  - Wohnungswesen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 114/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_114
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/50
+  title: 5. Mietrechtliches Inflationslinderungsgesetz – 5. MILG
+  citation: 50/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-22'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-22'
+  text: '49. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/49
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-23'
+  text: Vorgesehen für den Ausschuss für Bauten und Wohnen
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BA/1/00919
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '50. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Bauten und Wohnen'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/50
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Ausschuss für Bauten und Wohnen: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BA/1/00919/TO_16734294.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Ausschuss für Bauten und Wohnen: Bericht 337 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/337
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Auf der Tagesordnung der 57. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/57/TO_16447541.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Beschluss im Nationalrat 111/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/111
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: 'Einlangen im Bundesrat (Frist: 06.02.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_16748170.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Justizausschuss des Bundesrates: Bericht 11745/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11745
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Auf der Tagesordnung der 984. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/984
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Berichterstattung durch die Bundesrätin Verena Schweiger, BA MA MA'
+  url: https://www.parlament.gv.at/person/33455
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Beschluss im Bundesrat 111/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/111
+vote:
+  date: '2025-12-11'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/269/fname_1718387.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/269/fnameorig_1718387.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/269/fname_1718390.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/269/fname_1718389.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/269/imfname_1718391.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 269 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/269?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,61 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/953
+type: members_bill
+title: Ehe- und Partnerschaftsrechts-Änderungsgesetz 2026 – EPaRÄG 2026
+citation: 953/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/953
+introduced: '2026-06-11'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Bürgerliches Recht
+  - Personenstand
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+  - Personenstandsrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '84. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/84
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/953/fname_1764334.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/953/fnameorig_1764334.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 953/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/953?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,77 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/87
+type: government_bill
+title: Budgetsanierungsmaßnahmengesetz 2025 Teil II
+citation: 87 und Zu 87 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/87
+introduced: '2025-05-13'
+introduced_by:
+- MMag. Barbara Eibinger-Miedl (Bundesministerium für Finanzen)
+identifiers:
+  eurovoc:
+  - Beschäftigung und Arbeitsbedingungen
+  - öffentliche Verwaltung
+  - öffentlicher Dienst
+  - soziale Sicherheit
+  - Steuerwesen
+  - Verfassungsgerichtsbarkeit
+  - Verwaltungsgerichtsbarkeit
+  topics:
+  - Arbeit
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Soziales
+  keywords:
+  - Steuern und Gebühren
+  - Arbeitsmarkt
+  - Öffentlicher Dienst
+  - Sozialversicherung I. Allgemeine Sozialversicherung
+  - Sozialversicherung II. Gewerbliche Sozialversicherung
+  - Sozialversicherung III. Landwirtschaftliche Sozialversicherung
+  - Verfassungs- und Verwaltungsgerichtsbarkeit
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Zurückziehung der Vorlage ( Zu 87 d.B. )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/87/U1
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: '22. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/22
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/87/fname_1685672.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/87/fnameorig_1685672.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685675.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/87/fname_1685674.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685676.pdf
+  - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685677.pdf
+  - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685678.pdf
+  - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685679.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 87 und Zu 87 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/87?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

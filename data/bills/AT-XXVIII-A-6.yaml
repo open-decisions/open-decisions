@@ -1,0 +1,92 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/6
+type: members_bill
+title: Strafprozessrechtsänderungsgesetz 2024
+citation: 6/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/6
+introduced: '2024-10-24'
+introduced_by:
+- Mag. Harald Stefan
+identifiers:
+  eurovoc:
+  - Strafrecht
+  - Verwaltungsrecht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Strafrecht
+  - Verwaltungsverfahren
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Übermittlung an das Bundesministerium für Justiz und das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: '1. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/1
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: '2. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/2
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-11-14'
+  text: 'Budgetausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses In der Sitzung vom 14. November 2024 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16438060.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-12-09'
+  text: 'Budgetausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses Wiederaufnahme der am 14. November 2024 vertagten
+    Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16447805.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-12-09'
+  text: 'Budgetausschuss: Bericht 15 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/15
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: Auf der Tagesordnung der 5. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/5/TO_16432632.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: '5. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/6/fname_1658654.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/6/fnameorig_1658654.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/6/fname_1659289.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 6/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/6?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

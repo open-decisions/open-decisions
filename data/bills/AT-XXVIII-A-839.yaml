@@ -1,0 +1,62 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/839
+type: members_bill
+title: ORF-Transparenz-Novelle
+citation: 839/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/839
+introduced: '2026-04-23'
+introduced_by:
+- Christian Hafenecker, MA
+identifiers:
+  eurovoc:
+  - Fernsehen
+  - Gesetzgebungsverfahren
+  - Hörfunk
+  topics:
+  - Information und Medien
+  keywords:
+  - Erste Lesungen
+  - Rundfunk und Fernsehen
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 16.09.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-24'
+  text: '75. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/75
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/839/fname_1754234.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/839/fnameorig_1754234.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 839/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/839?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

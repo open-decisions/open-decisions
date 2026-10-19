@@ -1,0 +1,146 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1008
+type: members_bill
+title: Verwertungsgesellschaftengesetz, Änderung
+citation: 1008/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1008
+introduced: '2026-09-23'
+introduced_by:
+- MMag. Jakob Grüner, LL.M.
+- Mag. Selma Yildirim
+- Mag. Gertraud Auinger-Oberzaucher
+identifiers:
+  eurovoc:
+  - Bürgerliches Recht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+status:
+  stage: passed_first_chamber
+  source_status: '4'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Übermittlung an das Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport und das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 10. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926463.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-30'
+  text: 'Justizausschuss: Bericht 641 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/641
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Auf der Tagesordnung der 101. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/101/TO_16770188.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Beschluss im Nationalrat 215/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/215
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: 'Einlangen im Bundesrat (Frist: 10.12.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_17007697.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Auf der Tagesordnung der 997. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+vote:
+  date: '2026-10-14'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 17
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1008/fname_1779837.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1008/fnameorig_1779837.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1008/fname_1780429.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1008/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1008?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

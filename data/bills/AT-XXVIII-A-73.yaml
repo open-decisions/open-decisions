@@ -1,0 +1,234 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/73
+type: members_bill
+title: Budgetsanierungsmaßnahmengesetz 2025 – BSMG 2025
+citation: 73/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/73
+introduced: '2025-02-26'
+introduced_by:
+- Mag. Andreas Hanger
+- Kai Jan Krainer
+- Dipl.-Ing. Karin Doppelbauer
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/7
+  eurovoc:
+  - Arbeitslosenversicherung
+  - Arbeitsrecht
+  - Energie
+  - Finanzwesen
+  - Steuerwesen
+  topics:
+  - Arbeit
+  - Budget und Finanzen
+  - Klima, Umwelt und Energie
+  - Soziales
+  keywords:
+  - Steuern und Gebühren
+  - Arbeitsrecht I. österreichisches
+  - Energiewirtschaft
+  - Kreditwesen
+  - Sozialversicherung V. Arbeitslosenversicherung
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 7/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_7
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '9. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/9
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '10. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/10
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-06'
+  text: 'Budgetausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16491193.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-06'
+  text: 'Budgetausschuss: Bericht 34 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/34
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Auf der Tagesordnung der 11. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/11/TO_16492284.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Dr. Jakob Schwarz, BA ,
+    Kolleginnen und Kollegen betreffend Sinnvoll sparen statt kopflos kürzen – Schluss mit klimaschädlichen Subventionen (18/UEA)
+    abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5677
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Leonore Gewessler, BA , Kolleginnen und Kollegen
+    ( AA-7 ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5653
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Andreas Hanger , Kai Jan Krainer , Dipl.-Ing.
+    Karin Doppelbauer , Kolleginnen und Kollegen ( AA-8 ) angenommen Getrennte Abstimmung (mit wechselnden Mehrheiten (dafür:
+    V, S, N bzw. V, S, N, G))'
+  url: https://www.parlament.gv.at/person/83148
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Markus Koza , Kolleginnen
+    und Kollegen betreffend zielsichere Reform der Bildungskarenz statt Abschaffung (19/UEA) abgelehnt Dafür: GRÜNE, dagegen:
+    FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5670
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (mehrstimmig (dafür:
+    V, S, N bzw. V, S, N, G))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Beschluss im Nationalrat 14/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/14
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-10'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-03-10'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11617/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11617
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-03-10'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-03-10'
+  text: 'Einlangen im Bundesrat (Frist: 05.05.2025)'
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-03-10'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-03-11'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_16495001.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-03-11'
+  text: 'Finanzausschuss des Bundesrates: Bericht 11621/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11621
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: Auf der Tagesordnung der 975. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/975
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung: Berichterstattung durch den Bundesrat Dr. Manfred Mertel'
+  url: https://www.parlament.gv.at/person/24112
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen mehrstimmig (dafür: V, S, tlw. A; dagegen: F, tlw.
+    A)'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Michael Bernard , Kolleginnen und Kollegen betreffend
+    Abschaffung der CO2-Steuer (744/UEA-BR/2025) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, OF'
+  url: https://www.parlament.gv.at/person/3460
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen
+    betreffend Sinnvoll sparen statt kopflos kürzen - Schluss mit klimaschädlichen Subventionen (745/UEA-BR/2025) abgelehnt'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Simone Jagl , Kolleginnen und Kollegen betreffend
+    zielsichere Reform der Bildungskarenz statt Abschaffung (746/UEA-BR/2025) abgelehnt'
+  url: https://www.parlament.gv.at/person/23967
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: Beschluss im Bundesrat 14/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/14
+vote:
+  date: '2025-03-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/73/fname_1670819.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/73/fnameorig_1670819.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/73/fname_1670961.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 73/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/73?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

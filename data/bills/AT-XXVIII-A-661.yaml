@@ -1,0 +1,90 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/661
+type: members_bill
+title: Bundessektenstellen-Abschaffungsgesetz
+citation: 661/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/661
+introduced: '2025-12-16'
+introduced_by:
+- Maximilian Weinzierl
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Religion
+  topics:
+  - Kultur
+  keywords:
+  - Erste Lesungen
+  - Religion
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: Übermittlung an Büro der Bundesministerin für Europa, Integration und Familie
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: Vorgesehen für den Ausschuss für Familie und Jugend
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FA/1/00920
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 16.03.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: '61. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/61
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Zuweisung an den Ausschuss für Familie und Jugend'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FA/1/00920
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-12'
+  text: 'Ausschuss für Familie und Jugend: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FA/1/00920/TO_16792260.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-12'
+  text: 'Ausschuss für Familie und Jugend: Bericht 419 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/419
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Auf der Tagesordnung der 71. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/71/TO_16604173.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/661/fname_1730531.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/661/fnameorig_1730531.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/661/fname_1731508.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 661/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/661?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

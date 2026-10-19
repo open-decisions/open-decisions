@@ -1,0 +1,177 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/526
+type: government_bill
+title: ESAP-Justizgesetz – ESAP-JuG
+citation: 526 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/526
+introduced: '2026-06-10'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/61
+  eurovoc:
+  - Bürgerliches Recht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 61/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_61
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/100
+  title: ESAP-Justizgesetz – ESAP-JuG
+  citation: 100/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '82. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/82
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926462.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Justizausschuss: Bericht 568 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/568
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Beschluss im Nationalrat 193/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/193
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: 'Einlangen im Bundesrat (Frist: 03.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Justizausschuss des Bundesrates: Bericht 11849/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11849
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_16941695.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: Auf der Tagesordnung der 993. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/993
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung: Berichterstattung durch die Bundesrätin Amelie Muthsam'
+  url: https://www.parlament.gv.at/person/32817
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: Beschluss im Bundesrat 193/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/193
+vote:
+  date: '2026-07-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/526/fname_1763535.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/526/fnameorig_1763535.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/526/fname_1763538.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/526/fname_1763537.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/526/imfname_1763539.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 526 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/526?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

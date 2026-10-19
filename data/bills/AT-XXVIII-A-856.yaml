@@ -1,0 +1,73 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/856
+type: members_bill
+title: Bundesverfassungsgesetz vom 26. Oktober 1955 über die Neutralität Österreichs
+citation: 856/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/856
+introduced: '2026-04-23'
+introduced_by:
+- MMag. Dr. Michael Schilchegger
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Neutralität
+  - Verfassung
+  topics:
+  - Außenpolitik
+  - Inneres und Recht
+  keywords:
+  - Bundesverfassung
+  - Erste Lesungen
+  - Neutralität
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 16.09.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-24'
+  text: '75. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/75
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates: Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/856/fname_1754233.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/856/fnameorig_1754233.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/856/fname_1755140.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 856/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/856?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

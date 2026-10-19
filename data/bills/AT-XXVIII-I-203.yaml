@@ -1,0 +1,179 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/203
+type: government_bill
+title: GewO-EU-Finanzberufsverordnungen Novelle 2025
+citation: 203 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/203
+introduced: '2025-09-17'
+introduced_by:
+- Mag. Dr. Wolfgang Hattmannsdorfer (Bundesministerium für Wirtschaft, Energie und Tourismus)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/66
+  eurovoc:
+  - Handel
+  - Industrie
+  - Unternehmen und Wettbewerb
+  topics:
+  - Wirtschaft
+  keywords:
+  - Handel, Gewerbe und Industrie
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 66/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_66
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/28
+  title: GewO-EU-Finanzberufsverordnungen Novelle 2025
+  citation: 28/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-17'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-19'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-01'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16674286.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-01'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 218 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/218
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Auf der Tagesordnung der 44. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/44/TO_16447534.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Beschluss im Nationalrat 72/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/72
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-10-16'
+  text: 'Einlangen im Bundesrat (Frist: 11.12.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-10-16'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-16'
+  text: Zuweisung an den Wirtschaftsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WR-BR/1/00312
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-21'
+  text: 'Wirtschaftsausschuss des Bundesrates: Bericht 11711/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11711
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-21'
+  text: 'Wirtschaftsausschuss des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WR-BR/1/00312/TO_16692742.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Auf der Tagesordnung der 982. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/982
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Berichterstattung durch die Bundesrätin Mag. Christine Schwarz-Fuchs'
+  url: https://www.parlament.gv.at/person/6534
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Beschluss im Bundesrat 72/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/72
+vote:
+  date: '2025-10-15'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/203/fname_1710738.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/203/fnameorig_1710738.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/203/imfname_1710741.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/203/fname_1710740.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/203/imfname_1710742.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 203 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/203?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

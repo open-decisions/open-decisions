@@ -4,96 +4,231 @@ lang: de-AT
 id: AT/XXVIII/I/69
 type: government_bill
 title: Budgetbegleitgesetz 2025
-citation: 69 d.B.
+citation: 69 und Zu 69 d.B.
 parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69
-introduced: "2025-05-13"
+introduced: '2025-05-13'
 introduced_by:
-  - Bundesregierung (Bundeskanzleramt)
+- Dr. Christian Stocker (Bundeskanzleramt)
 identifiers:
   eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/25
   eurovoc:
-    - Öffentliche Finanzen und Haushaltspolitik
+  - Öffentliche Finanzen und Haushaltspolitik
   topics:
-    - Budget und Finanzen
+  - Budget und Finanzen
   keywords:
-    - Bundeshaushalt III. Sonstiges
+  - Bundeshaushalt III. Sonstiges
 status:
   stage: published
-  source_status: "5"
-  gazette: BGBl. I Nr. 25/2025
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 25/2025
   gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_25
 pre_parliamentary:
-  - citation: 15/ME
-    title: Budgetbegleitgesetz 2025 – BBG 2025 (Ministerialentwurf, Sozialversicherung und Dienstrecht)
-    url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/15
-  - citation: 16/ME
-    title: Einkommensteuergesetz, Stiftungseingangssteuergesetz u.a., Änderung (Ministerialentwurf)
-    url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/16
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/15
+  title: Budgetbegleitgesetz 2025 – BBG 2025
+  citation: 15/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/16
+  title: Einkommensteuergesetz, Stiftungseingangssteuergesetz  u.a., Änderung
+  citation: 16/ME
 phases:
-  - phase: introduced
-    chamber: Nationalrat
-    date: "2025-05-13"
-    text: Einlangen im Nationalrat, 22. Sitzung
-    url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/22
-  - phase: committee
-    chamber: Nationalrat
-    date: "2025-05-14"
-    text: Zuweisung an den Budgetausschuss
-    url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
-  - phase: plenary
-    chamber: Nationalrat
-    date: "2025-06-16"
-    text: 30. Sitzung des Nationalrates, Beschluss in dritter Lesung
-    url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/30
-  - phase: second_chamber_introduced
-    chamber: Bundesrat
-    date: "2025-06-17"
-    text: Einlangen im Bundesrat (Frist 12.08.2025)
-    url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11643
-  - phase: second_chamber_committee
-    chamber: Bundesrat
-    date: "2025-06-24"
-    text: Finanzausschuss des Bundesrates, 4. Sitzung
-    url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
-  - phase: second_chamber_plenary
-    chamber: Bundesrat
-    date: "2025-06-26"
-    text: 979. Sitzung des Bundesrates, kein Einspruch
-    url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979
-  - phase: published
-    date: "2025-06-27"
-    text: Kundmachung BGBl. I Nr. 25/2025 (Datum aus RIS prüfen)
-    url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_25
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: '22. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/22
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-14'
+  text: '23. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/23
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-03'
+  text: 'Budgetausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16520392.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-03'
+  text: Änderung der Vorlage ( Zu 69 d.B. )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69/U1
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-03'
+  text: 'Budgetausschuss: Bericht 100 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/100
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-06'
+  text: 'Budgetausschuss: Selbständiger Antrag betreffend Normverbrauchsabgabegesetz, Bundesimmobiliengesetz, Reisegebührenvorschrift
+    1955 und Bundesgesetz über die Förderung von Handwerkerleistungen (101 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/101
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Auf der Tagesordnung der 30. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/30/TO_16447526.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Dr. Jakob Schwarz, BA , Kolleginnen und Kollegen
+    ( AA-16 ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5677
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Markus Koza , Kolleginnen
+    und Kollegen betreffend Bonus-Malus-System zur Förderung der Beschäftigung von Menschen in den letzten zehn Jahren vor
+    Erreichung des gesetzlichen Pensionsantrittsalters (53/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5670
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Ralph Schallmeiner , Kolleginnen
+    und Kollegen betreffend Rücknahme der geplanten Änderungen im Erwachsenenschutzrecht und Wiedereinsetzung der Expert:innengruppen
+    zum Thema Erwachsenenschutz (54/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5676
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Andreas Ottenschläger , Kai Jan Krainer , MMag.
+    Markus Hofer , Kolleginnen und Kollegen ( AA-17 ) angenommen Getrennte Abstimmung (mehrstimmig (dafür: V, S, N, G bzw.
+    V, S, N))'
+  url: https://www.parlament.gv.at/person/83150
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (mehrstimmig (dafür:
+    V, S, N, G bzw. V, S, N))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Beschluss im Nationalrat 28/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/28
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: 'Einlangen im Bundesrat (Frist: 12.08.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11643/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11643
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-06-17'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-06-24'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_16583419.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-06-24'
+  text: 'Finanzausschuss des Bundesrates: Bericht 11645/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11645
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: Auf der Tagesordnung der 979. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/979
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Berichterstattung durch den Bundesrat Dr. Manfred Mertel'
+  url: https://www.parlament.gv.at/person/24112
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: '979. Sitzung: Antrag, Zustimmung zur Frist für die Erlassung der Ausführungsgesetze, angenommen Dafür: ÖVP, SPÖ,
+    NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-06-26'
+  text: Beschluss im Bundesrat 28/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/28
 vote:
-  date: "2025-06-16"
-  session: 30. Sitzung des Nationalrates, XXVIII. GP
+  date: '2025-06-16'
   result:
-    - { party: ÖVP, wikidata: Q186867, seats: 51, in_favor: true }
-    - { party: SPÖ, wikidata: Q179111, seats: 41, in_favor: true }
-    - { party: NEOS, wikidata: Q13564543, seats: 18, in_favor: true }
-    - { party: FPÖ, wikidata: Q131692, seats: 57, in_favor: false }
-    - { party: GRÜNE, wikidata: Q193178, seats: 16, in_favor: false }
-  note: Ergebnis der dritten Lesung laut Feld vote im Detail-JSON der Parlaments-API
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
 documents:
-  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/69/fname_1685631.pdf
-  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685633.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685634.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685633.pdf
   impact_assessment_pdf:
-    - https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
 budget_office_analyses:
-  - title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen
-    date: "2025-05-19"
-    url: https://www.parlament.gv.at/fachinfos/budgetdienst/Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen
-    pdf_url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
+- title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen
+  date: '2025-05-19'
+  url: https://www.parlament.gv.at/fachinfos/budgetdienst/Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen
+  pdf_url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
 measures:
-  - at-2025-klimabonus
+- at-2025-klimabonus
 sources:
-  - id: parl-detail
-    role: law_text
-    institution: Parlament Österreich
-    title: Verhandlungsgegenstand 69 d.B., Detail-JSON
-    url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69?json=TRUE
-    retrieved: "2026-10-19"
-    archive: null
-retrieved: "2026-10-19"
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 69 und Zu 69 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

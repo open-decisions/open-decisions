@@ -1,0 +1,204 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/312
+type: government_bill
+title: Günstiger-Strom-Gesetz
+citation: 312 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/312
+introduced: '2025-11-20'
+introduced_by:
+- Mag. Dr. Wolfgang Hattmannsdorfer (Bundesministerium für Wirtschaft, Energie und Tourismus)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/91
+  eurovoc:
+  - Elektrizitätsindustrie
+  - Energie
+  - namentliche Abstimmung
+  - Preis
+  - Sozialpolitik
+  - Verfassung
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Klima, Umwelt und Energie
+  - Soziales
+  - Wirtschaft
+  keywords:
+  - Abstimmungen, namentliche
+  - Bundesverfassung
+  - Elektrizität
+  - Energiewirtschaft
+  - Preise
+  - Sozialpolitik
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 91/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_91
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/32
+  title: Elektrizitätswirtschaftsgesetz, Energiearmuts-Definitions-Gesetz; Energie-Control-Gesetz, Änderung
+  citation: 32/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '53. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/53
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '54. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/54
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-09'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Antrag auf Ergänzung der Tagesordnung'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-09'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16703411.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-09'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 364 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/364
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-09'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Selbständiger Antrag betreffend Erneuerbaren-Ausbau-Gesetz (EAG)
+    und Ökostromgesetz 2012 (ÖSG 2012) (365 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/365
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Auf der Tagesordnung der 57. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/57/TO_16447541.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Tanja Graf , Alois Schroll , Dipl.-Ing. Karin Doppelbauer
+    , Mag. Lukas Hammer , Kolleginnen und Kollegen ( AA-44 ) angenommen Getrennte Abstimmung (teils einstimmig, teils mehrstimmig
+    (dafür: V, S, N, G))'
+  url: https://www.parlament.gv.at/person/1977
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (teils einstimmig,
+    teils mehrstimmig (dafür: V, S, N, G))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Namentliche Abstimmung (abgegebene
+    Stimmen: 163; davon Ja-Stimmen: 116, Nein-Stimmen: 47)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Beschluss im Nationalrat 123/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/123
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: 'Einlangen im Bundesrat (Frist: 06.02.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-13'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11723/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11723
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: Zuweisung an den Wirtschaftsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WR-BR/1/00312
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Wirtschaftsausschuss des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WR-BR/1/00312/TO_16748063.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Wirtschaftsausschuss des Bundesrates: Bericht 11734/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11734
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Auf der Tagesordnung der 984. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/984
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Berichterstattung durch die Bundesrätin Mag. Christine Schwarz-Fuchs'
+  url: https://www.parlament.gv.at/person/6534
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Namentliche Abstimmung (abgegebene Stimmen: 59; 44
+    Ja-Stimmen, 15 Nein-Stimmen)'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Antrag, Zustimmung zu Verfassungsgesetzen bzw. -bestimmungen, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS,
+    dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Beschluss im Bundesrat 123/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/123
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/312/fname_1723270.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/312/fnameorig_1723270.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/312/imfname_1723273.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/312/fname_1723272.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/312/imfname_1723274.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 312 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/312?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

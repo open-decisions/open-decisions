@@ -6,7 +6,7 @@ Status: target architecture, October 2026. Nothing below is built yet except the
 
 1. **The curated record is the product.** A decision, its measured effect per household type, the official message next to the law, and who voted for it, in one schema, with a label on every number and a source on every statement. Raw open data already exists elsewhere; the curated, linked, reviewed record does not.
 2. **Boundaries without network calls where possible.** Components are separate packages with explicit contracts and their own tests, which is what humans and AI agents work well on. A component becomes a running service only when it has a different runtime, a different cost profile, or different data sensitivity.
-3. **Git is the content database.** Records are YAML files reviewed in pull requests. Versioning, public corrections, the changelog per card and "all assumptions versioned" come for free. Everything users send and everything ingested in bulk goes elsewhere.
+3. **Git is the curated content database, Postgres is the system of record for ingested data.** Measures, households, jurisdictions and assumptions are YAML files reviewed in pull requests; versioning, public corrections and the changelog per card come for free. Everything machine-produced (API payloads, documents, extracted text, phases, votes, later feedback and embeddings) lives in Postgres from day one. Bill records are derived: the ingest pipeline generates them from Postgres and the YAML in git is an export that keeps the site buildable offline and auditable; only the fields `measures` and `budget_office_analyses` on a bill are curated and preserved across exports.
 4. **One schema, several surfaces.** Files, bulk exports, a REST API and an MCP server all serve the same records. The label and the sources travel with every number on every surface.
 5. **Link, don't invent.** Laws carry their ELI, topics their EuroVoc descriptors, parties and people their Wikidata ids. Jurisdictions use ISO 3166 codes. This is what makes records comparable across levels and later across countries.
 6. **Content in the language of the jurisdiction, code in English.** Sources and readers are local. The contract is not.
@@ -15,15 +15,15 @@ Status: target architecture, October 2026. Nothing below is built yet except the
 
 | Layer | Store | Content | Exists |
 | --- | --- | --- | --- |
-| Records | git, `data/` | jurisdictions, households, bills, measures; later party positions | yes |
+| Records | git, `data/` | jurisdictions, households, measures (curated); bills (derived export); later party positions | yes |
 | Results | git, `data/results/` | simulation outputs, cached and versioned | planned, Phase 1 |
-| Warehouse | Postgres | everything ingested from parliaments and document stores, extracted text, embeddings, user feedback, chat cache | planned, Phase 4 or second country |
+| Warehouse | Postgres | raw: API payloads and fetched documents, append-only; staged: normalized bills, phases, votes, documents, text; curated: the git records loaded for queries; later feedback, embeddings, chat cache | raw and staged in Phase 0 |
 | Exports | release artifacts | the public dataset as Parquet and JSON, versioned, later with a DOI | planned, Phase 3 |
 | API | FastAPI | read access to records and results, write access for feedback | planned, Phase 4 |
 | MCP | MCP server on the same models | tools for assistants: search measures, get measure, get bill, household effect, list sources | planned, Phase 4 |
 | Site | Astro, static output | cards, detail pages, methodology, corrections, tracker; interactive islands | planned, Phase 1 |
 
-The warehouse decision is open. Postgres with JSONB is the working assumption: records stay documents, and the queries that matter (measures by jurisdiction and topic, votes by party across bills, effects across households, sources by role) are joins and aggregations. A document database was considered and would store the records just as well; it is weaker for those queries and for the SQL and Parquet access that researchers expect.
+Warehouse layers: `raw` holds API responses and fetched documents as JSONB and bytes with URL, fetch time and hash, append-only and never edited. `staged` holds normalized tables rebuilt from raw at any time. `curated` holds the git records loaded for queries, and git wins on conflict. Each adapter writes only raw; one transform builds staged; the export writes bill YAML from staged; nothing writes curated except the loader from git. Postgres with JSONB was chosen over a document database: records stay documents, and the queries that matter (measures by jurisdiction and topic, votes by party across bills, effects across households, sources by role) are joins and aggregations. A document database was considered and would store the records just as well; it is weaker for those queries and for the SQL and Parquet access that researchers expect.
 
 ## Components
 
@@ -38,7 +38,7 @@ The warehouse decision is open. Postgres with JSONB is the working assumption: r
 | `web` | static site | Astro with islands for the household switcher, "Mein Haushalt" (local computation, nothing stored) and visualizations |
 | `api` | service | feedback intake, error flags, follow-up sign-ups, chat; owns the warehouse; Phase 4 |
 
-Batch jobs run as scheduled GitHub Actions. In Phase 1 the simulation runs locally and commits results; it becomes a hosted service when "Mein Haushalt" needs live calls.
+Batch jobs run as scheduled GitHub Actions, as a CLI per step and in order; an orchestrator only when steps multiply across jurisdictions. Local development uses Docker Compose for Postgres, CI a Postgres service container, production a small VPS or a managed free tier until volumes matter. In Phase 1 the simulation runs locally and commits results; it becomes a hosted service when "Mein Haushalt" needs live calls.
 
 ## Data flow
 
@@ -46,7 +46,7 @@ Batch jobs run as scheduled GitHub Actions. In Phase 1 the simulation runs local
 parliament APIs, RIS, budget office PDFs
         |  ingest_*, documents
         v
-   data/bills/*.yaml  +  archived documents
+   Postgres raw -> staged  (export) -> data/bills/*.yaml, archived documents
         |  drafting (LLM) -> pull request -> human review (release checklist)
         v
    data/measures/*.yaml
@@ -115,6 +115,5 @@ Tooling: uv workspace with one `pyproject.toml` per service, ruff, pytest, pyrig
 
 ## Open decisions
 
-- Warehouse: Postgres with JSONB (working assumption) or a document database. Decide when the second country or the explorer needs it.
 - Simulation hosting: local runs with committed results until live calls are needed.
 - Island framework: Svelte or Preact.

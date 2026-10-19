@@ -1,0 +1,141 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/10
+type: government_bill
+title: Bundeshaushaltsgesetz 2013, Änderung
+citation: 10 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/10
+introduced: '2024-11-20'
+introduced_by:
+- Dr. Magnus Brunner, LL.M. (Bundesministerium für Finanzen)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2024/159
+  eurovoc:
+  - Öffentliche Finanzen und Haushaltspolitik
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Bundeshaushalt III. Sonstiges
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 159/2024
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2024_I_159
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '3. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/3
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '3. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/3
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '4. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/4
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-12-09'
+  text: 'Budgetausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16447805.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-12-09'
+  text: 'Budgetausschuss: Bericht 11 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/11
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: Auf der Tagesordnung der 5. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/5/TO_16432632.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: '5. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: '5. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-11'
+  text: Beschluss im Nationalrat 4/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/4
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-12-12'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2024-12-12'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2024-12-12'
+  text: 'Einlangen im Bundesrat (Frist: 07.02.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2024-12-19'
+  text: '973. Sitzung : Bekanntgabe des Gesetzesbeschlusses'
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/973
+vote:
+  date: '2024-12-11'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/10/fname_1660570.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/10/fnameorig_1660570.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/10/imfname_1660573.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/10/fname_1660572.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/10/imfname_1660574.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 10 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/10?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

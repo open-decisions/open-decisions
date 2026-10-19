@@ -1,0 +1,119 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/198
+type: members_bill
+title: Elektrizitätswirtschaftsgesetz – ElWG, Energiearmuts-Definitions-Gesetz – EnDG; Energie-Control-Gesetz, Änderung
+citation: 198/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/198
+introduced: '2025-04-24'
+introduced_by:
+- Leonore Gewessler, BA
+identifiers:
+  eurovoc:
+  - Elektrizitätsindustrie
+  - Energie
+  - Preis
+  - Sozialpolitik
+  - Verfassung
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Klima, Umwelt und Energie
+  - Soziales
+  - Wirtschaft
+  keywords:
+  - Bundesverfassung
+  - Elektrizität
+  - Energiewirtschaft
+  - Preise
+  - Sozialpolitik
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus und das Bundesministerium für Land- und
+    Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: '17. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/17
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-24'
+  text: '18. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/18
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-25'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16588611.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-25'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 150 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/150
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Auf der Tagesordnung der 37. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/37/TO_16447530.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: '37. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Leonore Gewessler, BA , Kolleginnen
+    und Kollegen betreffend Unterstützung des EU-Klimaziels 2040 der EU-Kommission (109/UEA) abgelehnt Dafür: GRÜNE, dagegen:
+    FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5653
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: '37. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Paul Hammerl, MA , Kolleginnen
+    und Kollegen betreffend Fachexpertise entsprechend würdigen – Begutachtungszeitraum für den Ministerialentwurf betreffend
+    ein Elektrizitätswirtschaftsgesetz und weiterer Gesetze (32/ME) verlängern (110/UEA) angenommen ( 32/E ) Dafür: FPÖ, ÖVP,
+    SPÖ, NEOS, GRÜNE, dagegen: -'
+  url: https://www.parlament.gv.at/person/30649
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: '37. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen: GRÜNE'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/198/fname_1679698.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/198/fnameorig_1679698.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 198/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/198?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

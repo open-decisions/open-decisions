@@ -1,0 +1,85 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/462
+type: members_bill
+title: Bundesverfassungsgesetz über die Begrenzung von Bezügen öffentlicher Funktionäre, Änderung
+citation: 462/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/462
+introduced: '2025-09-24'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Bundesverfassung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 8. Oktober
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16595100.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-03'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 3. Dezember
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16595101.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-18'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 6. Sitzung des Ausschusses In der Sitzung vom 18. Februar
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16732546.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/462/fname_1712363.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/462/fnameorig_1712363.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 462/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/462?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

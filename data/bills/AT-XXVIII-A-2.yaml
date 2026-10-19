@@ -1,0 +1,191 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/2
+type: members_bill
+title: Sanktionengesetz 2024; FATF-Prüfungsanpassungsgesetz 2024
+citation: 2/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/2
+introduced: '2024-10-24'
+introduced_by:
+- Gabriel Obernosterer
+- Mag. Nina Tomaselli
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/5
+  eurovoc:
+  - Finanzwesen
+  - Internationale Beziehungen
+  - öffentliche Sicherheit
+  - Verfassung
+  topics:
+  - Außenpolitik
+  - Budget und Finanzen
+  - Inneres und Recht
+  keywords:
+  - Außenpolitik
+  - Bundesverfassung
+  - Kreditwesen
+  - Sicherheitswesen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 5/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_5
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: '1. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/1
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-10-24'
+  text: '2. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/2
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-11-14'
+  text: 'Budgetausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16438060.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-11-14'
+  text: 'Budgetausschuss: Bericht 6 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/6
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Auf der Tagesordnung der 3. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/3/TO_16432630.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '3. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '3. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Beschluss im Nationalrat 2/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/2
+- phase: plenary
+  chamber: Nationalrat
+  date: '2024-11-21'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2024-11-21'
+  text: 'Einlangen im Bundesrat (Frist: 16.01.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2024-11-21'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2024-11-21'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2024-12-03'
+  text: 'Finanzausschuss des Bundesrates: Bericht 11608/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11608
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2024-12-03'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 32. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_16445473.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: Auf der Tagesordnung der 972. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/972
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: '972. Sitzung: Berichterstattung durch die Bundesrätin Margit Göll'
+  url: https://www.parlament.gv.at/person/23966
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: '972. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: '972. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, OF, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: '972. Sitzung: Antrag, Zustimmung zu Verfassungsgesetzen bzw. -bestimmungen, angenommen Dafür: ÖVP, SPÖ, GRÜNE, OF,
+    dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2024-12-05'
+  text: Beschluss im Bundesrat 2/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/2
+vote:
+  date: '2024-11-20'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/2/fname_1658644.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/2/fnameorig_1658644.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 2/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/2?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

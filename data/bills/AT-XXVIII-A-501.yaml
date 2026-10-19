@@ -1,0 +1,78 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/501
+type: members_bill
+title: Flugpassagier-Entlastungsgesetz
+citation: 501/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/501
+introduced: '2025-10-15'
+introduced_by:
+- Dipl.-Ing. Gerhard Deimek
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Steuerwesen
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Erste Lesungen
+  - Steuern und Gebühren
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Übermittlung an das Bundesministerium für Innovation, Mobilität und Infrastruktur
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 15.01.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates: Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-19'
+  text: 'Ausschuss für Verkehr und Mobilität: auf Tagesordnung in der 6. Sitzung des Ausschusses In der Sitzung vom 19. März
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VE/1/00939/TO_16767362.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '102. Sitzung des Nationalrates : Antrag des Abgeordneten Dipl.-Ing. Gerhard Deimek auf Fristsetzung zur Berichterstattung
+    durch den Ausschuss für Verkehr und Mobilität ( 1074/GO ) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/501/fname_1717204.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/501/fnameorig_1717204.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/501/fname_1718351.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 501/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/501?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,208 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/241
+type: members_bill
+title: Kraftfahrgesetz, Arbeitszeitgesetz u.a., Änderung
+citation: 241/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/241
+introduced: '2025-04-25'
+introduced_by:
+- Mst. Joachim Schnabel
+- Wolfgang Moitzi
+- Dominik Oberhofer
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/19
+  eurovoc:
+  - Arbeitsrecht
+  - Straßenverkehr
+  topics:
+  - Arbeit
+  - Verkehr und Infrastruktur
+  keywords:
+  - Verkehr I. Straßenverkehr
+  - Arbeitsrecht I. österreichisches
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 19/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_19
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Übermittlung an das Bundesministerium für Innovation, Mobilität und Infrastruktur und das Bundesministerium für Arbeit,
+    Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/19
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '20. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/20
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-15'
+  text: 'Ausschuss für Verkehr und Mobilität: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VE/1/00939/TO_16540910.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-15'
+  text: 'Ausschuss für Verkehr und Mobilität: Bericht 92 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/92
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Auf der Tagesordnung der 27. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/27/TO_16555006.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Lukas Hammer , Kolleginnen
+    und Kollegen betreffend Das Klimaticket soll so bleiben wie es ist (49/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP,
+    SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/65219
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Lukas Hammer , Kolleginnen
+    und Kollegen betreffend Zukunft auf Schiene - Regionalbahnen erhalten und ausbauen, Investitionen sichern (50/UEA) abgelehnt
+    Dafür: FPÖ, GRÜNE, dagegen: ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/65219
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Beschluss im Nationalrat 26/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/26
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-23'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-05-23'
+  text: 'Einlangen im Bundesrat (Frist: 18.07.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-05-23'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-05-23'
+  text: Zuweisung an den Ausschuss für Verkehr des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VE-BR/1/00386
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-05-26'
+  text: 'Ausschuss für Verkehr des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VE-BR/1/00386/TO_16558955.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-05-26'
+  text: 'Ausschuss für Verkehr des Bundesrates: Bericht 11642/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11642
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: Auf der Tagesordnung der 978. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/978
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: '978. Sitzung: Berichterstattung durch den Bundesrat Daniel Schmid'
+  url: https://www.parlament.gv.at/person/22827
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: '978. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: '978. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: '978. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen
+    betreffend Das Klimaticket soll so bleiben wie es ist (758/UEA-BR/2025) abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ, FPÖ,
+    NEOS'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: '978. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Marco Schreuder , Kolleginnen und Kollegen betreffend
+    Zukunft auf Schiene - Regionalbahnen erhalten und ausbauen, Investitionen sichern (759/UEA-BR/2025) abgelehnt Dafür: FPÖ,
+    GRÜNE, dagegen: ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/67939
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-27'
+  text: Beschluss im Bundesrat 26/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/26
+vote:
+  date: '2025-05-22'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/241/fname_1680976.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/241/fnameorig_1680976.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/241/fname_1681195.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 241/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/241?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

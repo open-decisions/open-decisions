@@ -1,0 +1,189 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/497
+type: government_bill
+title: Bundesstraßengesetz, Änderung
+citation: 497 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/497
+introduced: '2026-05-13'
+introduced_by:
+- Peter Hanke (Bundesministerium für Innovation, Mobilität und Infrastruktur)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/78
+  eurovoc:
+  - Straßen- und Brückenbau
+  topics:
+  - Verkehr und Infrastruktur
+  keywords:
+  - Straßen- und Brückenbau
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 78/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_78
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/59
+  title: Bundesstraßengesetz, Änderung
+  citation: 59/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-13'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-15'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/77
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '78. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/78
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-02'
+  text: 'Ausschuss für Verkehr und Mobilität: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VE/1/00939/TO_16767364.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-02'
+  text: 'Ausschuss für Verkehr und Mobilität: Bericht 582 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/582
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-02'
+  text: 'Ausschuss für Verkehr und Mobilität: Abänderungsantrag der Abgeordneten Mst. Joachim Schnabel , Wolfgang Moitzi ,
+    Dominik Oberhofer , Kolleginnen und Kollegen ( 55/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/5630
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Auf der Tagesordnung der 85. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/85/TO_16798402.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '85. Sitzung des Nationalrates: Antrag der Abgeordneten Dr. Elisabeth Götze , Kolleginnen und Kollegen auf Rückverweisung
+    an den Ausschuss für Verkehr und Mobilität ( 912/GO ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5654
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '85. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '85. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Beschluss im Nationalrat 177/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/177
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: 'Einlangen im Bundesrat (Frist: 02.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Zuweisung an den Ausschuss für Verkehr des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VE-BR/1/00386
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Ausschuss für Verkehr des Bundesrates: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VE-BR/1/00386/TO_16941733.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Ausschuss für Verkehr des Bundesrates: Bericht 11858/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11858
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Auf der Tagesordnung der 994. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Berichterstattung durch den Bundesrat Dominik Reisinger'
+  url: https://www.parlament.gv.at/person/4483
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Beschluss im Bundesrat 177/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/177
+vote:
+  date: '2026-07-06'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/497/fname_1757399.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/497/fnameorig_1757399.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/497/fname_1757402.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/497/fname_1757401.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/497/imfname_1757403.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 497 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/497?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

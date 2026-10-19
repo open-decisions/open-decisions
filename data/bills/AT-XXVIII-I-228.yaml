@@ -1,0 +1,139 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/228
+type: government_bill
+title: IFI-Beitragsgesetz 2025
+citation: 228 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/228
+introduced: '2025-10-08'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/88
+  eurovoc:
+  - Finanzwesen
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Kreditwesen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 88/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_88
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/39
+  title: IFI-Beitragsgesetz 2025
+  citation: 39/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '45. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/45
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Finanzausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FI/1/00921/TO_16707530.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Finanzausschuss: Bericht 330 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/330
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: Auf der Tagesordnung der 55. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/55/TO_16447539.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: '55. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: '55. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-10'
+  text: Beschluss im Nationalrat 94/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/94
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-10'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-11'
+  text: 'Einlangen im Bundesrat (Frist: 05.02.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung : Bekanntgabe des Gesetzesbeschlusses'
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/984
+vote:
+  date: '2025-12-10'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/228/fname_1714903.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/228/fnameorig_1714903.html
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/228/fname_1714905.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/228/imfname_1714906.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 228 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/228?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

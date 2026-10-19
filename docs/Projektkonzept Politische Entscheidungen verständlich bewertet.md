@@ -304,7 +304,7 @@ Reihenfolge nach Datenzugang: zuerst, was strukturiert und frei verfügbar ist (
 
 | Phase | Zeitraum | Ziel (Gate) |
 | --- | --- | --- |
-| 0 Fundament | Nov–Dez 2026 | Fünf Karten aus dem Konsolidierungspaket 2025 händisch erstellt, nur Labels „Übernommen" und „nicht bezifferbar"; Schema v0 aus der Parlaments-API abgeleitet; Interviews laufen |
+| 0 Fundament | Nov–Dez 2026 | Alle Gesetzesvorhaben des Bundes 2025/2026 als Bill-Records aus der Ingestion (Postgres raw und staged); fünf Karten aus dem Konsolidierungspaket 2025 händisch erstellt, nur Labels „Übernommen" und „nicht bezifferbar"; Interviews laufen |
 | 1 Prototyp | Jan–Mär 2027 | Öffentliche Seite mit fünf Karten und Gesetzes-Tracker (Status, nächster Schritt); EUROMOD rechnet einen Beispielhaushalt; Ökonom:in zugesagt |
 | 2 Anträge | Feb–Jun 2027 | NGI-Zero-Antrag eingereicht (Feb), netidee-Antrag eingereicht (Frist Frühsommer) |
 | 3 Warten, nicht stillstehen | Jul–Okt 2027 | Monatlich eine neue Maßnahme, erste Karten mit Label „Gerechnet", Feedback aus Soft-Launch, Uni-Kontakt für EU-SILC |
@@ -317,7 +317,7 @@ Ziel ist der Nachweis, dass die Karte ohne eigenes Modell funktioniert. Alles h�
 
 - [ ] Öffentliches Repo anlegen (OSI-Lizenz, z. B. AGPL oder MIT; Inhalte CC-BY-SA) – netidee verlangt das später ohnehin, und das Datum des ersten Commits ist dein Beleg für Eigeninitiative
 - [ ] Konsolidierungspaket 2025 als erstes Quellencluster: Klimabonus-Abschaffung, höherer Krankenversicherungsbeitrag für Pensionist:innen, ausgesetzte Valorisierungen. Alle Maßnahmen haben Regierungsvorlage, WFA und eine Budgetdienst-Analyse mit Dezilen
-- [ ] Parlaments-API anbinden (JSON, CC BY 4.0, Detailseiten mit `?json=TRUE`): Regierungsvorlagen, Ausschussberichte, Beschlüsse, Plenarsitzungen, Termine für das Paket laden; Materialien-PDFs (WFA) über die verlinkten Dokumente holen
+- [ ] Parlaments-API anbinden (JSON, CC BY 4.0, Detailseiten mit `?json=TRUE`): alle Verhandlungsgegenstände der XXVIII. GP in die Postgres-Schicht `raw` laden, Detail-JSON für Regierungsvorlagen, Initiativanträge und Beschlüsse; Transformation nach `staged`; Export aller Gesetzesvorhaben 2025/2026 als Bill-Records nach `data/bills/`; Materialien-PDFs (WFA) über die verlinkten Dokumente holen
 - [ ] Maßnahmen-Schema v0 aus den tatsächlichen Feldern der API ableiten, nicht aus dem Konzept; dazu Quellenangaben mit URL und Seitenzahl, Annahmen-Block, Konfidenz-Label
 - [ ] Fünf Karten händisch schreiben: Element 5 nur mit „Übernommen" (Budgetdienst-Dezile, WFA-Angaben) oder reiner Arithmetik aus dem Gesetz bei Pauschalbeträgen (Klimabonus 290 € → 0 €), sonst „nicht bezifferbar". Der Budgetdienst liefert Prozent pro Dezil, keine Euro pro Haushaltstyp – das wird auf der Karte so benannt
 - [ ] Interviews mit diesen Karten führen (Leitfaden oben); das Ergebnis entscheidet, ob eine Zahl vor den drei Sätzen steht und wie viel Priorität EUROMOD in Phase 1 bekommt

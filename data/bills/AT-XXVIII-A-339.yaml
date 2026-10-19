@@ -1,0 +1,77 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/339
+type: members_bill
+title: Bundes-Verfassungsgesetz, Rechnungshofgesetz, Änderung
+citation: 339/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/339
+introduced: '2025-06-18'
+introduced_by:
+- Mag. Nina Tomaselli
+identifiers:
+  eurovoc:
+  - Haushaltskontrolle
+  - Verfassung
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Bundesverfassung
+  - Rechnungshof
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Übermittlung an den Rechnungshof
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Vorgesehen für den Rechnungshofausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-RH/1/00933
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '32. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/32
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '33. Sitzung des Nationalrates : Zuweisung an den Rechnungshofausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-24'
+  text: 'Rechnungshofausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 24. Juni 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-RH/1/00933/TO_16505398.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/339/fname_1694127.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/339/fnameorig_1694127.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/339/fname_1694486.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 339/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/339?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

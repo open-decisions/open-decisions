@@ -1,0 +1,83 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/144
+type: members_bill
+title: Strafgesetzbuch, Änderung
+citation: 144/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/144
+introduced: '2025-03-26'
+introduced_by:
+- Mag. Harald Stefan
+identifiers:
+  eurovoc:
+  - Strafrecht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Strafrecht
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Übermittlung an das Bundesministerium für Inneres und das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '14. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/14
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-01'
+  text: 'Justizausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16510728.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-01'
+  text: 'Justizausschuss: Bericht 54 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/54
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Auf der Tagesordnung der 19. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/19/TO_16447521.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/144/fname_1674687.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/144/fnameorig_1674687.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 144/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/144?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

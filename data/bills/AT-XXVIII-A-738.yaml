@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/738
+type: members_bill
+title: Sicherheitspolizeigesetz, Änderung
+citation: 738/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/738
+introduced: '2026-02-25'
+introduced_by:
+- Mag. Agnes Sirkka Prammer
+identifiers:
+  eurovoc:
+  - öffentliche Sicherheit
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Sicherheitswesen
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Vorgesehen für den Ausschuss für Menschenrechte und Volksanwaltschaft
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-MV/1/00943
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: '66. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/66
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: '67. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Menschenrechte und Volksanwaltschaft'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/67
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-10'
+  text: 'Ausschuss für Menschenrechte und Volksanwaltschaft: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung
+    vom 10. März 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-MV/1/00943/TO_16703939.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/738/fname_1741479.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/738/fnameorig_1741479.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/738/fname_1742341.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 738/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/738?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

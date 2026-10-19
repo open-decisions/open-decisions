@@ -1,0 +1,72 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/700
+type: members_bill
+title: Lastkraftwagen-Sicherheits-Novelle
+citation: 700/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/700
+introduced: '2026-02-25'
+introduced_by:
+- Dipl.-Ing. Gerhard Deimek
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Straßenverkehr
+  topics:
+  - Verkehr und Infrastruktur
+  keywords:
+  - Erste Lesungen
+  - Verkehr I. Straßenverkehr
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Übermittlung an das Bundesministerium für Innovation, Mobilität und Infrastruktur
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 25.05.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: '66. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/66
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '73. Sitzung des Nationalrates: Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-13'
+  text: 'Ausschuss für Verkehr und Mobilität: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung vom 13. Mai
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VE/1/00939/TO_16767363.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/700/fname_1742143.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/700/fnameorig_1742143.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/700/fname_1743125.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 700/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/700?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,236 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/129
+type: government_bill
+title: Informationsfreiheits-Anpassungsgesetz
+citation: 129 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/129
+introduced: '2025-06-18'
+introduced_by:
+- Dr. Christian Stocker (Bundeskanzleramt)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/50
+  eurovoc:
+  - Informatik
+  - Information und Informationsverarbeitung
+  topics:
+  - Information und Medien
+  keywords:
+  - Information und Informationsverarbeitung
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 50/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_50
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/12
+  title: Wehrgesetz, Heeresdisziplinargesetz u.a., Änderung
+  citation: 12/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/17
+  title: Informationsfreiheits-Anpassungsgesetz – BMI
+  citation: 17/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/18
+  title: IFG-Anpassungsgesetz-Justiz – IFG-AnpJu
+  citation: 18/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/19
+  title: Standort-Entwicklungsgesetz, Wettbewerbsgesetz u.a., Änderung
+  citation: 19/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/20
+  title: Beitrag des BMASGPK zu einem IFG-Materien-Anpassungsgesetz
+  citation: 20/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/21
+  title: Eisenbahngesetz, Kraftfahrgesetz u.a., Änderung
+  citation: 21/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/22
+  title: Informationsfreiheits-Anpassungsgesetz – Bundeskanzleramt
+  citation: 22/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/23
+  title: Beamten-Dienstrechtsgesetz, Vertragsbedienstetengesetz u.a., Änderung
+  citation: 23/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/24
+  title: Informationsfreiheits-Anpassungsgesetz – BMWKMS
+  citation: 24/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/25
+  title: Allgemeine Verwaltungsverfahrensgesetz, Verwaltungsstrafgesetz u.a., Änderung
+  citation: 25/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/26
+  title: Bildungsdirektionen-Einrichtungsgesetz, Bildungsdokumentationsgesetz u.a., Änderung
+  citation: 26/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/27
+  title: Informationsfreiheitsanpassungsgesetz BMF
+  citation: 27/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '33. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '34. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/34
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-26'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16590037.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-26'
+  text: 'Verfassungsausschuss: Bericht 151 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/151
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Auf der Tagesordnung der 35. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/35/TO_16447529.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten MMag. Dr. Susanne Raab , Mag. Muna Duzdar , Dr.
+    Nikolaus Scherak, MA , Kolleginnen und Kollegen ( AA-19 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/6486
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Dr. Alma Zadić, LL.M. , Kolleginnen
+    und Kollegen betreffend „Lex Hartinger-Klein" – Archivrecht an die Informationsfreiheit anpassen! (97/UEA) abgelehnt Dafür:
+    GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/2345
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen wechselnde Mehrheiten (dafür: V, S,
+    N, G bzw. V, S, N)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Beschluss im Nationalrat 47/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/47
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: 'Einlangen im Bundesrat (Frist: 05.09.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11651/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11651
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Zuweisung an den Ausschuss für Verfassung und Föderalismus des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VF-BR/1/00209
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VF-BR/1/00209/TO_16617010.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: Bericht 11654/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11654
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Auf der Tagesordnung der 980. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Berichterstattung durch die Bundesrätin Klara Neurauter'
+  url: https://www.parlament.gv.at/person/3487
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen
+    betreffend "Lex Hartinger-Klein" - Archivrecht an die Informationsfreiheit anpassen! (768/UEA-BR/2025) abgelehnt Dafür:
+    GRÜNE, dagegen: ÖVP, SPÖ, FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Beschluss im Bundesrat 47/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/47
+vote:
+  date: '2025-07-09'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/129/fname_1693598.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/129/fnameorig_1693598.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/129/imfname_1693601.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/129/fname_1693600.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/129/imfname_1693602.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 129 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/129?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

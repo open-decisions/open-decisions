@@ -1,0 +1,161 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/573
+type: government_bill
+title: Gewerbeordnung, Änderung
+citation: 573 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/573
+introduced: '2026-07-01'
+introduced_by:
+- Mag. Dr. Wolfgang Hattmannsdorfer (Bundesministerium für Wirtschaft, Energie und Tourismus)
+identifiers:
+  eurovoc:
+  - Handel
+  - Industrie
+  - Unternehmen und Wettbewerb
+  topics:
+  - Wirtschaft
+  keywords:
+  - Handel, Gewerbe und Industrie
+status:
+  stage: passed_first_chamber
+  source_status: '4'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/73
+  title: Gewerbeordnung, Änderung
+  citation: 73/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-02'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '85. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/85
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '86. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/86
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-07'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16951180.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-07'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 653 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/653
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Auf der Tagesordnung der 101. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/101/TO_16770188.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Tanja Graf , Dr. Christoph Matznetter , MMag.
+    Markus Hofer , Mag. Lukas Hammer , Kolleginnen und Kollegen ( AA-87 ) angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    -'
+  url: https://www.parlament.gv.at/person/1977
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Beschluss im Nationalrat 225/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/225
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: 'Einlangen im Bundesrat (Frist: 10.12.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11875/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11875
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Zuweisung an den Wirtschaftsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WR-BR/1/00312
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
+  text: 'Wirtschaftsausschuss des Bundesrates: auf Tagesordnung in der 7. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WR-BR/1/00312/TO_17007695.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Auf der Tagesordnung der 997. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+vote:
+  date: '2026-10-14'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 17
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/573/fname_1768440.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/573/fnameorig_1768440.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/573/imfname_1768443.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/573/fname_1768442.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/573/imfname_1768444.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 573 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/573?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

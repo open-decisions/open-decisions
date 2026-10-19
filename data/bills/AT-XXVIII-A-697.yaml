@@ -1,0 +1,76 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/697
+type: members_bill
+title: Allgemeine Sozialversicherungsgesetz, Änderung
+citation: 697/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/697
+introduced: '2026-02-25'
+introduced_by:
+- Mag. Gerhard Kaniak
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - soziale Sicherheit
+  topics:
+  - Soziales
+  keywords:
+  - Erste Lesungen
+  - Sozialversicherung I. Allgemeine Sozialversicherung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 25.05.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: '66. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/66
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '73. Sitzung des Nationalrates: Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-28'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung vom 28. April 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765623.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung vom 23. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765624.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/697/fname_1741557.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/697/fnameorig_1741557.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/697/fname_1744629.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 697/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/697?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

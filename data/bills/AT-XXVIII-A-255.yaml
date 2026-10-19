@@ -1,0 +1,76 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/255
+type: members_bill
+title: VKI-Finanzierungsgesetz 2025 – VKI-FinanzG 2025
+citation: 255/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/255
+introduced: '2025-04-25'
+introduced_by:
+- Peter Wurm
+identifiers:
+  eurovoc:
+  - Handel
+  - Industrie
+  - Öffentliche Finanzen und Haushaltspolitik
+  - Unternehmen und Wettbewerb
+  - Vereinsleben
+  - Versammlungsfreiheit
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Soziales
+  - Wirtschaft
+  keywords:
+  - Vereins- und Versammlungsrecht
+  - Bundeshaushalt III. Sonstiges
+  - Handel, Gewerbe und Industrie
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Vorgesehen für den Ausschuss für Konsumentenschutz
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-KO/1/00927
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/19
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '20. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Konsumentenschutz'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/20
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-06'
+  text: 'Ausschuss für Konsumentenschutz: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 6. Mai 2025
+    vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-KO/1/00927/TO_16533944.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/255/fname_1680684.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/255/fnameorig_1680684.html
+  comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 255/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/255?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

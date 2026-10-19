@@ -1,0 +1,206 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/209
+type: government_bill
+title: Arbeitsmarktservicegesetz, Arbeitsmarktpolitik-Finanzierungsgesetz u.a., Änderung
+citation: 209 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/209
+introduced: '2025-09-24'
+introduced_by:
+- Korinna Schumann (Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/76
+  eurovoc:
+  - Arbeitsrecht
+  - Beschäftigung und Arbeitsbedingungen
+  topics:
+  - Arbeit
+  keywords:
+  - Arbeitsmarkt
+  - Arbeitsrecht I. österreichisches
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 76/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_76
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/46
+  title: Arbeitsmarktservicegesetz, Arbeitsmarktpolitik-Finanzierungsgesetz u.a., Änderung
+  citation: 46/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '43. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/43
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16595100.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: 'Ausschuss für Arbeit und Soziales: Bericht 231 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/231
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-08'
+  text: 'Ausschuss für Arbeit und Soziales: Abänderungsantrag der Abgeordneten Bettina Zopf , Barbara Teiber, MA , Johannes
+    Gasser, BA Bakk. MSc , Kolleginnen und Kollegen ( 13/AAA ) angenommen wechselnde Mehrheiten (dafür: F, V, S, N, dagegen:
+    G bzw. dafür: V, S, N, dagegen: F, G)'
+  url: https://www.parlament.gv.at/person/5634
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-13'
+  text: 'Ausschuss für Arbeit und Soziales: Selbständiger Antrag betreffend Einkommensteuergesetz 1988 und Arbeitslosenversicherungsgesetz
+    1977 (232 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/232
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Auf der Tagesordnung der 46. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/46/TO_16447535.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: '46. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Dr. Dagmar Belakowitsch , Kolleginnen
+    und Kollegen betreffend Weiterbildungsbeihilfe zurück an den Start – für eine zielgerichtete und faire Reform von Bildungskarenz
+    und Bildungsteilzeit (141/UEA) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/person/35468
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: '46. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: '46. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Beschluss im Nationalrat 80/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/80
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-17'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-10-17'
+  text: 'Einlangen im Bundesrat (Frist: 12.12.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-10-17'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-17'
+  text: Zuweisung an den Ausschuss für Arbeit, Soziales und Konsumentenschutz des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-AK-BR/1/00311
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-21'
+  text: 'Ausschuss für Arbeit, Soziales und Konsumentenschutz des Bundesrates: Bericht 11697/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11697
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-21'
+  text: 'Ausschuss für Arbeit, Soziales und Konsumentenschutz des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-AK-BR/1/00311/TO_16692584.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Auf der Tagesordnung der 982. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/982
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Berichterstattung durch die Bundesrätin Mag. Claudia Arpa'
+  url: https://www.parlament.gv.at/person/24110
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: 'Unselbständiger Entschließungsantrag der Bundesräte Nikolaus Amhof , Kolleginnen und Kollegen betreffend Weiterbildungsbeihilfe
+    zurück an den Start - für eine zielgerichtete und faire Reform von Bildungskarenz und Bildungsteilzeit (780/UEA-BR/2025)
+    abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, GRÜNE, NEOS'
+  url: https://www.parlament.gv.at/person/33457
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Beschluss im Bundesrat 80/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/80
+vote:
+  date: '2025-10-16'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/209/fname_1711852.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/209/fnameorig_1711852.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/209/imfname_1711855.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/209/fname_1711854.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/209/imfname_1711856.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 209 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/209?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

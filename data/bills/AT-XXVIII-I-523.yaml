@@ -1,0 +1,211 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/523
+type: government_bill
+title: Budgetbegleitgesetz 2027-2028
+citation: 523 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/523
+introduced: '2026-06-10'
+introduced_by:
+- Dr. Christian Stocker (Bundeskanzleramt)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/62
+  eurovoc:
+  - Öffentliche Finanzen und Haushaltspolitik
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Bundeshaushalt III. Sonstiges
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 62/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_62
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/116
+  title: Budgetbegleitgesetz 2027-2028
+  citation: 116/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '82. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/82
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-26'
+  text: 'Budgetausschuss: auf Tagesordnung in der 17. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816638.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-26'
+  text: 'Budgetausschuss: Bericht 561 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/561
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-26'
+  text: 'Budgetausschuss: Abänderungsantrag der Abgeordneten Mag. Andreas Hanger , Kai Jan Krainer , Dipl.-Ing. Karin Doppelbauer
+    , Kolleginnen und Kollegen ( 49/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/83148
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Budgetausschuss: Selbständiger Antrag betreffend Dienstgeberabgabegesetz (562 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/562
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Budgetausschuss: Selbständiger Antrag betreffend Begründung von Vorbelastungen durch den Bundesminister für Innovation,
+    Mobilität und Infrastruktur (563 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/563
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 89. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/89/TO_16604257.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: '89. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Markus Koza , Kolleginnen und Kollegen ( AA-80
+    ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5670
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: '89. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Andreas Hanger , Kai Jan Krainer , Dipl.-Ing.
+    Karin Doppelbauer , Kolleginnen und Kollegen ( AA-81 ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/83148
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: '89. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (mit wechselnden
+    Mehrheiten (dafür: V, S, N, G bzw. V, S, N))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: '89. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Beschluss im Nationalrat 198/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/198
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11838/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11838
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: 'Einlangen im Bundesrat (Frist: 03.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 10. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_16941658.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Finanzausschuss des Bundesrates: Bericht 11839/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11839
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Auf der Tagesordnung der 994. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Berichterstattung durch den Bundesrat Martin Peterl'
+  url: https://www.parlament.gv.at/person/31080
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Beschluss im Bundesrat 198/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/198
+vote:
+  date: '2026-07-08'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/523/fname_1763421.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/523/fnameorig_1763421.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/523/imfname_1763424.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/523/imfname_1763423.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/523/imfname_1763425.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 523 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/523?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/684
+type: members_bill
+title: AMA-Demokratisierungsgesetz
+citation: 684/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/684
+introduced: '2026-01-21'
+introduced_by:
+- Peter Schmiedlechner
+identifiers:
+  eurovoc:
+  - Land- und Forstwirtschaft, Fischerei
+  topics:
+  - Land- und Forstwirtschaft
+  keywords:
+  - Land- und Forstwirtschaft
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Übermittlung an das Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Vorgesehen für den Ausschuss für Land- und Forstwirtschaft
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-LF/1/00931
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '64. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Land- und Forstwirtschaft'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/64
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-01'
+  text: 'Ausschuss für Land- und Forstwirtschaft: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung vom 1.
+    Oktober 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-LF/1/00931/TO_16814983.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/684/fname_1735001.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/684/fnameorig_1735001.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/684/fname_1735516.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 684/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/684?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

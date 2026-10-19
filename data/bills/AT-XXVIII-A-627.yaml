@@ -1,0 +1,62 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/627
+type: members_bill
+title: Abfallwirtschaftsgesetz, Änderung
+citation: 627/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/627
+introduced: '2025-11-20'
+introduced_by:
+- Carina Reiter
+- Julia Elisabeth Herr
+- Michael Bernhard
+identifiers:
+  eurovoc:
+  - Abfall
+  - Abfallwirtschaft
+  topics:
+  - Klima, Umwelt und Energie
+  keywords:
+  - Abfallwirtschaft
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/52
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '53. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/53
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/627/fname_1723519.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/627/fnameorig_1723519.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 627/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/627?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

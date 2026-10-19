@@ -1,0 +1,65 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/165
+type: members_bill
+title: Allgemeine Sozialversicherungsgesetz, Änderung
+citation: 165/A und Zu 165/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/165
+introduced: '2025-03-26'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - soziale Sicherheit
+  topics:
+  - Soziales
+  keywords:
+  - Sozialversicherung I. Allgemeine Sozialversicherung
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Übermittlung an das Bundesministerium für Arbeit und Wirtschaft und das Bundesministerium für Soziales, Gesundheit,
+    Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '14. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/14
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Zurückziehung der Vorlage ( Zu 165/A )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/165/U1
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/165/fname_1673953.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/165/fnameorig_1673953.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 165/A und Zu 165/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/165?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,70 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/632
+type: members_bill
+title: Strafgesetzbuch, Änderung
+citation: 632/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/632
+introduced: '2025-12-11'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Strafrecht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Strafrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/57
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '58. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/58
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-17'
+  text: 'Justizausschuss: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung vom 17. März 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16819802.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 10. Sitzung des Ausschusses In der Sitzung vom 30. September 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926463.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/632/fname_1729361.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/632/fnameorig_1729361.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/632/fname_1730592.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 632/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/632?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

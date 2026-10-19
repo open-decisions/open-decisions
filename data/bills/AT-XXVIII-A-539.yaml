@@ -1,0 +1,69 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/539
+type: members_bill
+title: Wahrheitspflicht-Novelle
+citation: 539/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/539
+introduced: '2025-10-16'
+introduced_by:
+- Mag. Norbert Nemeth
+identifiers:
+  eurovoc:
+  - Geschäftsordnung des Parlaments
+  - Gesetzgebungsverfahren
+  - Strafrecht
+  topics:
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Erste Lesungen
+  - Geschäftsordnung des Nationalrates
+  - Untersuchungsausschüsse
+  - Strafrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Vorgesehen für den Geschäftsordnungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 16.01.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: '46. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/46
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates: Zuweisung an den Geschäftsordnungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/539/fname_1717237.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/539/fnameorig_1717237.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 539/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/539?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

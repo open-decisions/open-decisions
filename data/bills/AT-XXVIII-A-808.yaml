@@ -1,0 +1,69 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/808
+type: members_bill
+title: Allgemeine Bürgerliche Gesetzbuch, Angestelltengesetz u.a., Änderung
+citation: 808/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/808
+introduced: '2026-03-26'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Arbeitsrecht
+  - Bürgerliches Recht
+  topics:
+  - Arbeit
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+  - Arbeitsrecht I. österreichisches
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '73. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/73
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '74. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/74
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-15'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung vom 15. April
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16732547.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/808/fname_1748298.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/808/fnameorig_1748298.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/808/fname_1750297.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 808/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/808?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

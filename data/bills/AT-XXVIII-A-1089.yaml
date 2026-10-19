@@ -1,0 +1,70 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1089
+type: members_bill
+title: Bundes-Verfassungsgesetz, Änderung
+citation: 1089/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1089
+introduced: '2026-10-15'
+introduced_by:
+- Dipl.-Ing. Olga Voglauer
+identifiers:
+  eurovoc:
+  - Verfassung
+  - Verwaltungskontrolle
+  topics:
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Bundesverfassung
+  - Volksanwaltschaft
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Vorgesehen für den Ausschuss für Menschenrechte und Volksanwaltschaft
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-MV/1/00943
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '103. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/103
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '104. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Menschenrechte und Volksanwaltschaft'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/104
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1089/fname_1784312.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1089/fnameorig_1784312.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1089/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1089?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

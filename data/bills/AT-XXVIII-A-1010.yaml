@@ -1,0 +1,55 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1010
+type: members_bill
+title: Einkommenssteuergesetz, Änderung
+citation: 1010/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1010
+introduced: '2026-09-23'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Steuerwesen
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Steuern und Gebühren
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1010/fname_1779841.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1010/fnameorig_1779841.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1010/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1010?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

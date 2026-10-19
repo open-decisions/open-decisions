@@ -1,0 +1,154 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/624
+type: government_bill
+title: Strafrechtsänderungsgesetz, Änderung
+citation: 624 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/624
+introduced: '2026-09-22'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eurovoc:
+  - Strafrecht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Strafrecht
+status:
+  stage: passed_first_chamber
+  source_status: '4'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/122
+  title: Strafrechtsänderungsgesetz 2026
+  citation: 122/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-22'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-22'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 10. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926463.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-30'
+  text: 'Justizausschuss: Bericht 637 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/637
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Auf der Tagesordnung der 101. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/101/TO_16770188.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Dr. Alma Zadić, LL.M. , Kolleginnen
+    und Kollegen betreffend Aktionswoche für den Rechtsstaat - Maßnahmen gegen die Überlastung der Gerichte und Staatsanwaltschaften
+    (224/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/2345
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Beschluss im Nationalrat 214/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/214
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: 'Einlangen im Bundesrat (Frist: 10.12.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_17007697.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Auf der Tagesordnung der 997. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+vote:
+  date: '2026-10-14'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 17
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/624/fname_1779285.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/624/fnameorig_1779285.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/624/fname_1779288.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/624/fname_1779287.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/624/imfname_1779289.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 624 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/624?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

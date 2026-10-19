@@ -1,0 +1,62 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/659
+type: members_bill
+title: Mietrechtsgesetz, Änderung
+citation: 659/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/659
+introduced: '2025-12-16'
+introduced_by:
+- Norbert Sieber
+- Mag. Elke Hanel-Torsch
+- Mag. (FH) Janos Juvan
+identifiers:
+  eurovoc:
+  - Wohnungspolitik
+  topics:
+  - Soziales
+  keywords:
+  - Wohnungswesen
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: Übermittlung an das Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: Vorgesehen für den Ausschuss für Bauten und Wohnen
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BA/1/00919
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: '61. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/61
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-16'
+  text: '62. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Bauten und Wohnen'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/62
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/659/fname_1730683.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/659/fnameorig_1730683.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/659/fname_1732773.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 659/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/659?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

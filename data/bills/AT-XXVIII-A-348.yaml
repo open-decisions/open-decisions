@@ -1,0 +1,184 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/348
+type: members_bill
+title: Bundesgesetz über finanzielle Maßnahmen zur Sicherstellung der Verfügbarkeit von Arzneimitteln, Änderung
+citation: 348/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/348
+introduced: '2025-06-18'
+introduced_by:
+- Mag. Dr. Juliane Bogner-Strauß
+- Rudolf Silvan
+- Fiona Fiedler, BEd
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/38
+  eurovoc:
+  - Apotheke
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Apotheken
+  - Gesundheit
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 38/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_38
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '32. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/32
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '33. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-03'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16535747.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-03'
+  text: 'Gesundheitsausschuss: Bericht 185 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/185
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Auf der Tagesordnung der 37. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/37/TO_16447530.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: '37. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Gerhard Kaniak , Kolleginnen und Kollegen
+    ( AA-22 ) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/person/1970
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: '37. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: '37. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Beschluss im Nationalrat 55/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/55
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: 'Einlangen im Bundesrat (Frist: 05.09.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Zuweisung an den Gesundheitsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-GH-BR/1/00064
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Gesundheitsausschuss des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-GH-BR/1/00064/TO_16617045.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Gesundheitsausschuss des Bundesrates: Bericht 11664/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11664
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Auf der Tagesordnung der 980. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Berichterstattung durch den Bundesrat Sandro Beer'
+  url: https://www.parlament.gv.at/person/31679
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Beschluss im Bundesrat 55/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/55
+vote:
+  date: '2025-07-10'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/348/fname_1694199.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/348/fnameorig_1694199.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/348/fname_1694697.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 348/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/348?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

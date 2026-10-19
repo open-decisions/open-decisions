@@ -1,0 +1,65 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/297
+type: members_bill
+title: Allgemeine Sozialversicherungsgesetz, Änderung
+citation: 297/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/297
+introduced: '2025-05-22'
+introduced_by:
+- Dipl.-Ing. Olga Voglauer
+identifiers:
+  eurovoc:
+  - soziale Sicherheit
+  topics:
+  - Soziales
+  keywords:
+  - Sozialversicherung I. Allgemeine Sozialversicherung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/27
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '28. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/28
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-09'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 9. Oktober 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16535748.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/297/fname_1688039.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/297/fnameorig_1688039.html
+  comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 297/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/297?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

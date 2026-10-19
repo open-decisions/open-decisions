@@ -1,0 +1,76 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/86
+type: members_bill
+title: Volksbefragungs-Novelle 2025
+citation: 86/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/86
+introduced: '2025-03-07'
+introduced_by:
+- MMag. Dr. Michael Schilchegger
+identifiers:
+  eurovoc:
+  - partizipative Demokratie
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Bundesverfassung
+  - Volksbefragung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/11
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '12. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/12
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-13'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 13. März 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16498448.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/86/fname_1671860.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/86/fnameorig_1671860.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/86/fname_1672267.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 86/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/86?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

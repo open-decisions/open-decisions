@@ -1,0 +1,70 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/418
+type: members_bill
+title: Bundes-Verfassungsgesetz, Änderung
+citation: 418/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/418
+introduced: '2025-09-24'
+introduced_by:
+- Dr. Susanne Fürst
+identifiers:
+  eurovoc:
+  - Neutralität
+  - Verfassung
+  topics:
+  - Außenpolitik
+  - Inneres und Recht
+  keywords:
+  - Bundesverfassung
+  - Neutralität
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/418/fname_1712697.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/418/fnameorig_1712697.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 418/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/418?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

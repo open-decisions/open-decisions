@@ -1,0 +1,177 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/502
+type: government_bill
+title: Alternative Investmentfonds Manager-Gesetz, Immobilien-Investmentfondsgesetz u.a., Änderung
+citation: 502 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/502
+introduced: '2026-05-19'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/57
+  eurovoc:
+  - Finanzwesen
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Kreditwesen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 57/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_57
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/76
+  title: Alternative Investmentfonds Manager-Gesetz, Immobilien-Investmentfondsgesetz u.a., Änderung
+  citation: 76/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-19'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/77
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '78. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/78
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Finanzausschuss: auf Tagesordnung in der 12. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FI/1/00921/TO_16707534.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Finanzausschuss: Bericht 543 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/543
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen:
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen:
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Beschluss im Nationalrat 179/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/179
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: 'Einlangen im Bundesrat (Frist: 02.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 10. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_16941658.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Finanzausschuss des Bundesrates: Bericht 11844/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11844
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Auf der Tagesordnung der 994. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Berichterstattung durch den Bundesrat Martin Peterl'
+  url: https://www.parlament.gv.at/person/31080
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, FPÖ, dagegen: GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Beschluss im Bundesrat 179/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/179
+vote:
+  date: '2026-07-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, Dagegen: G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/502/fname_1758216.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/502/fnameorig_1758216.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/502/imfname_1758219.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/502/fname_1758218.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/502/imfname_1758220.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 502 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/502?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

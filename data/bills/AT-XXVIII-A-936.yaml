@@ -1,0 +1,233 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/936
+type: members_bill
+title: Volksgruppengesetz, Gerichtsorganisationsgesetz, Änderung
+citation: 936/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/936
+introduced: '2026-06-11'
+introduced_by:
+- MMag. Dr. Agnes Totter, BEd
+- MMag. Pia Maria Wieninger
+- Michael Bernhard
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/71
+  eurovoc:
+  - ethnische Gruppe
+  - Gerichtswesen
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Bundesverfassung
+  - Volksgruppen
+  - Rechtspflege
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 71/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_71
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Übermittlung an das Bundesministerium für Justiz und das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '84. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/84
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-25'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 14. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16920128.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-25'
+  text: 'Verfassungsausschuss: Bericht 553 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/553
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-25'
+  text: 'Verfassungsausschuss: Selbständiger Antrag betreffend Richter- und Staatsanwaltschaftsdienstgesetz und Arbeits- und
+    Sozialgerichtsgesetz (554 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/554
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-25'
+  text: 'Verfassungsausschuss: Antrag auf Annahme des veränderten Gesetzesvorschlags - Verfassungsbestimmungen ( 553 d.B.
+    ) Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/553
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-25'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-25'
+  text: 'Verfassungsausschuss: Abänderungsantrag der Abgeordneten Mag. Wolfgang Gerstl , Mag. Muna Duzdar , Mag. Gertraud
+    Auinger-Oberzaucher , Dipl.-Ing. Olga Voglauer , Kolleginnen und Kollegen ( 48/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS,
+    GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/67199
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Beschluss im Nationalrat 185/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/185
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten MMag. Dr. Agnes Totter, BEd , MMag. Pia Maria Wieninger
+    , Michael Bernhard , Dipl.-Ing. Olga Voglauer , Kolleginnen und Kollegen ( AA-74 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/5632
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: 'Einlangen im Bundesrat (Frist: 02.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11831/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11831
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Zuweisung an den Ausschuss für Verfassung und Föderalismus des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VF-BR/1/00209
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VF-BR/1/00209/TO_16941743.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: Bericht 11860/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11860
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Auf der Tagesordnung der 994. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Berichterstattung durch den Bundesrat Günther Ruprecht'
+  url: https://www.parlament.gv.at/person/25764
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, Zustimmung zu Verfassungsgesetzen bzw. -bestimmungen, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS,
+    dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: 'Unselbständiger Entschließungsantrag der Bundesräte Andreas Arthur Spanring , Kolleginnen und Kollegen betreffend
+    Keine Schließung von Bezirksgerichten (811/UEA-BR/2026) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, GRÜNE, NEOS'
+  url: https://www.parlament.gv.at/person/3459
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: 'Unselbständiger Entschließungsantrag der Bundesräte Christian Fischer , Sandra Lassnig , Mag. Dr. Julia Deutsch ,
+    Kolleginnen und Kollegen betreffend Evaluierung der Bezirksgerichte unter Einbeziehung regionaler Ebenen (812/UEA-BR/2026)
+    angenommen ( 375/E-BR/2026 ) Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/23968
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Beschluss im Bundesrat 185/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/185
+vote:
+  date: '2026-07-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/936/fname_1765049.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/936/fnameorig_1765049.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/936/fname_1765481.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 936/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/936?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

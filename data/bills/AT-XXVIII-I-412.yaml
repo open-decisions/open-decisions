@@ -1,0 +1,209 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/412
+type: government_bill
+title: EMFG-Begleitgesetz
+citation: 412 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/412
+introduced: '2026-02-25'
+introduced_by:
+- Andreas Babler, MSc (Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/20
+  eurovoc:
+  - Fernsehen
+  - Handel
+  - Hörfunk
+  - Industrie
+  - Presse
+  - Unternehmen und Wettbewerb
+  topics:
+  - Information und Medien
+  - Wirtschaft
+  keywords:
+  - Rundfunk und Fernsehen
+  - Handel, Gewerbe und Industrie
+  - Presse
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 20/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_20
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/48
+  title: EMFG Begleitgesetz – EMFG-BegG
+  citation: 48/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: '67. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/67
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: '68. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/68
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-12'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16814882.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-12'
+  text: 'Verfassungsausschuss: Bericht 415 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/415
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Auf der Tagesordnung der 71. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/71/TO_16604173.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Sigrid Maurer, BA , Kolleginnen und Kollegen (
+    AA-58 ) abgelehnt Dafür: FPÖ, GRÜNE, dagegen: ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/83101
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Klaus Seltenheim , Mag. Johanna Jachs , Henrike
+    Brandstötter , Kolleginnen und Kollegen ( AA-59 ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/32567
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Christian Hafenecker, MA , Kolleginnen
+    und Kollegen betreffend Volle Transparenz statt Privilegienstadl– Schluss mit verdeckten Zusatzleistungen beim ORF (171/UEA)
+    abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/person/78586
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (mehrstimmig (dafür:
+    V, S, N bzw. F, V, S, N))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Beschluss im Nationalrat 143/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/143
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-27'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: 'Einlangen im Bundesrat (Frist: 22.05.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11783/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11783
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Zuweisung an den Ausschuss für Verfassung und Föderalismus des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VF-BR/1/00209
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-04-08'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: Bericht 11787/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11787
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-04-08'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VF-BR/1/00209/TO_16837937.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: Auf der Tagesordnung der 989. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/989
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: '989. Sitzung: Berichterstattung durch die Bundesrätin Gabriele Kolar'
+  url: https://www.parlament.gv.at/person/31956
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: '989. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: '989. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: Beschluss im Bundesrat 143/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/143
+vote:
+  date: '2026-03-25'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/412/fname_1741164.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/412/fnameorig_1741164.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/412/fname_1741167.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/412/fname_1741166.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/412/imfname_1741168.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 412 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/412?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

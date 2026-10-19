@@ -1,0 +1,83 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/419
+type: members_bill
+title: Scharia-Verbotsnovelle
+citation: 419/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/419
+introduced: '2025-09-24'
+introduced_by:
+- MMag. Dr. Michael Schilchegger
+identifiers:
+  eurovoc:
+  - Bürgerliches Recht
+  - Gesetzgebungsverfahren
+  - Religion
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  - Kultur
+  keywords:
+  - Bundesverfassung
+  - Erste Lesungen
+  - Religion
+  - Zivilrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 24.12.2025)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: '46. Sitzung des Nationalrates: Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-07'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 13. Sitzung des Ausschusses In der Sitzung vom 7. Mai 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16872799.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/419/fname_1712707.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/419/fnameorig_1712707.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 419/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/419?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

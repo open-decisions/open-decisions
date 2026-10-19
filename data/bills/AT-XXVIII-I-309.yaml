@@ -1,0 +1,598 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/309
+type: government_bill
+title: Anti-Mogelpackungs-Gesetz
+citation: 309 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/309
+introduced: '2025-11-20'
+introduced_by:
+- Mag. Dr. Wolfgang Hattmannsdorfer (Bundesministerium für Wirtschaft, Energie und Tourismus)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/9
+  eurovoc:
+  - Handel
+  - Industrie
+  - Preis
+  - Unternehmen und Wettbewerb
+  topics:
+  - Budget und Finanzen
+  - Wirtschaft
+  keywords:
+  - Handel, Gewerbe und Industrie
+  - Preise
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 9/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_9
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '53. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/53
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '54. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/54
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung
+    vom 20. November 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16720339.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Beschlussfassung auf Einholung schriftlicher Stellungnahmen im Rahmen
+    eines "Ausschussbegutachtungsverfahrens"'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Ausschussbegutachtung der Vorlage ( 51/AUA )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/AUA/51
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Bildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für europäische und internationale Angelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Finanzen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Frauen, Wissenschaft und Forschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Inneres - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Innovation, Mobilität und Infrastruktur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Justiz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz,
+    Regionen und Wasserwirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Landesverteidigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wirtschaft, Energie und Tourismus - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Burgenländischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Kärntner Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Niederösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Salzburger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Steiermärkischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Tiroler Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer; Abteilung Konsument:innenpolitik - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer; Abteilung Wirtschaftspolitik - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundes-Gleichbehandlungskommission - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskartellanwalt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskonferenz der Freien Berufe Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesseniorenbeirat beim Bundesministerium für Arbeit, Soziales, Gesundheit,
+    Pflege und Konsumentenschutz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundessparte Handel - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverwaltungsgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeswettbewerbsbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Datenschutzrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Energie-Control - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachverband Gas Wärme - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachverband Gas Wärme; Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachverband Lebensmitteleinzelhandel - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachverband Lebensmittelindustrie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Finanzmarktaufsicht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Foodwatch Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Generalprokuratur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Geschäftsstelle der Bioethikkommission beim Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Gleichbehandlungsanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Handel mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien
+    und Farben, Bundesgremium - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Handelsverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Industriellenvereinigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Industriellenvereinigung; Wirtschafts-, Finanz- & Rechtspolitik - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut f. Europarecht der Universität Graz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut f. Europarecht der Universität Linz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut f. Europarecht und Völkerrecht Universität Innsbruck - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Höhere Studien (IHS) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kammer der Wirtschaftstreuhänder - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landwirtschaftskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Lehrstuhl Abfallverwertungstechnik und Abfallwirtschaft der Montanuniversität
+    Leoben - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Markenartikelverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Oberster Gerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Oesterreichische Nationalbank - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österr. Rechtsanwaltskammertag - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Datenschutzbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Notariatskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Universitätenkonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Vereinigung für Gas und Wasser - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gemeindebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gewerkschaftsbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Städtebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichisches Institut für Wirtschaftsforschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichs E-Wirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Parlamentarisches Datenschutzkommitee - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Präsidentschaftskanzlei - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Präsidium der Finanzprokuratur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechnungshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtsanwaltskammer Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rundfunk und Telekom Regulierungs-GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Schutzverband gegen unlauteren Wettbewerb - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Statistik Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Statistikrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verbindungsstelle der Bundesländer beim Amt der Niederösterreichischen
+    Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verein für Konsumenteninformation - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung österreichischer Bezirkshauptleute - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung Österreichischer Elektrizitätswerke - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung Österreichischer Elektrizitätswerke, Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung Österreichischer Richter - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verfassungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verwaltungsgericht Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verwaltungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Volksanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wettbewerbskommission - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wiener Institut für Internationale Wirtschaftsvergleiche - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftskammer Österreich; Abteilung für Rechtspolitik - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftskammer Österreich; Abteilung für Rechtspolitik (Abteilungsleitung)
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-09'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 6. Sitzung des Ausschusses Wiederaufnahme
+    der am 20. November 2025 vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16703411.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-09'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: Bericht 359 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/359
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Beschluss im Nationalrat 135/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/135
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Auf der Tagesordnung der 66. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/66/TO_16604166.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: '66. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: '66. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-02-27'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-02-27'
+  text: 'Einlangen im Bundesrat (Frist: 24.04.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-02-27'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-02-27'
+  text: Zuweisung an den Wirtschaftsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WR-BR/1/00312
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-10'
+  text: 'Wirtschaftsausschuss des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WR-BR/1/00312/TO_16809243.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-10'
+  text: 'Wirtschaftsausschuss des Bundesrates: Bericht 11774/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11774
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-12'
+  text: Auf der Tagesordnung der 987. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/987
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-12'
+  text: '987. Sitzung: Berichterstattung durch den Bundesrat Mag. Karl Weber, MSc'
+  url: https://www.parlament.gv.at/person/33346
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-12'
+  text: '987. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-12'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-12'
+  text: '987. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-03-12'
+  text: Beschluss im Bundesrat 135/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/135
+vote:
+  date: '2026-02-25'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/309/fname_1723253.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/309/fnameorig_1723253.html
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/309/fname_1723255.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/309/imfname_1723256.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 309 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/309?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

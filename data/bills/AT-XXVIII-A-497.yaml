@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/497
+type: members_bill
+title: Fortpflanzungsmedizingesetz, Änderung
+citation: 497/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/497
+introduced: '2025-10-15'
+introduced_by:
+- Barbara Neßler
+identifiers:
+  eurovoc:
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Übermittlung an das Bundesministerium für Frauen, Wissenschaft und Forschung, das Bundesministerium für Arbeit, Soziales,
+    Gesundheit, Pflege und Konsumentenschutz und Büro der Bundesministerin für Europa, Integration und Familie
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Vorgesehen für den Ausschuss für Familie und Jugend
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FA/1/00920
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '45. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Familie und Jugend'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/45
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-15'
+  text: 'Ausschuss für Familie und Jugend: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 15. Jänner
+    2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FA/1/00920/TO_16691362.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/497/fname_1716522.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/497/fnameorig_1716522.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 497/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/497?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

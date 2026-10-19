@@ -1,0 +1,219 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/445
+type: government_bill
+title: Obsorge für unbegleitete Minderjährige-Gesetz – ObUM-G
+citation: 445 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/445
+introduced: '2026-03-24'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/40
+  eurovoc:
+  - Bürgerliches Recht
+  - Flüchtling
+  - junger Mensch
+  topics:
+  - Außenpolitik
+  - Familie und Generationen
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+  - Flüchtlinge
+  - Jugend
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 40/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_40
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/84
+  title: Obsorge für unbegleitete Minderjährige-Gesetz – ObUM-G
+  citation: 84/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-24'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-24'
+  text: Vorgesehen für den Ausschuss für innere Angelegenheiten
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-IA/1/00924
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/71
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '72. Sitzung des Nationalrates : Zuweisung an den Ausschuss für innere Angelegenheiten'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/72
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '72. Sitzung des Nationalrates : Antrag der Abgeordneten Mag. Ernst Gödl , Maximilian Köllner, MA und Mag. Sophie
+    Marie Wotschke auf Fristsetzung zur Berichterstattung durch den Ausschuss für innere Angelegenheiten ( 703/GO ) angenommen
+    Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/72
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: 'Ausschuss für innere Angelegenheiten: Fristsetzung für Berichterstattung: 19.05.2026'
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-14'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 12. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16814454.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-14'
+  text: 'Ausschuss für innere Angelegenheiten: Bericht 458 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/458
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Auf der Tagesordnung der 77. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/77/TO_16604237.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Ernst Gödl , Christian Oxonitsch , Mag. Sophie
+    Marie Wotschke , Kolleginnen und Kollegen ( AA-68 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/83409
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Gernot Darmann , Kolleginnen
+    und Kollegen betreffend Verpflichtende Altersfeststellung bei Zweifeln an der Altersangabe von vermeintlich minderjährigen
+    Fremden (187/UEA) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/person/35469
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Beschluss im Nationalrat 161/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/161
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-21'
+  text: 'Einlangen im Bundesrat (Frist: 16.07.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-21'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-22'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11811/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11811
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-05-21'
+  text: Zuweisung an den Ausschuss für innere Angelegenheiten des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-IN-BR/1/00108
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-01'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-IN-BR/1/00108/TO_16890093.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-01'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: Bericht 11815/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11815
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Auf der Tagesordnung der 991. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/991
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Berichterstattung durch den Bundesrat Ing. Thomas Schmid'
+  url: https://www.parlament.gv.at/person/32337
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Günter Pröller , Kolleginnen und Kollegen betreffend
+    Verpflichtende Altersfestsetzung bei Zweifeln an der Altersangabe von vermeintlich minderjährigen Fremden (808/UEA-BR/2026)
+    abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, GRÜNE, NEOS'
+  url: https://www.parlament.gv.at/person/20233
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Beschluss im Bundesrat 161/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/161
+vote:
+  date: '2026-05-20'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/445/fname_1747035.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/445/fnameorig_1747035.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/445/fname_1747038.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/445/fname_1747037.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/445/imfname_1747039.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 445 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/445?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

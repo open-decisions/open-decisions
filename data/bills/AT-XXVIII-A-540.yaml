@@ -1,0 +1,72 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/540
+type: members_bill
+title: Untersuchungsausschuss-Livestream-Novelle 2025
+citation: 540/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/540
+introduced: '2025-10-16'
+introduced_by:
+- Mag. Norbert Nemeth
+identifiers:
+  eurovoc:
+  - Fernsehen
+  - Geschäftsordnung des Parlaments
+  - Gesetzgebungsverfahren
+  - Hörfunk
+  - Internet
+  topics:
+  - Information und Medien
+  - Parlament und Demokratie
+  keywords:
+  - Erste Lesungen
+  - Geschäftsordnung des Nationalrates
+  - Untersuchungsausschüsse
+  - Internet
+  - Rundfunk und Fernsehen
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Vorgesehen für den Geschäftsordnungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 16.01.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: '46. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/46
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates: Zuweisung an den Geschäftsordnungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/540/fname_1717225.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/540/fnameorig_1717225.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 540/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/540?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

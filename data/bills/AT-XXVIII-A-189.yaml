@@ -1,0 +1,64 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/189
+type: members_bill
+title: Zweites Ehe- und Partnerschaftsrechts-Änderungsgesetz 2025 – 2. EPaRÄG 2025
+citation: 189/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/189
+introduced: '2025-03-27'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Bürgerliches Recht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '15. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/15
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '16. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/16
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-24'
+  text: 'Justizausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 24. Juni 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16588613.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/189/fname_1674693.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/189/fnameorig_1674693.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 189/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/189?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,290 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/494
+type: government_bill
+title: Bundesfinanzgesetz 2027 – BFG 2027 samt Anlagen
+citation: 494 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/494
+introduced: '2026-06-10'
+introduced_by: []
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/54
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Haushaltsplan
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Bundeshaushalt I. Bundesfinanzgesetze
+  - Erste Lesungen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 54/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_54
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Bundesfinanzgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '81. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/81
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-12'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates: Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-26'
+  text: Livestream zur Sitzung ( 1/A-VER )
+  url: https://www.parlament.gv.at/aktuelles/mediathek/XXVIII/A-VER/1
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-26'
+  text: 'Budgetausschuss: auf Tagesordnung in der 16. Sitzung des Ausschusses In der Sitzung vom 26. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816634.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-29'
+  text: 'Budgetausschuss: auf Tagesordnung in der 19. Sitzung des Ausschusses Wiederaufnahme der am 26. Juni 2026 vertagten
+    Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816647.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Budgetausschuss: auf Tagesordnung in der 19. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816648.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: 'Budgetausschuss: auf Tagesordnung in der 19. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816649.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-02'
+  text: 'Budgetausschuss: auf Tagesordnung in der 19. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816650.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-03'
+  text: 'Budgetausschuss: auf Tagesordnung in der 19. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16816653.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-03'
+  text: 'Budgetausschuss: Bericht 587 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/587
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Beschluss im Nationalrat 202/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/202
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Auf der Tagesordnung der 91. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/91/TO_16928813.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: '91. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Getrennte Abstimmung (teils einstimmig,
+    teils mehrstimmig (dafür: V, S, tlw. N bzw. V, S, N))'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: '91. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-13'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-13'
+  text: 'Einlangen im Bundesrat (Frist: 08.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-13'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung : Bekanntgabe des Gesetzesbeschlusses'
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/993
+vote:
+  date: '2026-07-10'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/494/fname_1763055.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/494/fnameorig_1763055.html
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/494/imfname_1763224.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 494 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/494?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

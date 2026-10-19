@@ -1,0 +1,67 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/104
+type: members_bill
+title: Beamten-Kranken- und Unfallversicherungsgesetz, Änderung
+citation: 104/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/104
+introduced: '2025-03-07'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - öffentliche Verwaltung
+  - öffentlicher Dienst
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Öffentlicher Dienst
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Übermittlung an das Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/11
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '12. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/12
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-09'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 2. Sitzung des Ausschusses In der Sitzung vom 9. April
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16512488.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/104/fname_1672027.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/104/fnameorig_1672027.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/104/fname_1672377.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 104/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/104?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

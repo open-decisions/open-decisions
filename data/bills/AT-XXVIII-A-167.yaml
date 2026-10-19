@@ -1,0 +1,380 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/167
+type: members_bill
+title: Asylgesetz, Änderung
+citation: 167/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/167
+introduced: '2025-03-26'
+introduced_by:
+- Mag. Ernst Gödl
+- Maximilian Köllner, MA
+- Mag. Sophie Marie Wotschke
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/17
+  eurovoc:
+  - Flüchtling
+  topics:
+  - Außenpolitik
+  - Inneres und Recht
+  keywords:
+  - Flüchtlinge
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 17/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_17
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Ausschuss für innere Angelegenheiten
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-IA/1/00924
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '14. Sitzung des Nationalrates : Zuweisung an den Ausschuss für innere Angelegenheiten'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/14
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: 'Ausschuss für innere Angelegenheiten: Beschlussfassung auf Einholung schriftlicher Stellungnahmen im Rahmen eines
+    "Ausschussbegutachtungsverfahrens"'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Ausschussbegutachtung der Vorlage ( 1/AUA )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/AUA/1
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Arbeit und Wirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Bildung, Wissenschaft und Forschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für europäische und internationale Angelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Finanzen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Justiz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation
+    und Technologie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Landesverteidigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Burgenländischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Kärntner Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Niederösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Steiermärkischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Tiroler Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Asyl in Not - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Asylkoordination Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesagentur für Betreuungs- und Unterstützungsleistungen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt; Verfassungsdienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverwaltungsgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Caritas Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Diakonie Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Fairness-Asyl - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Integrationsfonds; Fonds zur Integration von Flüchtlingen
+    und MigrantInnen (ÖIF) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Rechnungshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Salzburger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von SOS Kinderdorf - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von SOS Menschenrechte - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Verbindungsstelle der Bundesländer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Verfassungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Antrag auf Einholung einer Stellungnahme von Volksanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 27. März
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16505560.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-22'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 4. Sitzung des Ausschusses Wiederaufnahme der am 27.
+    März 2025 vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16505582.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-22'
+  text: 'Ausschuss für innere Angelegenheiten: Bericht 77 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/77
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Beschluss im Nationalrat 24/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/24
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Auf der Tagesordnung der 19. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/19/TO_16447521.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Gernot Darmann , Kolleginnen
+    und Kollegen betreffend Ausstieg aus dem EU-Asylrecht (35/UEA) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/person/35469
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Agnes Sirkka Prammer ,
+    Kolleginnen und Kollegen betreffend Integrationsbarometer (36/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/6502
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Ernst Gödl , Maximilian Köllner, MA , Mag.
+    Sophie Marie Wotschke , Kolleginnen und Kollegen ( AA-12 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/83409
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen wechselnde Mehrheiten (dafür: V, S,
+    N, G bzw. V, S, N)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-04-28'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-05'
+  text: Auf der Tagesordnung der 1501. Sitzung
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/1501/TO_16810850.html
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-04-28'
+  text: 'Einlangen im Bundesrat (Frist: 23.06.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-04-28'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-04-28'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11631/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11631
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-04-28'
+  text: Zuweisung an den Ausschuss für innere Angelegenheiten des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-IN-BR/1/00108
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-05-06'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: Bericht 11634/BR d.B. und Zu 11634/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11634
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-05-06'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-IN-BR/1/00108/TO_16531718.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: Auf der Tagesordnung der 977. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/977
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: '977. Sitzung: Berichterstattung durch den Bundesrat Christoph Stillebacher'
+  url: https://www.parlament.gv.at/person/22824
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: '977. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: '977. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: '977. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Mag. Isabella Theuermann , Kolleginnen und Kollegen
+    betreffend Ausstieg aus dem EU-Asylrecht (750/UEA-BR/2025) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, GRÜNE, NEOS'
+  url: https://www.parlament.gv.at/person/24111
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: '977. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Claudia Hauschildt-Buschberger , Kolleginnen und
+    Kollegen betreffend Integrationsbarometer (751/UEA-BR/2025) abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ, FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5932
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-05-08'
+  text: Beschluss im Bundesrat 24/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/24
+vote:
+  date: '2025-04-25'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/167/fname_1673834.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/167/fnameorig_1673834.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/167/fname_1675181.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 167/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/167?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

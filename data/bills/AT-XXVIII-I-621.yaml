@@ -1,0 +1,147 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/621
+type: government_bill
+title: Bankwesengesetz, Finanzmarktaufsichtsbehördengesetz u.a., Änderung
+citation: 621 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/621
+introduced: '2026-09-22'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eurovoc:
+  - Finanzwesen
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Kreditwesen
+status:
+  stage: passed_first_chamber
+  source_status: '4'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/108
+  title: Bankwesengesetz, Finanzmarktaufsichtsbehördengesetz u.a., Änderung
+  citation: 108/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-22'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-22'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-29'
+  text: 'Finanzausschuss: auf Tagesordnung in der 14. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-FI/1/00921/TO_16949153.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-29'
+  text: 'Finanzausschuss: Bericht 634 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/634
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Auf der Tagesordnung der 101. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/101/TO_16770188.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Beschluss im Nationalrat 217/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/217
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: 'Einlangen im Bundesrat (Frist: 10.12.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-15'
+  text: Zuweisung an den Finanzausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-FI-BR/1/00053
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
+  text: 'Finanzausschuss des Bundesrates: auf Tagesordnung in der 12. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-FI-BR/1/00053/TO_17007698.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Auf der Tagesordnung der 997. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+vote:
+  date: '2026-10-14'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 17
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/621/fname_1779237.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/621/fnameorig_1779237.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/621/imfname_1779240.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/621/fname_1779239.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/621/imfname_1779241.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 621 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/621?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

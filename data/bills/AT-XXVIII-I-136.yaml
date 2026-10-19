@@ -1,0 +1,172 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/136
+type: government_bill
+title: Staatsschutz- und Nachrichtendienst-Gesetz, Sicherheitspolizeigesetz u.a., Änderung
+citation: 136 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/136
+introduced: '2025-06-18'
+introduced_by:
+- Mag. Gerhard Karner (Bundesministerium für Inneres)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/54
+  eurovoc:
+  - namentliche Abstimmung
+  - öffentliche Sicherheit
+  - Strafrecht
+  - Telekommunikation
+  - Verfassungsgerichtsbarkeit
+  - Verwaltungsgerichtsbarkeit
+  topics:
+  - Information und Medien
+  - Inneres und Recht
+  keywords:
+  - Abstimmungen, namentliche
+  - Sicherheitswesen
+  - Strafrecht
+  - Telekommunikation
+  - Verfassungs- und Verwaltungsgerichtsbarkeit
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 54/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_54
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/8
+  title: Staatsschutz- und Nachrichtendienst-Gesetz, Sicherheitspolizeigesetz u.a., Änderung
+  citation: 8/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Vorgesehen für den Ausschuss für innere Angelegenheiten
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-IA/1/00924
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '33. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '34. Sitzung des Nationalrates : Zuweisung an den Ausschuss für innere Angelegenheiten'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/34
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-02'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16569422.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-02'
+  text: 'Ausschuss für innere Angelegenheiten: Bericht 164 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/164
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Auf der Tagesordnung der 35. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/35/TO_16447529.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen mehrstimmig (dafür: V, S, teilweise
+    N)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Namentliche Abstimmung (abgegebene
+    Stimmen: 176; davon Ja-Stimmen: 105, Nein-Stimmen: 71)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Beschluss im Nationalrat 40/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/40
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-10'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-10'
+  text: 'Einlangen im Bundesrat (Frist: 04.09.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-10'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-10'
+  text: Zuweisung an den Ausschuss für innere Angelegenheiten des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-IN-BR/1/00108
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: Bericht 11669/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11669
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-IN-BR/1/00108/TO_16617089.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Auf der Tagesordnung der 980. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Berichterstattung durch den Bundesrat Christoph Stillebacher'
+  url: https://www.parlament.gv.at/person/22824
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Namentliche Abstimmung (abgegebene Stimmen: 59; 40
+    Ja-Stimmen, 19 Nein-Stimmen)'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Günter Pröller , Kolleginnen und Kollegen betreffend
+    Stärkung des Staatsschutzes im Kampf gegen den islamistischen Terrorismus (763/UEA-BR/2025) abgelehnt Dafür: FPÖ, dagegen:
+    ÖVP, SPÖ, GRÜNE, NEOS'
+  url: https://www.parlament.gv.at/person/20233
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Beschluss im Bundesrat 40/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/40
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/136/fname_1693648.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/136/fnameorig_1693648.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/136/imfname_1693651.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/136/fname_1693650.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/136/imfname_1693652.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 136 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/136?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,83 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/581
+type: members_bill
+title: Arbeitslosenversicherungsgesetz, Änderung
+citation: 581/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/581
+introduced: '2025-11-19'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Arbeitslosenversicherung
+  topics:
+  - Soziales
+  keywords:
+  - Sozialversicherung V. Arbeitslosenversicherung
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '50. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/50
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '51. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/51
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-03'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16595101.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-03'
+  text: 'Ausschuss für Arbeit und Soziales: Bericht 349 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/349
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Auf der Tagesordnung der 57. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/57/TO_16447541.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen: GRÜNE'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/581/fname_1722953.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/581/fnameorig_1722953.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 581/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/581?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

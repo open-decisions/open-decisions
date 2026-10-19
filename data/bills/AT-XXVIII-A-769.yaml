@@ -1,0 +1,68 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/769
+type: members_bill
+title: Novelle zur Aufwertung des Ständigen Unterausschusses des Rechnungshofausschusses
+citation: 769/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/769
+introduced: '2026-03-25'
+introduced_by:
+- Mag. Norbert Nemeth
+identifiers:
+  eurovoc:
+  - Geschäftsordnung des Parlaments
+  - Gesetzgebungsverfahren
+  - Strafrecht
+  topics:
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Erste Lesungen
+  - Geschäftsordnung des Nationalrates
+  - Strafrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Vorgesehen für den Geschäftsordnungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 25.06.2026)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/71
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates: Zuweisung an den Geschäftsordnungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/769/fname_1748341.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/769/fnameorig_1748341.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 769/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/769?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

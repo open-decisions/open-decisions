@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/114
+type: members_bill
+title: 36. StVO-Novelle
+citation: 114/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/114
+introduced: '2025-03-07'
+introduced_by:
+- Mag. Lukas Hammer
+identifiers:
+  eurovoc:
+  - Straßenverkehr
+  topics:
+  - Verkehr und Infrastruktur
+  keywords:
+  - Verkehr I. Straßenverkehr
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Übermittlung an das Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/11
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '12. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/12
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-20'
+  text: 'Ausschuss für Verkehr und Mobilität: auf Tagesordnung in der 2. Sitzung des Ausschusses In der Sitzung vom 20. März
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VE/1/00939/TO_16500100.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/114/fname_1671966.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/114/fnameorig_1671966.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/114/fname_1672343.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 114/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/114?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

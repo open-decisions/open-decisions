@@ -1,0 +1,91 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/466
+type: members_bill
+title: Sicherheitspolizeigesetz, Änderung
+citation: 466/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/466
+introduced: '2025-09-24'
+introduced_by:
+- Mag. Meri Disoski
+identifiers:
+  eurovoc:
+  - öffentliche Sicherheit
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Sicherheitswesen
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Übermittlung an das Bundesministerium für Inneres und das Bundesministerium für Frauen, Wissenschaft und Forschung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Gleichbehandlungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GL/1/00923
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Zuweisung an den Gleichbehandlungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-21'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 21. Oktober 2025
+    vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16566800.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-17'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses Wiederaufnahme der am 21. Oktober
+    2025 vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16707129.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-17'
+  text: 'Gleichbehandlungsausschuss: Bericht 427 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/427
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Auf der Tagesordnung der 73. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/73/TO_16604191.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '73. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen: GRÜNE'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/466/fname_1712366.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/466/fnameorig_1712366.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/466/fname_1714082.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 466/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/466?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

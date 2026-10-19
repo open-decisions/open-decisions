@@ -1,0 +1,182 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/529
+type: government_bill
+title: Zahnärztequalitätssicherungsgesetz 2026
+citation: 529 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/529
+introduced: '2026-06-10'
+introduced_by:
+- Korinna Schumann (Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/64
+  eurovoc:
+  - Gesundheit
+  - soziale Sicherheit
+  topics:
+  - Gesundheit und Ernährung
+  - Soziales
+  keywords:
+  - Gesundheit
+  - Sozialversicherung I. Allgemeine Sozialversicherung
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 64/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_64
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '82. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/82
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765624.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Gesundheitsausschuss: Bericht 548 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/548
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Gesundheitsausschuss: Abänderungsantrag der Abgeordneten Rudolf Silvan , Mag. Dr. Juliane Bogner-Strauß , Mag. Christoph
+    Pramhofer , Kolleginnen und Kollegen ( 47/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/5646
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Beschluss im Nationalrat 183/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/183
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: 'Einlangen im Bundesrat (Frist: 02.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Zuweisung an den Gesundheitsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-GH-BR/1/00064
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Gesundheitsausschuss des Bundesrates: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-GH-BR/1/00064/TO_16941722.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Gesundheitsausschuss des Bundesrates: Bericht 11853/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11853
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Auf der Tagesordnung der 994. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Berichterstattung durch die Bundesrätin Verena Schweiger, BA MA MA'
+  url: https://www.parlament.gv.at/person/33455
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Beschluss im Bundesrat 183/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/183
+vote:
+  date: '2026-07-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/529/fname_1763556.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/529/fnameorig_1763556.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/529/fname_1763559.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/529/fname_1763558.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/529/imfname_1763560.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 529 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/529?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

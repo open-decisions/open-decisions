@@ -1,0 +1,59 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/500
+type: members_bill
+title: Historische-Fahrzeuge-Novelle
+citation: 500/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/500
+introduced: '2025-10-15'
+introduced_by:
+- Christian Hafenecker, MA
+identifiers:
+  eurovoc:
+  - Straßenverkehr
+  topics:
+  - Verkehr und Infrastruktur
+  keywords:
+  - Verkehr I. Straßenverkehr
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Übermittlung an das Bundesministerium für Innovation, Mobilität und Infrastruktur
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Vorgesehen für den Ausschuss für Verkehr und Mobilität
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '45. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Verkehr und Mobilität'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/45
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/500/fname_1717202.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/500/fnameorig_1717202.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 500/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/500?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

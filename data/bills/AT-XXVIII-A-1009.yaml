@@ -1,0 +1,61 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1009
+type: members_bill
+title: Wirtschaftskammergesetz, Änderung
+citation: 1009/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1009
+introduced: '2026-09-23'
+introduced_by:
+- Dr. Elisabeth Götze
+identifiers:
+  eurovoc:
+  - Handel
+  - Industrie
+  - Unternehmen und Wettbewerb
+  topics:
+  - Wirtschaft
+  keywords:
+  - Handel, Gewerbe und Industrie
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1009/fname_1779840.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1009/fnameorig_1779840.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1009/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1009?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

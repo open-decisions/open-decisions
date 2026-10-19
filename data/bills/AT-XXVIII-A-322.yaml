@@ -1,0 +1,152 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/322
+type: members_bill
+title: Geschäftsordnungsgesetz, Änderung
+citation: 322/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/322
+introduced: '2025-06-16'
+introduced_by:
+- Mag. Norbert Nemeth
+- Mag. Wolfgang Gerstl
+- Mag. Muna Duzdar
+- Dr. Nikolaus Scherak, MA
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/32
+  eurovoc:
+  - Geschäftsordnung des Parlaments
+  - Gesetzgebungsverfahren
+  topics:
+  - Parlament und Demokratie
+  keywords:
+  - Erste Lesungen
+  - Geschäftsordnung des Nationalrates
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 32/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_32
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Vorgesehen für den Geschäftsordnungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: Erste Lesung zwingend vorgeschrieben
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '30. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/30
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-16'
+  text: '31. Sitzung des Nationalrates: Zuweisung an den Geschäftsordnungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: 'Geschäftsordnungsausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GO/1/00914/TO_16581948.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-17'
+  text: 'Geschäftsordnungsausschuss: Bericht 124 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/124
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Auf der Tagesordnung der 35. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/35/TO_16447529.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: Auf der Tagesordnung der 39. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/39/TO_16447531.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: '39. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: Beschluss im Nationalrat 59/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/59
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: 'Einlangen im Bundesrat (Frist: 05.09.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung : Bekanntgabe des Gesetzesbeschlusses'
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980
+vote:
+  date: '2025-07-11'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/322/fname_1692730.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/322/fnameorig_1692730.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/322/fname_1693072.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 322/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/322?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

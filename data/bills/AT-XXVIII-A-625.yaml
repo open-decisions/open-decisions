@@ -1,0 +1,71 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/625
+type: members_bill
+title: Tierärztegesetz, Änderung
+citation: 625/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/625
+introduced: '2025-11-20'
+introduced_by:
+- Mag. Gerhard Kaniak
+identifiers:
+  eurovoc:
+  - Tiermedizin
+  - Tierschutz
+  topics:
+  - Klima, Umwelt und Energie
+  - Land- und Forstwirtschaft
+  keywords:
+  - Veterinärwesen und Tierschutz
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/52
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '53. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/53
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses In der Sitzung vom 2. Dezember 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16706758.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung vom 23. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765624.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/625/fname_1723461.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/625/fnameorig_1723461.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 625/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/625?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

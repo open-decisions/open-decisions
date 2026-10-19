@@ -1,0 +1,135 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/71
+type: members_bill
+title: Gesetzliches Budgetprovisorium 2025, Bundesfinanzrahmengesetz 2024 bis 2027, Änderung
+citation: 71/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/71
+introduced: '2025-02-26'
+introduced_by:
+- Mag. Andreas Hanger
+- Kai Jan Krainer
+- Dipl.-Ing. Karin Doppelbauer
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/8
+  eurovoc:
+  - Haushaltsplan
+  topics:
+  - Budget und Finanzen
+  keywords:
+  - Bundeshaushalt I. Bundesfinanzgesetze
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 8/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_8
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '9. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/9
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '10. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/10
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-06'
+  text: 'Budgetausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16491193.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-06'
+  text: 'Budgetausschuss: Bericht 32 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/32
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Auf der Tagesordnung der 11. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/11/TO_16492284.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Beschluss im Nationalrat 12/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/12
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-03-10'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-03-10'
+  text: 'Einlangen im Bundesrat (Frist: 05.05.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-03-10'
+  text: kein Mitwirkungsrecht des Bundesrats
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-03-13'
+  text: '975. Sitzung : Bekanntgabe des Gesetzesbeschlusses'
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/975
+vote:
+  date: '2025-03-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/71/fname_1670816.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/71/fnameorig_1670816.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/71/fname_1670853.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 71/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/71?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

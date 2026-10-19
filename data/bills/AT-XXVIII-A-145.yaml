@@ -1,0 +1,72 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/145
+type: members_bill
+title: Hochschülerinnen- und Hochschülerschaftsgesetz, Änderung
+citation: 145/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/145
+introduced: '2025-03-26'
+introduced_by:
+- Mag. Dr. Martin Graf
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Hochschulausbildung
+  topics:
+  - Bildung
+  keywords:
+  - Bildungswesen IV. Universitäten und Hochschulen
+  - Erste Lesungen
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Übermittlung an das Bundesministerium für Bildung, Wissenschaft und Forschung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Ausschuss für Wissenschaft, Forschung und Digitalisierung
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 26.06.2025)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-25'
+  text: '19. Sitzung des Nationalrates: Zuweisung an den Ausschuss für Wissenschaft, Forschung und Digitalisierung'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-04'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: auf Tagesordnung in der 3. Sitzung des Ausschusses In
+    der Sitzung vom 4. Juni 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WI/1/00941/TO_16558575.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/145/fname_1674725.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/145/fnameorig_1674725.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/145/fname_1675711.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 145/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/145?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

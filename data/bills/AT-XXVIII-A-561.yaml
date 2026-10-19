@@ -1,0 +1,189 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/561
+type: members_bill
+title: Dienstrechts-Novelle 2025
+citation: 561/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/561
+introduced: '2025-11-19'
+introduced_by:
+- Mag. Romana Deckenbacher
+- Mag. Muna Duzdar
+- Dr. Nikolaus Scherak, MA
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/100
+  eurovoc:
+  - öffentliche Verwaltung
+  - öffentlicher Dienst
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Öffentlicher Dienst
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 100/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_100
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '50. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/50
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '51. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/51
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-27'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16727703.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-27'
+  text: 'Verfassungsausschuss: Bericht 319 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/319
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-27'
+  text: 'Verfassungsausschuss: Abänderungsantrag der Abgeordneten Sigrid Maurer, BA , Kolleginnen und Kollegen ( 18/AAA )
+    abgelehnt Dafür: FPÖ, GRÜNE, dagegen: ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/83101
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: Auf der Tagesordnung der 59. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/59/TO_16450173.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: '59. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Romana Deckenbacher , Mag. Muna Duzdar , Mag.
+    Sophie Marie Wotschke , Kolleginnen und Kollegen ( AA-45 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/6506
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: '59. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: '59. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: Beschluss im Nationalrat 124/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/124
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-15'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-15'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11724/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11724
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-15'
+  text: 'Einlangen im Bundesrat (Frist: 09.02.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-15'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-15'
+  text: Zuweisung an den Ausschuss für Verfassung und Föderalismus des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VF-BR/1/00209
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VF-BR/1/00209/TO_16748117.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: Bericht 11735/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11735
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Auf der Tagesordnung der 984. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/984
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Berichterstattung durch die Bundesrätin Klara Neurauter'
+  url: https://www.parlament.gv.at/person/3487
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: '984. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-17'
+  text: Beschluss im Bundesrat 124/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/124
+vote:
+  date: '2025-12-12'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/561/fname_1722806.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/561/fnameorig_1722806.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 561/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/561?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

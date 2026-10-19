@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/679
+type: members_bill
+title: Geschäftsordnungsgesetz, Änderung
+citation: 679/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/679
+introduced: '2026-01-21'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Geschäftsordnung des Parlaments
+  - Gesetzgebungsverfahren
+  topics:
+  - Parlament und Demokratie
+  keywords:
+  - Erste Lesungen
+  - Geschäftsordnung des Nationalrates
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Erste Lesung zwingend vorgeschrieben
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Vorgesehen für den Geschäftsordnungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/63
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: '66. Sitzung des Nationalrates: Zuweisung an den Geschäftsordnungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/679/fname_1734972.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/679/fnameorig_1734972.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/679/fname_1735581.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 679/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/679?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

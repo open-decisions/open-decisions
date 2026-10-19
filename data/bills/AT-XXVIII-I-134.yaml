@@ -1,0 +1,185 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/134
+type: government_bill
+title: Bankwesengesetz, Änderung
+citation: 134 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/134
+introduced: '2025-06-18'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/37
+  eurovoc:
+  - Finanzwesen
+  - Informatik
+  - Information und Informationsverarbeitung
+  topics:
+  - Budget und Finanzen
+  - Information und Medien
+  keywords:
+  - Kreditwesen
+  - Information und Informationsverarbeitung
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 37/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_37
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/27
+  title: Informationsfreiheitsanpassungsgesetz BMF
+  citation: 27/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '33. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-18'
+  text: '34. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/34
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-26'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16590037.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-26'
+  text: 'Verfassungsausschuss: Bericht 153 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/153
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Auf der Tagesordnung der 35. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/35/TO_16447529.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Beschluss im Nationalrat 44/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/44
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-07-11'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: 'Einlangen im Bundesrat (Frist: 05.09.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-11'
+  text: Zuweisung an den Ausschuss für Verfassung und Föderalismus des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VF-BR/1/00209
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VF-BR/1/00209/TO_16617010.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-07-15'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: Bericht 11656/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11656
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Auf der Tagesordnung der 980. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/980
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Berichterstattung durch die Bundesrätin Klara Neurauter'
+  url: https://www.parlament.gv.at/person/3487
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: '980. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-07-17'
+  text: Beschluss im Bundesrat 44/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/44
+vote:
+  date: '2025-07-09'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/134/fname_1693636.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/134/fnameorig_1693636.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/134/imfname_1693639.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/134/fname_1693638.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/134/imfname_1693640.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 134 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/134?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

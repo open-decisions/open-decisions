@@ -1,0 +1,83 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/295
+type: members_bill
+title: Konversionsmaßnahmen-Schutz-Gesetz – Konv-Sch-G
+citation: 295/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/295
+introduced: '2025-05-22'
+introduced_by:
+- David Stögmüller
+identifiers:
+  eurovoc:
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz und das Bundesministerium
+    für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: Vorgesehen für den Gleichbehandlungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GL/1/00923
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/27
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '28. Sitzung des Nationalrates : Zuweisung an den Gleichbehandlungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/28
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-03'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 3. Juni 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16522958.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-09'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 9. September 2025
+    vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16566799.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-02'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung vom 2. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16707134.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: '83. Sitzung des Nationalrates : Antrag des Abgeordneten David Stögmüller auf Fristsetzung zur Berichterstattung durch
+    den Gleichbehandlungsausschuss ( 855/GO ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/83
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/295/fname_1688037.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/295/fnameorig_1688037.html
+  comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 295/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/295?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

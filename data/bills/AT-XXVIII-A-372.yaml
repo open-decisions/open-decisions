@@ -1,0 +1,505 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/372
+type: members_bill
+title: Waffengesetz, Änderung
+citation: 372/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/372
+introduced: '2025-07-09'
+introduced_by:
+- Mag. Ernst Gödl
+- Maximilian Köllner, MA
+- Douglas Hoyos-Trauttmansdorff
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/56
+  eurovoc:
+  - namentliche Abstimmung
+  - öffentliche Sicherheit
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Abstimmungen, namentliche
+  - Sicherheitswesen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 56/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_56
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Übermittlung an das Bundesministerium für Inneres
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: Vorgesehen für den Ausschuss für innere Angelegenheiten
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-IA/1/00924
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '35. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/35
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-09'
+  text: '36. Sitzung des Nationalrates : Zuweisung an den Ausschuss für innere Angelegenheiten'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/36
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: 'Ausschuss für innere Angelegenheiten: Beschlussfassung auf Einholung schriftlicher Stellungnahmen im Rahmen eines
+    "Ausschussbegutachtungsverfahrens"'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Ausschussbegutachtung der Vorlage ( 33/AUA )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/AUA/33
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Bildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für europäische und internationale Angelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Finanzen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Frauen, Wissenschaft und Forschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Inneres - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Innovation, Mobilität und Infrastruktur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Justiz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz,
+    Regionen und Wasserwirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Landesverteidigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wirtschaft, Energie und Tourismus - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Burgenländischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Kärntner Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Niederösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Steiermärkischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Tiroler Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Autonome Frauenhäuser - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband Österreichischer Psychologinnen und Psychologen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - Verfassungsdienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverband der Gewaltschutzzentren - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverwaltungsgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Dachverband "Jagd Österreich" - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Gemeindebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Handelsverband - Verband österreichischer Mittel- und Großbetriebe des
+    Handels - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Hauptverband der allgemein beeideten und gerichtlich zertifizierten Sachverständigen
+    Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für angewandte Rechts- und Kriminalsoziologie Universität Innsbruck
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von IWÖ (Interessengemeinschaft Liberales Waffenrecht in Österreich) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Jägerschaft Vorarlberger - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Kärntner Jägerschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Kinder- und Jugendanwaltschaften Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Kuratorium für Verkehrssicherheit - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Landesjagdverband Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Landwirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Neustart Zentrale - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Niederösterreichischer Landesjagdverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Oberösterreichischer Landesjagdverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Schützenbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Städtebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Rechnungshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Salzburger Jägerschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Salzburger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Sprengverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Steirische Landesjägerschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Tiroler Jägerverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Tiroler-Schützen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Verbindungsstelle der Bundesländer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Verein Kriseninterventionszentrum - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Verfassungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Volksanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Wiener Landesjagdverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralstelle Österreichischer Landesjagdverbände - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-04'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung vom 4. September
+    2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16643645.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-18'
+  text: 'Ausschuss für innere Angelegenheiten: Abänderungsantrag der Abgeordneten Mag. Ernst Gödl , Maximilian Köllner, MA
+    , Douglas Hoyos-Trauttmansdorff , Kolleginnen und Kollegen ( 3/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/83409
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-18'
+  text: 'Ausschuss für innere Angelegenheiten: auf Tagesordnung in der 8. Sitzung des Ausschusses Wiederaufnahme der am 4.
+    September 2025 vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-IA/1/00924/TO_16657558.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-18'
+  text: 'Ausschuss für innere Angelegenheiten: Bericht 204 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/204
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-18'
+  text: 'Ausschuss für innere Angelegenheiten: Selbständiger Antrag betreffend Pyrotechnikgesetz 2010 und Schusswaffenkennzeichnungsgesetz
+    (205 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/205
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Beschluss im Nationalrat 63/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/63
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Auf der Tagesordnung der 41. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/41/TO_16447532.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Ernst Gödl , Maximilian Köllner, MA , Douglas
+    Hoyos-Trauttmansdorff , Kolleginnen und Kollegen ( AA-24 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/83409
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Agnes Sirkka Prammer ,
+    Kolleginnen und Kollegen betreffend Waffen sichern – Leben schützen. Klare Gesetze für Waffenverwahrung zum Schutz vor
+    Suiziden und Femiziden (121/UEA) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/6502
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Ing. Mag. Volker Reifenberger , Kolleginnen und
+    Kollegen ( AA-25 ) abgelehnt Dafür: FPÖ, dagegen: ÖVP, SPÖ, NEOS, GRÜNE'
+  url: https://www.parlament.gv.at/person/3717
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Agnes Sirkka Prammer ,
+    Kolleginnen und Kollegen betreffend gleiche Regeln für alle – keine Waffen ohne psychologisches Gutachten (122/UEA) abgelehnt
+    Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/6502
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Meri Disoski , Kolleginnen
+    und Kollegen betreffend keine Schusswaffen in Händen von gewaltbereiten Personen (123/UEA) abgelehnt Dafür: GRÜNE, dagegen:
+    FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/5650
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Mag. Agnes Sirkka Prammer ,
+    Kolleginnen und Kollegen betreffend Sicherheit erhöhen – unkomplizierte Rückgabe illegaler Waffen ermöglichen (124/UEA)
+    abgelehnt Dafür: FPÖ, GRÜNE, dagegen: ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/6502
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: '41. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Namentliche Abstimmung (abgegebene
+    Stimmen: 171; davon Ja-Stimmen: 121, Nein-Stimmen: 50 )'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-09-26'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-09-26'
+  text: 'Einlangen im Bundesrat (Frist: 21.11.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-09-26'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-09-26'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11682/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11682
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-09-26'
+  text: Zuweisung an den Ausschuss für innere Angelegenheiten des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-IN-BR/1/00108
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-07'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: Bericht 11688/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11688
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-07'
+  text: 'Ausschuss für innere Angelegenheiten des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-IN-BR/1/00108/TO_16672613.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: Auf der Tagesordnung der 981. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/981
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: Auf der Tagesordnung der 981. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/981
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Berichterstattung durch den Bundesrat Christoph Stillebacher'
+  url: https://www.parlament.gv.at/person/22824
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Namentliche Abstimmung (abgegebene Stimmen: 59; 43
+    Ja-Stimmen, 16 Nein-Stimmen)'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen
+    betreffend Sicherheit erhöhen - unkomplizierte Rückgabe illegaler Waffen ermöglichen (769/UEA-BR/2025) abgelehnt Dafür:
+    FPÖ, GRÜNE, dagegen: ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen
+    betreffend gleiche Regeln für alle - keine Waffen ohne psychologisches Gutachten (770/UEA-BR/2025) abgelehnt Dafür: GRÜNE,
+    dagegen: ÖVP, SPÖ, FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Simone Jagl , Kolleginnen und Kollegen betreffend
+    Waffen sichern - Leben schützen. Klare Gesetze für Waffenverwahrung zum Schutz vor Suiziden und Femiziden (771/UEA-BR/2025)
+    abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ, FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/23967
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: '981. Sitzung: Unselbständiger Entschließungsantrag der Bundesräte Simone Jagl , Kolleginnen und Kollegen betreffend
+    keine Schusswaffen in Händen von gewaltbereiten Personen (772/UEA-BR/2025) abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ,
+    FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/23967
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-09'
+  text: Beschluss im Bundesrat 63/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/63
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/372/fname_1702209.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/372/fnameorig_1702209.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/372/fname_1703000.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 372/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/372?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

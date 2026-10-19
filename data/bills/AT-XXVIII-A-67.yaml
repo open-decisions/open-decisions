@@ -1,0 +1,73 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/67
+type: members_bill
+title: Bundes-Verfassungsgesetz, Geschäftsordnungsgesetz, Änderung
+citation: 67/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/67
+introduced: '2025-02-26'
+introduced_by:
+- Mag. Norbert Nemeth
+identifiers:
+  eurovoc:
+  - Geschäftsordnung des Parlaments
+  - Gesetzgebungsverfahren
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Bundesverfassung
+  - Erste Lesungen
+  - Untersuchungsausschüsse
+  - Geschäftsordnung des Nationalrates
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 26.05.2025)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Vorgesehen für den Geschäftsordnungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '9. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/9
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '15. Sitzung des Nationalrates: Zuweisung an den Geschäftsordnungsausschuss'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/67/fname_1670830.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/67/fnameorig_1670830.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 67/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/67?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

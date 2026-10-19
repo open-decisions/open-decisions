@@ -1,0 +1,190 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/473
+type: government_bill
+title: Verbraucherkreditrechts-Änderungsgesetz 2026 – VerKRÄG 2026
+citation: 473 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/473
+introduced: '2026-04-22'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/36
+  eurovoc:
+  - Bürgerliches Recht
+  - Finanzwesen
+  - Handel
+  - Industrie
+  - Unternehmen und Wettbewerb
+  - Verwaltungsorganisation
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Wirtschaft
+  keywords:
+  - Kreditwesen
+  - Handel, Gewerbe und Industrie
+  - Verwaltungsorganisation
+  - Zivilrecht
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 36/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_36
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/77
+  title: Bankwesengesetz, Änderung
+  citation: 77/ME
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/79
+  title: Verbraucherkreditrechts-Änderungsgesetz 2026 – VerKRÄG 2026
+  citation: 79/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-22'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-22'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-04-23'
+  text: '75. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/75
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-24'
+  text: '76. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/76
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-12'
+  text: 'Justizausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16875452.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-12'
+  text: 'Justizausschuss: Bericht 492 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/492
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Auf der Tagesordnung der 79. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/79/TO_16604250.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: '79. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: '79. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Beschluss im Nationalrat 165/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/165
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-05-22'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-22'
+  text: 'Einlangen im Bundesrat (Frist: 17.07.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-05-22'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-05-22'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-01'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 7. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_16890141.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-01'
+  text: 'Justizausschuss des Bundesrates: Bericht 11816/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11816
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Auf der Tagesordnung der 991. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/991
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Berichterstattung durch die Bundesrätin Verena Schweiger, BA MA MA'
+  url: https://www.parlament.gv.at/person/33455
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: '991. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-03'
+  text: Beschluss im Bundesrat 165/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/165
+vote:
+  date: '2026-05-21'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/473/fname_1753532.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/473/fnameorig_1753532.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/473/fname_1753535.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/473/fname_1753534.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/473/imfname_1753536.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 473 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/473?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

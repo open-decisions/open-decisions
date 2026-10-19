@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/657
+type: government_bill
+title: EU-Batterienverordnung Begleitgesetz – BattBegG
+citation: 657 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/657
+introduced: '2026-10-14'
+introduced_by:
+- Mag. Norbert Totschnig, MSc (Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft)
+identifiers:
+  eurovoc:
+  - Abfall
+  - Abfallwirtschaft
+  - Elektrizitätsindustrie
+  topics:
+  - Klima, Umwelt und Energie
+  keywords:
+  - Abfallwirtschaft
+  - Elektrizität
+status:
+  stage: introduced
+  source_status: '2'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/94
+  title: Batterien-Marktüberwachungs-Gesetz; EU-Batterienverordnung Begleitgesetz, Änderung
+  citation: 94/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Vorgesehen für den Umweltausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-UM/1/00937
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '102. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '103. Sitzung des Nationalrates : Zuweisung an den Umweltausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/103
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/657/fname_1783217.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/657/fnameorig_1783217.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/657/imfname_1783221.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/657/fname_1783220.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/657/imfname_1783222.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 657 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/657?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,51 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1107
+type: members_bill
+title: Paketsteuergesetz – PakStG
+citation: 1107/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1107
+introduced: '2026-10-15'
+introduced_by:
+- Michael Fürtbauer
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus und das Bundesministerium für Arbeit,
+    Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '103. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/103
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '104. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/104
+vote: null
+documents: {}
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1107/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1107?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

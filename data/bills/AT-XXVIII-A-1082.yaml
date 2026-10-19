@@ -1,0 +1,58 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1082
+type: members_bill
+title: Ausländerbeschäftigungsgesetz, Änderung
+citation: 1082/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1082
+introduced: '2026-10-14'
+introduced_by:
+- Mag. Agnes Sirkka Prammer
+identifiers:
+  eurovoc:
+  - Beschäftigung und Arbeitsbedingungen
+  topics:
+  - Arbeit
+  keywords:
+  - Arbeitsmarkt
+status:
+  stage: introduced
+  source_status: '1'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 14.01.2027)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/101
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1082/fname_1783698.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1082/fnameorig_1783698.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1082/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1082?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

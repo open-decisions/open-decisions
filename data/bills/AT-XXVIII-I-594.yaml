@@ -1,0 +1,66 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/594
+type: government_bill
+title: Glücksspielgesetz, Telekommunikationsgesetz, Änderung
+citation: 594 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/594
+introduced: '2026-08-05'
+introduced_by:
+- Dr. Markus Marterbauer (Bundesministerium für Finanzen)
+identifiers:
+  eurovoc:
+  - Glücksspiel
+  - Telekommunikation
+  topics:
+  - Budget und Finanzen
+  - Information und Medien
+  keywords:
+  - Glücksspiel
+  - Telekommunikation
+status:
+  stage: introduced
+  source_status: '2'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/125
+  title: Glücksspielgesetz, Telekommunikationsgesetz, Änderung
+  citation: 125/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-08-05'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-08-06'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-14'
+  text: '94. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/94
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-14'
+  text: '95. Sitzung des Nationalrates : Zuweisung an den Finanzausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/95
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/594/fname_1774757.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/594/fnameorig_1774757.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/594/imfname_1774760.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/594/fname_1774759.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/594/imfname_1774761.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 594 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/594?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

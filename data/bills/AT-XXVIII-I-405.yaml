@@ -1,0 +1,1014 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/405
+type: government_bill
+title: Beamten-Dienstrechtsgesetz, Gehaltsgesetz u.a., Änderung
+citation: 405 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/405
+introduced: '2026-02-24'
+introduced_by:
+- Dr. Christian Stocker (Bundeskanzleramt)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/22
+  eurovoc:
+  - Bildung
+  - öffentliche Verwaltung
+  - öffentlicher Dienst
+  - Organisation des Unterrichtswesens
+  topics:
+  - Bildung
+  - Inneres und Recht
+  keywords:
+  - Öffentlicher Dienst
+  - Bildungswesen VIII. Sonstiges
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 22/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_22
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-24'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-24'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-02-25'
+  text: '66. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/66
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: '67. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/67
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 10. Sitzung des Ausschusses In der Sitzung vom 26. Februar 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16802931.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: 'Verfassungsausschuss: Beschlussfassung auf Einholung schriftlicher Stellungnahmen im Rahmen eines "Ausschussbegutachtungsverfahrens"'
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Ausschussbegutachtung der Vorlage ( 56/AUA )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/AUA/56
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für europäische und internationale Angelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Finanzen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Frauen, Wissenschaft und Forschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Inneres - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Innovation, Mobilität und Infrastruktur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Justiz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz,
+    Regionen und Wasserwirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Landesverteidigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wirtschaft, Energie und Tourismus - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von AGMÖ (Arbeitsgemeinschaft Musikerziehung Österreich); Bundesgeschäftsstelle
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von AHS-Gewerkschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Alevitische Glaubensgemeinschaft in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Altkatholische Kirche Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Burgenländischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Kärntner Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Niederösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Salzburger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Salzburger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Steiermärkischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung ; städtische Schulverwaltung MA 56 - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Arbeitsmarktservice Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von ARGE DATEN – österr. Gesellschaft f. Datenschutz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Armenisch-apostolische Kirche in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband l o g o p ä d i e austria; Vorsitzende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband der Österreichischen ErzieherInnen und SozialpädagogInnen
+    – BÖS - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband Österr. PsychologInnen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband Österr. SozialpädagogInnen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsvereinigung von Arbeitgebern für Gesundheits- und Sozialberufe
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion für Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat Eisenstadt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat Feldkirch - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat Graz-Seckau in Graz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat Gurk in Klagenfurt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat Innsbruck in Innsbruck - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat Linz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bischöfliches Ordinariat St. Pölten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von BMHS-Gewerkschaft der Lehrerinnen und Lehrer an berufsbild. mittleren
+    und höheren Schulen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundes Jugend Vertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesfinanzgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundes-Gleichbehandlungskommission - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesorganisation der Kinderfreunde Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesschülervertretung; Referat I/10a – Schulpartnerschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesschülervertretung; Referat I/10a – Schulpartnerschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverband der Elternvereinigungen an Mittleren und Höheren Schulen
+    in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesvertretung der Österr. Hochschülerinnen- und Hochschülerschaft
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesvertretung 3 - Unterrichtsverwaltung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverwaltungsgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Caritas Ausbildungszentrum für Sozialberufe - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Christliche Lehrerschaft Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Datenschutzbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Datenschutzrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Erzbischöfliches Amt für Schule und Bildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Erzbischöfliches Ordinariat Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Erzbischöfliches Ordinariat Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von European Forum for Freedom in Education; Dachverband der Freien Schulen
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Evangelische Kirche H.B. in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Evangelischer Oberkirchenrat A. und H.B. und den Evangelischen Oberkirchenrat
+    A.B. - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Evangelisch-Methodistische Kirche in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Fachverband der sozialistischen Lehrer im BSA (Fachverband der AHS-Lehrer)
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Familienpolitischer Beirat beim Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Finanzmarktaufsicht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Finanzprokuratur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Forum Katholischer Erwachsenenbildung in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Forum Umweltbildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Freiheitlicher Familienverband Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Freikirchen in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Generalprokuratur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Geschäftsstelle der Bioethikkommission beim Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Geschäftsstelle der Digitalisierungsgremien, Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft Berufsschule - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft Berufsschule - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft der Landwirtschaftslehrer/innen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft GPA - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft öffentlicher Dienst; Bundesfachgruppe Päd. Hochschulen -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft öffentlicher Dienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft Öffentlicher Dienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft Pflichtschullehrerinnen und Pflichtschullehrer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Gleichbehandlungsanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Griechisch-orientalische Metropolis; Metropolit von Austria, Exarch von
+    Ungarn und Mitteleuropa - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Hauptverband katholischer Elternvereine Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Agrar- und Umweltpädagogik Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Institut des Bundes für Qualitätssicherung im österreichischen Schulwesen
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Integration Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Islamische Glaubensgemeinschaft in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Israelitische Kultusgemeinde Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Jehovas Zeugen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Katholischer Familienverband Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Kirche Jesu Christi der Heiligen der Letzten Tage in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchliche Pädagogische Hochschule – Edith Stein - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchliche Pädagogische Hochschule Wien/Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Koptisch-orthodoxe Kirche in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landes-Rechnungshof Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Landwirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Neuapostolische Kirche in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Oberster Gerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österr. Behindertenrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österr. Bischofskonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österr. Gesellschaft für Schule und Recht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österr. Universitätenkonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Arbeitsgemeinschaft für Rehabilitation - Dachorganisation
+    der Behindertenverbände - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Buddhistische Religionsgesellschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Fachhochschul-Konferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Montessori Gesellschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Ordenskonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Plattform für Alleinerziehende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischen Berufsverband Diplomierter Sozialarbeiter und Sozialarbeiterinnen
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischen UniversitätsprofessorInnenverbands (UPV); Vorsitzender
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischen Verband der Elternvereine an öffentlichen Pflichtschulen
+    – Dachverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischen Vereinigung freier Bildungsstätten auf anthroposophischer
+    Grundlage - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Bundesverband für Psychotherapie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Familienbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gehörlosenbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gemeindebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gemeindebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gewerkschaftsbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Städtebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Parlamentarisches Datenschutzkomitee - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Präsidentschaftskanzlei - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule Augustinum - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule der Diözese Linz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Rechnungshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von SLÖ Bundesstelle - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Stadtrechnungshof Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Statistik Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Statistikrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Syrisch-orthodoxe Kirche in Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Tiroler Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der Direktoren und Abteilungsvorstände an technischen und gewerblichen
+    Lehranstalten Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der Elternvereine an den höheren und mittleren Schulen Wiens
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der Öffentlichen Wirtschaft und Gemeinwirtschaft Österreichs
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der österreichischen Musikwirtschaft – IFPI Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verbindungsstelle der Bundesländer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verein für Direktorinnen und Direktoren der kaufmännischen Schulen Österreichs
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verein zur Unterstützung des Unabhängigen Monitoringausschusses zur Umsetzung
+    der UN-Konvention über die Rechte von Menschen mit Behinderungen; Vorsitz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verein zur Unterstützung des Unabhängigen Monitoringausschusses zur Umsetzung
+    der UN-Konvention über die Rechte von Menschen mit Behinderungen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung Christlicher Lehrer an den Höheren Schulen Österreichs -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung der österreichischen Industrie; Industriellenvereinigung,
+    Bildung & Gesellschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung der österreichischen Industrie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung österreichischer Bezirkshauptleute - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verfassungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verhandlungsausschuss der Gewerkschaften Öffentlicher Dienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verwaltungsgericht Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Verwaltungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Volksanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Volksgruppenbeiräte - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss beim BMFWF für die Bed. im Bereich der Angelegenheiten
+    der Wissenschaft und Forschung, an den zugehörigen nachgeordneten Dienst. und an den wissenschaftlichen Anstalten, Bedienstete
+    der Ämter der Univ. mit Ausnahme der Univ.lehrerInnen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss für die beim BMB und den nachgeordneten Dienststellen
+    verwendeten Bundesbediensteten, ausgenommen die an Schulen und Schülerheimen verwendeten Bundeslehrer/innen und Bundeserzieher/innen
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss für die Bundeslehrer/innen an allgemein bildenden Schulen
+    und die Bundeserzieher/innen an Schülerheimen für Schüler/innen allgemein bildender Schulen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss für die Bundeslehrer/innen an berufsbildenden Schulen
+    und die Bundeserzieher/innen an Schülerheimen für Schüler/innen berufsbildender Schulen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss für die Bundeslehrpersonen oder Hochschullehrpersonen
+    an Pädagogischen Hochschulen; Vorsitzender des Zentralausschusses - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss für die Bundeslehrpersonen oder Hochschullehrpersonen
+    an Pädagogischen Hochschulen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-02-26'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss für die Universitätslehrerinnen und Universitätslehrer
+    der Ämter der Universitäten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-12'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses Wiederaufnahme der am 26. Februar 2026
+    vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16814882.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-12'
+  text: 'Verfassungsausschuss: Bericht 416 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/416
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Beschluss im Nationalrat 144/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/144
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Auf der Tagesordnung der 71. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/71/TO_16604173.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Romana Deckenbacher , Mag. Heinrich Himmer
+    , Mag. Martina von Künsberg Sarre , Kolleginnen und Kollegen ( AA-56 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+  url: https://www.parlament.gv.at/person/6506
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen:
+    FPÖ'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-03-27'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: 'Einlangen im Bundesrat (Frist: 22.05.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11784/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11784
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-03-27'
+  text: Zuweisung an den Ausschuss für Verfassung und Föderalismus des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-VF-BR/1/00209
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-04-08'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: Bericht 11788/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11788
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-04-08'
+  text: 'Ausschuss für Verfassung und Föderalismus des Bundesrates: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-VF-BR/1/00209/TO_16837937.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: Auf der Tagesordnung der 989. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/989
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: '989. Sitzung: Berichterstattung durch die Bundesrätin Sandra Lassnig'
+  url: https://www.parlament.gv.at/person/24113
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: '989. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: '989. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, GRÜNE, NEOS, dagegen: FPÖ'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-04-10'
+  text: Beschluss im Bundesrat 144/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/144
+vote:
+  date: '2026-03-25'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, G, Dagegen: F'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/405/fname_1740941.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/405/fnameorig_1740941.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/405/fname_1740944.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/405/fname_1740943.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/405/imfname_1740945.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 405 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/405?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

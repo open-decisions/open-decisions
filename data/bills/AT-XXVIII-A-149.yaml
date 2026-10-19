@@ -1,0 +1,84 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/149
+type: members_bill
+title: Bundes-Verfassungsgesetz, Änderung
+citation: 149/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/149
+introduced: '2025-03-26'
+introduced_by:
+- Dipl.-Ing. Olga Voglauer
+identifiers:
+  eurovoc:
+  - Gesetzgebungsverfahren
+  - Verfassung
+  - Verwaltungskontrolle
+  topics:
+  - Inneres und Recht
+  - Parlament und Demokratie
+  keywords:
+  - Bundesverfassung
+  - Erste Lesungen
+  - Volksanwaltschaft
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Vorgesehen für den Ausschuss für Menschenrechte und Volksanwaltschaft
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-MV/1/00943
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 27.06.2025)'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-22'
+  text: '27. Sitzung des Nationalrates: Zuweisung an den Ausschuss für Menschenrechte und Volksanwaltschaft'
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-MV/1/00943
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-01'
+  text: 'Ausschuss für Menschenrechte und Volksanwaltschaft: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung
+    vom 1. Juli 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-MV/1/00943/TO_16596286.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-02'
+  text: 'Ausschuss für Menschenrechte und Volksanwaltschaft: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung
+    vom 2. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-MV/1/00943/TO_16703941.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/149/fname_1673961.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/149/fnameorig_1673961.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 149/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/149?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

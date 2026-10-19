@@ -1,0 +1,84 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/998
+type: members_bill
+title: Erneuerbare-Wärme-Gesetz 2040 – EWG 2040
+citation: 998/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/998
+introduced: '2026-07-10'
+introduced_by:
+- Mag. Lukas Hammer
+identifiers:
+  eurovoc:
+  - Bauindustrie und öffentliches Bauwesen
+  - Baupolitik
+  - Energie
+  - Umwelt
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  - Klima, Umwelt und Energie
+  - Wirtschaft
+  keywords:
+  - Bauwesen
+  - Bundesverfassung
+  - Energiewirtschaft
+  - Umweltschutz
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: '91. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/91
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus und das Bundesministerium für Land- und
+    Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: '92. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/92
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-07'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 11. Sitzung des Ausschusses In der Sitzung
+    vom 7. Oktober 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16951180.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/998/fname_1771832.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/998/fnameorig_1771832.html
+  comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 998/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/998?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

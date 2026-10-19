@@ -1,0 +1,72 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/766
+type: members_bill
+title: Strafgesetzbuch, Änderung
+citation: 766/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/766
+introduced: '2026-03-25'
+introduced_by:
+- Mag. Meri Disoski
+identifiers:
+  eurovoc:
+  - Strafrecht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Strafrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Übermittlung an das Bundesministerium für Justiz und das Bundesministerium für Frauen, Wissenschaft und Forschung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: Vorgesehen für den Gleichbehandlungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GL/1/00923
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '71. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/71
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-25'
+  text: '72. Sitzung des Nationalrates : Zuweisung an den Gleichbehandlungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/72
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: 'Verlangen der Abgeordneten Mag. Meri Disoski , David Stögmüller , Süleyman Zorba , Dr. Alma Zadić, LL.M. und Mag.
+    Agnes Sirkka Prammer auf Berichterstattung binnen eines Jahres nach Zuweisung durch den Gleichbehandlungsausschuss (Frist:
+    25.03.2027)'
+  url: https://www.parlament.gv.at/person/5650
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-14'
+  text: '94. Sitzung des Nationalrates : Mitteilung des Einlangens des Verlangens auf Berichterstattung binnen eines Jahres
+    nach Zuweisung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/94
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/766/fname_1747296.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/766/fnameorig_1747296.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 766/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/766?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

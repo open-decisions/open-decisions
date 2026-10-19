@@ -1,0 +1,63 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1062
+type: members_bill
+title: Gewerbeordnung, Änderung
+citation: 1062/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1062
+introduced: '2026-10-14'
+introduced_by:
+- Tanja Graf
+- Dr. Christoph Matznetter
+- MMag. Markus Hofer
+identifiers:
+  eurovoc:
+  - Handel
+  - Industrie
+  - Unternehmen und Wettbewerb
+  topics:
+  - Wirtschaft
+  keywords:
+  - Handel, Gewerbe und Industrie
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/101
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '102. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1062/fname_1783343.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1062/fnameorig_1783343.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1062/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1062?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

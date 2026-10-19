@@ -1,0 +1,86 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/49
+type: members_bill
+title: Tierschutzgesetz, Änderung
+citation: 49/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/49
+introduced: '2025-02-26'
+introduced_by:
+- Dipl.-Ing. Olga Voglauer
+identifiers:
+  eurovoc:
+  - Tiermedizin
+  - Tierschutz
+  topics:
+  - Klima, Umwelt und Energie
+  - Land- und Forstwirtschaft
+  keywords:
+  - Veterinärwesen und Tierschutz
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Übermittlung an das Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '9. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/9
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-02-26'
+  text: '10. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/10
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-09'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16535700.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-09'
+  text: 'Gesundheitsausschuss: Bericht 85 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/85
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Auf der Tagesordnung der 21. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/21/TO_16447522.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: '21. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen: -'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/49/fname_1670037.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/49/fnameorig_1670037.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/49/fname_1671388.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 49/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/49?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

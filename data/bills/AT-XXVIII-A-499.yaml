@@ -1,0 +1,65 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/499
+type: members_bill
+title: Investitionskontrollgesetz, Änderung
+citation: 499/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/499
+introduced: '2025-10-15'
+introduced_by:
+- Dr. Elisabeth Götze
+identifiers:
+  eurovoc:
+  - Wirtschaft
+  topics:
+  - Wirtschaft
+  keywords:
+  - Wirtschaftspolitik
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Übermittlung an das Bundesministerium für Wirtschaft, Energie und Tourismus
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Vorgesehen für den Ausschuss für Wirtschaft, Industrie und Energie
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/44
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '45. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/45
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-24'
+  text: 'Ausschuss für Wirtschaft, Industrie und Energie: auf Tagesordnung in der 10. Sitzung des Ausschusses In der Sitzung
+    vom 24. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WH/1/00940/TO_16917105.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/499/fname_1716520.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/499/fnameorig_1716520.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 499/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/499?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

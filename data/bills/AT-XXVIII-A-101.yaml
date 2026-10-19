@@ -1,0 +1,107 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/101
+type: members_bill
+title: Apothekengesetz, Gesundheitstelematikgesetz, Änderung
+citation: 101/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/101
+introduced: '2025-03-07'
+introduced_by:
+- Ralph Schallmeiner
+identifiers:
+  eurovoc:
+  - Apotheke
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Apotheken
+  - Gesundheit
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Übermittlung an das Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/11
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '12. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/12
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-18'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses In der Sitzung vom 18. März 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16499500.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-09'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 9. Mai 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16535700.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-07-03'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 3. Juli 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16535747.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-09'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 9. Oktober 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16535748.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses In der Sitzung vom 2. Dezember 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16706758.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-27'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 7. Sitzung des Ausschusses In der Sitzung vom 27. Jänner 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765622.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-04-28'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung vom 28. April 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765623.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-23'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung vom 23. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16765624.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-06'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 10. Sitzung des Ausschusses In der Sitzung vom 6. Oktober 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16968826.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/101/fname_1671964.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/101/fnameorig_1671964.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/101/fname_1672313.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 101/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/101?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

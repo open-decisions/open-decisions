@@ -1,0 +1,59 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1080
+type: members_bill
+title: Unterstützungsfondsgesetz – Alleinerziehende, Änderung
+citation: 1080/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1080
+introduced: '2026-10-14'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Familie
+  topics:
+  - Familie und Generationen
+  keywords:
+  - Familienpolitik
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/101
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '102. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1080/fname_1783883.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1080/fnameorig_1783883.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1080/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1080?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

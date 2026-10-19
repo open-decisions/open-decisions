@@ -1,0 +1,71 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/78
+type: members_bill
+title: Strafprozessrechtsänderungsgesetz 2024
+citation: 78/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/78
+introduced: '2025-03-07'
+introduced_by:
+- Mag. Harald Stefan
+identifiers:
+  eurovoc:
+  - Gerichtswesen
+  - internationales Abkommen
+  - Strafrecht
+  - Verwaltungsrecht
+  topics:
+  - Außenpolitik
+  - Inneres und Recht
+  keywords:
+  - Strafrecht
+  - Rechtspflege
+  - Staatsverträge
+  - Verwaltungsverfahren
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '11. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/11
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-07'
+  text: '12. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/12
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 30. September 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16672827.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/78/fname_1671861.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/78/fnameorig_1671861.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 78/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/78?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

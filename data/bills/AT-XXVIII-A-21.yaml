@@ -1,0 +1,73 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/21
+type: members_bill
+title: 4. Mietrechtliches Inflationslinderungsgesetz
+citation: 21/A und Zu 21/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/21
+introduced: '2025-01-22'
+introduced_by:
+- Mag. Elke Hanel-Torsch
+identifiers:
+  eurovoc:
+  - Preis
+  - Wohnungspolitik
+  topics:
+  - Budget und Finanzen
+  - Soziales
+  - Wirtschaft
+  keywords:
+  - Wohnungswesen
+  - Preise
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 22.04.2025)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-01-22'
+  text: '7. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/7
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-18'
+  text: Zurückziehung des Verlangens auf erste Lesung innerhalb von drei Monaten ( Zu 21/A )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/21/U1
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-26'
+  text: '13. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/13
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/21/fname_1666479.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/21/fnameorig_1666479.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/21/fname_1666529.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 21/A und Zu 21/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/21?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

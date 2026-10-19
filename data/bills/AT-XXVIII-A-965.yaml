@@ -1,0 +1,80 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/965
+type: members_bill
+title: Sonderpensionenbegrenzungsgesetz 2026– SpBegr 2026
+citation: 965/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/965
+introduced: '2026-07-06'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Altersversorgungssystem
+  - Verfassung
+  topics:
+  - Inneres und Recht
+  - Soziales
+  keywords:
+  - Bundesverfassung
+  - Pensionssystem
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Bundesverfassungsgesetz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '85. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/85
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-06'
+  text: '86. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/86
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '88. Sitzung des Nationalrates : Antrag des Abgeordneten Mag. Markus Koza auf Fristsetzung zur Berichterstattung durch
+    den Ausschuss für Arbeit und Soziales ( 923/GO ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/88
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/965/fname_1769793.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/965/fnameorig_1769793.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 965/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/965?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

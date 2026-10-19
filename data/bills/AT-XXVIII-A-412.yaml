@@ -1,0 +1,175 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/412
+type: members_bill
+title: Universitätsgesetz, Änderung
+citation: 412/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/412
+introduced: '2025-09-24'
+introduced_by:
+- Mag. Dr. Rudolf Taschner
+- Mag. Heinrich Himmer
+- Mag. Martina von Künsberg Sarre
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/68
+  eurovoc:
+  - Hochschulausbildung
+  topics:
+  - Bildung
+  keywords:
+  - Bildungswesen IV. Universitäten und Hochschulen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 68/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_68
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Übermittlung an das Bundesministerium für Frauen, Wissenschaft und Forschung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-24'
+  text: Vorgesehen für den Ausschuss für Wissenschaft, Forschung und Digitalisierung
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '41. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/41
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-09-25'
+  text: '42. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wissenschaft, Forschung und Digitalisierung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/42
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-01'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WI/1/00941/TO_16558578.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-10-01'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: Bericht 221 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/221
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Auf der Tagesordnung der 44. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/44/TO_16447534.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen:
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: '44. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen:
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-15'
+  text: Beschluss im Nationalrat 69/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/69
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-10-16'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-10-16'
+  text: 'Einlangen im Bundesrat (Frist: 11.12.2025)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-10-16'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-16'
+  text: Zuweisung an den Ausschuss für Wissenschaft und Forschung des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WF-BR/1/00270
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-21'
+  text: 'Ausschuss für Wissenschaft und Forschung des Bundesrates: Bericht 11708/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11708
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-10-21'
+  text: 'Ausschuss für Wissenschaft und Forschung des Bundesrates: auf Tagesordnung in der 2. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WF-BR/1/00270/TO_16692662.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Auf der Tagesordnung der 982. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/982
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Berichterstattung durch den Bundesrat Mag. Stephan Auer-Stüger'
+  url: https://www.parlament.gv.at/person/33456
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: '982. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, FPÖ, NEOS, dagegen: GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-10-23'
+  text: Beschluss im Bundesrat 69/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/69
+vote:
+  date: '2025-10-15'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, Dagegen: G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/412/fname_1712051.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/412/fnameorig_1712051.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 412/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/412?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

@@ -1,0 +1,65 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/904
+type: members_bill
+title: Insolvenzordnung, Änderung
+citation: 904/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/904
+introduced: '2026-05-21'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Bürgerliches Recht
+  topics:
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: '79. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/79
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-21'
+  text: '80. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/80
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses In der Sitzung vom 30. Juni 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926462.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/904/fname_1758940.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/904/fnameorig_1758940.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/904/fname_1761058.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 904/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/904?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

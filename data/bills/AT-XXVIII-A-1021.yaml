@@ -1,0 +1,59 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1021
+type: members_bill
+title: Es-gibt-nur-zwei-Geschlechter-Novelle
+citation: 1021/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1021
+introduced: '2026-09-23'
+introduced_by:
+- Manuel Litzke, BSc (WU)
+identifiers:
+  eurovoc:
+  - Hochschulausbildung
+  topics:
+  - Bildung
+  keywords:
+  - Bildungswesen IV. Universitäten und Hochschulen
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Übermittlung an das Bundesministerium für Frauen, Wissenschaft und Forschung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: Vorgesehen für den Ausschuss für Wissenschaft, Forschung und Digitalisierung
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '96. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/96
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-09-23'
+  text: '97. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wissenschaft, Forschung und Digitalisierung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/97
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1021/fname_1779940.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1021/fnameorig_1779940.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1021/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1021?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

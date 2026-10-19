@@ -1,0 +1,69 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/267
+type: members_bill
+title: Waffengesetz, Änderung
+citation: 267/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/267
+introduced: '2025-05-13'
+introduced_by:
+- Ing. Mag. Volker Reifenberger
+identifiers:
+  eurovoc:
+  - öffentliche Sicherheit
+  - Verteidigung
+  topics:
+  - Inneres und Recht
+  - Landesverteidigung
+  keywords:
+  - Sicherheitswesen
+  - Landesverteidigung
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Übermittlung an das Bundesministerium für Landesverteidigung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: Vorgesehen für den Landesverteidigungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-LV/1/00929
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: '21. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/21
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-05-13'
+  text: '22. Sitzung des Nationalrates : Zuweisung an den Landesverteidigungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/22
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-06-05'
+  text: 'Landesverteidigungsausschuss: auf Tagesordnung in der 4. Sitzung des Ausschusses In der Sitzung vom 5. Juni 2025
+    vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-LV/1/00929/TO_16516619.html
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/267/fname_1686242.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/267/fnameorig_1686242.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/267/fname_1686424.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 267/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/267?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

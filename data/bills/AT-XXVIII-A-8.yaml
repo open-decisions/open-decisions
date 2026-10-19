@@ -1,0 +1,107 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/8
+type: members_bill
+title: Bundes-Gleichbehandlungsgesetz, Änderung
+citation: 8/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/8
+introduced: '2024-11-20'
+introduced_by:
+- Dr. Dagmar Belakowitsch
+identifiers:
+  eurovoc:
+  - Frau
+  - Gleichbehandlung
+  - öffentliche Verwaltung
+  - öffentlicher Dienst
+  topics:
+  - Frauen und Gleichbehandlung
+  - Inneres und Recht
+  keywords:
+  - Öffentlicher Dienst
+  - Frauen und Gleichbehandlung
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Übermittlung an Büro der Bundesministerin für Frauen, Familie, Integration und Medien
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: Vorgesehen für den Budgetausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907
+- phase: introduced
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '3. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/3
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-11-20'
+  text: '4. Sitzung des Nationalrates : Zuweisung an den Budgetausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/4
+- phase: committee
+  chamber: Nationalrat
+  date: '2024-12-09'
+  text: 'Budgetausschuss: auf Tagesordnung in der 3. Sitzung des Ausschusses In der Sitzung vom 9. Dezember 2024 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16447805.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: 'Verlangen der Abgeordneten Dr. Dagmar Belakowitsch , Dr. Susanne Fürst , Rosa Ecker, MBA , Nicole Sunitsch und Sebastian
+    Schwaighofer auf Berichterstattung binnen eines Jahres nach Zuweisung durch den Budgetausschuss (Frist: 20.11.2025)'
+  url: https://www.parlament.gv.at/person/35468
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '16. Sitzung des Nationalrates : Mitteilung des Einlangens des Verlangens auf Berichterstattung binnen eines Jahres
+    nach Zuweisung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/16
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-06'
+  text: 'Budgetausschuss: auf Tagesordnung in der 13. Sitzung des Ausschusses Wiederaufnahme der am 9. Dezember 2024 vertagten
+    Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BU/1/00907/TO_16707482.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-06'
+  text: 'Budgetausschuss: Bericht 280 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/280
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Auf der Tagesordnung der 50. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/50/TO_16447537.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '50. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/8/fname_1660867.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/8/fnameorig_1660867.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/8/fname_1661104.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 8/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/8?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

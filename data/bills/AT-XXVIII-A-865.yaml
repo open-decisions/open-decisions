@@ -1,0 +1,2275 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/865
+type: members_bill
+title: Fachhochschulgesetz, Hochschul-Qualitätssicherungsgesetz, Änderung
+citation: 865/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/865
+introduced: '2026-05-20'
+introduced_by:
+- Mag. Dr. Rudolf Taschner
+- Mag. Heinrich Himmer
+- Mag. Martina von Künsberg Sarre
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/48
+  eurovoc:
+  - Hochschulausbildung
+  topics:
+  - Bildung
+  keywords:
+  - Bildungswesen IV. Universitäten und Hochschulen
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 48/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_48
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Übermittlung an das Bundesministerium für Frauen, Wissenschaft und Forschung
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Vorgesehen für den Ausschuss für Wissenschaft, Forschung und Digitalisierung
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/77
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '78. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wissenschaft, Forschung und Digitalisierung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/78
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: auf Tagesordnung in der 6. Sitzung des Ausschusses In
+    der Sitzung vom 20. Mai 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WI/1/00941/TO_16885183.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: Beschlussfassung auf Einholung schriftlicher Stellungnahmen
+    im Rahmen eines "Ausschussbegutachtungsverfahrens"'
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Ausschussbegutachtung der Vorlage ( 81/AUA )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/AUA/81
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Bildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für europäische und internationale Angelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Finanzen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Frauen, Wissenschaft und Forschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Inneres - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Innovation, Mobilität und Infrastruktur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Justiz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz,
+    Regionen und Wasserwirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Landesverteidigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wirtschaft, Energie und Tourismus - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Abfall-Lehrstuhl der Montanuniversität Leoben - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Abschlussprüferaufsichtsbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Agentur für Qualitätssicherung und Akkreditierung Austria; Geschäftsführung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Agentur für Qualitätssicherung und Akkreditierung Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Akademie der bildenden Künste Wien; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Akademie der bildenden Künste Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Akademie der bildenden Künste Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Akademie der bildenden Künste Wien; Vizerektorin für Kunst und Lehre
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Aktion 21 - Pro Bürgerbeteiligung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Burgenländischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Kärntner Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Niederösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung; Büro des Landeshauptmannes
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Salzburger Landesregierung; Büro des Landesamtsdirektors - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Salzburger Landesregierung; Legislativangelegenheiten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Steiermärkischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Tiroler Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Anton Bruckner Privatuniversität; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Anton Bruckner Privatuniversität; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Anton Bruckner Privatuniversität - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Anwaltschaft für Gleichbehandlung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Arbeiter-Samariter-Bund Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Arbeitsmarktservice Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von ARGE DATEN; Österreichische Gesellschaft für Datenschutz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von ARGE GLUNA ; Arbeitsgemeinschaft für Gleichbehandlung und Gleichstellung
+    an den Universitäten Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Auslandsösterreicher-Weltbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Austrian Chapter International Advertising Association - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Austrian Standards Institute - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Auto-, Motor- und Radfahrerbund Österreichs ARBÖ; Bundesorganisation
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Auto-, Motor- und Radfahrerbund Österreichs ARBÖ; Bundesorganisation
+    (Recht) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bertha von Suttner Privatuniversität; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bertha von Suttner Privatuniversität; Studierendenvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bertha von Suttner Privatuniversität - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband Österreichischer PsychologInnen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsverband Österreichischer SozialpädagogInnen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Berufsvereinigung von Arbeitgebern für Gesundheits- und Sozialberufe
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bildungsdirektion Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Blinden- und Sehbehindertenverband Österreich; Präsident - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Blinden- und Sehbehindertenverband Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bund Österreichischer Frauenvereine - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesbeschaffung GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesfinanzgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundes-Gleichbehandlungskommission - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundes-Jugendvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskammer der Tierärzte Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskammer für Architekten und Ingenieurkonsulenten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskonferenz der Freien Berufe Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundessektion Richter und Staatsanwälte der Gewerkschaft Öffentlicher
+    Dienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesseniorenbeirat beim Bundesministerium für Arbeit, Soziales, Gesundheit,
+    Pflege und Konsumentenschutz; Abteilung V/A/6 - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesseniorenbeirat beim Bundesministerium für Arbeit, Soziales, Gesundheit,
+    Pflege und Konsumentenschutz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundestheater-Holding GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesverwaltungsgericht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeswettbewerbsbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von CAMPUS 02 Fachhochschule der Wirtschaft; Kaufmännische Geschäftsführung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von CAMPUS 02 Fachhochschule der Wirtschaft; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von CAMPUS 02 Fachhochschule der Wirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Central European University Vienna; CEU Student Union - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Central European University Vienna; President and Rector - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Central European University Vienna - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Charlotte Fresenius Privatuniversität; Kanzler - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Charlotte Fresenius Privatuniversität; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Charlotte Fresenius Privatuniversität - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Dachverband der Sozialversicherungsträger - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Danube Private University; Direktor Strategische Hochschulplanung, Management
+    und Wissenschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Danube Private University; Präsidentin und CEO - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Danube Private University; Rektor und Direktor des Zentrums Kieferorthopädie
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Danube Private University - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Datenschutzbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Datenschutzrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Energie-Control Austria für die Regulierung der Elektrizitäts-, Gas-
+    und Wasserstoffwirtschaft (E-Control) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Erzbischöfliches Amt für Schule und Bildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von EU-Umweltbüro - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Evangelischer Oberkirchenrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachbereich Rechtswissenschaften der TU Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Campus Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule des bfi Wien Gesellschaft m.b.H.; Geschäftsführerin -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule des bfi Wien Gesellschaft m.b.H.; Leiter des Kollegiums,
+    Vizepräsident der Österreichischen Fachhochschul-Konferenz (FHK), Leiter des Studiengangs "Logistik und strategisches
+    Management" - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule des bfi Wien Gesellschaft m.b.H.; Stellvertretende Geschäftsführerin
+    und Leiterin der Abteilung Qualitätsmanagement und Hochschulentwicklung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule des bfi Wien Gesellschaft m.b.H. - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Gesundheitsberufe OÖ; Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Gesundheitsberufe OÖ; Leitung Kollegium, Leitung Qualität
+    & Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Gesundheitsberufe OÖ - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule JOANNEUM; Geschäftsführerin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule JOANNEUM; Kaufmännischer Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule JOANNEUM; Rekrotin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule JOANNEUM - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Kärnten; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Kärnten; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Kufstein; Geschätsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Kufstein; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Kufstein - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Oberösterreich; Geschäftsführerin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Oberösterreich; Hochschulpräsident und Geschäftsführer
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Oberösterreich; Kollegiumsleitung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Oberösterreich; Leitung Promotionskolleg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Oberösterreich; Vizepräsidentin Qualität & Diversity -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Salzburg; Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Salzburg; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Salzburg GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule St. Pölten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Technikum Wien; Geschäftsführer Ing. Mag. Horst Rode -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Technikum Wien; Geschäftsführer Mag. Florian Eckkrammer,
+    Bakk. - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Technikum Wien; Rekorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Technikum Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Vorarlberg GmbH; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Vorarlberg GmbH; Rektorin und Leitung des Kollegiums -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Vorarlberg GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Wiener Neustadt; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Wiener Neustadt; Geschäftsführerin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Wiener Neustadt; Leiter Kollegium - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschule Wiener Neustadt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschul-Studiengänge Militärische Führung; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschul-Studiengänge Militärische Führung; Leitung Kolegium - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachhochschul-Studiengänge Militärische Führung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Fachverband Gas & Wärme - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Familienpolitischer Beirat beim Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ferdinand Porsche FERNFH; Chief Financial Officer (CFO) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ferdinand Porsche FERNFH; Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ferdinand Porsche FERNFH; Leitung des Kollegiums - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ferdinand Porsche FERNFH; Studierendenvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von fhg – Zentrum für Gesundheitsberufe Tirol; FH-Rektor und Vorsitzender
+    des Fachhochschulkollegiums - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von fhg – Zentrum für Gesundheitsberufe Tirol; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von fhg – Zentrum für Gesundheitsberufe Tirol GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von FHW-Fachhochschul-Studiengänge Betriebs- und Forschungseinrichtungen
+    der Wiener Wirtschaft GmbH; Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von FHW-Fachhochschul-Studiengänge Betriebs- und Forschungseinrichtungen
+    der Wiener Wirtschaft GmbH; Head of Academic Affairs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von FHW-Fachhochschul-Studiengänge Betriebs- und Forschungseinrichtungen
+    der Wiener Wirtschaft GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Finanzmarktaufsicht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Finanzprokuratur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Finanzrichter-Vereinigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Forum Mobilkommunikation - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Generalprokuratur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Geschäftsstelle der Bioethikkommission beim Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Geschäftsstelle der Digitalisierungsgremien im Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft GPA - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Gewerkschaft Öffentlicher Dienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Gründungspräsidentin des Institute of Digital Sciences - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Gustav Mahler Privatuniversität; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Gustav Mahler Privatuniversität - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Handelsverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hauptverband der Gerichtssachverständigen Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hauptverband der Land- u. Forstwirtschaftsbetriebe Österreichs; Präsident
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hauptverband der Land- u. Forstwirtschaftsbetriebe Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Burgenland; Geschäftsführer
+    Mag. Dipl.-Päd. Nikolaus Schermann - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Burgenland; Geschäftsführer
+    Mag. Georg Pehm - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Burgenland; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Campus Wien; Geschäftsführerin;
+    CFO - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Campus Wien; Vorsitzende der
+    Geschäftsführung; CEO - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Campus Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften Campus Wien ; Akademischer Leiter;
+    Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften St. Pölten; Geschäftsführer
+    FH-Prof. Dipl.-Ing. Raffaseder Hannes - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften St. Pölten; Geschäftsführer
+    FH-Prof. Dipl.-Ing. Johann Haag - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschule für Angewandte Wissenschaften St. Pölten; Leiter des Kollegiums
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von HochschülerInnenschaft der FH CAMPUS 02 Fachhochschule der Wirtschaft
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschulrat der Pädagogischen Hochschule Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschulvertretung der Pädagogischen Hochschule Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Hochschulvertretung der Pädagogischen Hochschule Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von IMC Fachhochschule Krems GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von IMC-Hochschule für Angewandte Wissenschaften Krems; akademischer Leiter
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von IMC-Hochschule für Angewandte Wissenschaften Krems; Geschäftsführer -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von IMC-Hochschule für Angewandte Wissenschaften Krems; Geschäftsführerin
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von IMC-Hochschule für Angewandte Wissenschaften Krems - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Insolvenz-Entgelt-Fonds-Service GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Europarecht der Universität Graz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Europarecht der Universität Linz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Europarecht der Universität Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Europarecht der Universität Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Österreichisches und Europäisches Öffentliches Recht der
+    WU Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Rechtswissenschaften der BoKu Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Institut für Rechtswissenschaften der Universität Klagenfurt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Interdisciplinary Transformation University (IT:U) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von JAM MUSIC LAB Private University; Leiterin des Forschungsmanagement und
+    Projektkoordinatorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von JAM MUSIC LAB Private University; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von JAM MUSIC LAB Private University; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Joseph-Haydn-Privathochschule; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Joseph-Haydn-Privathochschule; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kammer der Steuerberater und Wirtschaftsprüfer (KSW) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Karl Landsteiner Privatuniversität für Gesundheitswissenschaften - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Katholische Privat-Universität Linz; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Katholische Privat-Universität Linz; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Katholische Privat-Universität Linz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchliche Pädagogische Hochschule Edith Stein; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchliche Pädagogische Hochschule Edith Stein - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchliche Pädagogische Hochschule Edith Stein - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchlichen Pädagogischen Hochschule Wien/Krems; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchlichen Pädagogischen Hochschule Wien/Krems; Studienvertretung -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kirchlichen Pädagogischen Hochschule Wien/Krems - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Klagsverband zur Durchsetzung der Rechte von Diskriminierungsopfern -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von KommAustria und Telekom-Control-Kommission - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Kuratorium für Verkehrssicherheit - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesrechnungshof Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Niederösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Oberösterreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Salzburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Steiermark - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landesverwaltungsgericht Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Landwirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Lauder Business School; Executive Director - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Lauder Business School; Head of Council - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Lauder Business School; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Lebenshilfe Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ludwig Boltzmann Institut für Menschenrechte - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von MCI Management Center Innsbruck - Internationale Hochschule; Head of
+    the Academic Council - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von MCI Management Center Innsbruck - Internationale Hochschule; Rektor -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von MCI Management Center Innsbruck - Internationale Hochschule; Studienvertretung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Graz; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Graz; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Graz ; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Graz ; Vizerektor für Studium und Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Innsbruck; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Innsbruck; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Innsbruck; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Innsbruck; Vizerektor für Lehre und Studienangelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Wien; Zentrum für Krebsforschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Wien ; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Medizinische Universität Wien ; Vizerektorin für Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Modul University Vienna; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Modul University Vienna - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Montanuniversität Leoben; Lehrstuhlleiter - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Montanuniversität Leoben; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Montanuniversität Leoben; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Montanuniversität Leoben; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Musik und Kunst Privatuniversität der Stadt Wien; Büroleitung des Rektors
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Musik und Kunst Privatuniversität der Stadt Wien; Studienvertretung -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Musik und Kunst Privatuniversität der Stadt Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Netzwerk Studium; Studierendenrecruiting & Zulassung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Netzwerk Studium - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von New Design University; Leitung Rektoratsmanagement & Qualitätssicherung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von New Design University; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von New Design University; Rektor & Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von New Design University; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von NÖ Umweltverbände - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von ÖAMTC - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Oberste Behörde für den gewerblichen Rechtsschutz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Oberster Gerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von OeAD-GmbH; Agentur für Bildung und Internationalisierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von ÖH der Pädagogischen Hochschule Kärnten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ökobüro - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Ombudsstelle für Studierende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von ÖPUK – Österreichische Privatuniversitätenkonferenz; Generalsekretärin
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von ÖPUK – Österreichische Privatuniversitätenkonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Apothekerkammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Ärztekammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Bischofskonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Bundesbahnen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Bundesforste AG - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Bundessportorganisation - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Fachhochschul-Konferenz (FHK); Generalsekretär - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Fachhochschul-Konferenz (FHK) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Gesellschaft für Gesetzgebungslehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Gesellschaft für Schule und Recht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Hochschülerinnen- und Hochschülerschaft; Sekretariat
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Hochschülerinnen- und Hochschülerschaft; Vorsitz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Hochschülerinnen- und Hochschülerschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Juristenkommission - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Liga für Menschenrechte - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Notariatskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Ordenskonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Patentanwaltskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Post AG - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Sektion von Amnesty International - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Universitätenkonferenz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Vereinigung für Gas und Wasser - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichische Zahnärztekammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischen Hochschülerschaft der Karl Landsteiner Privatuniversität
+    für Gesundheitswissenschaften - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Behindertenrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Bundesfeuerwehrverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Bundesverband für Psychotherapie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Familienbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Fischereiverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gemeindebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gewerkschaftsbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Haus- und Grundbesitzerbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Ingenieur- und Architektenverein - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Journalisten Club - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Landarbeiterkammertag - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Rat für Freiwilligenarbeit - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Rechtsanwaltskammertag - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Städtebund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer UniversitätsprofessorInnenverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Verband der Internet Service Provider - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Verband der Markenartikelindustrie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Wasser- und Abfallwirtschaftsverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichisches Hebammengremium - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichisches Institut für Europäische Rechtspolitik - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichisches Institut für Menschenrechte - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichisches Rotes Kreuz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische für Agrar- und Umweltpädagogik; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische für Agrar- und Umweltpädagogik; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische für Agrar- und Umweltpädagogik; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Burgenland; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Burgenland - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Kärnten; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Kärnten; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Niederösterreich; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Niederösterreich; Vizerektorin für Forschung
+    und Hochschulentwicklung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Oberösterreich; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Oberösterreich; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Oberösterreich; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Salzburg; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Salzburg; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Salzburg; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Steiermark; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Steiermark; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Steiermark; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Vorarlberg; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Vorarlberg; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Vorarlberg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Wien; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Wien; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Pädagogische Hochschule Wien; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Paracelsus Medizinische Privatuniversität; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Paracelsus Medizinische Privatuniversität; Kanzlerin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Paracelsus Medizinische Privatuniversität; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Parlamentarisches Datenschutzkomitee - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Präsidentschaftskanzlei - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule Augustinum; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule Augustinum; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule Augustinum; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule der Diözese Linz; Hochschulrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule der Diözese Linz; Hochschulvertretung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Private Pädagogische Hochschule der Diözese Linz; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Privatuniversität Schloss Seeburg; Geschäftsführer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Privatuniversität Schloss Seeburg; Kanzlerin, Leiterin der Universitätsverwaltung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Privatuniversität Schloss Seeburg; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Privatuniversität Schloss Seeburg - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rat für Forschung, Wissenschaft, Innovation und Technologieentwicklung
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechnungshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Graz; Dekanatsleiter
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Graz; Dekanin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Graz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Innsbruck - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Linz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Salzburg; Dekan - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Salzburg; Nikolaj Jurcenko
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Salzburg; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rechtswissenschaftliche Fakultät der Universität Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von RÖPH; Rektorinnen- und Rektorenkonferenz der österreichischen Pädagogischen
+    Hochschulen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Rundfunk und Telekom Regulierungs-GmbH - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Sigmund Freud Privatuniversität; Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Sigmund Freud Privatuniversität; Kanzler - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Sigmund Freud Privatuniversität; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Sigmund Freud Privatuniversität; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Sigmund-Freud-Universität - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Stadtrechnungshof Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Statistik Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Statistikrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Stella Vorarlberg Privathochschule für Musik; Leitung Veranstaltungsmanagment
+    und Orchesterbüro - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Stella Vorarlberg Privathochschule für Musik; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Stella Vorarlberg Privathochschule für Musik; Studienvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Stella Vorarlberg Privathochschule für Musik; Vizerektior und Geschäftsführer
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Studienbeihilfenbehörde - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Graz; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Graz; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Graz; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Graz; Vizerektorat Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Wien; Leiter der Studienabteilung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Wien; Leitung Forschungsbereich Straßenwesen -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Wien; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Technische Universität Wien; Vizerektorin Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Telekom Austria AG - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Transparency International Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von TU Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von UMIT Tirol – Private Universität für Gesundheitswissenschaften und -technologie;
+    Hochschulvertretung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von UMIT Tirol – Private Universität für Gesundheitswissenschaften und -technologie;
+    Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von UMIT Tirol – Private Universität für Gesundheitswissenschaften und -technologie
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Umweltbundesamt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Umweltdachverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von UNHCR Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für angewandte Kunst Wien; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für angewandte Kunst Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für angewandte Kunst Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für angewandte Kunst Wien; Vizerektorin für Kunst, Lehre
+    und Lernen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Bodenkultur Wien; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Bodenkultur Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Bodenkultur Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Bodenkultur Wien; Vizerektorin für Lehre, Weiterbildung
+    und Studierende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für künstlerische und industrielle Gestaltung Linz; Rektorat
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für künstlerische und industrielle Gestaltung Linz; Senat
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für künstlerische und industrielle Gestaltung Linz; Universitätsrat
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für künstlerische und industrielle Gestaltung Linz; Vizerektorin
+    für Kunst und Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Graz; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Graz; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Graz; Universitätsrat -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Graz; Vizerektors für Lehre,
+    Internationales und Qualitätsmanagement - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Wien; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Wien; Universitätsrat -
+    angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Musik und darstellende Kunst Wien; Vizerektorat für Lehre
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Weiterbildung Krems; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Weiterbildung Krems; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Weiterbildung Krems; Vizerektorat für Lehre und Studierende
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität für Weiterbildung Krems; Zentrum für Geistiges Eigentum,
+    Medien- und Innovationsrecht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Graz; Leiterin des Instituts für Steuerrecht - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Graz; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Graz ; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Graz ; Vizerektorin für Studium und Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Innsbruck; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Innsbruck; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Klagenfurt; Institut für Germanistik - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Klagenfurt; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Klagenfurt; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Klagenfurt; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Klagenfurt; Vizerektorin für Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Linz; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Linz; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Linz; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Linz; Vizerektor für Lehre und Studierende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Mozarteum Salzburg; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Mozarteum Salzburg; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Mozarteum Salzburg; Vizerektor für Kunst & des Universitätsrats
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Mozarteum Salzburg; Vizerektor für Studium und Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Salzburg; Rektor - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Salzburg; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Salzburg; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Salzburg; Vizerektorat für Lehre und Studierende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Wien; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Universität Wien; Vizerektorin für Studium und Lehre - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Unniversität Innsbruck; Rektorin - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Unniversität Innsbruck; Vizerektorin für Lehre und Studierende - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verband Angestellter Apotheker - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der Elektrizitätswerke Österreichs - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der Öffentlichen Wirtschaft und Gemeinwirtschaft Österreichs
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verband der österreichischen Musikwirtschaft – IFPI Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verband Österreichischer Versorgungsbetriebe - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verband österreichischer Zeitungen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verbindungsstelle der Bundesländer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verein der Österreichischen Verwaltungsrichter - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verein zur Unterstützung des Unabhängigen Monitoringausschusses zur Umsetzung
+    der UN-Konvention über die Rechte von Menschen mit Behinderungen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung der Österreichischen Industrie - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung industrieller Bauunternehmungen Österreichs (VIBÖ) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung österreichischer Bezirkshauptleute - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung Österreichischer Elektrizitätswerke, Geschäftsführung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung Österreichischer Richter - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verfassungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verhandlungsausschuss der Gewerk­schaften Öffentlicher Dienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verkehrsclub Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verwaltungsgerichtshof - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Verwaltungsrichter-Vereinigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Veterinärmedizinische Universität Wien; Rekorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Veterinärmedizinische Universität Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Veterinärmedizinische Universität Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Veterinärmedizinische Universität Wien; Vizerektorin für Lehre, Lehrinnovationen
+    und klinische Angelegenheiten - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vier Pfoten; Stiftung für Tierschutz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Volksanwaltschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vorsitzende des Beirats; o.Univ.-Prof. Dipl.-Ing. Dr. Dr.-Ing. Sabine
+    Seidler - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vorsitzende des Betriebsrats für das wissenschaftliche Personal der WU
+    Wien - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vorsitzende des Gründungskonvents zur Errichtung des Institute of Digital
+    Sciences Austria - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Vorsitzender des Betriebsrates für das wissenschaftliche Universitätspersonal
+    an der Universität Graz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Webster Vienna Private University; Associate Director - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Webster Vienna Private University - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Weißer Ring - Kriminalitätsopferhilfe - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wiener Zeitung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftsuniversität Wien; Department of Business Analytics and Decision
+    Sciences - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftsuniversität Wien; Rektorat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftsuniversität Wien; Senat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftsuniversität Wien; Universitätsrat - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Zentralausschuss BMHS - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: Antrag auf Einholung einer Stellungnahme von Zentrum für europäisches Recht der Universität für IBK Tirol - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-03'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: Abänderungsantrag der Abgeordneten Mag. Dr. Rudolf Taschner
+    , Mag. Heinrich Himmer , Mag. Martina von Künsberg Sarre , Kolleginnen und Kollegen ( 44/AAA ) angenommen Dafür: FPÖ,
+    ÖVP, SPÖ, NEOS, GRÜNE, dagegen: -'
+  url: https://www.parlament.gv.at/person/2329
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-03'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: auf Tagesordnung in der 7. Sitzung des Ausschusses Wiederaufnahme
+    der am 20. Mai 2026 vertagten Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-WI/1/00941/TO_16899669.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-03'
+  text: 'Ausschuss für Wissenschaft, Forschung und Digitalisierung: Bericht 519 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/519
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Beschluss im Nationalrat 171/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/171
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Auf der Tagesordnung der 81. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/81/TO_16604253.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '81. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '81. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-06-11'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-06-11'
+  text: 'Einlangen im Bundesrat (Frist: 06.08.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-06-11'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-11'
+  text: Zuweisung an den Ausschuss für Wissenschaft und Forschung des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-WF-BR/1/00270
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-23'
+  text: 'Ausschuss für Wissenschaft und Forschung des Bundesrates: auf Tagesordnung in der 3. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-WF-BR/1/00270/TO_16912581.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-06-23'
+  text: 'Ausschuss für Wissenschaft und Forschung des Bundesrates: Bericht 11827/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11827
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-25'
+  text: Auf der Tagesordnung der 992. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/992
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-25'
+  text: '992. Sitzung: Berichterstattung durch die Bundesrätin Verena Schweiger, BA MA MA'
+  url: https://www.parlament.gv.at/person/33455
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-25'
+  text: '992. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-25'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-25'
+  text: '992. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-06-25'
+  text: Beschluss im Bundesrat 171/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/171
+vote:
+  date: '2026-06-10'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/865/fname_1758405.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/865/fnameorig_1758405.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 865/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/865?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

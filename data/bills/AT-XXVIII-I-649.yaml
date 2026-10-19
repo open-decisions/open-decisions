@@ -1,0 +1,64 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/649
+type: government_bill
+title: Bildungsdirektionen-Einrichtungsgesetz, Schulorganisationsgesetz, Änderung
+citation: 649 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/649
+introduced: '2026-10-07'
+introduced_by:
+- Christoph Wiederkehr, MA (Bundesministerium für Bildung)
+identifiers:
+  eurovoc:
+  - Bildung
+  - Organisation des Unterrichtswesens
+  topics:
+  - Bildung
+  keywords:
+  - Bildungswesen VIII. Sonstiges
+status:
+  stage: introduced
+  source_status: '2'
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/102
+  title: Bildungsdirektionen-Einrichtungsgesetz, Schulorganisationsgesetz, Änderung
+  citation: 102/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-07'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-08'
+  text: Vorgesehen für den Bildungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-BI/1/00942
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '101. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/101
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-14'
+  text: '102. Sitzung des Nationalrates : Zuweisung an den Bildungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/649/fname_1782313.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/649/fnameorig_1782313.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/649/fname_1782316.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/649/fname_1782315.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/649/imfname_1782317.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 649 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/649?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

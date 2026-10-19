@@ -1,0 +1,59 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/810
+type: members_bill
+title: Medienkooperations- und -förderungs-Transparenzgesetz, Änderung
+citation: 810/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/810
+introduced: '2026-03-26'
+introduced_by:
+- Sigrid Maurer, BA
+identifiers:
+  eurovoc:
+  - Presse
+  topics:
+  - Information und Medien
+  keywords:
+  - Presse
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Übermittlung an das Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: Vorgesehen für den Verfassungsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '73. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/73
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-03-26'
+  text: '74. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/74
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/810/fname_1748322.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/810/fnameorig_1748322.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 810/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/810?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

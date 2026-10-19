@@ -1,0 +1,51 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/1161
+type: members_bill
+title: Paketsteuergesetz – PakStG
+citation: 1161/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1161
+introduced: '2026-10-15'
+introduced_by:
+- Michael Fürtbauer
+status:
+  stage: introduced
+  source_status: '1'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: 'Verlangen auf erste Lesung binnen drei Monaten (Frist: 15.01.2027)'
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: Vorgesehen für den Finanzausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-10-15'
+  text: '103. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/103
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1161/fname_1784152.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1161/fnameorig_1784152.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 1161/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1161?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

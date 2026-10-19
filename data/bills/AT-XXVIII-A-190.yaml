@@ -1,0 +1,104 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/190
+type: members_bill
+title: Nachhaltigkeitsberichtsgesetz – NaBeG
+citation: 190/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/190
+introduced: '2025-03-27'
+introduced_by:
+- Dr. Alma Zadić, LL.M.
+identifiers:
+  eurovoc:
+  - Arbeitsrecht
+  - Bürgerliches Recht
+  - Gerichtswesen
+  - Steuerwesen
+  - Strafrecht
+  topics:
+  - Arbeit
+  - Budget und Finanzen
+  - Inneres und Recht
+  keywords:
+  - Zivilrecht
+  - Arbeitsrecht I. österreichisches
+  - Rechtspflege
+  - Steuern und Gebühren
+  - Strafrecht
+status:
+  stage: introduced
+  source_status: '5'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Übermittlung an das Bundesministerium für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '15. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/15
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-03-27'
+  text: '16. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/16
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-04-01'
+  text: 'Justizausschuss: auf Tagesordnung in der 2. Sitzung des Ausschusses In der Sitzung vom 1. April 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16510728.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: 'Justizausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 25. November 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16721037.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-20'
+  text: 'Justizausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses Wiederaufnahme der am 25. November 2025 vertagten
+    Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16721062.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-20'
+  text: 'Justizausschuss: Bericht 387 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/387
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Auf der Tagesordnung der 63. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/63/TO_16604143.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Abstimmung: Antrag, den ablehnenden Ausschussbericht zur Kenntnis zu nehmen: angenommen
+    Dafür: FPÖ, ÖVP, SPÖ, NEOS, dagegen: GRÜNE'
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/190/fname_1674718.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/190/fnameorig_1674718.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 190/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/190?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

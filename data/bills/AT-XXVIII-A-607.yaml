@@ -1,0 +1,177 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/607
+type: members_bill
+title: Gesundheitstelematikgesetz, Änderung
+citation: 607/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/607
+introduced: '2025-11-20'
+introduced_by:
+- Mario Lindner
+- Mag. Gerhard Kaniak
+- Mag. Dr. Juliane Bogner-Strauß
+- Fiona Fiedler, BEd
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/93
+  eurovoc:
+  - Gesundheit
+  topics:
+  - Gesundheit und Ernährung
+  keywords:
+  - Gesundheit
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 93/2025
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2025_I_93
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: Vorgesehen für den Gesundheitsausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '52. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/52
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-20'
+  text: '53. Sitzung des Nationalrates : Zuweisung an den Gesundheitsausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/53
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Gesundheitsausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GE/1/00922/TO_16706758.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-12-02'
+  text: 'Gesundheitsausschuss: Bericht 342 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/342
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Auf der Tagesordnung der 57. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/57/TO_16447541.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: '57. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-11'
+  text: Beschluss im Nationalrat 115/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/115
+- phase: plenary
+  chamber: Nationalrat
+  date: '2025-12-12'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: 'Einlangen im Bundesrat (Frist: 06.02.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-12'
+  text: Zuweisung an den Gesundheitsausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-GH-BR/1/00064
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Gesundheitsausschuss des Bundesrates: auf Tagesordnung in der 4. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-GH-BR/1/00064/TO_16748218.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2025-12-16'
+  text: 'Gesundheitsausschuss des Bundesrates: Bericht 11758/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11758
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-18'
+  text: Auf der Tagesordnung der 985. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/985
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-18'
+  text: '985. Sitzung: Berichterstattung durch den Bundesrat Martin Peterl'
+  url: https://www.parlament.gv.at/person/31080
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-18'
+  text: '985. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-18'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-18'
+  text: '985. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2025-12-18'
+  text: Beschluss im Bundesrat 115/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/115
+vote:
+  date: '2025-12-11'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/607/fname_1723252.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/607/fnameorig_1723252.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/607/fname_1724904.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 607/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/607?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

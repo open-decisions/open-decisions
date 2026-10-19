@@ -1,0 +1,410 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/300
+type: government_bill
+title: Nachhaltigkeitsberichtsgesetz – NaBeG
+citation: 300 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/300
+introduced: '2025-11-18'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/6
+  eurovoc:
+  - Arbeitsrecht
+  - Buchprüfung
+  - Bürgerliches Recht
+  - Europäische Union
+  - Finanzwesen
+  - Gerichtswesen
+  - Handel
+  - Industrie
+  - Steuerwesen
+  - Unternehmen und Wettbewerb
+  - Versicherungswesen
+  topics:
+  - Arbeit
+  - Budget und Finanzen
+  - Europäische Union
+  - Inneres und Recht
+  - Wirtschaft
+  keywords:
+  - Handel, Gewerbe und Industrie
+  - Arbeitsrecht I. österreichisches
+  - Europäische Integration
+  - Kreditwesen
+  - Rechtspflege
+  - Steuern und Gebühren
+  - Vertragsversicherungen
+  - Wirtschaftstreuhänderin/Wirtschaftstreuhänder
+  - Zivilrecht
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 6/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_6
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/4
+  title: Drittlandunternehmen-Berichterstattungsgesetz; Nachhaltigkeitsberichtsgesetz – NaBeG
+  citation: 4/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-18'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '50. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/50
+- phase: introduced
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-19'
+  text: '51. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/51
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: 'Justizausschuss: auf Tagesordnung in der 5. Sitzung des Ausschusses In der Sitzung vom 25. November 2025 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16721037.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: 'Justizausschuss: Beschlussfassung auf Einholung schriftlicher Stellungnahmen im Rahmen eines "Ausschussbegutachtungsverfahrens"'
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Ausschussbegutachtung der Vorlage ( 54/AUA )
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/AUA/54
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Bildung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für europäische und internationale Angelegenheiten
+    - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Finanzen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Frauen, Wissenschaft und Forschung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Inneres - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Innovation, Mobilität und Infrastruktur - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Justiz - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz,
+    Regionen und Wasserwirtschaft - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Landesverteidigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wirtschaft, Energie und Tourismus - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesministerium für Wohnen, Kunst, Kultur, Medien und Sport - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Burgenländischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Kärntner Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Niederösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Oberösterreichischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Salzburger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Steiermärkischen Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Tiroler Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Vorarlberger Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Amt der Wiener Landesregierung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundesarbeitskammer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Bundeskanzleramt - Verfassungsdienst - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Global 2000 - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Greenpeace CEE - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Industriellenvereinigung - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Kammer der Steuerberater:innen und Wirtschaftsprüfer:innen - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Landwirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Netzwerk Soziale Verantwortung (NeSoVe) - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Ökobüro - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Gewerkschaftsbund - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Österreichischer Rechtsanwaltskammertag - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Südwind Verein für Entwicklungspolitik und globale Gerechtigkeit - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Umweltdachverband - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Verbindungsstelle der Bundesländer - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Vereinigung der österreichischen Richterinnen und Richter - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von Wirtschaftskammer Österreich - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2025-11-25'
+  text: Antrag auf Einholung einer Stellungnahme von WWF Österreich; World Wide Fund For Nature - angenommen
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-20'
+  text: 'Justizausschuss: Abänderungsantrag der Abgeordneten MMag. Jakob Grüner, LL.M. , Mag. Selma Yildirim , Mag. Sophie
+    Marie Wotschke , Kolleginnen und Kollegen ( 32/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+  url: https://www.parlament.gv.at/person/32570
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-20'
+  text: 'Justizausschuss: auf Tagesordnung in der 6. Sitzung des Ausschusses Wiederaufnahme der am 25. November 2025 vertagten
+    Verhandlungen'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16721062.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-01-20'
+  text: 'Justizausschuss: Bericht 386 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/386
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Beschluss im Nationalrat 130/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/130
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Auf der Tagesordnung der 63. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/63/TO_16604143.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten MMag. Jakob Grüner, LL.M. , Mag. Selma Yildirim
+    , Mag. Sophie Marie Wotschke , Kolleginnen und Kollegen ( AA-49 ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/32570
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Dr. Alma Zadić, LL.M. , Kolleginnen und Kollegen
+    ( AA-50 ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/2345
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Unselbständiger Entschließungsantrag der Abgeordneten Dr. Alma Zadić, LL.M. , Kolleginnen
+    und Kollegen betreffend Gesetzliche Maßnahmen gegen Bilanzverschleierung schaffen (163/UEA) abgelehnt Dafür: GRÜNE, dagegen:
+    FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/2345
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen wechselnde Mehrheiten (dafür: V, S,
+    N bzw. V, S, N, G)'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-21'
+  text: '63. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ,
+    GRÜNE'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-01-23'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: 'Einlangen im Bundesrat (Frist: 20.03.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11762/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11762
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-01-23'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-02-03'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 5. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_16775212.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-02-03'
+  text: 'Justizausschuss des Bundesrates: Bericht 11764/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11764
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: Auf der Tagesordnung der 986. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/986
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: '986. Sitzung: Berichterstattung durch den Bundesrat Ing. Thomas Schmid'
+  url: https://www.parlament.gv.at/person/32337
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: '986. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: '986. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Dafür: ÖVP, SPÖ, NEOS, dagegen: FPÖ, GRÜNE'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: 'Unselbständiger Entschließungsantrag der Bundesräte MMag. Elisabeth Kittl, BA , Kolleginnen und Kollegen betreffend
+    gesetzliche Maßnahmen gegen Bilanzverschleierung schaffen (794/UEA-BR/2026) abgelehnt Dafür: GRÜNE, dagegen: ÖVP, SPÖ,
+    FPÖ, NEOS'
+  url: https://www.parlament.gv.at/person/17881
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-02-05'
+  text: Beschluss im Bundesrat 130/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/130
+vote:
+  date: '2026-01-21'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: false
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: false
+    wikidata: Q193178
+  note: 'Dafür: V, S, N, Dagegen: F, G'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/300/fname_1722562.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/300/fnameorig_1722562.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/300/imfname_1722565.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/300/fname_1722564.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/300/imfname_1722566.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 300 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/300?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

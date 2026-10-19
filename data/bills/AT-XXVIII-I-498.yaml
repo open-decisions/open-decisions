@@ -1,0 +1,200 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/I/498
+type: government_bill
+title: Verbraucherrechts-Änderungsgesetz 2026 – VerbRÄG 2026
+citation: 498 d.B.
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/498
+introduced: '2026-05-13'
+introduced_by:
+- Dr. Anna Sporrer (Bundesministerium für Justiz)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/59
+  eurovoc:
+  - Bürgerliches Recht
+  - Finanzwesen
+  - Handel
+  - Industrie
+  - Unternehmen und Wettbewerb
+  - Versicherungswesen
+  - Verwaltungsorganisation
+  topics:
+  - Budget und Finanzen
+  - Inneres und Recht
+  - Wirtschaft
+  keywords:
+  - Zivilrecht
+  - Handel, Gewerbe und Industrie
+  - Kreditwesen
+  - Vertragsversicherungen
+  - Verwaltungsorganisation
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 59/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_59
+pre_parliamentary:
+- url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/80
+  title: Verbraucherrechts-Änderungsgesetz 2026 – VerbRÄG 2026, Änderung
+  citation: 80/ME
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-13'
+  text: Einlangen im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-15'
+  text: Vorgesehen für den Justizausschuss
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '77. Sitzung des Nationalrates : Mitteilung des Einlangens'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/77
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-05-20'
+  text: '78. Sitzung des Nationalrates : Zuweisung an den Justizausschuss'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/78
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Justizausschuss: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-JU/1/00926/TO_16926462.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-30'
+  text: 'Justizausschuss: Bericht 566 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/566
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Mag. Klaus Fürlinger , Mag. Selma Yildirim , Ines
+    Holzegger , Kolleginnen und Kollegen ( AA-77 ) angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen: -'
+  url: https://www.parlament.gv.at/person/72999
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Beschluss im Nationalrat 191/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/191
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-09'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11835/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11835
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: 'Einlangen im Bundesrat (Frist: 03.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Zuweisung an den Justizausschuss des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-JU-BR/1/00114
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Justizausschuss des Bundesrates: Bericht 11846/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11846
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 8. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_16941695.html
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: Auf der Tagesordnung der 993. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/993
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung: Berichterstattung durch die Bundesrätin Amelie Muthsam'
+  url: https://www.parlament.gv.at/person/32817
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: '993. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-15'
+  text: Beschluss im Bundesrat 191/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/191
+vote:
+  date: '2026-07-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/498/fname_1757408.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/498/fnameorig_1757408.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/498/fname_1757411.pdf
+  explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/498/fname_1757410.pdf
+  impact_assessment_pdf:
+  - https://www.parlament.gv.at/dokument/XXVIII/I/498/imfname_1757412.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 498 d.B., Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/498?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

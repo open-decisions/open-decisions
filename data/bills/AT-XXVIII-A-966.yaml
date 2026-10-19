@@ -1,0 +1,68 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/966
+type: members_bill
+title: Familienlastenausgleichsgesetz, Kinderbetreuungsgeldgesetz, Änderung
+citation: 966/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/966
+introduced: '2026-07-07'
+introduced_by:
+- Barbara Neßler
+identifiers:
+  eurovoc:
+  - Familie
+  - Familienleistungsausgleich
+  topics:
+  - Familie und Generationen
+  keywords:
+  - Familienlastenausgleich
+  - Familienpolitik
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz und Büro der
+    Bundesministerin für Europa, Integration und Familie
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Vorgesehen für den Ausschuss für Familie und Jugend
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-FA/1/00920
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/87
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '88. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Familie und Jugend'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/88
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '88. Sitzung des Nationalrates : Antrag der Abgeordneten Barbara Neßler auf Fristsetzung zur Berichterstattung durch
+    den Ausschuss für Familie und Jugend ( 924/GO ) abgelehnt Dafür: GRÜNE, dagegen: FPÖ, ÖVP, SPÖ, NEOS'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/88
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/966/fname_1770224.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/966/fnameorig_1770224.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 966/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/966?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

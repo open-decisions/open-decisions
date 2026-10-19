@@ -1,0 +1,192 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/917
+type: members_bill
+title: Arbeitsvertragsrechts-Anpassungsgesetz, Bauarbeiter-Urlaubs- und Abfertigungsgesetz u.a., Änderung
+citation: 917/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/917
+introduced: '2026-06-10'
+introduced_by:
+- Tanja Graf
+- Josef Muchitsch
+- Michael Bernhard
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/66
+  eurovoc:
+  - Arbeitsrecht
+  topics:
+  - Arbeit
+  keywords:
+  - Arbeitsrecht I. österreichisches
+status:
+  stage: published
+  source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 66/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_66
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '81. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/81
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-06-10'
+  text: '82. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/82
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 9. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16732549.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: 'Ausschuss für Arbeit und Soziales: Bericht 574 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/574
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-01'
+  text: 'Ausschuss für Arbeit und Soziales: Abänderungsantrag der Abgeordneten Laurenz Pöttinger , Josef Muchitsch , Johannes
+    Gasser, BA Bakk. MSc , Kolleginnen und Kollegen ( 56/AAA ) angenommen Dafür: ÖVP, SPÖ, NEOS, GRÜNE, dagegen: FPÖ'
+  url: https://www.parlament.gv.at/person/5486
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Auf der Tagesordnung der 87. Sitzung des Nationalrates
+  url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/87/TO_16798403.html
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Wortmeldungen in der Debatte
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Abänderungsantrag der Abgeordneten Tanja Graf , Josef Muchitsch , Michael Bernhard
+    , Kolleginnen und Kollegen ( AA-75 ) angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE, dagegen: -'
+  url: https://www.parlament.gv.at/person/1977
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in zweiter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: '87. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen Dafür: FPÖ, ÖVP, SPÖ, NEOS, GRÜNE,
+    dagegen: -'
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-07'
+  text: Beschluss im Nationalrat 187/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/187
+- phase: plenary
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: Übermittlung des Beschlusses an den Bundesrat
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: 'Einlangen im Bundesrat (Frist: 02.09.2026)'
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Mitwirkungsrecht des Bundesrates
+- phase: second_chamber_introduced
+  chamber: Bundesrat
+  date: '2026-07-09'
+  text: Änderungen gegenüber dem Gesetzentwurf in der Fassung des Nationalrat-Ausschussberichtes ( 11832/BR d.B. )
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11832
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-08'
+  text: Zuweisung an den Ausschuss für Arbeit, Soziales und Konsumentenschutz des Bundesrates
+  url: https://www.parlament.gv.at/ausschuss/BR/A-AK-BR/1/00311
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Ausschuss für Arbeit, Soziales und Konsumentenschutz des Bundesrates: auf Tagesordnung in der 7. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/BR/A-AK-BR/1/00311/TO_16941769.html
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-07-14'
+  text: 'Ausschuss für Arbeit, Soziales und Konsumentenschutz des Bundesrates: Bericht 11862/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11862
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Auf der Tagesordnung der 994. Sitzung
+  url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/994
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Berichterstattung durch die Bundesrätin Mag. Bernadette Kerschler'
+  url: https://www.parlament.gv.at/person/31957
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: '994. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-07-16'
+  text: Beschluss im Bundesrat 187/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/187
+vote:
+  date: '2026-07-07'
+  result:
+  - party: FPÖ
+    seats: 57
+    in_favor: true
+    wikidata: Q131692
+  - party: ÖVP
+    seats: 51
+    in_favor: true
+    wikidata: Q186867
+  - party: SPÖ
+    seats: 41
+    in_favor: true
+    wikidata: Q179111
+  - party: NEOS
+    seats: 18
+    in_favor: true
+    wikidata: Q13564543
+  - party: GRÜNE
+    seats: 16
+    in_favor: true
+    wikidata: Q193178
+  note: 'Dafür: F, V, S, N, G, Dagegen: -'
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/917/fname_1764051.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/917/fnameorig_1764051.html
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 917/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/917?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'

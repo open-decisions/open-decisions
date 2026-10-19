@@ -1,0 +1,61 @@
+kind: bill
+jurisdiction: AT
+lang: de-AT
+id: AT/XXVIII/A/997
+type: members_bill
+title: Arbeitsverfassungsgesetz, Änderung
+citation: 997/A
+parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/997
+introduced: '2026-07-10'
+introduced_by:
+- Mag. Markus Koza
+identifiers:
+  eurovoc:
+  - Arbeitsrecht
+  topics:
+  - Arbeit
+  keywords:
+  - Arbeitsrecht I. österreichisches
+status:
+  stage: introduced
+  source_status: '2'
+phases:
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-08'
+  text: '91. Sitzung des Nationalrates : Mitteilung der Einbringung'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/91
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Einbringung im Nationalrat
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Übermittlung an das Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz und das Bundesministerium
+    für Justiz
+- phase: introduced
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: Vorgesehen für den Ausschuss für Arbeit und Soziales
+  url: https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-07-10'
+  text: '92. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/92
+vote: null
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/997/fname_1771490.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/997/fnameorig_1771490.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/997/fname_1773327.pdf
+measures: []
+sources:
+- id: parl-detail
+  role: law_text
+  institution: Parlament Österreich
+  title: Verhandlungsgegenstand 997/A, Detail-JSON
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/A/997?json=TRUE
+  retrieved: '2026-10-19'
+  archive: null
+retrieved: '2026-10-19'
