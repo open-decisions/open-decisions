@@ -241,8 +241,9 @@ Fünf Dokumente vor der ersten Codezeile, vier parallel dazu, alle im Repo unter
 | --- | --- | --- | --- | --- |
 | 1 | Methodik-Handbuch v0 | Redaktionsstatut: Auswahl, Quellen, Annahmen, Labels, Freigabe, Korrektur | eigenes Doc → `/docs/methodik.md` | Ja |
 | 2 | Stilguide und Kartenformat | Prüfbare Verständlichkeitsregeln, Kartenstruktur, Eval-Kriterien | eigenes Doc → `/docs/stilguide.md` | Ja |
-| 3 | Maßnahmen-Schema mit Referenzbeispiel | Datenvertrag zwischen Redaktion und Code (englisch, länderfähig): Vorhaben, Maßnahme, Beispielhaushalte pro Land; Klimabonus komplett befüllt; Prüfung mit `uv run --with pyyaml --with jsonschema schema/validate.py` | `/schema/massnahme.schema.json`, `/households/AT.yaml`, `/vorhaben/AT-XXVIII-I-69.yaml`, `/massnahmen/at-2025-klimabonus.yaml` | Ja |
+| 3 | Maßnahmen-Schema mit Referenzbeispiel | Datenvertrag zwischen Redaktion und Code (englisch, länderfähig): Vorhaben, Maßnahme, Beispielhaushalte pro Land; Klimabonus komplett befüllt; Prüfung mit `uv run --with pyyaml --with jsonschema schema/validate.py` | `/schema/massnahme.schema.json`, `/data/jurisdictions/AT.yaml`, `/data/households/AT.yaml`, `/data/bills/AT-XXVIII-I-69.yaml`, `/data/measures/at-2025-klimabonus.yaml` | Ja |
 | 4 | Arbeitsplan und Gates | Kanban, Wochenbudget, Pausenkriterium | GitHub Projects + unten | Ja |
+| 4a | Architektur | Schichten, Komponenten, Datenzugang (Dateien, Exporte, REST, MCP), Identifier, Bundesländer | `/docs/architecture.md` | Ja |
 | 5 | Interview-Leitfaden und Raster | 10–15 Gespräche auswertbar machen | unten | Ja |
 | 6 | Entscheidungslog | Ein Eintrag pro Entscheidung mit Grund | `/docs/decisions.md` | Läuft |
 | 7 | Governance- und Transparenzseite | Wer, wie finanziert, Beirat, Interessenkonflikte, Korrekturkontakt | Entwurf unten → Website | Parallel |

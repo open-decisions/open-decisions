@@ -8,6 +8,7 @@ law:
   title: Bundesgesetz über den regionalen Klimabonus
   abbreviation: KliBG
   original_gazette: BGBl. I Nr. 11/2022
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2022/11
   consolidated_url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011840
 
 title: Der Klimabonus wird nicht mehr ausgezahlt
@@ -107,7 +108,7 @@ effects:
       short_term: { value: -660, low: -735, high: -585, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }, { source: bd-konsolidierung, ref: "S. 46" }], calculation: "2 Erwachsene × 195 bis 245 + 2 Kinder × 97,50 bis 122,50 (Stadtrand, Stufe 2 oder 3)" }
       long_term: { value: -660, low: -735, high: -585, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1 und 2" }], calculation: "wie kurzfristig" }
       share_of_income: null
-      note: Anteil am verfügbaren Einkommen wird ergänzt, sobald disposable_income_year in households/AT.yaml befüllt ist.
+      note: Anteil am verfügbaren Einkommen wird ergänzt, sobald disposable_income_year in data/households/AT.yaml befüllt ist.
     - household: AT-H4
       short_term: { value: -170, low: -195, high: -145, unit: eur_per_year, label: estimated, year: 2025, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "1 Erwachsener × 145 bis 195 (Graz, Stufe 1 oder 2)" }
       long_term: { value: -170, low: -195, high: -145, unit: eur_per_year, label: estimated, year: 2029, assumptions: [A1, A3], sources: [{ source: ris-klibg-p3, ref: "§ 3 Abs. 1" }], calculation: "wie kurzfristig" }

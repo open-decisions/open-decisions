@@ -18,7 +18,7 @@ Aufgenommen wird eine Maßnahme, wenn alle drei Kriterien erfüllt sind:
 2. **Haushaltsbezug:** Verändert Einkommen, Abgaben, Transfers oder Pflichtausgaben privater Haushalte direkt (Steuern, Beihilfen, Pensionen, Gebühren, Mindestlohn, Valorisierungen).
 3. **Belegbarkeit:** Mindestens eine Primärquelle (Gesetzestext oder WFA) ist öffentlich zugänglich. Bei Initiativanträgen gibt es keine WFA und keine Begutachtung; Beleg sind dann Gesetzestext und Budgetdienst-Analyse. Die Karte kennzeichnet das Fehlen der WFA in Element 6 („Was ist unklar").
 
-Nicht aufgenommen: Maßnahmen ohne direkten Haushaltsbezug (Verwaltungsreform, Außenpolitik), Landes- und Gemeindeentscheidungen (vorerst), Maßnahmen, deren Wirkung nur über Makro-Effekte läuft (Konjunkturpakete, Standortpolitik).
+Nicht aufgenommen: Maßnahmen ohne direkten Haushaltsbezug (Verwaltungsreform, Außenpolitik), Maßnahmen, deren Wirkung nur über Makro-Effekte läuft (Konjunkturpakete, Standortpolitik). Landes- und Gemeindeentscheidungen sind vorgesehen (Register in `data/jurisdictions/AT.yaml`), aber erst aktiv, wenn die ersten fünf Bundeskarten veröffentlicht sind; bis dahin gilt für sie `active: false`.
 
 Reihenfolge bei knapper Zeit: zuerst nach Zahl der Betroffenen, dann nach Euro-Wirkung pro Haushalt. Die Auswahlentscheidung wird pro Maßnahme mit einem Satz festgehalten, auch die Ablehnung.
 

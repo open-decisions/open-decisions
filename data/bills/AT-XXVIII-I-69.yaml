@@ -9,6 +9,14 @@ parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69
 introduced: "2025-05-13"
 introduced_by:
   - Bundesregierung (Bundeskanzleramt)
+identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2025/25
+  eurovoc:
+    - Öffentliche Finanzen und Haushaltspolitik
+  topics:
+    - Budget und Finanzen
+  keywords:
+    - Bundeshaushalt III. Sonstiges
 status:
   stage: published
   source_status: "5"
@@ -60,11 +68,11 @@ vote:
   date: "2025-06-16"
   session: 30. Sitzung des Nationalrates, XXVIII. GP
   result:
-    - { party: ÖVP, seats: 51, in_favor: true }
-    - { party: SPÖ, seats: 41, in_favor: true }
-    - { party: NEOS, seats: 18, in_favor: true }
-    - { party: FPÖ, seats: 57, in_favor: false }
-    - { party: GRÜNE, seats: 16, in_favor: false }
+    - { party: ÖVP, wikidata: Q186867, seats: 51, in_favor: true }
+    - { party: SPÖ, wikidata: Q179111, seats: 41, in_favor: true }
+    - { party: NEOS, wikidata: Q13564543, seats: 18, in_favor: true }
+    - { party: FPÖ, wikidata: Q131692, seats: 57, in_favor: false }
+    - { party: GRÜNE, wikidata: Q193178, seats: 16, in_favor: false }
   note: Ergebnis der dritten Lesung laut Feld vote im Detail-JSON der Parlaments-API
 documents:
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html

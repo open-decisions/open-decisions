@@ -1,0 +1,116 @@
+kind: jurisdictions
+country: AT
+lang: de-AT
+note: >-
+  Bund und neun Länder. Gemeinden folgen später; Wien ist Land und Gemeinde zugleich.
+  Landesrecht und Landesgesetzblätter sind für alle Länder einheitlich über das RIS zugänglich (Anwendungen LrKons und LgblAuth).
+  Die Landtage haben keine einheitliche Schnittstelle; Angaben zu den Landtagen sind noch nicht geprüft.
+entries:
+  - code: AT
+    name: Bund
+    level: federal
+    active: true
+    parliament:
+      name: Nationalrat und Bundesrat
+      url: https://www.parlament.gv.at
+      api: https://www.parlament.gv.at/Filter/api/filter/data/101 (POST, JSON) und Detailseiten mit ?json=TRUE, CC BY 4.0
+      adapter: null
+    law_source:
+      name: RIS Bundesrecht
+      url: https://www.ris.bka.gv.at
+      api: https://data.bka.gv.at/ris/api/v2.6/Bundesrecht
+    gazette:
+      name: Bundesgesetzblatt
+      eli_prefix: https://www.ris.bka.gv.at/eli/bgbl/
+    impact_assessment: Wirkungsorientierte Folgenabschätzung (WFA) bei Regierungsvorlagen; keine bei Initiativanträgen
+    budget_office: Budgetdienst des Parlaments
+  - code: AT-1
+    name: Burgenland
+    level: state
+    active: false
+    parliament: { name: Burgenländischer Landtag, url: https://www.bgld-landtag.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Burgenland, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für das Burgenland, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-2
+    name: Kärnten
+    level: state
+    active: false
+    parliament: { name: Kärntner Landtag, url: https://www.ktn.gv.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Kärnten, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für Kärnten, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-3
+    name: Niederösterreich
+    level: state
+    active: false
+    parliament: { name: Landtag von Niederösterreich, url: https://www.landtag-noe.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Niederösterreich, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für Niederösterreich, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-4
+    name: Oberösterreich
+    level: state
+    active: false
+    parliament: { name: Oberösterreichischer Landtag, url: https://www.land-oberoesterreich.gv.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Oberösterreich, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für Oberösterreich, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-5
+    name: Salzburg
+    level: state
+    active: false
+    parliament: { name: Salzburger Landtag, url: https://www.salzburg.gv.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Salzburg, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für das Land Salzburg, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-6
+    name: Steiermark
+    level: state
+    active: false
+    parliament: { name: Landtag Steiermark, url: https://www.landtag.steiermark.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Steiermark, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für die Steiermark, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-7
+    name: Tirol
+    level: state
+    active: false
+    parliament: { name: Tiroler Landtag, url: https://www.tirol.gv.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Tirol, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für Tirol, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-8
+    name: Vorarlberg
+    level: state
+    active: false
+    parliament: { name: Vorarlberger Landtag, url: https://vorarlberg.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Vorarlberg, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für Vorarlberg, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Landtag-URL und Dokumentationszugang noch nicht geprüft
+  - code: AT-9
+    name: Wien
+    level: state
+    active: false
+    parliament: { name: Wiener Landtag, url: https://www.wien.gv.at, api: null, adapter: null }
+    law_source: { name: RIS Landesrecht Wien, url: https://www.ris.bka.gv.at, api: https://data.bka.gv.at/ris/api/v2.6/Landesrecht }
+    gazette: { name: Landesgesetzblatt für Wien, eli_prefix: null }
+    impact_assessment: null
+    budget_office: null
+    note: Wien ist zugleich Gemeinde (Gemeinderat); Landtag-URL und Dokumentationszugang noch nicht geprüft

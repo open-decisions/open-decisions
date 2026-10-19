@@ -8,14 +8,15 @@ Project status: concept and data contract. No application code yet.
 
 | Path | Content |
 | --- | --- |
-| `docs/` | Project concept, methodology handbook, style guide and card format, parliament API spike. German, written for Austrian funders and the editorial process. |
-| `schema/massnahme.schema.json` | Data contract: bill, measure, example households. English field names, content in the jurisdiction's language. |
+| `docs/` | Project concept, methodology handbook, style guide and card format, parliament API spike (German, for Austrian funders and the editorial process); architecture (English). |
+| `schema/massnahme.schema.json` | Data contract: jurisdictions, example households, bills, measures. English field names, content in the jurisdiction's language. |
 | `schema/validate.py` | Validates all records against the schema and checks cross-references. |
-| `households/<CC>.yaml` | Example households of one jurisdiction. |
-| `vorhaben/` | Bill records: parliamentary stages, documents, vote per party. |
-| `massnahmen/` | Measure records: one per provision that changes household finances. Each one is a card. |
+| `data/jurisdictions/<CC>.yaml` | Decision levels of one country: federal, states, later municipalities. |
+| `data/households/<CC>.yaml` | Example households of one country. |
+| `data/bills/` | Bill records: parliamentary stages, documents, vote per party, identifiers. |
+| `data/measures/` | Measure records: one per provision that changes household finances. Each one is a card. |
 
-Reference example: the abolition of the Austrian Klimabonus, `massnahmen/at-2025-klimabonus.yaml`, part of bill `vorhaben/AT-XXVIII-I-69.yaml`.
+Reference example: the abolition of the Austrian Klimabonus, `data/measures/at-2025-klimabonus.yaml`, part of bill `data/bills/AT-XXVIII-I-69.yaml`. Architecture: `docs/architecture.md`.
 
 ## Validate
 

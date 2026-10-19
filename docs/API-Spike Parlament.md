@@ -64,7 +64,7 @@ GET https://data.bka.gv.at/ris/api/v2.6/Bundesrecht?Applikation=BrKons&Titel=Kli
 
 ## 5. Folgen für Schema v0
 
-- Zwei Ebenen statt einer: **Vorhaben** (Verhandlungsgegenstand, Schlüssel `GP/ITYP/INR`, z. B. `XXVIII/I/69`) und **Maßnahme** (Artikel oder Teilregelung darin, z. B. Art. 71). Karten gibt es pro Maßnahme, Tracker und Abstimmung pro Vorhaben.
+- Zwei Ebenen statt einer: **Vorhaben** (`data/bills/`, Schlüssel Jurisdiktion plus `GP/ITYP/INR`, z. B. `AT/XXVIII/I/69`) und **Maßnahme** (`data/measures/`, Artikel oder Teilregelung darin, z. B. Art. 71). Karten gibt es pro Maßnahme, Tracker und Abstimmung pro Vorhaben. Umgesetzt in `schema/massnahme.schema.json`.
 - Quellenangaben als Verweis auf API-Dokumente: Gesetzestext-HTML mit Artikelanker, WFA-PDF mit Seitenbereich, Budgetdienst-URI mit Seite, RIS-Norm-ID.
 - Status aus `status.number` und `bgbllinks`; Zeitlichkeit aus RIS-Metadaten und Gesetzestext.
 - Vorhabensarten: `RV` (Regierungsvorlage) und `A` (Initiativantrag) gleichwertig behandeln; bei `A` Feld `wfa: null` und Kennzeichnung auf der Karte.
