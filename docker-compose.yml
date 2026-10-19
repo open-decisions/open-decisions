@@ -1,10 +1,11 @@
+name: open-decisions
 services:
   db:
     image: postgres:17
     environment:
-      POSTGRES_USER: governmental
-      POSTGRES_PASSWORD: governmental
-      POSTGRES_DB: governmental
+      POSTGRES_USER: open_decisions
+      POSTGRES_PASSWORD: open_decisions
+      POSTGRES_DB: open_decisions
     ports:
       - "5433:5432"
     volumes:

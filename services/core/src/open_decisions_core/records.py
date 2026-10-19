@@ -5,7 +5,7 @@ from typing import Any
 import jsonschema
 import yaml
 
-from governmental_core import DATA, SCHEMA_PATH
+from open_decisions_core import DATA, SCHEMA_PATH
 
 KINDS = {
     "jurisdictions": "#/$defs/jurisdictions",

@@ -4,9 +4,9 @@ requires-python = ">=3.12"
 
 [manifest]
 members = [
-    "governmental",
-    "governmental-core",
-    "governmental-ingest-at",
+    "open-decisions",
+    "open-decisions-core",
+    "open-decisions-ingest-at",
 ]
 
 [[package]]
@@ -48,51 +48,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93
 wheels = [
     { url = "https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl", hash = "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6", size = 25335, upload-time = "2022-10-25T02:36:20.889Z" },
 ]
-
-[[package]]
-name = "governmental"
-version = "0.0.0"
-source = { virtual = "." }
-
-[[package]]
-name = "governmental-core"
-version = "0.1.0"
-source = { editable = "services/core" }
-dependencies = [
-    { name = "jsonschema" },
-    { name = "psycopg", extra = ["binary"] },
-    { name = "pyyaml" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "jsonschema", specifier = ">=4.23" },
-    { name = "psycopg", extras = ["binary"], specifier = ">=3.2" },
-    { name = "pyyaml", specifier = ">=6" },
-]
-
-[[package]]
-name = "governmental-ingest-at"
-version = "0.1.0"
-source = { editable = "services/ingest_at" }
-dependencies = [
-    { name = "governmental-core" },
-    { name = "httpx" },
-]
-
-[package.dev-dependencies]
-dev = [
-    { name = "pytest" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "governmental-core", editable = "services/core" },
-    { name = "httpx", specifier = ">=0.27" },
-]
-
-[package.metadata.requires-dev]
-dev = [{ name = "pytest", specifier = ">=8" }]
 
 [[package]]
 name = "h11"
@@ -175,6 +130,51 @@ sdist = { url = "https://files.pythonhosted.org/packages/19/74/a633ee74eb36c44aa
 wheels = [
     { url = "https://files.pythonhosted.org/packages/41/45/1a4ed80516f02155c51f51e8cedb3c1902296743db0bbc66608a0db2814f/jsonschema_specifications-2025.9.1-py3-none-any.whl", hash = "sha256:98802fee3a11ee76ecaca44429fda8a41bff98b00a0f2838151b113f210cc6fe", size = 18437, upload-time = "2025-09-08T01:34:57.871Z" },
 ]
+
+[[package]]
+name = "open-decisions"
+version = "0.0.0"
+source = { virtual = "." }
+
+[[package]]
+name = "open-decisions-core"
+version = "0.1.0"
+source = { editable = "services/core" }
+dependencies = [
+    { name = "jsonschema" },
+    { name = "psycopg", extra = ["binary"] },
+    { name = "pyyaml" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "jsonschema", specifier = ">=4.23" },
+    { name = "psycopg", extras = ["binary"], specifier = ">=3.2" },
+    { name = "pyyaml", specifier = ">=6" },
+]
+
+[[package]]
+name = "open-decisions-ingest-at"
+version = "0.1.0"
+source = { editable = "services/ingest_at" }
+dependencies = [
+    { name = "httpx" },
+    { name = "open-decisions-core" },
+]
+
+[package.dev-dependencies]
+dev = [
+    { name = "pytest" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "httpx", specifier = ">=0.27" },
+    { name = "open-decisions-core", editable = "services/core" },
+]
+
+[package.metadata.requires-dev]
+dev = [{ name = "pytest", specifier = ">=8" }]
 
 [[package]]
 name = "packaging"

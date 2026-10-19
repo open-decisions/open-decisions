@@ -3,7 +3,7 @@ import sys
 
 import psycopg
 
-from governmental_core import MIGRATIONS
+from open_decisions_core import MIGRATIONS
 
 
 def database_url() -> str:

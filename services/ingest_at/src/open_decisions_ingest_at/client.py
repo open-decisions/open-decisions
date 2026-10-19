@@ -4,9 +4,9 @@ from typing import Any
 
 import httpx
 
-from governmental_ingest_at import BASE_URL, LIST_ID
+from open_decisions_ingest_at import BASE_URL, LIST_ID
 
-USER_AGENT = "governmental-ingest-at/0.1 (+https://github.com; open data, CC BY 4.0 consumer)"
+USER_AGENT = "open-decisions-ingest-at/0.1 (+https://github.com; open data, CC BY 4.0 consumer)"
 
 
 class ParliamentClient:

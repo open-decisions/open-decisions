@@ -3,9 +3,9 @@ import pathlib
 from datetime import date, datetime
 
 import pytest
-from governmental_core.records import check
-from governmental_ingest_at.client import list_rows, parse_his_url
-from governmental_ingest_at.transform import bill_from_item, eli_from_bgbl, record_from_bill
+from open_decisions_core.records import check
+from open_decisions_ingest_at.client import list_rows, parse_his_url
+from open_decisions_ingest_at.transform import bill_from_item, eli_from_bgbl, record_from_bill
 
 FIXTURES = pathlib.Path(__file__).resolve().parents[3] / "fixtures" / "parlament"
 FETCHED = datetime(2026, 10, 19, 22, 0, 0)

@@ -1,4 +1,6 @@
-# Politische Entscheidungen verständlich bewertet
+# open-decisions
+
+Project name of the repository and the code. The Austrian site will be published as **Durchgerechnet**; other countries get their own name.
 
 What a political decision means for a household, in euros per year, with every number labelled and every statement sourced. No judgement, no party. Starting with Austria, built so that further EU countries can be added as new jurisdictions.
 
@@ -10,18 +12,26 @@ Project status: concept and data contract. No application code yet.
 | --- | --- |
 | `docs/` | Project concept, methodology handbook, style guide and card format, parliament API spike (German, for Austrian funders and the editorial process); architecture (English). |
 | `schema/massnahme.schema.json` | Data contract: jurisdictions, example households, bills, measures. English field names, content in the jurisdiction's language. |
-| `schema/validate.py` | Validates all records against the schema and checks cross-references. |
+| `services/core/` | Schema records, validation, Postgres migrations (raw, staged). |
+| `services/ingest_at/` | Federal adapter for Austria: parliament API into raw, transform to staged, export to `data/bills/`. |
+| `fixtures/` | Real API responses for tests without network. |
 | `data/jurisdictions/<CC>.yaml` | Decision levels of one country: federal, states, later municipalities. |
 | `data/households/<CC>.yaml` | Example households of one country. |
-| `data/bills/` | Bill records: parliamentary stages, documents, vote per party, identifiers. |
+| `data/bills/` | Bill records, derived by the ingest pipeline: stages, documents, vote per party, identifiers. Only `measures` and `budget_office_analyses` are curated. |
 | `data/measures/` | Measure records: one per provision that changes household finances. Each one is a card. |
 
 Reference example: the abolition of the Austrian Klimabonus, `data/measures/at-2025-klimabonus.yaml`, part of bill `data/bills/AT-XXVIII-I-69.yaml`. Architecture: `docs/architecture.md`.
 
-## Validate
+## Run
 
 ```
-uv run --with pyyaml --with jsonschema schema/validate.py
+docker compose up -d db
+cp .env.example .env
+uv sync
+uv run open-decisions-migrate
+uv run open-decisions-validate
+uv run ingest-at run        # list, details, transform, export for the current period
+uv run --group dev --package open-decisions-ingest-at pytest
 ```
 
 ## Rules in one paragraph

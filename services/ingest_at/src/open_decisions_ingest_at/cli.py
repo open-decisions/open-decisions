@@ -1,15 +1,15 @@
 import argparse
 import sys
 
-from governmental_core import DATA
-from governmental_core.db import connect
-from governmental_core.records import check, dump, load
+from open_decisions_core import DATA
+from open_decisions_core.db import connect
+from open_decisions_core.records import check, dump, load
 
-from governmental_ingest_at import BILL_TYPES, JURISDICTION
-from governmental_ingest_at import raw as raw_layer
-from governmental_ingest_at import staged as staged_layer
-from governmental_ingest_at.client import ParliamentClient
-from governmental_ingest_at.transform import bill_from_item, record_from_bill
+from open_decisions_ingest_at import BILL_TYPES, JURISDICTION
+from open_decisions_ingest_at import raw as raw_layer
+from open_decisions_ingest_at import staged as staged_layer
+from open_decisions_ingest_at.client import ParliamentClient
+from open_decisions_ingest_at.transform import bill_from_item, record_from_bill
 
 BILL_ITYPS = ("I", "A")
 BILL_DOKTYPS = tuple(BILL_TYPES)

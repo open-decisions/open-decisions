@@ -1,8 +1,8 @@
 import pathlib
 import sys
 
-from governmental_core import ROOT
-from governmental_core.records import all_record_files, check_file
+from open_decisions_core import ROOT
+from open_decisions_core.records import all_record_files, check_file
 
 
 def main() -> int:

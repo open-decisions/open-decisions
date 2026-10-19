@@ -3,7 +3,7 @@ import re
 from datetime import date, datetime
 from typing import Any
 
-from governmental_ingest_at import BASE_URL, BILL_TYPES, JURISDICTION, LANG, PARTY_WIKIDATA
+from open_decisions_ingest_at import BASE_URL, BILL_TYPES, JURISDICTION, LANG, PARTY_WIKIDATA
 
 PHASES = {
     "Einlangen NR": ("introduced", "Nationalrat"),

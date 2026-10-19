@@ -4,8 +4,8 @@ from typing import Any
 
 import psycopg
 
-from governmental_ingest_at import JURISDICTION
-from governmental_ingest_at.client import list_rows, parse_his_url
+from open_decisions_ingest_at import JURISDICTION
+from open_decisions_ingest_at.client import list_rows, parse_his_url
 
 
 def _hash(payload: Any) -> str:
