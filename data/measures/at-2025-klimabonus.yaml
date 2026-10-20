@@ -176,56 +176,56 @@ sources:
     title: Klimabonusgesetz § 2, geltende Fassung (NOR40269985)
     url: https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269985/NOR40269985.html
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:546742e3dd8c10b3ca6831f8f5cf72894698fd63fcfc54a97f056135016ab718
   - id: ris-klibg-p3
     role: law_text
     institution: RIS (Bundeskanzleramt)
     title: Klimabonusgesetz § 3, geltende Fassung (NOR40269986)
     url: https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269986/NOR40269986.html
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:9d3b756d7106cbaec4d97978251e6dc8d71f0c6b8cbf7039cc5499b374555e62
   - id: bbg-gesetzestext
     role: law_text
     institution: Parlament Österreich
     title: Budgetbegleitgesetz 2025, Regierungsvorlage 69 d.B., Gesetzestext
     url: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:f22e121f1871cf383e94cba63e44d3ba7a1c4549fa428b260c4165ca8870ad99
   - id: parl-detail
     role: law_text
     institution: Parlament Österreich
     title: Verhandlungsgegenstand 69 d.B., Detail-JSON
     url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69?json=TRUE
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:ad2df5535fee8087f4030bc66a49d0a122d660b7a66a6e66bef8d8130e00c342
   - id: bbg-wfa
     role: impact_assessment
     institution: Bundesregierung (BMLUK)
     title: Vorblatt und WFA zum Budgetbegleitgesetz 2025, Abschnitt zu Art. 71 (S. 357 bis 369)
     url: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:cb5b164fc350038aed6b4a9735306f763bbf0d516b7e1133d2fe451a6a7fc165
   - id: bd-konsolidierung
     role: parliamentary_budget_office
     institution: Budgetdienst des Parlaments
     title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen, 19.05.2025
     url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:7508ee9ccd4a21a83e5ca03288118eefe4e20e82f92d684e484a938be6c01a9d
   - id: budgetrede-protokoll
     role: government_communication
     institution: Parlament Österreich (Stenographisches Protokoll)
     title: 21. Sitzung des Nationalrates, 13.05.2025, Budgetrede des Finanzministers
     url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/21/A_-_10_08_26_00789433.html
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:eea0c375edab9ebbee23b6c0f31e9b596f490bed60e10ac0fb271c865843439a
   - id: budgetrede-bmf
     role: government_communication
     institution: Bundesministerium für Finanzen
     title: Budgetrede 2025, Volltext
     url: https://www.bmf.gv.at/dam/jcr:51e19f55-1581-428a-98f2-6ad6aa4afd1a/BUDGETREDE.pdf
     retrieved: "2026-10-19"
-    archive: null
+    archive: sha256:b9fabe7f273cc14496f2f1b75278bafb875ef5bc30e482f459967441df792ec5
 
 follow_up:
   date: "2026-07-01"
@@ -257,3 +257,6 @@ changelog:
   - date: "2026-10-20"
     change: Element 6 in kürzere Sätze gefasst, Stilprüfung automatisiert bestanden
     reason: Stilguide Abschnitt 3, Satzlänge unter 20 Wörtern
+  - date: "2026-10-20"
+    change: Archivverweise (sha256 der gespeicherten Kopie in raw.document) für alle acht Quellen ergänzt
+    reason: Methodik Abschnitt 3, Quellen werden mit Abrufdatum archiviert
