@@ -1205,6 +1205,40 @@
               "input_file": {
                 "type": "string",
                 "description": "Path of the microsimulation input file in the repo"
+              },
+              "adult_ages": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "description": "Ages of the adults, when a measure depends on age"
+              },
+              "commute": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "one_way_km",
+                  "mode"
+                ],
+                "description": "Commute of the first adult; needed for commuter measures",
+                "properties": {
+                  "one_way_km": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "mode": {
+                    "type": "string",
+                    "enum": [
+                      "car",
+                      "public",
+                      "none"
+                    ]
+                  },
+                  "note": {
+                    "type": "string"
+                  }
+                }
               }
             }
           }

@@ -85,7 +85,7 @@ Jede Zahl trägt genau ein Label. Das Label steht direkt neben der Zahl, auch in
 | **Geschätzt** | Eigene Rechnung mit mindestens einer wesentlichen Annahme | Annahme und Spannweite (niedrig/hoch) auf der Detailseite |
 | **Nicht bezifferbar** | Keine belastbare Zahl möglich | Begründung in einem Satz; Karte nur qualitativ |
 
-„Geschätzt" wird sparsam vergeben; im Zweifel „nicht bezifferbar". Ein Label wird nie hochgestuft, um eine Karte attraktiver zu machen.
+„Geschätzt" wird sparsam vergeben; im Zweifel „nicht bezifferbar". Ein Label wird nie hochgestuft, um eine Karte attraktiver zu machen. Liegt ein Beispielhaushalt außerhalb des Anwendungsbereichs einer Norm (keine Pension, keine Kinder), ist die Wirkung null und trägt das Label „Gerechnet" mit Verweis auf die Norm; dafür braucht es kein Modell.
 
 ## 7. Freigabe
 

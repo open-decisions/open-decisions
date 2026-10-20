@@ -1,0 +1,214 @@
+kind: measure
+jurisdiction: AT
+lang: de-AT
+id: at-2025-kalte-progression
+bill: AT/XXVIII/I/69
+article: Art. 56 Z 8 (§ 124b Z 476 EStG)
+law:
+  title: Einkommensteuergesetz 1988
+  abbreviation: EStG
+  original_gazette: BGBl. Nr. 400/1988
+  consolidated_url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570
+
+title: Kalte Progression wird nur zu zwei Dritteln ausgeglichen
+
+status:
+  state: in_force
+  since: "2025-07-01"
+  sources:
+    - { source: bbg-gesetzestext, ref: "Art. 56 Z 8 (§ 124b Z 476)" }
+    - { source: parl-detail, ref: "status.bgbllinks, BGBl. I Nr. 25/2025" }
+
+selection:
+  status_ok: true
+  household_relevance: taxes
+  evidence_ok: true
+  rationale: Betrifft alle, die Lohn- oder Einkommensteuer zahlen; größte Einzelmaßnahme auf der Einnahmenseite; Gesetzestext, WFA und Budgetdienst-Analyse liegen vor.
+  decided_on: "2026-10-20"
+
+said:
+  quote: >-
+    2026 wird die Verlängerung des Spitzensteuersatzes für Jahreseinkommen von mehr als 1 Million Euro ebenso
+    budgetwirksam wie das Aussetzen des dritten Drittels des Ausgleichs der kalten Progression. Das bringt bereits
+    im Jahr 2026 zusammen einen Konsolidierungsbeitrag von fast 500 Millionen Euro, der bis zum Ende der
+    Legislaturperiode auf etwa 1,5 Milliarden Euro steigen wird.
+  speaker: Markus Marterbauer
+  role: Bundesminister für Finanzen, Budgetrede zum Doppelbudget 2025/2026
+  date: "2025-05-13"
+  sources:
+    - { source: budgetrede-protokoll, ref: "Stenographisches Protokoll, 21. Sitzung, TOP 1, Abschnitt Einnahmen" }
+    - { source: budgetrede-bmf, ref: "S. 19" }
+
+law_change:
+  summary: >-
+    Steigen die Löhne mit der Inflation, rutscht man in höhere Steuerstufen. Das nennt man kalte Progression.
+    Seit 2023 werden die Steuerstufen und Absetzbeträge deshalb jedes Jahr angepasst: zwei Drittel automatisch, das dritte Drittel per Beschluss.
+    Für die Steuerjahre 2026 bis 2029 entfällt dieses dritte Drittel.
+  parameters:
+    - name: Anteil der Inflation, um den Steuerstufen und Absetzbeträge angepasst werden
+      old: "zwei Drittel automatisch plus ein Drittel per jährlichem Gesetz (§ 33a Abs. 5 und 6)"
+      new: "nur zwei Drittel automatisch"
+      applies_from: Steuerjahr 2026 bis 2029
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 56 Z 8 (§ 124b Z 476: § 33a Abs. 5 und 6 bei den Anpassungen 2025 bis 2028 nicht anzuwenden)" }
+        - { source: ris-estg, ref: "§ 33a" }
+    - name: Entfallene zusätzliche Anpassung laut Budgetdienst
+      old: "rund 1,2 Prozent im Jahr 2026, steigend auf rund 3,3 Prozent im Jahr 2029"
+      new: "0 Prozent"
+      applies_from: Steuerjahr 2026
+      sources:
+        - { source: bd-konsolidierung, ref: "S. 47, Fußnote 25" }
+
+affected:
+  who: Alle Personen, die Lohn- oder Einkommensteuer zahlen; bei Negativsteuer über die Absetzbeträge auch Geringverdienende
+  condition: Steuerpflichtiges Einkommen über der Steuerfreigrenze oder Anspruch auf Negativsteuer
+  count:
+    value: null
+    unit: persons
+    label: not_quantifiable
+    reason: Weder die WFA noch der Budgetdienst nennen eine Zahl der betroffenen Personen.
+
+timing:
+  effective_from: "2026-01-01"
+  first_full_year: 2026
+  fifth_year: 2030
+  limited_until: "2029-12-31"
+  transition: null
+  indexation: not_applicable
+  note: >-
+    Die Wirkung wächst jedes Jahr, weil die fehlenden Anpassungen sich aufsummieren.
+    Ab dem Steuerjahr 2030 gilt wieder die volle Regel, aber die Stufen starten vom niedrigeren Stand.
+
+effects:
+  households:
+    - household: AT-H1
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+    - household: AT-H2
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Pension unter der Steuergrenze, aber die SV-Rückerstattung wird ebenfalls angepasst; Tarifrechnung nötig." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Tarifrechnung nötig." }
+    - household: AT-H3
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+    - household: AT-H4
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Geringfügig beschäftigt, keine Lohnsteuer; Wirkung über die Negativsteuer braucht eine Tarifrechnung." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Tarifrechnung nötig." }
+    - household: AT-H5
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+    - household: AT-H6
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+    - household: AT-H7
+      short_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2026, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+      long_term: { value: null, unit: eur_per_year, label: not_quantifiable, year: 2030, reason: "Braucht eine Tarifrechnung mit EUROMOD; kommt in Phase 1." }
+  aggregate:
+    - description: Mehreinnahmen des Staates 2026
+      amount: { value: 440, unit: mio_eur_per_year, label: adopted, year: 2026, sources: [{ source: bbg-wfa, ref: "S. 249 von 408" }] }
+    - description: Mehreinnahmen des Staates 2027
+      amount: { value: 800, unit: mio_eur_per_year, label: adopted, year: 2027, sources: [{ source: bbg-wfa, ref: "S. 249 von 408" }] }
+    - description: Mehreinnahmen des Staates 2028
+      amount: { value: 1100, unit: mio_eur_per_year, label: adopted, year: 2028, sources: [{ source: bbg-wfa, ref: "S. 249 von 408" }] }
+    - description: Mehreinnahmen des Staates 2029
+      amount: { value: 1475, unit: mio_eur_per_year, label: adopted, year: 2029, sources: [{ source: bbg-wfa, ref: "S. 249 von 408" }] }
+  distribution:
+    description: >-
+      Laut Budgetdienst entfallen 20 Prozent des Volumens auf das oberste Einkommensdezil und ein unterdurchschnittlicher Anteil auf die untere Hälfte.
+      Das gilt unter der Annahme, dass das dritte Drittel sonst gleichmäßig verteilt worden wäre; in den Vorjahren bekamen untere Einkommen mehr.
+    label: adopted
+    sources:
+      - { source: bd-konsolidierung, ref: "S. 46 und 47" }
+
+unclear:
+  - Die Wirkung pro Haushalt braucht eine Rechnung über den ganzen Steuertarif. Diese kommt mit der Modellanbindung in Phase 1.
+  - Wie das dritte Drittel sonst verteilt worden wäre, ist unbekannt. Der Budgetdienst nimmt eine gleichmäßige Verteilung an.
+  - Die Regierung kann das dritte Drittel weiterhin per Gesetz beschließen. Das Gesetz streicht nur die Pflicht dazu.
+
+assumptions:
+  - id: A1
+    what: Für die Gesamtwirkung gilt die Rechnung des Budgetdienstes mit einer gleichmäßigen Verteilung des dritten Drittels.
+    why: Es ist die einzige veröffentlichte Verteilungsrechnung zur Maßnahme.
+    alternative: Wäre das dritte Drittel wie in den Vorjahren stärker unteren Einkommen zugutegekommen, träfe der Entfall diese stärker.
+
+contradictions:
+  - Die Budgetrede nennt fast 500 Millionen Euro für 2026 zusammen mit dem Spitzensteuersatz. Die WFA weist für das dritte Drittel allein 440 Millionen aus. Die Differenz ist der Spitzensteuersatz.
+
+open_questions:
+  - Wirkung pro Beispielhaushalt mit EUROMOD rechnen, sobald das Modell angebunden ist.
+  - Zahl der Lohn- und Einkommensteuerpflichtigen aus der Statistik Austria ergänzen.
+
+sources:
+  - id: bbg-gesetzestext
+    role: law_text
+    institution: Parlament Österreich
+    title: Budgetbegleitgesetz 2025, Regierungsvorlage 69 d.B., Gesetzestext
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html
+    retrieved: "2026-10-20"
+    archive: sha256:f22e121f1871cf383e94cba63e44d3ba7a1c4549fa428b260c4165ca8870ad99
+  - id: ris-estg
+    role: law_text
+    institution: RIS (Bundeskanzleramt)
+    title: Einkommensteuergesetz 1988, geltende Fassung
+    url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570
+    retrieved: "2026-10-20"
+    archive: sha256:08ae24418d879c9354d1fcc77abf32ed7f0e6fa429d34da326b4f051fb59b0dd
+  - id: parl-detail
+    role: law_text
+    institution: Parlament Österreich
+    title: Verhandlungsgegenstand 69 d.B., Detail-JSON
+    url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69?json=TRUE
+    retrieved: "2026-10-20"
+    archive: sha256:ad2df5535fee8087f4030bc66a49d0a122d660b7a66a6e66bef8d8130e00c342
+  - id: bbg-wfa
+    role: impact_assessment
+    institution: Bundesregierung (BMF)
+    title: Vorblatt und WFA zum Budgetbegleitgesetz 2025, Abschnitt zu Art. 56 (S. 248 bis 275)
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:cb5b164fc350038aed6b4a9735306f763bbf0d516b7e1133d2fe451a6a7fc165
+  - id: bd-konsolidierung
+    role: parliamentary_budget_office
+    institution: Budgetdienst des Parlaments
+    title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen, 19.05.2025
+    url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:7508ee9ccd4a21a83e5ca03288118eefe4e20e82f92d684e484a938be6c01a9d
+  - id: budgetrede-protokoll
+    role: government_communication
+    institution: Parlament Österreich (Stenographisches Protokoll)
+    title: 21. Sitzung des Nationalrates, 13.05.2025, Budgetrede des Finanzministers
+    url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/21/A_-_10_08_26_00789433.html
+    retrieved: "2026-10-20"
+    archive: sha256:eea0c375edab9ebbee23b6c0f31e9b596f490bed60e10ac0fb271c865843439a
+  - id: budgetrede-bmf
+    role: government_communication
+    institution: Bundesministerium für Finanzen
+    title: Budgetrede 2025, Volltext
+    url: https://www.bmf.gv.at/dam/jcr:51e19f55-1581-428a-98f2-6ad6aa4afd1a/BUDGETREDE.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:b9fabe7f273cc14496f2f1b75278bafb875ef5bc30e482f459967441df792ec5
+
+follow_up:
+  date: "2026-12-01"
+  what: Prüfen, welche Inflationsanpassung für das Steuerjahr 2027 verordnet wurde und ob ein drittes Drittel per Gesetz kam.
+  sources_to_check:
+    - BGBl. II, Verordnung zur Inflationsanpassung 2027
+    - Budgetdienst, Analyse zur Abgeltung der kalten Progression
+
+review:
+  created: "2026-10-20"
+  approved: null
+  approved_by: ""
+  checklist:
+    parameters_checked: true
+    assumptions_documented: true
+    reproducible: true
+    labels_correct: true
+    style_checked: true
+    quote_sourced: true
+    unclear_filled: true
+
+changelog:
+  - date: "2026-10-20"
+    change: Erstfassung
+    reason: Fünfte Karte aus dem Konsolidierungspaket 2025

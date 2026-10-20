@@ -1,0 +1,220 @@
+kind: measure
+jurisdiction: AT
+lang: de-AT
+id: at-2025-kv-beitrag-pensionisten
+bill: AT/XXVIII/I/91
+article: Art. 8 Z 2 (§ 73 Abs. 1 Z 1 und 2 ASVG) und Art. 8 Schlussbestimmungen Abs. 6
+law:
+  title: Allgemeines Sozialversicherungsgesetz
+  abbreviation: ASVG
+  original_gazette: BGBl. Nr. 189/1955
+  consolidated_url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147
+
+title: Krankenversicherungsbeitrag für Pensionen steigt auf 6 Prozent
+
+status:
+  state: in_force
+  since: "2025-06-01"
+  sources:
+    - { source: bsmg2-gesetzestext, ref: "Art. 8 Z 9 (Inkrafttreten § 73 Abs. 1 Z 1 und 2 mit 1. Juni 2025)" }
+    - { source: parl-detail-91, ref: "status.bgbllinks, BGBl. I Nr. 20/2025" }
+
+selection:
+  status_ok: true
+  household_relevance: pensions
+  evidence_ok: true
+  rationale: Betrifft alle Pensionen mit einem festen Prozentsatz; Gesetzestext, WFA und Budgetdienst-Analyse liegen vor.
+  decided_on: "2026-10-20"
+
+said:
+  quote: >-
+    Kurzfristig verbessern wir die Finanzierung des Gesundheitssystems über höhere Krankenversicherungsbeiträge
+    für Pensionistinnen und Pensionisten, setzen aber gleichzeitig Maßnahmen, die ältere Menschen bei den
+    Rezeptgebühren entlasten.
+  speaker: Markus Marterbauer
+  role: Bundesminister für Finanzen, Budgetrede zum Doppelbudget 2025/2026
+  date: "2025-05-13"
+  sources:
+    - { source: budgetrede-protokoll, ref: "Stenographisches Protokoll, 21. Sitzung, TOP 1, Abschnitt Gesundheit" }
+
+law_change:
+  summary: >-
+    Von jeder Pension wird ein Krankenversicherungsbeitrag einbehalten. Seit 1. Juni 2025 sind das 6 Prozent statt 5,1 Prozent.
+    Wer eine Ausgleichszulage bezieht, zahlt den neuen Satz erst ab Jänner 2026.
+  parameters:
+    - name: Krankenversicherungsbeitrag von Pensionen und Pensionssonderzahlungen
+      old: 5.1
+      new: 6
+      unit: Prozent der Bruttopension
+      applies_from: "2025-06-01"
+      sources:
+        - { source: bsmg2-gesetzestext, ref: "Art. 8 Z 2" }
+        - { source: ris-asvg, ref: "§ 73 Abs. 1 Z 1 und 2" }
+    - name: Krankenversicherungsbeitrag bei Bezug einer Ausgleichszulage ohne Ausgleichszulagenbonus
+      old: 5.1
+      new: 6
+      unit: Prozent der Bruttopension
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bsmg2-gesetzestext, ref: "Art. 8 Schlussbestimmungen Abs. 6" }
+        - { source: bsmg2-wfa-bmasgpk, ref: "S. 5 von 13" }
+    - name: Höchstbetrag der SV-Rückerstattung für Pensionen (Negativsteuer)
+      old: 669
+      new: 710
+      unit: EUR pro Jahr
+      applies_from: Veranlagung 2025
+      sources:
+        - { source: bd-konsolidierung, ref: "S. 18" }
+    - name: Rezeptgebühr 2026
+      old: "7,55 EUR, jährlich mit der Aufwertungszahl angepasst"
+      new: "7,55 EUR, keine Anpassung für 2026"
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bsmg2-wfa-bmasgpk, ref: "S. 5 von 13, Maßnahme 2" }
+
+affected:
+  who: Alle Personen mit einer Pension aus der gesetzlichen Pensionsversicherung sowie Beamtinnen und Beamte im Ruhestand
+  condition: Pension oder vergleichbare Leistung; für Beamte steigt der Satz von 4,9 auf 6 Prozent
+  count:
+    value: null
+    unit: persons
+    label: not_quantifiable
+    reason: Weder die WFA noch der Budgetdienst nennen eine Zahl der betroffenen Personen.
+
+timing:
+  effective_from: "2025-06-01"
+  first_full_year: 2026
+  fifth_year: 2030
+  limited_until: null
+  transition: Bezieherinnen und Bezieher einer Ausgleichszulage ohne Bonus zahlen 2025 weiter 5,1 Prozent.
+  indexation: not_applicable
+  note: Der Satz ist ein Prozentsatz der Pension. Steigt die Pension, steigt auch der Beitrag in Euro.
+
+effects:
+  households:
+    - household: AT-H1
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1: nur Pensionen" }], calculation: "keine Pension im Haushalt" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+    - household: AT-H2
+      short_term: { value: -160, low: -160, high: -119, unit: eur_per_year, label: estimated, year: 2026, assumptions: [A1, A2], sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1 Z 1" }, { source: bd-konsolidierung, ref: "S. 18" }], calculation: "0,9 % × 1.270 € × 14 Auszahlungen = 160 €; mit höherer SV-Rückerstattung (plus 41 €) 119 €" }
+      long_term: { value: -160, low: -160, high: -119, unit: eur_per_year, label: estimated, year: 2030, assumptions: [A1, A2], sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1 Z 1" }], calculation: "wie 2026, Pension nominell unverändert" }
+      note: 2025 noch 5,1 Prozent wegen Ausgleichszulage; ab 2026 voll wirksam.
+    - household: AT-H3
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+    - household: AT-H4
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+    - household: AT-H5
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+    - household: AT-H6
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+    - household: AT-H7
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: ris-asvg, ref: "§ 73 Abs. 1" }], calculation: "keine Pension im Haushalt" }
+  aggregate:
+    - description: Zusätzliche Beiträge der Pensionistinnen und Pensionisten im Jahr 2025 (ab Juni)
+      amount: { value: 366, unit: mio_eur_per_year, label: adopted, year: 2025, sources: [{ source: bd-konsolidierung, ref: "S. 19" }] }
+    - description: Zusätzliche Beiträge der Pensionistinnen und Pensionisten ab 2026
+      amount: { value: 0.7, unit: bn_eur_per_year, label: adopted, year: 2026, sources: [{ source: bd-konsolidierung, ref: "S. 19" }] }
+    - description: Nettoeffekt für den Staat ab 2026 nach Abzug der geringeren Lohnsteuer
+      amount: { value: 0.5, unit: bn_eur_per_year, label: adopted, year: 2026, sources: [{ source: bd-konsolidierung, ref: "S. 47" }] }
+  distribution:
+    description: >-
+      Laut Budgetdienst tragen Haushalte mit höheren Einkommen einen größeren Anteil, weil höhere Pensionen in höhere Dezile fallen.
+      Über 2025 bis 2029 reicht der Anteil von 3 Prozent im untersten bis 16 Prozent im obersten Dezil.
+    label: adopted
+    sources:
+      - { source: bd-konsolidierung, ref: "S. 47 und 48" }
+
+unclear:
+  - Die höhere SV-Rückerstattung gibt es nur über die Steuererklärung. Ob sie bei AT-H2 ankommt, hängt davon ab, ob eine Veranlagung erfolgt.
+  - Das Einfrieren der Rezeptgebühr 2026 wirkt nur bei Medikamentenbezug. Es ist hier nicht in Euro gerechnet.
+  - Weder WFA noch Budgetdienst nennen die Zahl der Betroffenen.
+
+assumptions:
+  - id: A1
+    what: Die Pension von AT-H2 bleibt nominell auf dem Stand von 2025 (1.270 Euro, 14-mal).
+    why: Methodik, alles andere bleibt gleich; die Pensionsanpassung ist eine eigene Entscheidung.
+    alternative: Mit jährlicher Pensionsanpassung wächst der Beitrag in Euro mit der Pension.
+  - id: A2
+    what: Die um 41 Euro höhere SV-Rückerstattung wird nur in der oberen Variante angerechnet.
+    why: Sie setzt eine Arbeitnehmerveranlagung voraus; Bezieherinnen einer Ausgleichszulage erhalten sie nicht automatisch in jedem Fall.
+    alternative: Mit Veranlagung sinkt der Verlust auf rund 120 Euro pro Jahr.
+
+contradictions: []
+
+open_questions:
+  - Zahl der Pensionen in Österreich bei Statistik Austria oder dem Dachverband nachschlagen.
+  - Prüfen, ob die höhere SV-Rückerstattung im BSMG 2025 II oder in einem anderen Gesetz steht; der Budgetdienst nennt nur die Beträge.
+
+sources:
+  - id: bsmg2-gesetzestext
+    role: law_text
+    institution: Parlament Österreich
+    title: Budgetsanierungsmaßnahmengesetz 2025 Teil II, Regierungsvorlage 91 d.B., Gesetzestext
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/91/fnameorig_1686053.html
+    retrieved: "2026-10-20"
+    archive: sha256:c24fb60a43c0a416bc05caa54480aad1bdda696a3ce3100bb229f468be9b58b5
+  - id: ris-asvg
+    role: law_text
+    institution: RIS (Bundeskanzleramt)
+    title: Allgemeines Sozialversicherungsgesetz, geltende Fassung
+    url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147
+    retrieved: "2026-10-20"
+    archive: sha256:bc822efb0cfa7689d01d07211ffc0308cc7d2b5d8bb1cc72b81cadbb52a44812
+  - id: parl-detail-91
+    role: law_text
+    institution: Parlament Österreich
+    title: Verhandlungsgegenstand 91 d.B., Detail-JSON
+    url: https://www.parlament.gv.at/gegenstand/XXVIII/I/91?json=TRUE
+    retrieved: "2026-10-20"
+    archive: sha256:d363168b6cfa4c221690277df53c0c9105cb1c1b54bec6a0f007f9b4cbac29fd
+  - id: bsmg2-wfa-bmasgpk
+    role: impact_assessment
+    institution: Bundesregierung (BMASGPK)
+    title: Vorblatt und WFA zum BSMG 2025 II, Teil BMASGPK
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686059.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:7fa6bc8b7205bbd8a73651ef36c62badfd8e8c4fbaa74926380015411e1d73c2
+  - id: bd-konsolidierung
+    role: parliamentary_budget_office
+    institution: Budgetdienst des Parlaments
+    title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen, 19.05.2025
+    url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:7508ee9ccd4a21a83e5ca03288118eefe4e20e82f92d684e484a938be6c01a9d
+  - id: budgetrede-protokoll
+    role: government_communication
+    institution: Parlament Österreich (Stenographisches Protokoll)
+    title: 21. Sitzung des Nationalrates, 13.05.2025, Budgetrede des Finanzministers
+    url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/21/A_-_10_08_26_00789433.html
+    retrieved: "2026-10-20"
+    archive: sha256:eea0c375edab9ebbee23b6c0f31e9b596f490bed60e10ac0fb271c865843439a
+
+follow_up:
+  date: "2027-03-01"
+  what: Jahresabschluss der Krankenversicherungsträger 2026 prüfen, ob die Mehreinnahmen von rund 0,7 Milliarden Euro eingetreten sind.
+  sources_to_check:
+    - Dachverband der Sozialversicherungsträger, Gebarungsvorschau
+    - Budgetdienst, Analyse zum Budgetvollzug 2026
+
+review:
+  created: "2026-10-20"
+  approved: null
+  approved_by: ""
+  checklist:
+    parameters_checked: true
+    assumptions_documented: true
+    reproducible: true
+    labels_correct: true
+    style_checked: true
+    quote_sourced: true
+    unclear_filled: true
+
+changelog:
+  - date: "2026-10-20"
+    change: Erstfassung
+    reason: Zweite Karte aus dem Konsolidierungspaket 2025
