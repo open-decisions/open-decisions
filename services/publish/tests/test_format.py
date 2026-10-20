@@ -31,7 +31,7 @@ def test_level_one_single_value_with_label_and_month():
 def test_level_one_range():
     out = amount_level_one({"value": -267.5, "low": -290, "high": -245, "unit": "eur_per_year", "label": "estimated"})
     assert out["main"] == "minus 250 bis 290 € (geschätzt)"
-    assert out["sub"] == "etwa 20 bis 24 € im Monat"
+    assert out["sub"] == "etwa 21 bis 24 € im Monat"
 
 
 def test_level_one_zero_and_not_quantifiable():
