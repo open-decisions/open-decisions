@@ -3,9 +3,17 @@ import json
 from typing import Any
 
 import psycopg
+from psycopg.types.json import Jsonb
 
 from open_decisions_ingest_at import JURISDICTION
 from open_decisions_ingest_at.client import list_rows, parse_his_url
+
+
+def _one(cur: psycopg.Cursor[Any]) -> tuple[Any, ...]:
+    row = cur.fetchone()
+    if row is None:
+        raise RuntimeError("statement returned no row")
+    return row
 
 
 def _hash(payload: Any) -> str:
@@ -33,9 +41,9 @@ def upsert_list(conn: psycopg.Connection, listing: dict[str, Any]) -> tuple[int,
                   hash = excluded.hash
                 returning (xmax = 0) as inserted, (changed_at = now()) as changed
                 """,
-                (JURISDICTION, gp, ityp, inr, psycopg.types.json.Jsonb(row), h),
+                (JURISDICTION, gp, ityp, inr, Jsonb(row), h),
             )
-            ins, chg = cur.fetchone()
+            ins, chg = _one(cur)
             inserted += int(ins)
             changed += int(chg and not ins)
     conn.commit()
@@ -56,9 +64,9 @@ def upsert_item(conn: psycopg.Connection, gp: str, ityp: str, inr: str, payload:
               hash = excluded.hash
             returning (changed_at = now()) as changed
             """,
-            (JURISDICTION, gp, ityp, inr, psycopg.types.json.Jsonb(payload), h),
+            (JURISDICTION, gp, ityp, inr, Jsonb(payload), h),
         )
-        changed = cur.fetchone()[0]
+        changed = _one(cur)[0]
     conn.commit()
     return changed
 

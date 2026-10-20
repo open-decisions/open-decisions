@@ -1,3 +1,4 @@
+import functools
 import json
 import pathlib
 from typing import Any
@@ -16,14 +17,10 @@ KINDS = {
 FOLDERS = {"jurisdictions": "jurisdictions", "households": "households", "bill": "bills", "measure": "measures"}
 ROLE_FOR_SAID = "government_communication"
 
-_schema: dict[str, Any] | None = None
 
-
+@functools.cache
 def schema() -> dict[str, Any]:
-    global _schema
-    if _schema is None:
-        _schema = json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
-    return _schema
+    return json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
 
 
 def validator_for(kind: str) -> jsonschema.Draft202012Validator:

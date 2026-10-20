@@ -27,7 +27,7 @@ def migrate(conn: psycopg.Connection) -> list[str]:
         for path in sorted(MIGRATIONS.glob("*.sql")):
             if path.name in done:
                 continue
-            cur.execute(path.read_text(encoding="utf-8"))
+            cur.execute(path.read_bytes())
             cur.execute("insert into core.migration (name) values (%s)", (path.name,))
             applied.append(path.name)
     conn.commit()

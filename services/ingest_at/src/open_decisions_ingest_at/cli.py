@@ -4,7 +4,6 @@ import sys
 from open_decisions_core import DATA
 from open_decisions_core.db import connect
 from open_decisions_core.records import check, dump, load
-
 from open_decisions_ingest_at import BILL_TYPES, JURISDICTION
 from open_decisions_ingest_at import raw as raw_layer
 from open_decisions_ingest_at import staged as staged_layer
@@ -51,7 +50,7 @@ def cmd_transform(args) -> int:
         for gp, ityp, inr, payload, fetched_at in list(raw_layer.items(conn, args.gp, BILL_ITYPS, BILL_DOKTYPS)):
             try:
                 bill = bill_from_item(payload, fetched_at)
-            except Exception as e:  # noqa: BLE001
+            except Exception as e:
                 print(f"  skip {gp}/{ityp}/{inr}: {e}")
                 continue
             staged_layer.upsert_bill(conn, bill)

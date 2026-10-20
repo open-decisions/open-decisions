@@ -68,7 +68,7 @@ def bills(conn: psycopg.Connection, jurisdiction: str, gp: str, ityps: tuple[str
             "select * from staged.bill where jurisdiction = %s and gp = %s and ityp = any(%s) order by ityp, inr::integer",
             (jurisdiction, gp, list(ityps)),
         )
-        cols = [d.name for d in cur.description]
+        cols = [d.name for d in cur.description or []]
         rows = [dict(zip(cols, r, strict=False)) for r in cur.fetchall()]
     with conn.cursor() as cur:
         for b in rows:

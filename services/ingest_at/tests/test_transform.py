@@ -3,6 +3,7 @@ import pathlib
 from datetime import date, datetime
 
 import pytest
+
 from open_decisions_core.records import check
 from open_decisions_ingest_at.client import list_rows, parse_his_url
 from open_decisions_ingest_at.transform import bill_from_item, eli_from_bgbl, record_from_bill
@@ -37,7 +38,8 @@ def test_government_bill_69():
     assert [p["citation"] for p in bill["pre_parliamentary"]] == ["15/ME", "16/ME"]
     assert bill["eurovoc"] == ["Öffentliche Finanzen und Haushaltspolitik"]
     phases = [p["phase"] for p in bill["phases"]]
-    assert phases[0] == "introduced" and "second_chamber_plenary" in phases
+    assert phases[0] == "introduced"
+    assert "second_chamber_plenary" in phases
 
 
 def test_members_bill_73_has_no_impact_assessment():

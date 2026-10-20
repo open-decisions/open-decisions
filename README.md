@@ -22,16 +22,24 @@ Project status: concept and data contract. No application code yet.
 
 Reference example: the abolition of the Austrian Klimabonus, `data/measures/at-2025-klimabonus.yaml`, part of bill `data/bills/AT-XXVIII-I-69.yaml`. Architecture: `docs/architecture.md`.
 
+## Development
+
+Python 3.13, uv workspace, one package per service under `services/`. Tooling: ruff (lint and format), pyright, pytest, pre-commit, GitHub Actions. `make setup` installs the environment and the git hooks; `make check` runs everything CI runs.
+
+```
+make setup      # uv sync, pre-commit install
+make db         # start Postgres, apply migrations
+make check      # ruff, pyright, pytest, record validation
+make ingest     # list, details, transform, export for the current period
+```
+
 ## Run
 
 ```
-docker compose up -d db
 cp .env.example .env
-uv sync
-uv run open-decisions-migrate
+make setup db
 uv run open-decisions-validate
-uv run ingest-at run        # list, details, transform, export for the current period
-uv run --group dev --package open-decisions-ingest-at pytest
+uv run ingest-at run
 ```
 
 ## Rules in one paragraph

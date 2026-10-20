@@ -1,22 +1,51 @@
 [project]
 name = "open-decisions"
 version = "0.0.0"
-requires-python = ">=3.12"
-dependencies = []
+description = "Workspace root: curated records of political decisions and their household effects"
+requires-python = ">=3.13"
+dependencies = [
+  "open-decisions-core",
+  "open-decisions-ingest-at",
+]
+
+[dependency-groups]
+dev = [
+  "ruff>=0.14",
+  "pyright>=1.1.400",
+  "pytest>=8",
+  "pre-commit>=4",
+]
+
+[tool.uv]
+default-groups = ["dev"]
 
 [tool.uv.workspace]
 members = ["services/*"]
 
 [tool.uv.sources]
 open-decisions-core = { workspace = true }
+open-decisions-ingest-at = { workspace = true }
 
 [tool.ruff]
 line-length = 140
-target-version = "py312"
+target-version = "py313"
+src = ["services/*/src"]
 
 [tool.ruff.lint]
-select = ["E", "F", "I", "UP", "B"]
+select = ["E", "F", "I", "UP", "B", "SIM", "C4", "RUF", "PT", "N", "T20", "ISC", "PIE", "RET"]
+ignore = ["RUF001", "RUF002", "RUF003", "T201"]
+
+[tool.ruff.lint.per-file-ignores]
+"**/tests/**" = ["PT011"]
+
+[tool.pyright]
+include = ["services"]
+exclude = ["**/tests"]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.13"
+typeCheckingMode = "standard"
 
 [tool.pytest.ini_options]
 testpaths = ["services"]
-addopts = "--import-mode=importlib"
+addopts = "--import-mode=importlib -q"
