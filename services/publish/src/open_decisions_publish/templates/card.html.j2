@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="{{ card.lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ card.title }}</title>
+<style>
+  :root { font-family: Georgia, "Times New Roman", serif; font-size: 17px; line-height: 1.45; color: #111; }
+  body { margin: 0; padding: 24px 16px; max-width: 760px; margin-inline: auto; background: #fff; }
+  h1 { font-size: 1.7rem; line-height: 1.2; margin: 0 0 4px; }
+  h2 { font-size: 1.05rem; margin: 28px 0 8px; text-transform: uppercase; letter-spacing: .04em; font-family: Helvetica, Arial, sans-serif; }
+  .status { color: #444; margin: 0 0 18px; }
+  blockquote { margin: 0; padding: 10px 14px; border-left: 3px solid #999; background: #f6f6f6; }
+  blockquote footer { font-size: .9rem; color: #444; margin-top: 6px; }
+  table { border-collapse: collapse; width: 100%; font-family: Helvetica, Arial, sans-serif; font-size: .95rem; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 6px; border-bottom: 1px solid #ddd; }
+  th { font-weight: 600; background: #f6f6f6; }
+  td .sub { display: block; color: #555; font-size: .85rem; }
+  ul { padding-left: 20px; } li { margin: 4px 0; }
+  .meta { font-size: .9rem; color: #444; }
+  details { margin-top: 36px; border-top: 2px solid #111; padding-top: 12px; }
+  summary { cursor: pointer; font-family: Helvetica, Arial, sans-serif; font-weight: 600; }
+  .detail h3 { font-size: 1rem; margin: 20px 0 6px; font-family: Helvetica, Arial, sans-serif; }
+  .detail table { font-size: .85rem; }
+  @media print { details { display: block; } details > summary { display: none; } details[open] { page-break-before: always; } body { padding: 0; } }
+</style>
+</head>
+<body>
+<article>
+  <h1>{{ card.title }}</h1>
+  <p class="status">{{ card.status }}</p>
+
+  <h2>Was wurde gesagt</h2>
+  <blockquote>
+    <p>„{{ card.said.quote }}“</p>
+    <footer>{{ card.said.speaker }}, {{ card.said.role }}, {{ card.said.date }}.
+      {% for s in card.said.sources %}<a href="{{ s.url }}">Quelle</a>{% if not loop.last %}, {% endif %}{% endfor %}</footer>
+  </blockquote>
+
+  <h2>Was steht im Gesetz</h2>
+  <p>{{ card.law }}</p>
+
+  <h2>Was heißt das für dich</h2>
+  <table>
+    <thead><tr><th>Haushalt</th><th>Im Jahr {{ card.years.short }}</th><th>Im Jahr {{ card.years.long }}</th></tr></thead>
+    <tbody>
+    {% for h in card.households %}
+      <tr>
+        <td>{{ h.label }}{% if h.note %}<span class="sub">{{ h.note }}</span>{% endif %}</td>
+        <td>{{ h.short.main }}{% if h.short.sub %}<span class="sub">{{ h.short.sub }}</span>{% endif %}{% if h.share %}<span class="sub">{{ h.share }}</span>{% endif %}</td>
+        <td>{{ h.long.main }}{% if h.long.sub %}<span class="sub">{{ h.long.sub }}</span>{% endif %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Was ist unklar</h2>
+  <ul>{% for u in card.unclear %}<li>{{ u }}</li>{% endfor %}</ul>
+
+  <h2>Nachschauen</h2>
+  <p class="meta"><a href="#detail">Wie gerechnet?</a> · <a href="#quellen">Quellen</a> · <a href="https://github.com/open-decisions/open-decisions/issues/new?title={{ card.id }}">Fehler melden</a> · Nachschau am {{ card.follow_up.date }}: {{ card.follow_up.what }}</p>
+
+  <details id="detail" class="detail">
+    <summary>Detailseite: Parameter, Annahmen, Rechenweg, Quellen</summary>
+
+    <h3>1. Parameter</h3>
+    <table><thead><tr><th>Was</th><th>Alt</th><th>Neu</th><th>Gilt ab</th><th>Quelle</th></tr></thead><tbody>
+    {% for p in card.detail.parameters %}<tr><td>{{ p.name }}</td><td>{{ p.old }}</td><td>{{ p.new }}</td><td>{{ p.applies_from }}</td><td>{% for s in p.sources %}<a href="{{ s.url }}">{{ s.ref }}</a>{% if not loop.last %}; {% endif %}{% endfor %}</td></tr>{% endfor %}
+    </tbody></table>
+    <p class="meta">Betroffen: {{ card.detail.affected.who }}{% if card.detail.affected.condition %} ({{ card.detail.affected.condition }}){% endif %}. Zahl: {{ card.detail.affected.count }}.</p>
+
+    <h3>2. Annahmen</h3>
+    <ol>{% for a in card.detail.assumptions %}<li><strong>{{ a.id }}:</strong> {{ a.what }} <em>Warum:</em> {{ a.why }} <em>Bei anderer Lesart:</em> {{ a.alternative }}</li>{% endfor %}</ol>
+
+    <h3>3. Rechenweg</h3>
+    <table><thead><tr><th>Haushalt</th><th>{{ card.years.short }}</th><th>{{ card.years.long }}</th></tr></thead><tbody>
+    {% for h in card.households %}<tr><td>{{ h.id }} {{ h.label }}</td><td>{{ h.detail_short }}</td><td>{{ h.detail_long }}</td></tr>{% endfor %}
+    </tbody></table>
+    <p class="meta">Statisch gerechnet: Menschen ändern ihr Verhalten in der Rechnung nicht. Langfristig heißt: fünftes Jahr, alles andere bleibt gleich.</p>
+
+    <h3>4. Gesamtwirkung und Verteilung</h3>
+    <ul>{% for a in card.detail.aggregate %}<li>{{ a.description }}: {{ a.text }}</li>{% endfor %}</ul>
+    {% if card.detail.distribution %}<p>{{ card.detail.distribution.description }} ({{ card.detail.distribution_label }})</p>{% endif %}
+
+    {% if card.detail.vote %}<h3>5. Wer hat dafür gestimmt</h3><p>{{ card.detail.vote }}</p>{% endif %}
+
+    <h3 id="quellen">6. Quellen</h3>
+    <ul>{% for s in card.detail.sources %}<li><a href="{{ s.url }}">{{ s.title }}</a> ({{ s.institution }}), abgerufen am {{ s.retrieved }}{% if s.archive %}, archiviert {{ s.archive[:19] }}…{% endif %}</li>{% endfor %}</ul>
+
+    {% if card.detail.contradictions %}<h3>7. Widersprüche</h3><ul>{% for c in card.detail.contradictions %}<li>{{ c }}</li>{% endfor %}</ul>{% endif %}
+    {% if card.detail.open_questions %}<h3>8. Offene Fragen</h3><ul>{% for q in card.detail.open_questions %}<li>{{ q }}</li>{% endfor %}</ul>{% endif %}
+
+    <h3>9. Änderungsverlauf</h3>
+    <ul>{% for c in card.detail.changelog %}<li>{{ c.date }}: {{ c.change }} ({{ c.reason }})</li>{% endfor %}</ul>
+    <p class="meta">Freigabe: {% if card.detail.review.approved %}{{ card.detail.review.approved }}{% else %}noch nicht freigegeben, Entwurf{% endif %}.</p>
+  </details>
+</article>
+</body>
+</html>

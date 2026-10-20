@@ -15,6 +15,7 @@ Project status: concept and data contract. No application code yet.
 | `services/core/` | Schema records, validation, Postgres migrations (raw, staged). |
 | `services/ingest_at/` | Federal adapter for Austria: parliament API into raw, transform to staged, export to `data/bills/`. |
 | `services/documents/` | Fetches linked documents into raw, extracts text (pdftotext) into staged with full-text search. |
+| `services/publish/` | Card view models and HTML one-pagers from measure records; formatting rules of the Stilguide live here. |
 | `fixtures/` | Real API responses for tests without network. |
 | `data/jurisdictions/<CC>.yaml` | Decision levels of one country: federal, states, later municipalities. |
 | `data/households/<CC>.yaml` | Example households of one country. |
@@ -33,6 +34,7 @@ make db         # start Postgres, apply migrations
 make check      # ruff, pyright, pytest, record validation
 make ingest     # list, details, transform, export for the current period
 make documents  # fetch and extract documents linked from records; needs poppler
+make render     # cards as HTML and JSON under build/
 ```
 
 ## Run
