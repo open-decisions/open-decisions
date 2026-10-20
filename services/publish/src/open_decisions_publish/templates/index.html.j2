@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="de-AT">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Karten</title>
+<style>body{font-family:Georgia,serif;max-width:760px;margin:24px auto;padding:0 16px;line-height:1.45}li{margin:8px 0}</style></head>
+<body><h1>Maßnahmen-Karten</h1><ul>
+{% for c in cards %}<li><a href="cards/{{ c.id }}.html">{{ c.title }}</a><br><small>{{ c.status }}</small></li>{% endfor %}
+</ul></body></html>

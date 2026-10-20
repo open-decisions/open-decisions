@@ -10,7 +10,7 @@ Curated records of political decisions and what they mean for households, starti
 
 - `schema/massnahme.schema.json` is the data contract. It is the source of truth; models are derived from it, never written by hand.
 - `data/` holds the records. `jurisdictions`, `households` and `measures` are curated and reviewed in pull requests. `bills` are derived: the ingest pipeline generates them, and only the fields `measures` and `budget_office_analyses` on a bill are edited by hand.
-- `services/core` has schema loading, validation, the Stilguide checks and Postgres migrations (`raw`, `staged`). `services/ingest_at` is the federal adapter for Austria. `services/documents` fetches every document a record links to into `raw.document`, extracts text into `staged.document_text` (full-text search in German) and reports archive references for measure sources. Extraction needs `pdftotext` from poppler. One package per service; a service becomes a running process only when it has a different runtime, cost profile or data sensitivity.
+- `services/core` has schema loading, validation, the Stilguide checks and Postgres migrations (`raw`, `staged`). `services/ingest_at` is the federal adapter for Austria. `services/documents` fetches every document a record links to into `raw.document`, extracts text into `staged.document_text` (full-text search in German) and reports archive references for measure sources. Extraction needs `pdftotext` from poppler. `services/publish` turns measure records into card view models (JSON with every number formatted and every label written out, the single place for the Stilguide number rules) and renders them with a Jinja template to `build/`; the site will read the view models later. One package per service; a service becomes a running process only when it has a different runtime, cost profile or data sensitivity.
 - `fixtures/` holds real API responses so tests run without network.
 - `docs/` holds the concept (German), the methodology and style guide (German), the architecture (English), the API spike notes and the decision log.
 
@@ -23,6 +23,7 @@ make check      # ruff, pyright, pytest, record validation; same as CI
 make ingest     # list, details, transform, export for the current legislative period
 make documents  # fetch and extract all documents linked from records
 uv run documents search <terms>   # full-text search over extracted documents
+make render     # card view models and HTML one-pagers to build/
 ```
 
 Run `make check` before opening a pull request. Pre-commit runs the same checks on commit.

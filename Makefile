@@ -1,4 +1,4 @@
-.PHONY: setup db lint format typecheck test validate check ingest documents
+.PHONY: setup db lint format typecheck test validate check ingest documents render
 
 setup:
 	uv sync
@@ -32,3 +32,6 @@ ingest:
 
 documents:
 	uv run documents run
+
+render:
+	uv run publish render
