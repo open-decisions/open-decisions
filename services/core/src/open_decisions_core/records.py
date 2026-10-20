@@ -7,6 +7,7 @@ import jsonschema
 import yaml
 
 from open_decisions_core import DATA, SCHEMA_PATH
+from open_decisions_core.style import check_measure_style
 
 KINDS = {
     "jurisdictions": "#/$defs/jurisdictions",
@@ -145,6 +146,7 @@ def check(data: Any, path: pathlib.Path | None = None) -> list[str]:
         return errors
     if kind == "measure":
         errors += _check_measure(data)
+        errors += check_measure_style(data)[0]
         if path is not None and path.stem != data["id"]:
             errors.append(f"file name must equal id ({data['id']})")
     elif kind == "bill":
@@ -164,3 +166,9 @@ def check_file(path: pathlib.Path) -> list[str]:
 
 def all_record_files() -> list[pathlib.Path]:
     return [f for sub in FOLDERS.values() for f in sorted((DATA / sub).glob("*.yaml"))]
+
+
+def warnings(data: Any) -> list[str]:
+    if isinstance(data, dict) and data.get("kind") == "measure":
+        return check_measure_style(data)[1]
+    return []

@@ -6,6 +6,7 @@ requires-python = ">=3.13"
 dependencies = [
   "open-decisions-core",
   "open-decisions-ingest-at",
+  "open-decisions-documents",
 ]
 
 [dependency-groups]
@@ -25,6 +26,7 @@ members = ["services/*"]
 [tool.uv.sources]
 open-decisions-core = { workspace = true }
 open-decisions-ingest-at = { workspace = true }
+open-decisions-documents = { workspace = true }
 
 [tool.ruff]
 line-length = 140

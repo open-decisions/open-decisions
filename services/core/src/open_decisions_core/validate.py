@@ -2,7 +2,7 @@ import pathlib
 import sys
 
 from open_decisions_core import ROOT
-from open_decisions_core.records import all_record_files, check_file
+from open_decisions_core.records import all_record_files, check_file, load, warnings
 
 
 def main() -> int:
@@ -14,6 +14,8 @@ def main() -> int:
         print(f"{'FAIL' if errs else 'ok  '} {shown}")
         for e in errs:
             print(f"      {e}")
+        for w in warnings(load(f)):
+            print(f"      warning: {w}")
         failed |= bool(errs)
     return 1 if failed else 0
 
