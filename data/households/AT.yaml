@@ -12,6 +12,7 @@ households:
     gross_income_month: [2100]
     housing: Miete
     region: Wien
+    commute: { one_way_km: 8, mode: public }
     disposable_income_year: null
   - id: AT-H2
     label: Pensionistin, allein, Ausgleichszulage
@@ -21,6 +22,8 @@ households:
     gross_income_month: [1270]
     housing: Miete
     region: Landgemeinde
+    adult_ages: [72]
+    commute: { one_way_km: 0, mode: none }
     disposable_income_year: null
   - id: AT-H3
     label: Paar, 2 Kinder (4 und 9 J.), beide Vollzeit
@@ -30,6 +33,7 @@ households:
     gross_income_month: [3200, 2600]
     housing: Eigentum mit Kredit
     region: Stadtrand
+    commute: { one_way_km: 15, mode: car, note: zweite erwachsene Person mit öffentlichem Verkehr }
     disposable_income_year: null
   - id: AT-H4
     label: Student, Nebenjob geringfügig, eigene Wohnung
@@ -40,6 +44,8 @@ households:
     other_income: Familienbeihilfe
     housing: WG, Miete
     region: Graz
+    adult_ages: [22]
+    commute: { one_way_km: 3, mode: public }
     disposable_income_year: null
   - id: AT-H5
     label: Selbstständiger, allein, Einzelunternehmer
@@ -49,6 +55,7 @@ households:
     gross_income_month: [3750]
     housing: Miete
     region: Linz
+    commute: { one_way_km: 0, mode: none, note: "selbständig, kein Pendlerpauschale" }
     disposable_income_year: null
   - id: AT-H6
     label: Paar ohne Kinder, ein Einkommen, Industriearbeiter
@@ -58,6 +65,7 @@ households:
     gross_income_month: [3400, 0]
     housing: Eigentum abbezahlt
     region: Land
+    commute: { one_way_km: 30, mode: car }
     disposable_income_year: null
   - id: AT-H7
     label: Paar, 1 Kind, hohe Einkommen
@@ -67,4 +75,5 @@ households:
     gross_income_month: [7500, 5000]
     housing: Eigentum
     region: Wien
+    commute: { one_way_km: 10, mode: public }
     disposable_income_year: null

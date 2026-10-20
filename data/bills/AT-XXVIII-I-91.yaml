@@ -210,7 +210,13 @@ documents:
   - https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686059.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686060.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686061.pdf
-measures: []
+budget_office_analyses:
+- title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen
+  date: '2025-05-19'
+  url: https://www.parlament.gv.at/fachinfos/budgetdienst/Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen
+  pdf_url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
+measures:
+- at-2025-kv-beitrag-pensionisten
 sources:
 - id: parl-detail
   role: law_text

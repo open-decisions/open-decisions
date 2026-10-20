@@ -1,0 +1,251 @@
+kind: measure
+jurisdiction: AT
+lang: de-AT
+id: at-2025-familienleistungen-2026-2027
+bill: AT/XXVIII/I/69
+article: Art. 4 (FLAG § 8 und § 55 Abs. 68), Art. 5 (KBGG § 50 Abs. 47), Art. 6 (FamZeitbG § 12 Abs. 10), Art. 56 Z 8 (EStG § 124b Z 474)
+law:
+  title: Familienlastenausgleichsgesetz 1967
+  abbreviation: FLAG
+  original_gazette: BGBl. Nr. 376/1967
+  consolidated_url: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008220
+
+title: Familienbeihilfe und Kinderabsetzbetrag bleiben 2026 und 2027 gleich
+
+status:
+  state: in_force
+  since: "2025-07-01"
+  sources:
+    - { source: bbg-gesetzestext, ref: "Art. 4 Z 13 (§ 55 Abs. 68 und 69 FLAG)" }
+    - { source: parl-detail, ref: "status.bgbllinks, BGBl. I Nr. 25/2025" }
+
+selection:
+  status_ok: true
+  household_relevance: indexation
+  evidence_ok: true
+  rationale: Betrifft 1,2 Millionen Familien mit einem festen Betrag pro Kind; Gesetzestext, WFA und Budgetdienst-Analyse liegen vor.
+  decided_on: "2026-10-20"
+
+said:
+  quote: >-
+    Schließlich werden Sozialleistungen wie die Familienbeihilfe oder der Kinderabsetzbetrag zwar nicht gekürzt,
+    doch 2026 und 2027 werden sie nicht erhöht. Das vorübergehende Aussetzen der Indexierung ist aus budgetären
+    Gründen notwendig, es erspart etwa 200 Millionen Euro im kommenden Jahr und 400 Millionen Euro 2027.
+  speaker: Markus Marterbauer
+  role: Bundesminister für Finanzen, Budgetrede zum Doppelbudget 2025/2026
+  date: "2025-05-13"
+  sources:
+    - { source: budgetrede-protokoll, ref: "Stenographisches Protokoll, 21. Sitzung, TOP 1, Abschnitt Arbeitsmarkt und Soziales" }
+
+law_change:
+  summary: >-
+    Familienbeihilfe, Mehrkindzuschlag, Kinderabsetzbetrag, Kinderbetreuungsgeld und Familienzeitbonus steigen sonst jedes Jahr mit der Inflation.
+    Für 2026 und 2027 entfällt diese Anpassung. Die Beträge bleiben auf dem Stand von 2025.
+  parameters:
+    - name: Anpassung der Familienbeihilfe und des Mehrkindzuschlags an die Inflation
+      old: "jährlich mit dem Anpassungsfaktor (§ 16 FLAG); für 2026 wäre das 2,7 Prozent"
+      new: "keine Anpassung für 2026 und 2027"
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 bis 4) und Z 13 (§ 55 Abs. 68)" }
+        - { source: anpassungsfaktor-2026, ref: "Anpassungsfaktor 2026: 1,027" }
+    - name: Familienbeihilfe pro Monat, Kind ab 3 Jahren
+      old: 148
+      new: 148
+      unit: EUR pro Monat, 2026 und 2027
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 lit. b)" }
+        - { source: famvalvo-2025, ref: "§ 1 Z 4" }
+    - name: Familienbeihilfe pro Monat, Kind ab 10 Jahren
+      old: 171.8
+      new: 171.8
+      unit: EUR pro Monat, 2026 und 2027
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 lit. c)" }
+    - name: Familienbeihilfe pro Monat, Kind ab 19 Jahren
+      old: 200.4
+      new: 200.4
+      unit: EUR pro Monat, 2026 und 2027
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 lit. d)" }
+    - name: Kinderabsetzbetrag pro Monat und Kind
+      old: 70.9
+      new: 70.9
+      unit: EUR pro Monat, 2026 und 2027
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 56 Z 8 (§ 124b Z 474 EStG)" }
+        - { source: famvalvo-2025, ref: "§ 4" }
+    - name: Anpassung von Kinderbetreuungsgeld und Familienzeitbonus an die Inflation
+      old: "jährlich"
+      new: "keine Anpassung für 2026 und 2027"
+      applies_from: "2026-01-01"
+      sources:
+        - { source: bbg-gesetzestext, ref: "Art. 5 (§ 50 Abs. 47 KBGG) und Art. 6 (§ 12 Abs. 10 FamZeitbG)" }
+
+affected:
+  who: Familien, die Familienbeihilfe beziehen, sowie Eltern mit Kinderbetreuungsgeld oder Familienzeitbonus
+  condition: Anspruch auf Familienbeihilfe in den Jahren 2026 und 2027
+  count:
+    value: 1200000
+    unit: households
+    label: adopted
+    sources:
+      - { source: bbg-wfa, ref: "S. 39 von 408: 1,2 Millionen Familien, 2 Millionen Kinder" }
+
+timing:
+  effective_from: "2026-01-01"
+  first_full_year: 2026
+  fifth_year: 2030
+  limited_until: "2027-12-31"
+  transition: null
+  indexation: none
+  note: >-
+    Ab 2028 wird wieder angepasst, aber vom Stand 2025 aus. Die zwei fehlenden Anpassungen werden nicht nachgeholt.
+    Der Verlust bleibt deshalb auch im fünften Jahr bestehen.
+
+effects:
+  households:
+    - household: AT-H1
+      short_term: { value: -70.9, low: -70.9, high: -70.9, unit: eur_per_year, label: estimated, year: 2026, assumptions: [A1], sources: [{ source: bbg-gesetzestext, ref: "Art. 4 Z 2" }, { source: famvalvo-2025, ref: "§ 1 Z 4, § 4" }, { source: anpassungsfaktor-2026, ref: "1,027" }], calculation: "(148 € Familienbeihilfe + 70,90 € Kinderabsetzbetrag) × 12 × 2,7 % = 70,90 €" }
+      long_term: { value: -128.7, low: -145, high: -115, unit: eur_per_year, label: estimated, year: 2030, assumptions: [A1, A2], sources: [{ source: bd-konsolidierung, ref: "S. 47: knapp 5 Prozent bis 2027" }], calculation: "218,90 € × 12 × 4,9 % = 128,70 €; Spannweite 4,4 bis 5,5 %" }
+    - household: AT-H2
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: bbg-gesetzestext, ref: "Art. 4: nur Familienbeihilfe" }], calculation: "keine Kinder, keine Familienbeihilfe" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: bbg-gesetzestext, ref: "Art. 4" }], calculation: "keine Kinder, keine Familienbeihilfe" }
+    - household: AT-H3
+      short_term: { value: -147.4, low: -147.4, high: -147.4, unit: eur_per_year, label: estimated, year: 2026, assumptions: [A1], sources: [{ source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 lit. b und Abs. 3 lit. a)" }, { source: famvalvo-2025, ref: "§ 1 Z 4 und Z 7, § 4" }], calculation: "(2 × 148 € + 2 × 8,60 € Geschwisterstaffel + 2 × 70,90 €) × 12 × 2,7 % = 147,40 €" }
+      long_term: { value: -267.5, low: -300, high: -240, unit: eur_per_year, label: estimated, year: 2030, assumptions: [A1, A2], sources: [{ source: bd-konsolidierung, ref: "S. 47" }], calculation: "455 € × 12 × 4,9 % = 267,50 €" }
+    - household: AT-H4
+      short_term: { value: -87.9, low: -87.9, high: 0, unit: eur_per_year, label: estimated, year: 2026, assumptions: [A1, A3], sources: [{ source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 lit. d)" }, { source: famvalvo-2025, ref: "§ 1 Z 6, § 4" }], calculation: "(200,40 € + 70,90 €) × 12 × 2,7 % = 87,90 €; null, wenn die Beihilfe an die Eltern geht" }
+      long_term: { value: -159.5, low: -180, high: 0, unit: eur_per_year, label: estimated, year: 2030, assumptions: [A1, A2, A3], sources: [{ source: bd-konsolidierung, ref: "S. 47" }], calculation: "271,30 € × 12 × 4,9 % = 159,50 €" }
+      note: Die Familienbeihilfe für Studierende wird meist an die Eltern ausgezahlt; dann trifft es deren Haushalt.
+    - household: AT-H5
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: bbg-gesetzestext, ref: "Art. 4" }], calculation: "keine Kinder, keine Familienbeihilfe" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: bbg-gesetzestext, ref: "Art. 4" }], calculation: "keine Kinder, keine Familienbeihilfe" }
+    - household: AT-H6
+      short_term: { value: 0, unit: eur_per_year, label: calculated, year: 2026, sources: [{ source: bbg-gesetzestext, ref: "Art. 4" }], calculation: "keine Kinder, keine Familienbeihilfe" }
+      long_term: { value: 0, unit: eur_per_year, label: calculated, year: 2030, sources: [{ source: bbg-gesetzestext, ref: "Art. 4" }], calculation: "keine Kinder, keine Familienbeihilfe" }
+    - household: AT-H7
+      short_term: { value: -78.6, low: -78.6, high: -78.6, unit: eur_per_year, label: estimated, year: 2026, assumptions: [A1], sources: [{ source: bbg-gesetzestext, ref: "Art. 4 Z 2 (§ 8 Abs. 2 lit. c)" }, { source: famvalvo-2025, ref: "§ 1 Z 5, § 4" }], calculation: "(171,80 € + 70,90 €) × 12 × 2,7 % = 78,60 €" }
+      long_term: { value: -142.7, low: -160, high: -130, unit: eur_per_year, label: estimated, year: 2030, assumptions: [A1, A2], sources: [{ source: bd-konsolidierung, ref: "S. 47" }], calculation: "242,70 € × 12 × 4,9 % = 142,70 €" }
+      note: Familienbeihilfe und Kinderabsetzbetrag hängen nicht vom Einkommen ab.
+  aggregate:
+    - description: Minderausgaben des Bundes bei Familienbeihilfe und Mehrkindzuschlag 2026
+      amount: { value: 114, unit: mio_eur_per_year, label: adopted, year: 2026, sources: [{ source: bbg-wfa, ref: "S. 38 von 408" }] }
+    - description: Minderausgaben des Bundes bei Familienbeihilfe und Mehrkindzuschlag ab 2027
+      amount: { value: 210.4, unit: mio_eur_per_year, label: adopted, year: 2027, sources: [{ source: bbg-wfa, ref: "S. 38 von 408" }] }
+    - description: Mehreinnahmen durch den unveränderten Kinderabsetzbetrag ab 2027
+      amount: { value: 90, unit: mio_eur_per_year, label: adopted, year: 2027, sources: [{ source: bbg-wfa, ref: "S. 249 von 408" }] }
+    - description: Alle betroffenen Sozialleistungen zusammen, 2025 bis 2029
+      amount: { value: 1.4, unit: bn_eur_total, label: adopted, sources: [{ source: bd-konsolidierung, ref: "S. 47" }] }
+  distribution:
+    description: >-
+      Laut Budgetdienst trägt das unterste Einkommensdezil etwas mehr als ein Fünftel des Volumens, das oberste 4 Prozent.
+      Bis 2027 entfällt bei den betroffenen Leistungen ein Anstieg um knapp 5 Prozent.
+    label: adopted
+    sources:
+      - { source: bd-konsolidierung, ref: "S. 47" }
+
+unclear:
+  - Für 2027 ist der ausgefallene Anpassungsfaktor noch nicht festgesetzt. Die Zahlen für das fünfte Jahr nutzen die Schätzung des Budgetdienstes.
+  - Die Familienbeihilfe für Studierende geht meist an die Eltern. Bei AT-H4 ist offen, wer sie bezieht.
+  - Ob ab 2028 die ausgefallenen Jahre nachgeholt werden, steht nicht im Gesetz. Die Karte nimmt an, dass nicht nachgeholt wird.
+
+assumptions:
+  - id: A1
+    what: Ohne die Maßnahme wären die Beträge 2026 um 2,7 Prozent gestiegen.
+    why: Das Familienlastenausgleichsgesetz verweist auf den Anpassungsfaktor der Pensionen; dieser ist für 2026 mit 1,027 festgesetzt.
+    alternative: Keine; der Faktor ist verordnet.
+  - id: A2
+    what: Für 2027 wären die Beträge um weitere rund 2,2 Prozent gestiegen, zusammen knapp 5 Prozent.
+    why: Der Budgetdienst rechnet mit knapp 5 Prozent bis 2027.
+    alternative: Bei höherer Inflation 2026 wäre der Verlust größer, bei niedrigerer kleiner; Spannweite 4,4 bis 5,5 Prozent.
+  - id: A3
+    what: AT-H4 bezieht die Familienbeihilfe selbst.
+    why: Der Beispielhaushalt nennt Familienbeihilfe als weiteres Einkommen.
+    alternative: Geht die Beihilfe an die Eltern, ist die Wirkung für AT-H4 null und trifft den Elternhaushalt.
+
+contradictions:
+  - Die Budgetrede nennt 200 Millionen Euro für 2026 und 400 Millionen für 2027. Die WFA zu Art. 4 weist 114 und 210 Millionen aus, weil sie nur Familienbeihilfe und Mehrkindzuschlag umfasst. Mit Kinderabsetzbetrag, Kinderbetreuungsgeld und Familienzeitbonus kommt man auf die Größenordnung der Rede.
+
+open_questions:
+  - Anpassungsfaktor 2027 nach seiner Festsetzung im Herbst 2026 eintragen und A2 ersetzen.
+
+sources:
+  - id: bbg-gesetzestext
+    role: law_text
+    institution: Parlament Österreich
+    title: Budgetbegleitgesetz 2025, Regierungsvorlage 69 d.B., Gesetzestext
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/69/fnameorig_1685631.html
+    retrieved: "2026-10-20"
+    archive: sha256:f22e121f1871cf383e94cba63e44d3ba7a1c4549fa428b260c4165ca8870ad99
+  - id: parl-detail
+    role: law_text
+    institution: Parlament Österreich
+    title: Verhandlungsgegenstand 69 d.B., Detail-JSON
+    url: https://www.parlament.gv.at/gegenstand/XXVIII/I/69?json=TRUE
+    retrieved: "2026-10-20"
+    archive: sha256:ad2df5535fee8087f4030bc66a49d0a122d660b7a66a6e66bef8d8130e00c342
+  - id: famvalvo-2025
+    role: law_text
+    institution: RIS (Bundeskanzleramt)
+    title: Familienleistungs-Valorisierungsverordnung 2025, BGBl. II Nr. 314/2024
+    url: https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2024_II_314/BGBLA_2024_II_314.html
+    retrieved: "2026-10-20"
+    archive: sha256:b42dc4eae6690230860356b073995cfa5f637db1518da1f95b4712f7ccd902d5
+  - id: anpassungsfaktor-2026
+    role: law_text
+    institution: RIS (Bundeskanzleramt)
+    title: Verordnung über den Anpassungsfaktor für das Jahr 2026, BGBl. II Nr. 226/2025
+    url: https://ogd.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_II_226/BGBLA_2025_II_226.html
+    retrieved: "2026-10-20"
+    archive: sha256:509a75a78ca39e911cc126f1622ee42ee17ec8d9f6408153896e97e80f4be040
+  - id: bbg-wfa
+    role: impact_assessment
+    institution: Bundesregierung (BKA, BMF)
+    title: Vorblatt und WFA zum Budgetbegleitgesetz 2025, Abschnitte zu Art. 4 (S. 38 bis 47) und Art. 56 (S. 248 bis 275)
+    url: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:cb5b164fc350038aed6b4a9735306f763bbf0d516b7e1133d2fe451a6a7fc165
+  - id: bd-konsolidierung
+    role: parliamentary_budget_office
+    institution: Budgetdienst des Parlaments
+    title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen, 19.05.2025
+    url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
+    retrieved: "2026-10-20"
+    archive: sha256:7508ee9ccd4a21a83e5ca03288118eefe4e20e82f92d684e484a938be6c01a9d
+  - id: budgetrede-protokoll
+    role: government_communication
+    institution: Parlament Österreich (Stenographisches Protokoll)
+    title: 21. Sitzung des Nationalrates, 13.05.2025, Budgetrede des Finanzministers
+    url: https://www.parlament.gv.at/dokument/XXVIII/NRSITZ/21/A_-_10_08_26_00789433.html
+    retrieved: "2026-10-20"
+    archive: sha256:eea0c375edab9ebbee23b6c0f31e9b596f490bed60e10ac0fb271c865843439a
+
+follow_up:
+  date: "2027-01-15"
+  what: Prüfen, ob die Familienbeihilfe im Jänner 2027 tatsächlich unverändert ausgezahlt wird und welcher Anpassungsfaktor für 2027 verordnet wurde.
+  sources_to_check:
+    - BGBl. II, Verordnung über den Anpassungsfaktor 2027
+    - Familienleistungs-Valorisierungsverordnung, sofern erlassen
+
+review:
+  created: "2026-10-20"
+  approved: null
+  approved_by: ""
+  checklist:
+    parameters_checked: true
+    assumptions_documented: true
+    reproducible: true
+    labels_correct: true
+    style_checked: true
+    quote_sourced: true
+    unclear_filled: true
+
+changelog:
+  - date: "2026-10-20"
+    change: Erstfassung
+    reason: Dritte Karte aus dem Konsolidierungspaket 2025

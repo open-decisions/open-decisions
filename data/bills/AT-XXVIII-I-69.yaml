@@ -223,6 +223,9 @@ budget_office_analyses:
   pdf_url: https://www.parlament.gv.at/dokument/budgetdienst/analysen-zu-gesetzen/BD-Umsetzung-weiterer-Konsolidierungs-und-Offensivmassnahmen.pdf
 measures:
 - at-2025-klimabonus
+- at-2025-familienleistungen-2026-2027
+- at-2025-pendlereuro
+- at-2025-kalte-progression
 sources:
 - id: parl-detail
   role: law_text
