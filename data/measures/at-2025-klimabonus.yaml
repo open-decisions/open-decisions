@@ -140,9 +140,9 @@ effects:
       - { source: bd-konsolidierung, ref: "S. 5 und S. 46" }
 
 unclear:
-  - Die regionale Stufe eines Wohnorts bestimmt den Betrag zwischen 145 und 290 Euro; für die Beispielhaushalte außerhalb Wiens ist sie angenommen, nicht nachgeschlagen.
-  - Ohne Abschaffung wäre der Betrag ab 2025 per Verordnung an den CO2-Preis angepasst worden; wie hoch er gewesen wäre, ist nicht bekannt. Alle Zahlen schreiben den Wert von 2024 fort.
-  - Die WFA nennt keine Zahl der Betroffenen und keine Wirkung pro Haushalt; die Einsparung von rund 2 Milliarden Euro pro Jahr stammt aus der Rechnung des Budgetdienstes.
+  - Die regionale Stufe des Wohnorts bestimmt den Betrag, zwischen 145 und 290 Euro. Für die Beispielhaushalte außerhalb Wiens ist die Stufe angenommen, nicht nachgeschlagen.
+  - Ohne Abschaffung wäre der Betrag ab 2025 an den CO2-Preis angepasst worden. Wie hoch er dann gewesen wäre, ist nicht bekannt. Alle Zahlen schreiben den Wert von 2024 fort.
+  - Die WFA nennt keine Zahl der Betroffenen und keine Wirkung pro Haushalt. Die Einsparung von rund 2 Milliarden Euro pro Jahr stammt vom Budgetdienst.
 
 assumptions:
   - id: A1
@@ -243,7 +243,7 @@ review:
     assumptions_documented: true
     reproducible: true
     labels_correct: true
-    style_checked: false
+    style_checked: true
     quote_sourced: true
     unclear_filled: true
 
@@ -254,3 +254,6 @@ changelog:
   - date: "2026-10-19"
     change: Schema auf Jurisdiktion, Sprache, Quellenrollen und AT-Haushalts-IDs umgestellt
     reason: Erweiterung auf weitere EU-Länder vorbereiten
+  - date: "2026-10-20"
+    change: Element 6 in kürzere Sätze gefasst, Stilprüfung automatisiert bestanden
+    reason: Stilguide Abschnitt 3, Satzlänge unter 20 Wörtern

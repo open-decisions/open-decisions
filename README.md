@@ -14,6 +14,7 @@ Project status: concept and data contract. No application code yet.
 | `schema/massnahme.schema.json` | Data contract: jurisdictions, example households, bills, measures. English field names, content in the jurisdiction's language. |
 | `services/core/` | Schema records, validation, Postgres migrations (raw, staged). |
 | `services/ingest_at/` | Federal adapter for Austria: parliament API into raw, transform to staged, export to `data/bills/`. |
+| `services/documents/` | Fetches linked documents into raw, extracts text (pdftotext) into staged with full-text search. |
 | `fixtures/` | Real API responses for tests without network. |
 | `data/jurisdictions/<CC>.yaml` | Decision levels of one country: federal, states, later municipalities. |
 | `data/households/<CC>.yaml` | Example households of one country. |
@@ -31,6 +32,7 @@ make setup      # uv sync, pre-commit install
 make db         # start Postgres, apply migrations
 make check      # ruff, pyright, pytest, record validation
 make ingest     # list, details, transform, export for the current period
+make documents  # fetch and extract documents linked from records; needs poppler
 ```
 
 ## Run

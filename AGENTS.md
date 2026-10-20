@@ -10,7 +10,7 @@ Curated records of political decisions and what they mean for households, starti
 
 - `schema/massnahme.schema.json` is the data contract. It is the source of truth; models are derived from it, never written by hand.
 - `data/` holds the records. `jurisdictions`, `households` and `measures` are curated and reviewed in pull requests. `bills` are derived: the ingest pipeline generates them, and only the fields `measures` and `budget_office_analyses` on a bill are edited by hand.
-- `services/core` has schema loading, validation and Postgres migrations (`raw`, `staged`). `services/ingest_at` is the federal adapter for Austria. One package per service; a service becomes a running process only when it has a different runtime, cost profile or data sensitivity.
+- `services/core` has schema loading, validation, the Stilguide checks and Postgres migrations (`raw`, `staged`). `services/ingest_at` is the federal adapter for Austria. `services/documents` fetches every document a record links to into `raw.document`, extracts text into `staged.document_text` (full-text search in German) and reports archive references for measure sources. Extraction needs `pdftotext` from poppler. One package per service; a service becomes a running process only when it has a different runtime, cost profile or data sensitivity.
 - `fixtures/` holds real API responses so tests run without network.
 - `docs/` holds the concept (German), the methodology and style guide (German), the architecture (English), the API spike notes and the decision log.
 
@@ -21,6 +21,8 @@ make setup      # uv sync and pre-commit install
 make db         # docker compose Postgres on port 5433 and migrations; needs .env from .env.example
 make check      # ruff, pyright, pytest, record validation; same as CI
 make ingest     # list, details, transform, export for the current legislative period
+make documents  # fetch and extract all documents linked from records
+uv run documents search <terms>   # full-text search over extracted documents
 ```
 
 Run `make check` before opening a pull request. Pre-commit runs the same checks on commit.
@@ -29,6 +31,7 @@ Run `make check` before opening a pull request. Pre-commit runs the same checks 
 
 - Code, schema, commit messages and this file are English. Record content is in the language of its jurisdiction (`lang`), German for Austria. Concept and methodology docs stay German because their readers are Austrian.
 - Python 3.13, uv workspace, ruff with the rule set in `pyproject.toml`, pyright standard mode, pytest with importlib mode. No comments or docstrings unless the reason cannot be seen in the code: a library quirk, a non-obvious external constraint, or why an obvious alternative was rejected.
+- Card text follows the Stilguide mechanically: no forbidden judgement words outside the quote, sentences under 20 words on level one, no question or exclamation marks, title up to 8 words. The validator enforces this; `open-decisions-validate` prints a Flesch warning when level one reads too hard.
 - Every number in a record carries one label: `calculated`, `adopted`, `estimated` (with range and assumptions) or `not_quantifiable` (with reason). Government communication may only back the "said" element.
 - Identifiers link outward: ELI for acts, EuroVoc for topics, Wikidata for parties, ISO 3166 for jurisdictions. Do not invent identifiers.
 - Decisions with lasting effect go into `docs/decisions.md` with alternatives and reason. Methodology changes need a decision log entry.
