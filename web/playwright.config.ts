@@ -9,5 +9,5 @@ export default defineConfig({
     { name: "desktop", use: { ...devices["Desktop Chrome"] } },
     { name: "phone", use: { ...devices["Pixel 7"] } },
   ],
-  webServer: { command: "pnpm preview --port 4321", url: "http://localhost:4321", reuseExistingServer: !process.env.CI },
+  webServer: { command: "pnpm preview --port 4321 --ignore-lock", url: "http://localhost:4321", reuseExistingServer: !process.env.CI },
 });
