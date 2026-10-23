@@ -10,6 +10,9 @@ Status: target architecture, October 2026. Nothing below is built yet except the
 4. **One schema, several surfaces.** Files, bulk exports, a REST API and an MCP server all serve the same records. The label and the sources travel with every number on every surface.
 5. **Link, don't invent.** Laws carry their ELI, topics their EuroVoc descriptors, parties and people their Wikidata ids. Jurisdictions use ISO 3166 codes. This is what makes records comparable across levels and later across countries.
 6. **Content in the language of the jurisdiction, code in English.** Sources and readers are local. The contract is not.
+7. **Audiences are views, not texts.** Level one for readers without prior knowledge, level two for the politically literate and for experts, raw records and API for research and media. All three render the same record; nothing is written separately per audience. A generated intermediate text, if ever wanted, is checked against the record by the eval set.
+8. **Editions are configuration, not forks.** One site codebase serves every country and brand. An edition names jurisdiction, language, chambers and stage names, theme tokens and feature flags. Rendering rules stay in the publish step so a correction applies to every edition at once.
+9. **Everything is open source.** Code including the site and every edition under AGPL-3.0-or-later, content and data under CC BY 4.0. Explanations for citizens are never behind a paywall; revenue, if any, comes from memberships, media partnerships, grants, professional API quotas or editions for partner organisations.
 
 ## Layers
 
@@ -82,6 +85,10 @@ Households are national archetypes. A state-specific measure affects a household
 - **Exports**: `publish` writes Parquet and JSON per record kind with a version tag; releases get a DOI once the dataset is cited.
 - **REST**: FastAPI with OpenAPI generated from Pydantic models that are generated from the JSON Schema. Read endpoints are public; write endpoints exist only for feedback.
 - **MCP**: an MCP server built on the same models. Every tool result includes label, assumptions and source references, so an assistant cannot quote a number without its caveats.
+
+## Editions
+
+An edition is a configuration file in the site, for example `editions/at.yaml`: jurisdiction codes it covers, default language, the local names of chambers and stages, theme tokens, enabled features (tracker, cards, Mein Haushalt, chat), legal pages and the correction contact. The Austrian edition is published under the marketing name Durchgerechnet. A new country is a new edition plus a new ingest adapter plus a methodology appendix, never a fork of the site.
 
 ## Frontend
 

@@ -38,7 +38,8 @@ Run `make check` before opening a pull request. Pre-commit runs the same checks 
 - Decisions with lasting effect go into `docs/decisions.md` with alternatives and reason. Methodology changes need a decision log entry.
 - Pipeline stages write only their own layer: adapters write `raw`, the transform writes `staged`, the export writes `data/bills`. Nothing writes curated records except humans through pull requests.
 - Do not add dependencies for one-off needs. Prefer the standard library and the few libraries already in use.
-- Licences: code AGPL-3.0-or-later, content and data CC BY 4.0. Quoted law texts are free works; quotes of officials rest on quotation rights.
+- Licences: everything open source. Code including the site and every edition AGPL-3.0-or-later, content and data CC BY 4.0. Quoted law texts are free works; quotes of officials rest on quotation rights.
+- Audiences are views over one record, never separately written texts. Editions (country, language, theme, features) are configuration of one site codebase, never forks. Party positions are sourced quotes beside vote and effect, never a score.
 
 ## Things that look like bugs but are not
 
