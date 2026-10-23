@@ -67,3 +67,14 @@ def test_aggregate_text():
         == "2 Milliarden € pro Jahr (2025) (übernommen)"
     )
     assert aggregate_text({"value": 1200000, "unit": "households", "label": "adopted"}) == "1.200.000 Haushalte (übernommen)"
+
+
+def test_range_starting_at_zero_keeps_sign():
+    assert (
+        amount_level_one({"value": 30, "low": 0, "high": 60, "unit": "eur_per_year", "label": "estimated"})["main"]
+        == "plus 0 bis 60 € (geschätzt)"
+    )
+    assert (
+        amount_level_one({"value": -45, "low": 0, "high": -90, "unit": "eur_per_year", "label": "estimated"})["main"]
+        == "minus 0 bis 90 € (geschätzt)"
+    )

@@ -29,3 +29,9 @@ def test_render_all_cards_with_seven_elements_in_order(tmp_path: pathlib.Path):
         assert re.search(r"\((gerechnet|übernommen|geschätzt|nicht bezifferbar)\)", text), f.name
         assert "–290" not in text
         assert "-290" not in text
+
+
+def test_status_line_has_single_period():
+    card = card_view(load(DATA / "measures" / "at-2025-klimabonus.yaml"))
+    assert card["status"].endswith("69 und Zu 69 d.B.")
+    assert ".." not in card["status"]

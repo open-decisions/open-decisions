@@ -29,7 +29,8 @@ def status_line(measure: dict[str, Any], bill: dict[str, Any]) -> str:
     text = STATES[state]
     if state != "announced":
         text += " " + german_date(measure["status"]["since"])
-    return f"{text}. {bill.get('title')}, {bill.get('citation') or bill['id']}."
+    reference = f"{bill.get('title')}, {bill.get('citation') or bill['id']}"
+    return f"{text}. {reference.rstrip('.')}."
 
 
 def vote_text(bill: dict[str, Any]) -> str | None:
