@@ -10,7 +10,7 @@ introduced: '2026-10-15'
 introduced_by:
 - Michael Fürtbauer
 status:
-  stage: introduced
+  stage: committee
   source_status: '2'
 phases:
 - phase: introduced
