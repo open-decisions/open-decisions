@@ -97,7 +97,7 @@ def phases(content: dict[str, Any]) -> list[dict[str, Any]]:
     return out
 
 
-def stage_of(content: dict[str, Any], has_vote: bool) -> str:
+def stage_of(content: dict[str, Any], has_vote: bool, phase_names: set[str] | None = None) -> str:
     status = content.get("status") or {}
     desc = strip_html(status.get("description"))
     if status.get("bgbllinks"):
@@ -106,7 +106,7 @@ def stage_of(content: dict[str, Any], has_vote: bool) -> str:
         return "passed_second_chamber"
     if "Beschlossen im Nationalrat" in desc or has_vote:
         return "passed_first_chamber"
-    if str(status.get("number")) in ("3", "4"):
+    if "committee" in (phase_names or set()) or str(status.get("number")) in ("3", "4"):
         return "committee"
     return "introduced"
 
@@ -161,7 +161,7 @@ def bill_from_item(payload: dict[str, Any], fetched_at: datetime) -> dict[str, A
         "parliament_url": f"{BASE_URL}/gegenstand/{gp}/{ityp}/{inr}",
         "introduced": parse_date(c.get("einlangen")),
         "introduced_by": [n["name"] + (f" ({n['ltext']})" if n.get("ltext") else "") for n in c.get("names", []) if n.get("name")],
-        "stage": stage_of(c, v is not None),
+        "stage": stage_of(c, v is not None, {p["phase"] for p in ph}),
         "source_status": str(status.get("number")) if status.get("number") is not None else None,
         "gazette": (bgbl or {}).get("title"),
         "gazette_url": (bgbl or {}).get("link"),

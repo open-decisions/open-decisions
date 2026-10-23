@@ -23,7 +23,7 @@ identifiers:
   - Untersuchungsausschüsse
   - Geschäftsordnung des Nationalrates
 status:
-  stage: introduced
+  stage: committee
   source_status: '2'
 phases:
 - phase: introduced

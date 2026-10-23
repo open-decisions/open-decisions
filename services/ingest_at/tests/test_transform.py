@@ -82,3 +82,11 @@ def test_list_rows_and_keys():
 def test_eli():
     assert eli_from_bgbl("Bundesgesetzblatt I Nr. 7/2025") == "https://www.ris.bka.gv.at/eli/bgbl/I/2025/7"
     assert eli_from_bgbl("Kunsttext") is None
+
+
+def test_assigned_to_committee_is_committee_stage():
+    from open_decisions_ingest_at.transform import stage_of
+
+    content = {"status": {"number": 2, "description": "Eingelangt"}}
+    assert stage_of(content, False, {"introduced", "committee"}) == "committee"
+    assert stage_of(content, False, {"introduced"}) == "introduced"
