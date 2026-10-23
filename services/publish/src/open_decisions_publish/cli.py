@@ -8,6 +8,7 @@ from jinja2 import Environment, PackageLoader, select_autoescape
 from open_decisions_core import DATA, ROOT
 from open_decisions_core.records import load
 from open_decisions_publish.cards import card_view
+from open_decisions_publish.site import write_site_data
 
 
 def render(out: pathlib.Path) -> list[pathlib.Path]:
@@ -33,9 +34,14 @@ def main() -> int:
     sub = p.add_subparsers(dest="cmd", required=True)
     r = sub.add_parser("render")
     r.add_argument("--out", default=str(ROOT / "build"))
+    r.set_defaults(fn=lambda a: render(pathlib.Path(a.out)))
+    s = sub.add_parser("site")
+    s.add_argument("--out", default=str(ROOT / "web" / "src" / "generated"))
+    s.add_argument("--country", default="AT")
+    s.set_defaults(fn=lambda a: write_site_data(pathlib.Path(a.out), a.country))
     args = p.parse_args()
-    files = render(pathlib.Path(args.out))
-    print(f"rendered {len(files)} files to {args.out}")
+    files = args.fn(args)
+    print(f"wrote {len(files)} files to {args.out}")
     return 0
 
 

@@ -1,0 +1,58 @@
+name: pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      show_drafts:
+        description: "Include cards that are not yet approved"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: web/package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: web/pnpm-lock.yaml
+      - run: uv sync --locked
+        working-directory: .
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm data
+      - run: pnpm build
+        env:
+          SITE_URL: https://open-decisions.github.io
+          BASE_PATH: /open-decisions
+          SHOW_DRAFTS: ${{ inputs.show_drafts }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

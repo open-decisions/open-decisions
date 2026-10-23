@@ -5,6 +5,7 @@ version: v0
 note: Beispielhaushalte laut Methodik-Handbuch v0, Abschnitt 5. Anpassbar nach den Interviews. Unten, Mitte und oben bewusst abgedeckt.
 households:
   - id: AT-H1
+    short_label: Alleinerziehend, 1 Kind
     label: Alleinerziehende, 1 Kind (6 J.), Teilzeit 30 h
     adults: 1
     children: [6]
@@ -15,6 +16,7 @@ households:
     commute: { one_way_km: 8, mode: public }
     disposable_income_year: null
   - id: AT-H2
+    short_label: Pensionistin, Ausgleichszulage
     label: Pensionistin, allein, Ausgleichszulage
     adults: 1
     children: []
@@ -26,6 +28,7 @@ households:
     commute: { one_way_km: 0, mode: none }
     disposable_income_year: null
   - id: AT-H3
+    short_label: Paar, 2 Kinder
     label: Paar, 2 Kinder (4 und 9 J.), beide Vollzeit
     adults: 2
     children: [4, 9]
@@ -36,6 +39,7 @@ households:
     commute: { one_way_km: 15, mode: car, note: zweite erwachsene Person mit öffentlichem Verkehr }
     disposable_income_year: null
   - id: AT-H4
+    short_label: Student mit Nebenjob
     label: Student, Nebenjob geringfügig, eigene Wohnung
     adults: 1
     children: []
@@ -48,6 +52,7 @@ households:
     commute: { one_way_km: 3, mode: public }
     disposable_income_year: null
   - id: AT-H5
+    short_label: Selbstständig, allein
     label: Selbstständiger, allein, Einzelunternehmer
     adults: 1
     children: []
@@ -58,6 +63,7 @@ households:
     commute: { one_way_km: 0, mode: none, note: "selbständig, kein Pendlerpauschale" }
     disposable_income_year: null
   - id: AT-H6
+    short_label: Paar, ein Einkommen
     label: Paar ohne Kinder, ein Einkommen, Industriearbeiter
     adults: 2
     children: []
@@ -68,6 +74,7 @@ households:
     commute: { one_way_km: 30, mode: car }
     disposable_income_year: null
   - id: AT-H7
+    short_label: Paar, 1 Kind, hohe Einkommen
     label: Paar, 1 Kind, hohe Einkommen
     adults: 2
     children: [10]

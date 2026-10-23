@@ -1,0 +1,43 @@
+{
+  "id": "at",
+  "name": "durchgerechnet",
+  "scope": "Österreich · Bund",
+  "lang": "de-AT",
+  "jurisdictions": ["AT"],
+  "repo": "https://github.com/open-decisions/open-decisions",
+  "issues": "https://github.com/open-decisions/open-decisions/issues/new",
+  "legislative_period": "XXVIII. Gesetzgebungsperiode",
+  "data_source": "Parlament Österreich",
+  "chambers": { "first": "Nationalrat", "second": "Bundesrat" },
+  "process": [
+    { "title": "Begutachtung", "text": "Ein Ministerium veröffentlicht den Entwurf. Alle können Stellung nehmen." },
+    { "title": "Einbringung", "text": "Regierung oder Abgeordnete legen den Text dem Nationalrat vor." },
+    { "title": "Ausschuss", "text": "Ein Fachausschuss berät. Hier wird oft noch geändert." },
+    { "title": "Nationalrat", "text": "Die Abgeordneten stimmen ab. Die Mehrheit entscheidet." },
+    { "title": "Bundesrat", "text": "Die Länderkammer kann Einspruch erheben. Der Nationalrat kann ihn überstimmen." },
+    { "title": "Bundesgesetzblatt", "text": "Erst mit der Kundmachung gilt das Gesetz." }
+  ],
+  "process_note": "Initiativanträge von Abgeordneten überspringen die Begutachtung.",
+  "tagline": "Was Politik für deinen Haushalt bedeutet.",
+  "intro": "Wir rechnen beschlossene Maßnahmen für sieben Beispielhaushalte durch. Jede Zahl trägt ein Label. Jede Aussage hat eine Quelle.",
+  "independence": "Unabhängig, ohne Werbung, ohne Parteigeld. Code und Daten sind offen: Code unter AGPL, Inhalte unter CC BY 4.0.",
+  "features": { "tracker": true, "cards": true, "my_household": false, "number_first_variant": true },
+  "theme": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F4F6",
+    "ink": "#15171C",
+    "muted": "#4B5160",
+    "line": "#DCDFE5",
+    "control": "#C9CDD5",
+    "link": "#1D4ED8",
+    "link-hover": "#1E3A8A",
+    "minus": "#9A3A0B",
+    "minus-soft": "#C26B3D",
+    "range": "#EBC3A8",
+    "plus": "#1D4ED8",
+    "plus-soft": "#6B8FE8",
+    "footer-bg": "#15171C",
+    "footer-ink": "#E6E8EC",
+    "footer-muted": "#C4C8D0"
+  }
+}

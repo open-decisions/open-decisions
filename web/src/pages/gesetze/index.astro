@@ -1,0 +1,50 @@
+---
+import Base from "../../layouts/Base.astro";
+import Tracker from "../../components/islands/Tracker.svelte";
+import { edition, url } from "../../lib/edition";
+import { getBills, getCards, meta } from "../../lib/data";
+
+const cards = await getCards();
+const cardTitle = new Map(cards.map((c) => [c.id, c.title]));
+const bills = (await getBills()).map((b) => ({
+  ...b,
+  cards: b.measures.filter((m) => cardTitle.has(m)).map((m) => ({ title: cardTitle.get(m)!, href: url(`massnahmen/${m}/`) })),
+}));
+const stages = meta.stage_filters.map((s) => ({ ...s, count: meta.stage_counts[s.id as keyof typeof meta.stage_counts] }));
+const types = meta.type_filters.map((t) => ({ ...t, count: meta.type_counts[t.id as keyof typeof meta.type_counts] }));
+---
+<Base title="Gesetze" current="bills" description={`Alle ${meta.bill_count} Gesetzesvorhaben der ${edition.legislative_period} mit ihrem Weg durchs Parlament.`}>
+  <div class="container page">
+    <h1>Gesetze im {edition.chambers.first}</h1>
+    <p class="muted intro">Alle {meta.bill_count} Gesetzesvorhaben der {edition.legislative_period}, mit ihrem Weg durchs Parlament. Daten: {edition.data_source}, CC BY 4.0. Stand {meta.data_as_of_text}.</p>
+
+    <section class="process" aria-labelledby="h-weg">
+      <h2 id="h-weg">So entsteht ein Bundesgesetz</h2>
+      <ol>
+        {edition.process.map((p, i) => (<li><div class="step-n muted">{i + 1}</div><div class="step-t">{p.title}</div><div class="muted step-x">{p.text}</div></li>))}
+      </ol>
+      <p class="muted note">{edition.process_note}</p>
+    </section>
+
+    <section aria-labelledby="h-liste" class="list">
+      <h2 id="h-liste">Alle Vorhaben</h2>
+      <Tracker client:load bills={bills} stages={stages} types={types} total={meta.bill_count} />
+    </section>
+  </div>
+</Base>
+
+<style>
+  .page { padding-block: 40px 72px; }
+  h1 { margin: 0; font-size: clamp(30px, 4.4vw, 48px); line-height: 1.08; font-weight: 800; letter-spacing: -0.025em; }
+  .intro { margin: 12px 0 0; font-size: 18px; max-width: 720px; }
+  .process { margin-top: 36px; background: var(--surface); border-radius: 12px; padding: 24px; }
+  h2 { margin: 0 0 16px; font-size: 22px; font-weight: 800; }
+  .process h2 { font-size: 18px; font-weight: 700; }
+  .process ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; }
+  .process li { background: var(--bg); border-radius: 10px; padding: 14px; }
+  .step-n { font-size: 13px; font-weight: 700; }
+  .step-t { font-weight: 700; margin: 2px 0 4px; }
+  .step-x { font-size: 14px; line-height: 1.45; }
+  .note { margin: 14px 0 0; font-size: 14px; }
+  .list { margin-top: 40px; }
+</style>

@@ -1,0 +1,222 @@
+---
+import type { CollectionEntry } from "astro:content";
+import CardHouseholds from "./islands/CardHouseholds.svelte";
+import { edition, url } from "../lib/edition";
+
+interface Props {
+  card: CollectionEntry<"cards">["data"];
+  households: { id: string; short: string; description: string }[];
+  variant?: "standard" | "number-first";
+}
+const { card, households, variant = "standard" } = Astro.props;
+const hh = new Map(households.map((h) => [h.id, h]));
+const rows = card.households.map((r) => ({
+  id: r.id,
+  short: hh.get(r.id)?.short ?? r.label,
+  description: hh.get(r.id)?.description ?? r.label,
+  shortTerm: r.short,
+  longTerm: r.long,
+  note: r.note,
+}));
+const today = new Date().toISOString().slice(0, 10);
+const followUpDue = card.follow_up.iso <= today;
+const issue = `${edition.issues}?title=${encodeURIComponent(card.id)}`;
+const sourceCount = card.detail.sources.length;
+const d = card.detail;
+const numberFirst = variant === "number-first";
+---
+<div class="container page">
+  <p class="crumbs muted"><a href={url("")}>Maßnahmen</a> / {card.title}</p>
+  <div class="pills">
+    {!card.approved && <span class="pill">Entwurf, noch nicht freigegeben</span>}
+    <span class="pill">{card.topic}</span>
+  </div>
+  <h1>{card.title}</h1>
+  <p class="status muted">
+    {card.status_parts.state} · {card.status_parts.bill_title}, {card.status_parts.article} · <span class="mono">{card.status_parts.citation}</span>
+  </p>
+
+  <div class="layout">
+    <div class="main">
+      {numberFirst && (
+        <section aria-labelledby="h-dich">
+          <h2 id="h-dich" class="eyebrow">Was heißt das für dich</h2>
+          <CardHouseholds client:load rows={rows} years={card.years} variant="select" />
+        </section>
+      )}
+
+      <section aria-labelledby="h-gesagt">
+        <h2 id="h-gesagt" class="eyebrow">Was wurde gesagt</h2>
+        <figure class="quote">
+          <blockquote>„{card.said.quote}“</blockquote>
+          <figcaption class="muted">
+            {card.said.speaker}, {card.said.role}, {card.said.date}.
+            {card.said.sources.map((s, i) => <>{i > 0 && ", "}<a href={s.url}>Quelle</a></>)}
+          </figcaption>
+        </figure>
+      </section>
+
+      <section aria-labelledby="h-gesetz">
+        <h2 id="h-gesetz" class="eyebrow">Was steht im Gesetz</h2>
+        <p class="lead">{card.law}</p>
+        <div class="table-wrap" tabindex="0" role="region" aria-label="Was sich im Gesetz ändert">
+          <table>
+            <thead><tr><th scope="col">Was</th><th scope="col">Bisher</th><th scope="col">Neu</th><th scope="col">Gilt ab</th></tr></thead>
+            <tbody>
+              {d.parameters.map((p) => (
+                <tr><td>{p.name}</td><td>{p.old}</td><td><strong>{p.new}</strong></td><td>{p.applies_from}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      {!numberFirst && (
+        <section aria-labelledby="h-dich">
+          <h2 id="h-dich" class="eyebrow">Was heißt das für dich</h2>
+          {edition.features.my_household ? null : (
+            <div class="tabs" role="group" aria-label="Ansicht">
+              <span class="tab on">Beispielhaushalte</span>
+              <span class="tab off">Mein Haushalt · in Arbeit</span>
+            </div>
+          )}
+          <CardHouseholds client:load rows={rows} years={card.years} variant="chips" />
+        </section>
+      )}
+
+      <section aria-labelledby="h-unklar">
+        <h2 id="h-unklar" class="eyebrow">Was ist unklar</h2>
+        <ul class="list">{card.unclear.map((u) => <li>{u}</li>)}</ul>
+      </section>
+
+      <section aria-labelledby="h-nach" class="nach">
+        <h2 id="h-nach" class="eyebrow">Nachschauen</h2>
+        <div class="buttons">
+          <a class="button primary" href="#detail">Wie gerechnet?</a>
+          <a class="button" href="#quellen">{sourceCount} Quellen</a>
+          <a class="button quiet" href={issue}>Fehler melden</a>
+        </div>
+        <p class="muted">
+          {followUpDue
+            ? `Nachschau fällig seit ${card.follow_up.date}: ${card.follow_up.what} Noch nicht geprüft.`
+            : `Nachschau am ${card.follow_up.date}: ${card.follow_up.what}`}
+        </p>
+      </section>
+
+      <details id="detail" open>
+        <summary>Detailseite: Parameter, Annahmen, Rechenweg</summary>
+        <div class="detail">
+          <h3>Parameter und Quellen</h3>
+          <div class="table-wrap" tabindex="0" role="region" aria-label="Parameter und Quellen">
+            <table>
+              <thead><tr><th scope="col">Was</th><th scope="col">Bisher</th><th scope="col">Neu</th><th scope="col">Quelle</th></tr></thead>
+              <tbody>
+                {d.parameters.map((p) => (
+                  <tr><td>{p.name}</td><td>{p.old}</td><td>{p.new}</td><td>{p.sources.map((s, i) => <>{i > 0 && "; "}<a href={s.url}>{s.ref}</a></>)}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p>Betroffen: {d.affected.who}{d.affected.condition && ` (${d.affected.condition})`}. Zahl: {d.affected.count}.</p>
+
+          <h3>Annahmen</h3>
+          <ol>{d.assumptions.map((a) => <li><strong>{a.id}</strong> {a.what} <em>Warum:</em> {a.why} <em>Bei anderer Lesart:</em> {a.alternative}</li>)}</ol>
+
+          <h3>Rechenweg, ungerundet</h3>
+          <div class="table-wrap" tabindex="0" role="region" aria-label="Rechenweg pro Haushalt">
+            <table>
+              <thead><tr><th scope="col">Haushalt</th><th scope="col">{card.years.short}</th><th scope="col">{card.years.long}</th></tr></thead>
+              <tbody>
+                {card.households.map((r) => (
+                  <tr><td>{hh.get(r.id)?.short ?? r.label}</td><td>{r.detail_short}</td><td>{r.detail_long}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="muted">Statisch gerechnet: Menschen ändern ihr Verhalten in der Rechnung nicht. Langfristig heißt: fünftes Jahr, alles andere bleibt gleich.</p>
+
+          <h3>Gesamtwirkung und Verteilung</h3>
+          <ul>{d.aggregate.map((a) => <li>{a.description}: {a.text}</li>)}</ul>
+          {d.distribution && <p>{d.distribution.description} ({d.distribution_label})</p>}
+
+          {d.contradictions.length > 0 && (<><h3>Widersprüche zwischen Quellen</h3><ul>{d.contradictions.map((c) => <li>{c}</li>)}</ul></>)}
+          {d.open_questions.length > 0 && (<><h3>Offene Fragen</h3><ul>{d.open_questions.map((q) => <li>{q}</li>)}</ul></>)}
+
+          <h3>Änderungsverlauf</h3>
+          <ul>{d.changelog.map((c) => <li>{c.date}: {c.change} ({c.reason})</li>)}</ul>
+          <p class="muted">Freigabe: {card.approved ? "freigegeben" : "noch nicht freigegeben, Entwurf"}.</p>
+        </div>
+      </details>
+    </div>
+
+    <aside class="side">
+      {card.vote && (
+        <section class="box" aria-labelledby="h-vote">
+          <h2 id="h-vote" class="side-h">Wer hat dafür gestimmt</h2>
+          <p class="muted small">{edition.chambers.first}, {card.vote.date}, Schlussabstimmung</p>
+          <div class="votebar" role="img" aria-label={`${card.vote.yes.seats} Mandate dafür, ${card.vote.no.seats} dagegen`}>
+            <span class="yes" style={`width:${card.vote.share_yes}%`}></span><span class="no"></span>
+          </div>
+          <div class="vote-cols">
+            <div><div class="strong">Dafür, {card.vote.yes.seats} Mandate</div><div class="muted">{card.vote.yes.parties.join(" · ")}</div></div>
+            <div><div class="strong">Dagegen, {card.vote.no.seats} Mandate</div><div class="muted">{card.vote.no.parties.join(" · ")}</div></div>
+          </div>
+        </section>
+      )}
+      <section class="box" aria-labelledby="h-weg">
+        <h2 id="h-weg" class="side-h">Weg durchs Parlament</h2>
+        <ol class="path">
+          {card.path.map((p) => (<li><span class="dot" aria-hidden="true"></span><span><span class="strong block">{p.label}</span><span class="muted small">{p.detail}</span></span></li>))}
+        </ol>
+        <a class="small strong" href={url("gesetze/")}>Alle Gesetze im Tracker</a>
+      </section>
+      <section id="quellen" class="box" aria-labelledby="h-quellen">
+        <h2 id="h-quellen" class="side-h">Quellen</h2>
+        <ul class="sources">
+          {d.sources.map((s) => (<li><span class="strong">{s.role_label}</span><br /><a href={s.url}>{s.title}</a><br /><span class="muted">abgerufen am {s.retrieved}{s.archive && ", archiviert"}</span></li>))}
+        </ul>
+      </section>
+    </aside>
+  </div>
+</div>
+
+<style>
+  .page { padding-block: 32px 72px; }
+  .crumbs { margin: 0 0 16px; font-size: 14px; }
+  .pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+  h1 { margin: 0; font-size: clamp(30px, 4.4vw, 48px); line-height: 1.08; font-weight: 800; letter-spacing: -0.025em; max-width: 860px; }
+  .status { margin: 14px 0 0; font-size: 17px; }
+  .status .mono { font-size: 15px; }
+  .layout { display: flex; flex-wrap: wrap; gap: 48px; margin-top: 40px; align-items: flex-start; }
+  .main { flex: 999 1 600px; min-width: 0; display: flex; flex-direction: column; gap: 44px; }
+  .side { flex: 1 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 28px; }
+  .quote { margin: 0; padding: 22px 24px; background: var(--surface); border-radius: 10px; }
+  blockquote { margin: 0; font-size: 19px; line-height: 1.55; }
+  figcaption { margin-top: 12px; font-size: 15px; }
+  .lead { margin: 0 0 18px; font-size: 19px; line-height: 1.55; }
+  .tabs { display: inline-flex; gap: 4px; padding: 4px; background: var(--surface); border-radius: 999px; margin-bottom: 18px; }
+  .tab { min-height: 44px; display: inline-flex; align-items: center; padding: 8px 18px; border-radius: 999px; font-size: 15px; }
+  .tab.on { background: var(--bg); font-weight: 600; }
+  .tab.off { color: var(--muted); }
+  .list { margin: 0; padding-left: 22px; font-size: 17px; line-height: 1.55; display: flex; flex-direction: column; gap: 8px; }
+  .nach { border-top: 1px solid var(--line); padding-top: 20px; }
+  .buttons { display: flex; flex-wrap: wrap; gap: 12px; }
+  .nach p { margin: 14px 0 0; font-size: 15px; }
+  details { border-top: 2px solid var(--ink); padding-top: 16px; }
+  summary { cursor: pointer; font-size: 18px; font-weight: 700; min-height: 44px; }
+  .detail { font-size: 15px; line-height: 1.55; }
+  .detail h3 { margin: 22px 0 8px; font-size: 15px; font-weight: 700; }
+  .detail ol, .detail ul { padding-left: 22px; display: flex; flex-direction: column; gap: 6px; }
+  .side-h { margin: 0 0 4px; font-size: 16px; font-weight: 700; }
+  .small { font-size: 14px; }
+  .strong { font-weight: 700; }
+  .block { display: block; }
+  .votebar { display: flex; height: 18px; border-radius: 4px; overflow: hidden; margin: 14px 0; border: 2px solid var(--ink); }
+  .votebar .yes { background: var(--ink); }
+  .votebar .no { flex: 1; }
+  .vote-cols { display: flex; flex-wrap: wrap; gap: 12px 24px; font-size: 15px; }
+  .path { list-style: none; margin: 12px 0 14px; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+  .path li { display: flex; gap: 12px; }
+  .dot { flex: 0 0 12px; height: 12px; margin-top: 5px; border-radius: 50%; background: var(--ink); }
+  .sources { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 12px; font-size: 14px; line-height: 1.45; }
+</style>

@@ -1,4 +1,4 @@
-.PHONY: setup db lint format typecheck test validate check ingest documents render
+.PHONY: setup db lint format typecheck test validate check ingest documents render site site-dev site-test
 
 setup:
 	uv sync
@@ -35,3 +35,15 @@ documents:
 
 render:
 	uv run publish render
+
+site:
+	uv run publish site
+	cd web && pnpm install --frozen-lockfile && pnpm check && pnpm build
+
+site-dev:
+	uv run publish site
+	cd web && SHOW_DRAFTS=true pnpm dev
+
+site-test:
+	uv run publish site
+	cd web && SHOW_DRAFTS=true pnpm build && pnpm test

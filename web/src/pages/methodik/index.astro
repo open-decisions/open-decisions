@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import { edition } from "../../lib/edition";
+const handbook = `${edition.repo}/blob/main/docs/Methodik-Handbuch%20v0.md`;
+const style = `${edition.repo}/blob/main/docs/Stilguide%20und%20Kartenformat.md`;
+---
+<Base title="So rechnen wir" current="method">
+  <div class="container prose">
+    <h1>So rechnen wir</h1>
+    <p>Wir beschreiben, was eine beschlossene Maßnahme für Haushalte in Euro bedeutet. Wir bewerten nicht, ob sie gut oder schlecht ist.</p>
+    <h2>Die vier Labels</h2>
+    <ul>
+      <li><strong>gerechnet:</strong> aus dem Gesetz berechnet, die Rechnung ist wiederholbar.</li>
+      <li><strong>übernommen:</strong> die Zahl stammt von der Regierung oder vom Budgetdienst des Parlaments, wir haben sie nicht nachgerechnet.</li>
+      <li><strong>geschätzt:</strong> unsere Rechnung mit mindestens einer Annahme, deshalb mit Spanne.</li>
+      <li><strong>nicht bezifferbar:</strong> es gibt keine belastbare Zahl. Wir sagen das, statt zu raten.</li>
+    </ul>
+    <h2>Grundregeln</h2>
+    <ul>
+      <li>Gerechnet wird, was im Gesetz steht, nicht was die Regierung damit erreichen will.</li>
+      <li>Jede Lücke ist eine dokumentierte Annahme. Wir wählen die vorsichtigste Lesart.</li>
+      <li>Statisch gerechnet: Menschen ändern ihr Verhalten in der Rechnung nicht.</li>
+      <li>Langfristig heißt: fünftes Jahr, alles andere bleibt gleich.</li>
+      <li>Keine Karte geht ohne menschliche Prüfung online.</li>
+    </ul>
+    <p>Alle Regeln stehen im <a href={handbook}>Methodik-Handbuch</a> und im <a href={style}>Stilguide</a>. Beide sind öffentlich und versioniert.</p>
+  </div>
+</Base>
+<style>
+  .prose { max-width: 760px; padding-block: 40px 72px; }
+  h1 { font-size: clamp(30px, 4.4vw, 44px); line-height: 1.1; margin: 0 0 16px; }
+  h2 { font-size: 20px; margin: 32px 0 8px; }
+  li { margin: 6px 0; }
+</style>

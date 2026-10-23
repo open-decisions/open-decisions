@@ -1239,6 +1239,10 @@
                     "type": "string"
                   }
                 }
+              },
+              "short_label": {
+                "type": "string",
+                "description": "Short name for buttons and lists, max. about 30 characters"
               }
             }
           }

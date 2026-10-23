@@ -1,0 +1,17 @@
+---
+import Base from "../../../layouts/Base.astro";
+import Card from "../../../components/Card.astro";
+import { edition } from "../../../lib/edition";
+import { getCards, getHouseholds } from "../../../lib/data";
+
+export async function getStaticPaths() {
+  if (!edition.features.number_first_variant) return [];
+  const cards = await getCards();
+  return cards.map((card) => ({ params: { id: card.id }, props: { card } }));
+}
+const { card } = Astro.props;
+const households = await getHouseholds();
+---
+<Base title={card.title} description={card.law} current="measures" noindex>
+  <Card card={card} households={households} variant="number-first" />
+</Base>

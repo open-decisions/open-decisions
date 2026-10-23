@@ -1,0 +1,103 @@
+---
+import "@fontsource/public-sans/latin-400.css";
+import "@fontsource/public-sans/latin-500.css";
+import "@fontsource/public-sans/latin-600.css";
+import "@fontsource/public-sans/latin-700.css";
+import "@fontsource/public-sans/latin-800.css";
+import "@fontsource/ibm-plex-mono/latin-400.css";
+import "../styles/global.css";
+import { edition, url } from "../lib/edition";
+
+interface Props {
+  title: string;
+  description?: string;
+  current?: "measures" | "bills" | "method" | "corrections" | "about";
+  noindex?: boolean;
+  draftBanner?: boolean;
+}
+const { title, description = edition.intro, current, noindex = false, draftBanner = false } = Astro.props;
+const themeVars = Object.entries(edition.theme)
+  .map(([k, v]) => `--${k}:${v}`)
+  .join(";");
+const nav = [
+  { key: "measures", label: "Maßnahmen", href: url("") },
+  { key: "bills", label: "Gesetze", href: url("gesetze/") },
+  { key: "method", label: "So rechnen wir", href: url("methodik/") },
+  { key: "corrections", label: "Korrekturen", href: url("korrekturen/") },
+  { key: "about", label: "Über das Projekt", href: url("ueber/") },
+];
+---
+<!doctype html>
+<html lang={edition.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} · {edition.name}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <style set:html={`:root{${themeVars}}`}></style>
+  </head>
+  <body>
+    <a class="visually-hidden" href="#inhalt">Zum Inhalt</a>
+    {draftBanner && (
+      <div class="draft">Entwurf: Die Karten sind noch nicht freigegeben. Zahlen und Texte können sich ändern.</div>
+    )}
+    <header class="site-header">
+      <div class="container bar">
+        <a class="brand" href={url("")}>
+          <span class="brand-name">{edition.name}</span>
+          <span class="brand-scope">{edition.scope}</span>
+        </a>
+        <nav aria-label="Hauptnavigation">
+          {nav.map((n) => (
+            <a href={n.href} aria-current={current === n.key ? "page" : undefined}>{n.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main id="inhalt">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container foot">
+        <div class="foot-about">
+          <div class="brand-name">{edition.name}</div>
+          <p>{edition.independence}</p>
+        </div>
+        <nav aria-label="Fußzeile" class="foot-nav">
+          <a href={url("methodik/")}>Methodik</a>
+          <a href={url("ueber/")}>Finanzierung und Beirat</a>
+          <a href={edition.issues}>Fehler melden</a>
+          <a href={edition.repo}>Quellcode und Daten</a>
+          <a href={url("impressum/")}>Impressum und Datenschutz</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .draft { background: var(--surface); border-bottom: 1px solid var(--line); padding: 8px 24px; font-size: 14px; color: var(--muted); text-align: center; }
+  .site-header { border-bottom: 1px solid var(--line); }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; padding-block: 18px; }
+  .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); }
+  .brand-name { font-size: 22px; font-weight: 800; letter-spacing: -0.02em; }
+  .brand-scope { font-size: 13px; color: var(--muted); font-weight: 500; }
+  .bar nav { display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 16px; font-weight: 500; }
+  .bar nav a { color: var(--ink); text-decoration: none; padding: 10px 0; }
+  @media (max-width: 640px) {
+    .bar { padding-block: 12px 0; gap: 4px; }
+    .brand-name { font-size: 20px; }
+    .bar nav { flex-wrap: nowrap; overflow-x: auto; width: 100%; gap: 18px; font-size: 15px; scrollbar-width: none; }
+    .bar nav a { white-space: nowrap; padding: 12px 0; }
+  }
+  .bar nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 2px; }
+  .site-footer { background: var(--footer-bg); color: var(--footer-ink); margin-top: 0; }
+  .foot { display: flex; flex-wrap: wrap; gap: 24px 48px; padding-block: 40px; font-size: 15px; line-height: 1.6; }
+  .foot-about { flex: 2 1 320px; }
+  .foot-about .brand-name { font-size: 18px; color: #fff; }
+  .foot-about p { margin: 8px 0 0; color: var(--footer-muted); }
+  .foot-nav { flex: 1 1 220px; display: flex; flex-direction: column; gap: 6px; }
+  .foot-nav a { color: #fff; }
+  .visually-hidden:focus { position: static; width: auto; height: auto; margin: 0; clip: auto; padding: 8px 16px; display: block; background: var(--ink); color: var(--bg); }
+</style>
