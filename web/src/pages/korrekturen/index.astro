@@ -1,0 +1,19 @@
+---
+import Base from "../../layouts/Base.astro";
+import { edition } from "../../lib/edition";
+---
+<Base title="Korrekturen" current="corrections">
+  <div class="container prose">
+    <h1>Korrekturen</h1>
+    <p>Fehler korrigieren wir öffentlich, nie still. Jede Zahl hat einen Melde-Link. Meldungen prüfen wir innerhalb von sieben Tagen und begründen das Ergebnis.</p>
+    <p>Wesentliche Fehler listen wir hier: falsches Vorzeichen, falsche Betroffenengruppe oder eine Wirkung, die um mehr als 20 Prozent danebenliegt.</p>
+    <h2>Bisher</h2>
+    <p>Noch keine wesentlichen Korrekturen.</p>
+    <p><a class="button" href={edition.issues}>Fehler melden</a></p>
+  </div>
+</Base>
+<style>
+  .prose { max-width: 760px; padding-block: 40px 72px; }
+  h1 { font-size: clamp(30px, 4.4vw, 44px); line-height: 1.1; margin: 0 0 16px; }
+  h2 { font-size: 20px; margin: 32px 0 8px; }
+</style>

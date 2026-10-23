@@ -1,0 +1,25 @@
+---
+import Base from "../../layouts/Base.astro";
+import { edition } from "../../lib/edition";
+---
+<Base title="Über das Projekt" current="about">
+  <div class="container prose">
+    <h1>Über das Projekt</h1>
+    <p>{edition.name} erklärt politische Entscheidungen und was sie für Haushalte bedeuten. Für Menschen ohne Vorwissen, prüfbar für Fachleute.</p>
+    <h2>Unabhängigkeit</h2>
+    <p>Keine Werbung, kein Geld von Parteien oder parteinahen Organisationen. Alle Geldgeber werden hier mit Betrag und Jahr veröffentlicht.</p>
+    <h2>Finanzierung</h2>
+    <p>[Noch keine Geldgeber. Wird bei jeder Förderung oder Spende ergänzt.]</p>
+    <h2>Methodenbeirat</h2>
+    <p>[Mitglieder werden genannt, sobald sie zugesagt haben.]</p>
+    <h2>Unsere Annahme</h2>
+    <p>Das Projekt beruht auf der Annahme, dass verständliche und prüfbare Politik Wahlentscheidungen besser informiert. Diese Annahme ist unsere Hypothese. Sie ist nicht Teil der Karten: Die Karten sagen nicht, welche Politik richtig ist.</p>
+    <h2>Offen</h2>
+    <p>Code steht unter AGPL, Inhalte und Daten unter CC BY 4.0. <a href={edition.repo}>Quellcode und Daten</a></p>
+  </div>
+</Base>
+<style>
+  .prose { max-width: 760px; padding-block: 40px 72px; }
+  h1 { font-size: clamp(30px, 4.4vw, 44px); line-height: 1.1; margin: 0 0 16px; }
+  h2 { font-size: 20px; margin: 32px 0 8px; }
+</style>

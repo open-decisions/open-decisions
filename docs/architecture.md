@@ -88,11 +88,11 @@ Households are national archetypes. A state-specific measure affects a household
 
 ## Editions
 
-An edition is a configuration file in the site, for example `editions/at.yaml`: jurisdiction codes it covers, default language, the local names of chambers and stages, theme tokens, enabled features (tracker, cards, Mein Haushalt, chat), legal pages and the correction contact. The Austrian edition is published under the marketing name Durchgerechnet. A new country is a new edition plus a new ingest adapter plus a methodology appendix, never a fork of the site.
+An edition is a configuration file in the site, `web/editions/at.json`: jurisdiction codes it covers, default language, the local names of chambers and stages, theme tokens, enabled features (tracker, cards, Mein Haushalt, chat), legal pages and the correction contact. The Austrian edition is published under the marketing name Durchgerechnet. A new country is a new edition plus a new ingest adapter plus a methodology appendix, never a fork of the site.
 
 ## Frontend
 
-Astro, static output, deployed to Cloudflare Pages or GitHub Pages. Content collections validate the records at build time with a schema derived from `schema/massnahme.schema.json`; a broken record fails the build. Routes are per jurisdiction and language. Islands in Svelte or Preact for the household switcher, "Mein Haushalt" and charts. Explorer views that outgrow pregenerated JSON read the API.
+Astro, static output, Svelte islands, pnpm, deployed to GitHub Pages by a manually triggered workflow that leaves out unapproved cards unless asked. Fonts are self-hosted through Fontsource, so the site loads nothing from third parties. Content collections validate the records at build time with a schema derived from `schema/massnahme.schema.json`; a broken record fails the build. Routes are per jurisdiction and language. Islands in Svelte or Preact for the household switcher, "Mein Haushalt" and charts. Explorer views that outgrow pregenerated JSON read the API.
 
 ## Repository layout (target)
 

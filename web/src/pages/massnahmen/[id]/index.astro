@@ -1,0 +1,15 @@
+---
+import Base from "../../../layouts/Base.astro";
+import Card from "../../../components/Card.astro";
+import { getCards, getHouseholds } from "../../../lib/data";
+
+export async function getStaticPaths() {
+  const cards = await getCards();
+  return cards.map((card) => ({ params: { id: card.id }, props: { card } }));
+}
+const { card } = Astro.props;
+const households = await getHouseholds();
+---
+<Base title={card.title} description={card.law} current="measures">
+  <Card card={card} households={households} />
+</Base>

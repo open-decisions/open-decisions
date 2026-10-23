@@ -51,23 +51,44 @@ def per_month(value: float) -> str:
     return f"etwa {german_number(abs(round_half_up(value / 12)))} € im Monat"
 
 
-def amount_level_one(amount: dict[str, Any]) -> dict[str, str]:
+def amount_level_one(amount: dict[str, Any]) -> dict[str, Any]:
     label = amount["label"]
     word = label_word(label)
     if label == "not_quantifiable" or amount.get("value") is None:
-        return {"main": f"{NO_FIGURE} ({word})", "sub": amount.get("reason", "")}
+        return {
+            "main": f"{NO_FIGURE} ({word})",
+            "sub": amount.get("reason", ""),
+            "value": "keine belastbare Angabe",
+            "label": word,
+            "tone": "nq",
+            "lo": None,
+            "hi": None,
+        }
     value = float(amount["value"])
     low, high = amount.get("low"), amount.get("high")
     if value == 0 and (low in (None, 0)) and (high in (None, 0)):
-        return {"main": f"{NO_CHANGE} ({word})", "sub": ""}
+        return {"main": f"{NO_CHANGE} ({word})", "sub": "", "value": NO_CHANGE, "label": word, "tone": "zero", "lo": 0, "hi": 0}
     if label == "estimated" and low is not None and high is not None and low != high:
         lo, hi = sorted((round_level_one(float(low)), round_level_one(float(high))), key=abs)
         sign = "minus " if hi < 0 else "plus " if hi > 0 else ""
-        main = f"{sign}{german_number(abs(lo))} bis {german_number(abs(hi))} € ({word})"
+        text = f"{sign}{german_number(abs(lo))} bis {german_number(abs(hi))} €"
         sub = f"etwa {german_number(abs(round_half_up(lo / 12)))} bis {german_number(abs(round_half_up(hi / 12)))} € im Monat"
-        return {"main": main, "sub": sub}
+        return {"main": f"{text} ({word})", "sub": sub, "value": text, "label": word, "tone": _tone(hi), "lo": lo, "hi": hi}
     rounded = round_level_one(value)
-    return {"main": f"{signed(rounded)} € ({word})", "sub": per_month(rounded)}
+    text = f"{signed(rounded)} €"
+    return {
+        "main": f"{text} ({word})",
+        "sub": per_month(rounded),
+        "value": text,
+        "label": word,
+        "tone": _tone(rounded),
+        "lo": rounded,
+        "hi": rounded,
+    }
+
+
+def _tone(value: float) -> str:
+    return "minus" if value < 0 else "plus" if value > 0 else "zero"
 
 
 def amount_level_two(amount: dict[str, Any]) -> str:

@@ -19,3 +19,32 @@ jobs:
       - run: uv run pyright
       - run: uv run pytest
       - run: uv run open-decisions-validate
+
+  web:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: web/package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: web/pnpm-lock.yaml
+      - run: uv sync --locked
+        working-directory: .
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm data
+      - run: pnpm check
+      - run: pnpm build
+        env:
+          SHOW_DRAFTS: "true"
+      - run: pnpm exec playwright install --with-deps chromium
+      - run: pnpm test
