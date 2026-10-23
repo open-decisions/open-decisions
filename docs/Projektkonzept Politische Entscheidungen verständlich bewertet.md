@@ -12,6 +12,29 @@ Politische Entscheidungen werden positiv verkauft, aber was sie konkret bringen,
 - **Kein Profit:** Laufende Kosten plus ein Teilzeit-Einkommen sind das Ziel
 - **Lebendig:** Nutzer:innen geben Feedback, melden Betroffenheit, stellen Fragen
 
+## Vision und Grenzen
+
+Eine Plattform, der man vertrauen kann, weil sie prüfbar ist. Sie erklärt politische Entscheidungen und ihre wirtschaftlichen Folgen für verschiedene Einkommensgruppen, später für den eigenen Haushalt. Sie zeigt, was Parteien sagen, wofür sie stimmen und was dabei herauskommt. Sie ist für Menschen ohne Vorwissen gemacht, hält aber jeder Fachprüfung stand.
+
+**Was die Plattform ist**
+
+- Ein offener Datensatz: Entscheidungen, Wirkung pro Haushaltstyp mit Label, offizielle Botschaft neben dem Gesetzestext, Abstimmung pro Fraktion, später Parteipositionen als belegte Zitate.
+- Mehrere Lesetiefen aus einem Datensatz: Ebene 1 für Menschen ohne Vorwissen (Hauptzielgruppe), Ebene 2 für politisch Interessierte und Fachleute, Rohdaten und API für Forschung und Medien. Lesetiefen sind Darstellungen desselben Records, keine getrennt geschriebenen Texte.
+- Eine Codebasis für viele Länder: Jurisdiktion, Sprache, Kammern, Gestaltung und Funktionen sind Konfiguration einer Edition, keine Forks.
+- Vollständig Open Source: Code AGPL-3.0-or-later, Inhalte und Daten CC BY 4.0, auch die Frontends und die Länder-Editionen.
+
+**Was die Plattform nicht ist**
+
+- Keine Bewertung und kein Score: weder für Maßnahmen noch für Parteien. Zitat, Abstimmung und Wirkung stehen nebeneinander; die Schlussfolgerung zieht die Leserin.
+- Keine Lückenfüllung durch Prosa: Was nicht belastbar ist, heißt „nicht bezifferbar". Wachstum heißt mehr Label „Gerechnet" durch Modellrechnung, nicht weniger Lücken durch Schätzung.
+- Keine Bezahlschranke vor der Erklärung: Alles, was Bürger:innen erklärt, bleibt frei. Einnahmen kommen aus Mitgliedschaften, Medienkooperationen, Förderungen und gegebenenfalls professionellen API-Kontingenten oder Editionen für Partnerorganisationen; nie aus Werbung oder parteinahem Geld.
+- Keine Speicherung persönlicher Daten für Personalisierung: „Mein Haushalt" rechnet lokal.
+- Keine Wahlempfehlung.
+
+**Die eigene Überzeugung dahinter**
+
+Das Projekt beruht auf der Annahme, dass verständliche und prüfbare Politik das Wahlverhalten zum Besseren verändert. Diese Annahme ist die Hypothese des Projekts und steht offen auf der Governance-Seite. Sie ist nicht Teil des Produkts: Das Produkt enthält keine Aussage darüber, welche Politik richtig ist. Ob die Hypothese stimmt, prüfen die Follow-ups nach einem Jahr und die Nutzungsdaten.
+
 ## Was es bereits gibt
 
 Teile der Idee existieren, die Kombination aus laufender Verteilungsrechnung und verständlicher Erklärung nicht.
@@ -219,7 +242,7 @@ Eine Seite, die später den Kern jedes Förderantrags bildet. Arbeitstitel offen
 | **Problem** | Politische Entscheidungen werden positiv kommuniziert; was sie für den eigenen Haushalt bedeuten, steht in WFA, Budgetdienst-Analysen und Gesetzestexten, die nur Fachleute lesen. 65 % finden, das System funktioniere nicht gut; im unteren Einkommensdrittel sehen sich 17 % im Parlament vertreten. |
 | **Zielgruppe** | Primär: Menschen im unteren und mittleren Einkommensdrittel, die wissen wollen, was eine Entscheidung für sie heißt. Sekundär: Journalist:innen, Lehrer:innen (politische Bildung), Multiplikator:innen in Sozialorganisationen. |
 | **Lösung** | Pro Maßnahme eine Karte in zwei Ebenen: oben in drei Sätzen und Euro pro Jahr für Beispielhaushalte oder den eigenen Haushalt; darunter Detailseiten mit Rechenweg, Annahmen, Quellen (WFA, Budgetdienst, EUROMOD) und Konfidenz-Label. Kurz- und langfristige Wirkung getrennt. |
-| **Abgrenzung** | Budgetdienst: rechnet, erklärt aber nicht für Laien. wahlkabine.at / wahl.chat: zeigen Positionen, nicht Wirkung. Momentum Institut / Agenda Austria: interpretieren mit erkennbarer Schlagseite. Wir: nur Wirkung in Euro und Betroffenen, keine Wertung, alle Annahmen offen, Open Source. |
+| **Abgrenzung** | Budgetdienst: rechnet, erklärt aber nicht für Laien. wahlkabine.at / wahl.chat: zeigen Positionen, nicht Wirkung. Momentum Institut / Agenda Austria: interpretieren mit erkennbarer Schlagseite. Wir: nur Wirkung in Euro und Betroffenen, keine Wertung, alle Annahmen offen, vollständig Open Source einschließlich Frontend. |
 | **Wirkungslogik** | Aktivität: Maßnahmen strukturiert erfassen, mit EUROMOD rechnen, verständlich erklären → Output: öffentliche Karten, Follow-ups nach einem Jahr, Feedback-Daten → Wirkung: Menschen können Kommunikation und Realität vergleichen; Medien und Abgeordnete nutzen die Zahlen; mittelfristig Druck in Richtung verpflichtender Verteilungs-Check. |
 | **Neutralitätsgarantien** | Methodenbeirat mit Ökonom:in; Annahmen versioniert im Repo; Label „nicht bezifferbar" statt Schätzung; Finanzierung offengelegt; keine parteinahen Geldgeber; Fehler öffentlich korrigiert. |
 | **Ressourcen** | Du: Entwicklung, LLM/RAG, Produkt. Gesucht: Ökonom:in (Beirat), später Redaktionshilfe. Kosten: Hosting 20–60 €/Monat, LLM 50–300 €/Monat, EUROMOD kostenlos; Hauptkosten Arbeitszeit (\~1.300 h für den MVP). |
