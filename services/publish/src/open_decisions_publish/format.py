@@ -62,7 +62,7 @@ def amount_level_one(amount: dict[str, Any]) -> dict[str, str]:
         return {"main": f"{NO_CHANGE} ({word})", "sub": ""}
     if label == "estimated" and low is not None and high is not None and low != high:
         lo, hi = sorted((round_level_one(float(low)), round_level_one(float(high))), key=abs)
-        sign = "minus " if hi < 0 else "plus " if lo > 0 else ""
+        sign = "minus " if hi < 0 else "plus " if hi > 0 else ""
         main = f"{sign}{german_number(abs(lo))} bis {german_number(abs(hi))} € ({word})"
         sub = f"etwa {german_number(abs(round_half_up(lo / 12)))} bis {german_number(abs(round_half_up(hi / 12)))} € im Monat"
         return {"main": main, "sub": sub}
