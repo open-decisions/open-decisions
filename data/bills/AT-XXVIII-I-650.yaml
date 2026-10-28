@@ -48,6 +48,11 @@ phases:
   date: '2026-10-14'
   text: '102. Sitzung des Nationalrates : Zuweisung an den Bildungsausschuss'
   url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-11-03'
+  text: 'Bildungsausschuss: auf Tagesordnung in der 12. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-BI/1/00942/TO_16839691.html
 vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/650/fname_1782323.pdf
@@ -56,6 +61,15 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/650/fname_1782325.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/650/imfname_1782327.pdf
+summary:
+- Flexibilisierung der Vertretungsregelungen für Prüfungskommissionen und bei der Festlegung der Prüfungstermine
+- Verkürzung der Archivierungspflichten für Beilagen zu Prüfungsprotokollen
+- Nichtbeurteilung der abschließenden Arbeit mangels Absolvierung der Präsentation und Diskussion
+- Supervision und Coaching als Fortbildung für Pädagoginnen und Pädagogen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1023#XXVIII_I_00650
+  date: '2026-10-27'
+  title: Neu im Bildungsausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -63,9 +77,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 650 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/650?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

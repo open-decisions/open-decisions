@@ -193,6 +193,20 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/446/fname_1747054.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/446/imfname_1747056.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0255#XXVIII_I_00446
+  date: '2026-03-27'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0321#XXVIII_I_00446
+  date: '2026-04-15'
+  title: Sozialausschuss stimmt einhellig für Verlängerung des "Wohnschirms" bis Ende 2029
+  heading: 28 Mio. € jährlich für Wohnschirm
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0343#XXVIII_I_00446
+  date: '2026-04-23'
+  title: 'Nationalrat: Einhellige Zustimmung zur Verlängerung des "Wohnschirms"'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0408#XXVIII_I_00446
+  date: '2026-05-07'
+  title: 'Länderkammer: "Wohnschirm" und Schulstarthilfe werden noch einmal um drei Jahre verlängert'
 measures: []
 sources:
 - id: parl-detail
@@ -200,9 +214,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 446 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/446?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -28,7 +28,7 @@ def upsert_list(conn: psycopg.Connection, listing: dict[str, Any]) -> tuple[int,
             if key is None:
                 continue
             gp, ityp, inr = key
-            h = _hash(row)
+            h = _hash({k: v for k, v in row.items() if "sysdate" not in k.lower()})
             cur.execute(
                 """
                 insert into raw.parliament_list_item (jurisdiction, gp, ityp, inr, payload, hash)

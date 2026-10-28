@@ -196,6 +196,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/241/fname_1680976.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/241/fnameorig_1680976.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/241/fname_1681195.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0338#XXVIII_A_00241
+  date: '2025-05-02'
+  title: Neu im Verkehrsausschuss
+  heading: Anpassung von Bestimmungen zu Lenk- und Ruhezeiten an aktuelles EU-Recht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0398#XXVIII_A_00241
+  date: '2025-05-15'
+  title: 'Verkehrsausschuss: Kraftfahrgesetz wird an EU-Recht angepasst'
+  heading: Anpassung von Bestimmungen zu Lenk- und Ruhezeiten an aktuelles EU-Recht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0439#XXVIII_A_00241
+  date: '2025-05-22'
+  title: Nationalrat beschließt einstimmig EU-konforme Bestimmungen zu Lenk- und Ruhezeiten von LKW- und Busfahrer:innen
+  heading: EU-konforme Bestimmungen über Lenk- und Ruhezeiten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0462#XXVIII_A_00241
+  date: '2025-05-27'
+  title: Bundesrat billigt einstimmig EU-konforme Bestimmungen zu Lenk- und Ruhezeiten
 measures: []
 sources:
 - id: parl-detail
@@ -203,9 +219,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 241/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/241?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -171,6 +171,29 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/250/fname_1716192.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/250/imfname_1716194.pdf
+summary:
+- Exaktere Festlegung der Anfangs-, Zwischen- und Endpunkte einer Hochleistungsstrecke
+- Plandarstellung einer Hochleistungsstrecke
+- Ausnahme vom Erfordernis der Erklärung einer Eisenbahn zur Hochleistungsstrecke
+- Festlegung eines Zeitpunktes für das Außerkrafttreten einer Verordnung nach § 5a des Hochleistungsstreckengesetzes
+- Neuregelung der Rechtsmittelbefugnisse des Bundesministers für Finanzen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0975#XXVIII_I_00250
+  date: '2025-10-29'
+  title: Neu im Verkehrsausschuss
+  heading: … Unklarheiten bei der Definition von Bahn-Hochleistungsstrecken beseitigen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1006#XXVIII_I_00250
+  date: '2025-11-06'
+  title: Verkehrsausschuss beschließt Aus für Klebevignette ab Ende 2026
+  heading: Definition von Bahn-Hochleistungsstrecken soll rechtssicher werden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1043#XXVIII_I_00250
+  date: '2025-11-20'
+  title: 'Nationalrat: Breite Mehrheit für Novelle zu Bahn-Hochleistungsstrecken'
+  heading: Mehr Rechtssicherheit bei Eisenbahn-Hochleistungsstrecken
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1138#XXVIII_I_00250
+  date: '2025-12-04'
+  title: 'Bundesrat: Mehrheit für Abschaffung der Klebevignetten'
+  heading: Ausbau von Bahn-Hochleistungsstrecken
 measures: []
 sources:
 - id: parl-detail
@@ -178,9 +201,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 250 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/250?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

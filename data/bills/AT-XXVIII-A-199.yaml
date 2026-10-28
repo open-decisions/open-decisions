@@ -69,6 +69,18 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/199/fname_1678721.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/199/fnameorig_1678721.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/199/fname_1681215.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0345#XXVIII_A_00199
+  date: '2025-05-05'
+  title: Neu im Verfassungsausschuss
+  heading: Transparentes Auswahlverfahren für Volksanwält:innen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0364#XXVIII_A_00199
+  date: '2025-05-08'
+  title: 'Verfassungsausschuss: Bestellmodus für Volksanwaltschaft wird vorerst nicht geändert'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0406#XXVIII_A_00199
+  date: '2026-05-07'
+  title: 'Asyl: Volksanwaltschaft soll Einhaltung von Grundrechten bei Grenzverfahren überwachen'
+  heading: Grüne urgieren neuen Bestellmodus für Volksanwaltschaft
 measures: []
 sources:
 - id: parl-detail
@@ -76,9 +88,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 199/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/199?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

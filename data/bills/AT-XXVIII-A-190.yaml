@@ -92,6 +92,26 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/190/fname_1674718.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/190/fnameorig_1674718.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0226#XXVIII_A_00190
+  date: '2025-03-28'
+  title: Neu im Justizausschuss
+  heading: Grüne schlagen Nachhaltigkeitsberichtsgesetz für Unternehmen vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0237#XXVIII_A_00190
+  date: '2025-04-01'
+  title: Justizausschuss spricht sich gegen Senkung des Strafmündigkeitsalters aus
+  heading: Grüne fordern Nachhaltigkeitsberichte von Unternehmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1077#XXVIII_A_00190
+  date: '2025-11-25'
+  title: Justizausschuss einstimmig für Maßnahmen gegen "Parkplatz-Abzocke"
+  heading: Gesetzespaket zur Nachhaltigkeitsberichterstattung von Unternehmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0030#XXVIII_A_00190
+  date: '2026-01-20'
+  title: 'Justizausschuss: Koalitionsmehrheit für Regierungsvorlage zur Nachhaltigkeitsberichterstattung von Unternehmen'
+  heading: Anpassung der Nachhaltigkeitsberichte an EU-Regelungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0033#XXVIII_A_00190
+  date: '2026-01-21'
+  title: 'Nationalrat: Grünes Licht für Regierungsvorlage zur Nachhaltigkeitsberichterstattung von Unternehmen'
 measures: []
 sources:
 - id: parl-detail
@@ -99,9 +119,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 190/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/190?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

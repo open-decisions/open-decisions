@@ -170,6 +170,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/130/fname_1693608.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/130/imfname_1693610.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0575#XXVIII_I_00130
+  date: '2025-06-20'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0609#XXVIII_I_00130
+  date: '2025-06-26'
+  title: 'Grundrecht auf Information: Staatliche Förderungen ab 1.500 € werden künftig veröffentlicht'
+  heading: Streichung des Begriffs "Amtsverschwiegenheit"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0666#XXVIII_I_00130
+  date: '2025-07-09'
+  title: 'Nationalrat: Staatliche Förderungen ab 1.500 € künftig in der Transparenzdatenbank'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0722#XXVIII_I_00130
+  date: '2025-07-17'
+  title: 'Bundesrat: 140 Gesetzesanpassungen zur Informationsfreiheit passieren Länderkammer'
+  heading: Anpassung von zahlreichen Gesetzen an das neue Grundrecht auf Information
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +192,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 130 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/130?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

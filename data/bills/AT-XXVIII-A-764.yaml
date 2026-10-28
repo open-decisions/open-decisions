@@ -198,6 +198,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/764/fname_1746816.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/764/fnameorig_1746816.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/764/fname_1746911.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0232#XXVIII_A_00764
+  date: '2026-03-23'
+  title: Neu im Wirtschaftsausschuss
+  heading: Begrenzung der Margen von Unternehmen der Treibstoffbranche
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0235#XXVIII_A_00764
+  date: '2026-03-24'
+  title: 'Wirtschaftsausschuss: Verfassungsmehrheit für "Spritpreisbremse" im Nationalratsplenum weiter offen'
+  heading: ÖVP, SPÖ und NEOS legen Maßnahmen für "Spritpreisbremse" vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0243#XXVIII_A_00764
+  date: '2026-03-25'
+  title: 'Nationalrat: Spritpreisbremse erhält mit Zustimmung der Grünen notwendige Verfassungsmehrheit'
+  heading: ÖVP, SPÖ und NEOS legen Maßnahmen für "Spritpreisbremse" vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0262#XXVIII_A_00764
+  date: '2026-03-27'
+  title: Auch Bundesrat gibt grünes Licht für Spritpreisbremse
+  heading: ÖVP, SPÖ und NEOS legen Maßnahmen für "Spritpreisbremse" vor
 measures: []
 sources:
 - id: parl-detail
@@ -205,9 +222,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 764/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/764?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

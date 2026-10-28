@@ -35,7 +35,7 @@ phases:
 - phase: introduced
   chamber: Nationalrat
   date: '2025-06-18'
-  text: Bundesverfassungsgesetz
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
 - phase: introduced
   chamber: Nationalrat
   date: '2025-06-18'
@@ -65,6 +65,14 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/339/fname_1694127.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/339/fnameorig_1694127.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/339/fname_1694486.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0569#XXVIII_A_00339
+  date: '2025-06-20'
+  title: Neu im Rechnungshofausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0599#XXVIII_A_00339
+  date: '2025-06-24'
+  title: Rechnungshofausschuss debattiert erweiterte Kontrollrechte und Transparenzlücken
+  heading: 'Grüne: Prüfkompetenz des Rechnungshofs ab 25 % Bundesbeteiligung'
 measures: []
 sources:
 - id: parl-detail
@@ -72,9 +80,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 339/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/339?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

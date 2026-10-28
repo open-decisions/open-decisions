@@ -58,6 +58,11 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/549/fname_1717173.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/549/fnameorig_1717173.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0922#XXVIII_A_00549
+  date: '2025-10-17'
+  title: Neu im Verfassungsausschuss
+  heading: Änderung der Gelöbnisformel
 measures: []
 sources:
 - id: parl-detail
@@ -65,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 549/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/549?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

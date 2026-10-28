@@ -182,6 +182,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/75/fname_1670814.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/75/fnameorig_1670814.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/75/fname_1670842.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0080#XXVIII_A_00075
+  date: '2025-02-27'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0104#XXVIII_A_00075
+  date: '2025-03-05'
+  title: 'Verfassungsausschuss: Grünes Licht für neue Ressortaufteilung der Bundesregierung'
+  heading: Öffentlicher Dienst im Bundeskanzleramt
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0117#XXVIII_A_00075
+  date: '2025-03-07'
+  title: Neue Ressortaufteilung der Bundesregierung passiert Nationalrat
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0152#XXVIII_A_00075
+  date: '2025-03-13'
+  title: Bundesministeriengesetz passiert den Bundesrat mit Mehrheit
 measures: []
 sources:
 - id: parl-detail
@@ -189,9 +203,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 75/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/75?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

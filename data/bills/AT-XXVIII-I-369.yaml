@@ -176,6 +176,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/369/fname_1728828.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/369/imfname_1728830.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0004#XXVIII_I_00369
+  date: '2026-01-09'
+  title: Neu im Bildungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0013#XXVIII_I_00369
+  date: '2026-01-14'
+  title: Bildungsausschuss beschließt verpflichtende Sommerschule und mehr Schulautonomie zur Förderung von Deutschkenntnissen
+  heading: Flexiblerer Einsatz der Mittel zum Ausbau ganztägiger Schulformen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0032#XXVIII_I_00369
+  date: '2026-01-21'
+  title: Nationalrat beschließt verpflichtende Sommerschule und Absicherung für Ausbau ganztägiger Schulformen
+  heading: Flexiblerer Einsatz der Mittel zum Ausbau ganztägiger Schulformen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0090#XXVIII_I_00369
+  date: '2026-02-05'
+  title: Ausbau der Deutschförderung durch verpflichtende Teilnahme an Sommerschule
 measures: []
 sources:
 - id: parl-detail
@@ -183,9 +198,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 369 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/369?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

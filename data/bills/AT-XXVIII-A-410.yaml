@@ -193,6 +193,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/410/fname_1702434.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/410/fnameorig_1702434.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/410/fname_1703258.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0703#XXVIII_A_00410
+  date: '2025-07-14'
+  title: Neu im Verfassungsausschuss
+  heading: ORF-Gesetz und ORF-Beitrags-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0768#XXVIII_A_00410
+  date: '2025-09-15'
+  title: 'ORF: Gesetzesnovelle sichert Gebührenbefreiung für einkommensschwache Haushalte ab und bringt Entlastungen für Unternehmen'
+  heading: Entlastungen bei der ORF-Gebühr
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0791#XXVIII_A_00410
+  date: '2025-09-24'
+  title: Nationalrat setzt Novelle zum ORF-Beitrags-Gesetz auf Schiene
+  heading: Entlastungen bei der ORF-Gebühr
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0873#XXVIII_A_00410
+  date: '2025-10-09'
+  title: Bundesrat legt gegen Novelle zum ORF-Gesetz kein Veto ein
+  heading: Entlastungen bei der ORF-Haushaltsabgabe
 measures: []
 sources:
 - id: parl-detail
@@ -200,9 +217,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 410/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/410?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

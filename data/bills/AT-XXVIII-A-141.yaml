@@ -34,7 +34,7 @@ phases:
 - phase: introduced
   chamber: Nationalrat
   date: '2025-03-26'
-  text: Bundesverfassungsgesetz
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
 - phase: introduced
   chamber: Nationalrat
   date: '2025-03-26'
@@ -63,6 +63,15 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/141/fname_1674688.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/141/fnameorig_1674688.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0213#XXVIII_A_00141
+  date: '2025-03-28'
+  title: Neu im Verfassungsausschuss
+  heading: Keine Asylbeschwerden mehr beim VwGH und beim VfGH
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0364#XXVIII_A_00141
+  date: '2025-05-08'
+  title: 'Verfassungsausschuss: Bestellmodus für Volksanwaltschaft wird vorerst nicht geändert'
+  heading: 'Asyl- und Fremdenrecht: FPÖ will Instanzenzug kappen'
 measures: []
 sources:
 - id: parl-detail
@@ -70,9 +79,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 141/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/141?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

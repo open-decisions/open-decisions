@@ -163,6 +163,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/528/fname_1763551.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/528/imfname_1763553.pdf
+summary:
+- Anforderungen an Umweltaussagen, um Irreführungen hintanzuhalten
+- Sicherstellung durch Untersagung gewisser Praktiken hinsichtlich frühzeitiger Obsoleszenz von Waren
+- Anforderungen an Nachhaltigkeitssiegeln, um Irreführungen hinanzuhalten
+- Klarstellungen in Bezug auf gewisse manipulative Geschäftspraktiken
+- Punktuelle Änderungen im UWG, um Gold Plating und Missbrauch zu vermeiden
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0546#XXVIII_I_00528
+  date: '2026-06-12'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0616#XXVIII_I_00528
+  date: '2026-06-24'
+  title: Novelle gegen "Greenwashing" durch irreführende Umweltaussagen auf Produkten passiert Wirtschaftsausschuss
+  heading: Neue Auflagen zu Umweltaussagen und Nachhaltigkeitssiegeln
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0697#XXVIII_I_00528
+  date: '2026-07-07'
+  title: Nationalrat spricht sich mit breiter Mehrheit für neue Standards für alternative Investmentfonds aus
+  heading: Strengeres Vorgehen gegen Greenwashing von Produkten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_I_00528
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
+  heading: Novelle gegen "Greenwashing" von Produkten
 measures: []
 sources:
 - id: parl-detail
@@ -170,9 +192,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 528 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/528?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

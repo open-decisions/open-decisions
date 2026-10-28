@@ -165,6 +165,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/474/fname_1753543.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/474/imfname_1753545.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0354#XXVIII_I_00474
+  date: '2026-04-24'
+  title: Neu im Finanzausschuss
+  heading: 100 € Entlastung pro Haushalt und Jahr
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0418#XXVIII_I_00474
+  date: '2026-05-12'
+  title: Finanzausschuss gibt grünes Licht für Umsatzsteuersenkung für Grundnahrungsmittel ab 1. Juli 2026
+  heading: Finanzminister erwartet 100 € Entlastung pro Haushalt und Jahr
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0448#XXVIII_I_00474
+  date: '2026-05-21'
+  title: Nationalrat beschließt Umsatzsteuersenkung für Grundnahrungsmittel
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0513#XXVIII_I_00474
+  date: '2026-06-03'
+  title: Umsatzsteuersenkung für Grundnahrungsmittel passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +187,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 474 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/474?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

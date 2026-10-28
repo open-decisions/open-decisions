@@ -136,6 +136,17 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/123/fname_1671967.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/123/fnameorig_1671967.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/123/fname_1672248.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0125#XXVIII_A_00123
+  date: '2025-03-10'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0182#XXVIII_A_00123
+  date: '2025-03-24'
+  title: 'Budgetausschuss: Finanzminister Marterbauer warnt vor Teufelskreis'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0193#XXVIII_A_00123
+  date: '2025-03-26'
+  title: Nationalrat beschließt Anpassung des Budgetprovisoriums an die neue Ressortverteilung
+  heading: Neue Ressortverteilung wird ab 1. April auch auf budgetrechtlicher Ebene umgesetzt
 measures: []
 sources:
 - id: parl-detail
@@ -143,9 +154,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 123/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/123?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

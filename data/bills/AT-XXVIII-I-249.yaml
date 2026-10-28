@@ -171,6 +171,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/249/fname_1716167.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/249/imfname_1716169.pdf
+summary:
+- Erweiterung des Anwendungsbereiches für Großverfahren
+- Einheitliche elektronische Kundmachungsplattform
+- Entfall der Ediktalsperre
+- Beschränkungen für weiteres Parteienvorbringen
+- Anpassung der Frist für die Erstellung der Verhandlungsschrift und der Dauer der Auflage
+- Direkte Zahlung von Barauslagen durch den Antragsteller
+- Unwirksamkeit früherer Zustellungen im Fall einer Zustellung durch Edikt
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0918#XXVIII_I_00249
+  date: '2025-10-17'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0950#XXVIII_I_00249
+  date: '2025-10-23'
+  title: 'Verfassungsausschuss: AVG-Novelle soll Großverfahren beschleunigen'
+  heading: Bessere Strukturierung von Verfahren
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1035#XXVIII_I_00249
+  date: '2025-11-19'
+  title: Nationalrat beschließt AVG-Novelle zur Beschleunigung von Großverfahren
+  heading: Beschleunigung von Großverfahren
 measures: []
 sources:
 - id: parl-detail
@@ -178,9 +198,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 249 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/249?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

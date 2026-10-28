@@ -39,10 +39,6 @@ phases:
 - phase: introduced
   chamber: Nationalrat
   date: '2026-07-06'
-  text: Bundesverfassungsgesetz
-- phase: introduced
-  chamber: Nationalrat
-  date: '2026-07-06'
   text: Gesetzesvorschlag enthält Verfassungsbestimmungen
 - phase: introduced
   chamber: Nationalrat
@@ -68,6 +64,10 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/965/fname_1769793.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/965/fnameorig_1769793.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0728#XXVIII_A_00965
+  date: '2026-07-13'
+  title: Neu im Sozialausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -75,9 +75,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 965/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/965?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

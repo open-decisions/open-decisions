@@ -170,6 +170,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/14/fname_1660978.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/14/fnameorig_1660978.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/14/fname_1661277.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1061#XXVIII_A_00014
+  date: '2024-11-22'
+  title: Neu im Budgetausschuss
+  heading: Zweite Dienstrechts-Novelle 2024 eingebracht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1092#XXVIII_A_00014
+  date: '2024-12-09'
+  title: Budgetausschuss spricht sich für Nulllohnrunde für Bundespolitik aus
+  heading: 'Dienstrechts-Novelle: Gehaltsanpassung für öffentlichen Dienst'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1101#XXVIII_A_00014
+  date: '2024-12-11'
+  title: Nationalrat beschließt Nulllohnrunde für Bundespolitiker:innen
+  heading: 3,5 Prozent mehr Gehalt für öffentlich Bedienstete
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1119#XXVIII_A_00014
+  date: '2024-12-19'
+  title: Nulllohnrunde für Politikerbezüge auf Bundesebene passiert den Bundesrat
+  heading: Mehrheit für Gehaltserhöhung für den öffentlichen Dienst
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +194,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 14/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/14?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

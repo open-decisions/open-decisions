@@ -170,6 +170,22 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/396/fname_1740096.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/396/imfname_1740097.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0155#XXVIII_I_00396
+  date: '2026-03-02'
+  title: Neu im Verkehrsausschuss
+  heading: Vorsorge für einen Notfallbetrieb von Straßentunneln
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0223#XXVIII_I_00396
+  date: '2026-03-19'
+  title: 'Verkehrsausschuss: Grünes Licht für Anpassungen zu intelligenten Verkehrssystemen und Notfallbetrieb von Straßentunneln'
+  heading: Vorsorge für einen Notfallbetrieb von Straßentunneln
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0247#XXVIII_I_00396
+  date: '2026-03-25'
+  title: 'Nationalrat: Einhellige Zustimmung für Anpassungen zu intelligenten Verkehrssystemen'
+  heading: Vorsorge für einen Notfallbetrieb von Straßentunneln
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0310#XXVIII_I_00396
+  date: '2026-04-10'
+  title: Gesetz zur Vorsorge für einen Notfallbetrieb von Straßentunneln passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +193,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 396 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/396?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

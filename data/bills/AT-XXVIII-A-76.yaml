@@ -184,6 +184,26 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/76/fname_1670888.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/76/fnameorig_1670888.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/76/fname_1670939.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0084#XXVIII_A_00076
+  date: '2025-02-27'
+  title: Neu im Budgetausschuss
+  heading: 'ÖVP, SPÖ und NEOS: Redaktionelle Anpassungen im ABGB sowie bei Wohnen und Konsumentenschutz'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0096#XXVIII_A_00076
+  date: '2025-03-04'
+  title: Neu im Budgetausschuss
+  heading: Budgetsanierungsmaßnahmengesetz 2025
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0109#XXVIII_A_00076
+  date: '2025-03-06'
+  title: Budgetausschuss bringt Aussetzen von Mieterhöhungen für den geregelten Wohnungsmarkt für 2025 auf den Weg
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0120#XXVIII_A_00076
+  date: '2025-03-07'
+  title: Nationalrat besiegelt neuerliche Mietenbremse für regulierten Wohnungsmarkt
+  heading: SPÖ rechnet mit 250 € Ersparnis für durchschnittliche Familie
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0157#XXVIII_A_00076
+  date: '2025-03-13'
+  title: Bundesrat besiegelt Aus für Bildungskarenz und neuerliche Mietenbremse
+  heading: Mietenbremse für regulierten Wohnungsmarkt
 measures: []
 sources:
 - id: parl-detail
@@ -191,9 +211,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 76/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/76?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

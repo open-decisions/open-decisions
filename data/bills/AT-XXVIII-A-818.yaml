@@ -187,6 +187,21 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/818/fname_1754164.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/818/fnameorig_1754164.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/818/fname_1755242.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0357#XXVIII_A_00818
+  date: '2026-04-24'
+  title: Neu im Sozialausschuss
+  heading: Mitnahme einer Vertrauensperson bei medizinischen Begutachtungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0503#XXVIII_A_00818
+  date: '2026-06-02'
+  title: 'PVA-Begutachtungen: Sozialversicherungsnovelle erleichtert Mitnahme einer Vertrauensperson'
+  heading: Rechtsanspruch auf Mitnahme einer Vertrauensperson bei medizinischen Begutachtungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0535#XXVIII_A_00818
+  date: '2026-06-10'
+  title: 'Nationalrat: Rechtsanspruch auf Mitnahme einer Vertrauensperson bei medizinischen Begutachtungen beschlossen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0625#XXVIII_A_00818
+  date: '2026-06-25'
+  title: Bundesrat besiegelt Unterstützungsfonds für Alleinerziehende
 measures: []
 sources:
 - id: parl-detail
@@ -194,9 +209,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 818/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/818?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

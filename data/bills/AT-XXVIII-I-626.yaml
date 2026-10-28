@@ -22,8 +22,8 @@ identifiers:
   - Bundesverfassung
   - Handel, Gewerbe und Industrie
 status:
-  stage: passed_first_chamber
-  source_status: '4'
+  stage: passed_second_chamber
+  source_status: '5'
 pre_parliamentary:
 - url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/75
   title: Versorgungssicherungsgesetz, Änderung
@@ -121,6 +121,11 @@ phases:
 - phase: second_chamber_committee
   chamber: Bundesrat
   date: '2026-10-20'
+  text: 'Wirtschaftsausschuss des Bundesrates: Bericht 11877/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11877
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
   text: 'Wirtschaftsausschuss des Bundesrates: auf Tagesordnung in der 7. Sitzung des Ausschusses'
   url: https://www.parlament.gv.at/dokument/BR/A-WR-BR/1/00312/TO_17007695.html
 - phase: second_chamber_plenary
@@ -128,6 +133,27 @@ phases:
   date: '2026-10-22'
   text: Auf der Tagesordnung der 997. Sitzung
   url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Antrag, Zustimmung zu Verfassungsgesetzen bzw. -bestimmungen, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Beschluss im Bundesrat 224/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/224
 vote:
   date: '2026-10-14'
   result:
@@ -159,6 +185,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/626/fname_1779345.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/626/imfname_1779347.pdf
+summary:
+- Verordnungsermächtigung für den Bundesminister für Wirtschaft, Energie und Tourismus für Vorsorgemaßnahmen auf dem Gebiet
+  der Vorratshaltung
+- Berechtigung des Bundesministers für Wirtschaft, Energie und Tourismus zur Verarbeitung von Daten für Vorsorgemaßnahmen
+- Anpassung der Anlage des VerssG 1992
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0878#XXVIII_I_00626
+  date: '2026-09-29'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0919#XXVIII_I_00626
+  date: '2026-10-07'
+  title: 'Versorgungssicherung: Wirtschaftsausschuss stimmt für Regelungen zur öffentlichen Vorratshaltung'
+  heading: Öffentliche Vorratshaltung bezieht private Unternehmen ein
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0942#XXVIII_I_00626
+  date: '2026-10-14'
+  title: 'Nationalrat: Grünes Licht für Regelungen zur Versorgungssicherheit bei Energie, Wirtschafts- und Bedarfsgütern'
+  heading: Versorgungssicherung mit Wirtschafts- und Bedarfsgütern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1005#XXVIII_I_00626
+  date: '2026-10-22'
+  title: 'Bundesrat: Breite Zustimmung zu Regelungen für Versorgungssicherheit bei Energie, Wirtschafts- und Bedarfsgütern'
+  heading: Versorgungssicherung mit Wirtschafts- und Bedarfsgütern
 measures: []
 sources:
 - id: parl-detail
@@ -166,9 +213,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 626 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/626?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

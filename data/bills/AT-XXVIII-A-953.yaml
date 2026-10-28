@@ -49,6 +49,10 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/953/fname_1764334.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/953/fnameorig_1764334.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0609#XXVIII_A_00953
+  date: '2026-06-24'
+  title: Neu im Justizausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -56,9 +60,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 953/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/953?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -164,6 +164,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/293/fname_1722481.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/293/imfname_1722483.pdf
+summary:
+- Festsetzung eines Preisbandes für wirkstoffgleiche Arzneispezialitäten 2027 und 2029
+- Verlängerung der Regelung zur Preisbildung von Generika und Biosimilars
+- Verlängerung der Richtlinien über die Abgabe parallel importierter Heilmittel
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1058#XXVIII_I_00293
+  date: '2025-11-21'
+  title: Neu im Gesundheitsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1122#XXVIII_I_00293
+  date: '2025-12-02'
+  title: 'Gesundheitsausschuss: Umsetzung des elektronischen Eltern-Kind-Passes auf 1. Oktober 2026 verschoben'
+  heading: 'Änderungen im ASVG: Festlegung eines Preisbandes und Verlängerung von Regelungen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1176#XXVIII_I_00293
+  date: '2025-12-11'
+  title: 'Diagnosecodierung: Ausweitung auf den niedergelassenen Bereich ab Mitte 2026'
+  heading: Preisregulierung für Medikamente
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1219#XXVIII_I_00293
+  date: '2025-12-18'
+  title: 'Bundesrat: Grünes Licht für Preisregulierung von Medikamenten und einheitliche Dokumentation im Gesundheitswesen'
+  heading: Preisregulierung für Medikamente wird verlängert
 measures: []
 sources:
 - id: parl-detail
@@ -171,9 +191,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 293 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/293?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

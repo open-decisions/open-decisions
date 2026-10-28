@@ -60,6 +60,18 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/296/fname_1688038.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/296/fnameorig_1688038.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0638#XXVIII_A_00296
+  date: '2025-07-02'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0692#XXVIII_A_00296
+  date: '2025-07-11'
+  title: Nationalratssitzung endet mit Ersten Lesungen zu ORF-Haushaltsabgabe und Konversionsmaßnahmen
+  heading: Erste Lesung zu Konversionsmaßnahmen-Schutz-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0650#XXVIII_A_00296
+  date: '2026-06-30'
+  title: Knappe Ressourcen der Datenschutzbehörde Thema im Justizausschuss
+  heading: Grüne für Konversionsmaßnahmen-Schutz-Gesetz
 measures: []
 sources:
 - id: parl-detail
@@ -67,9 +79,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 296/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/296?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

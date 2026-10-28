@@ -207,6 +207,23 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/128/fname_1693581.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/128/imfname_1693583.pdf
+summary:
+- Unterricht in "Orientierung und Vorläuferfertigkeiten" (präliterale Bildung)
+- Schaffung einer Rechtsgrundlage für die Möglichkeit digitale Studierendenausweise auszustellen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0585#XXVIII_I_00128
+  date: '2025-06-23'
+  title: Neu im Bildungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0604#XXVIII_I_00128
+  date: '2025-06-25'
+  title: Bildungsausschuss stimmte mehrheitlich für die Einführung von Orientierungsunterricht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0689#XXVIII_I_00128
+  date: '2025-07-11'
+  title: Nationalrat mehrheitlich für Einführung von Orientierungsunterricht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0715#XXVIII_I_00128
+  date: '2025-07-17'
+  title: Aktuelle Stunde im Bundesrat zu psychischer Gesundheit an Schulen
+  heading: Orientierungsklassen ab September
 measures: []
 sources:
 - id: parl-detail
@@ -214,9 +231,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 128 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/128?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

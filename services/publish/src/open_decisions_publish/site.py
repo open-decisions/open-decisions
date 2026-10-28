@@ -1,9 +1,12 @@
 import json
 import pathlib
+import re
+from datetime import date
 from typing import Any
 
 from open_decisions_core import DATA
 from open_decisions_core.records import load
+from open_decisions_core.style import FORBIDDEN
 from open_decisions_publish.cards import card_view
 from open_decisions_publish.format import STATES, german_date, german_number
 
@@ -41,15 +44,15 @@ TOPIC_LABELS = {
     "other": "Sonstiges",
 }
 EU_LABELS = {
-    "transposes_directive": "setzt EU-Richtlinie um",
-    "implements_regulation": "Begleitregeln zu EU-Verordnung",
-    "eu_scope": "im Rahmen des EU-Rechts, nicht von ihm verlangt",
-    "national": "kein EU-Recht betroffen",
+    "transposes_directive": "setzt eine EU-Vorgabe um",
+    "implements_regulation": "ergänzt eine EU-Verordnung, die direkt gilt",
+    "eu_scope": "im Rahmen des EU-Rechts, aber nicht von der EU verlangt",
+    "national": "rein österreichische Regelung",
 }
 EU_FILTERS = [
-    ("eu_law", "Setzt EU-Recht um"),
+    ("eu_law", "Setzt EU-Vorgaben um"),
     ("eu_scope", "Im Rahmen des EU-Rechts"),
-    ("national", "Kein EU-Recht betroffen"),
+    ("national", "Rein österreichisch"),
     ("not_stated", "Keine Angabe"),
 ]
 TYPE_FILTERS = [("government_bill", "Regierungsvorlagen", "Regierungsvorlage"), ("members_bill", "Initiativanträge", "Initiativantrag")]
@@ -133,7 +136,7 @@ def eu_view(bill: dict[str, Any]) -> dict[str, Any]:
     label = EU_LABELS.get(kind)
     partial = group == "eu_law" and any(k in ("national", "eu_scope") for k in rel.get("kinds", []))
     if label and partial:
-        label = "teilweise: " + label
+        label = "teils: " + label
     return {
         "group": group,
         "label": label,
@@ -144,10 +147,129 @@ def eu_view(bill: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def bill_row(bill: dict[str, Any]) -> dict[str, Any]:
+AREAS = {
+    "AT": [
+        ("arbeit", "Arbeit", ["Arbeit"]),
+        ("soziales", "Soziales und Pensionen", ["Soziales"]),
+        ("familie", "Familie und Gleichstellung", ["Familie und Generationen", "Frauen und Gleichbehandlung"]),
+        ("gesundheit", "Gesundheit", ["Gesundheit und Ernährung"]),
+        ("steuern", "Steuern und Budget", ["Budget und Finanzen"]),
+        ("wirtschaft", "Wirtschaft", ["Wirtschaft", "Innovation, Technologie und Forschung", "Land- und Forstwirtschaft"]),
+        ("energie", "Energie und Umwelt", ["Klima, Umwelt und Energie"]),
+        ("verkehr", "Verkehr", ["Verkehr und Infrastruktur"]),
+        ("bildung", "Bildung und Kultur", ["Bildung", "Kultur"]),
+        ("recht", "Sicherheit und Recht", ["Inneres und Recht", "Landesverteidigung"]),
+        ("demokratie", "Demokratie und Medien", ["Parlament und Demokratie", "Information und Medien"]),
+        ("europa", "EU und Außenpolitik", ["Europäische Union", "Außenpolitik"]),
+    ]
+}
+COMPOUND_FORBIDDEN = re.compile(r"(reform|paket|entlastung|belastung|geschenk|kürzung|grünes licht)", re.I)
+PRESS_PREFIX = re.compile(r"^[A-ZÄÖÜ][\wäöüß-]{2,40}(?: [A-ZÄÖÜ][\wäöüß-]+)?: ")
+PRESS_PHRASES = [
+    (re.compile(r"^Grünes Licht für (die |den |das )?", re.I), ""),
+    (re.compile(r"\s+(im Ausschuss )?beschlossen$"), ""),
+]
+RECENT_DAYS = 30
+NEW_DAYS = 21
+
+
+def areas_of(bill: dict[str, Any], country: str) -> list[dict[str, str]]:
+    topics = set((bill.get("identifiers") or {}).get("topics", []))
+    return [{"id": k, "label": label} for k, label, ts in AREAS.get(country, []) if topics & set(ts)]
+
+
+def clean_press(title: str) -> str:
+    text = PRESS_PREFIX.sub("", title.strip())
+    for rx, repl in PRESS_PHRASES:
+        text = rx.sub(repl, text).strip()
+    return text[:1].upper() + text[1:] if text else text
+
+
+def headline(bill: dict[str, Any]) -> dict[str, Any]:
+    for p in reversed(bill.get("press", [])):
+        if not p.get("heading"):
+            continue
+        text = clean_press(p["heading"])
+        if 12 <= len(text) <= 160 and not FORBIDDEN.search(text) and not COMPOUND_FORBIDDEN.search(text):
+            return {"text": text, "source": "Parlamentskorrespondenz", "url": p["url"]}
+    for item in bill.get("summary", []):
+        if 12 <= len(item) <= 160 and not FORBIDDEN.search(item) and not COMPOUND_FORBIDDEN.search(item):
+            return {"text": item, "source": "Kurzinformation der Parlamentsdirektion", "url": bill["parliament_url"]}
+    return {"text": bill["title"], "source": None, "url": None}
+
+
+def duration(since: str, today: str) -> str:
+    days = (date.fromisoformat(today) - date.fromisoformat(since)).days
+    if days <= 1:
+        return "seit gestern" if days == 1 else "seit heute"
+    if days < 14:
+        return f"seit {days} Tagen"
+    if days < 63:
+        return f"seit {days // 7} Wochen"
+    months = days // 30
+    return "seit einem Monat" if months == 1 else f"seit {months} Monaten"
+
+
+def stage_text(bill: dict[str, Any], today: str) -> str:
+    stage = bill["status"]["stage"]
+    phases = bill.get("phases", [])
+    first_committee = next((p["date"] for p in phases if p["phase"] == "committee"), None)
+    vote = (bill.get("vote") or {}).get("date")
+    br = next((p["date"] for p in reversed(phases) if p["phase"] == "second_chamber_plenary" and p["date"] <= today), None)
+    if stage == "introduced":
+        return f"eingebracht {duration(bill['introduced'], today)}, noch keinem Ausschuss zugewiesen"
+    if stage == "committee":
+        return f"wird {duration(first_committee or bill['introduced'], today)} im Ausschuss beraten"
+    if stage == "passed_first_chamber":
+        return f"vom Nationalrat am {german_date(vote)} beschlossen, der Bundesrat ist noch dran" if vote else STEP_LABELS[stage]
+    if stage == "passed_second_chamber":
+        return f"vom Bundesrat am {german_date(br)} bestätigt, wird demnächst kundgemacht" if br else STEP_LABELS[stage]
+    if stage == "published":
+        decided = f"im Nationalrat am {german_date(vote)} beschlossen" if vote else "beschlossen"
+        gazette = bill["status"].get("gazette")
+        return f"gilt: {decided}, kundgemacht im {gazette}" if gazette else f"gilt: {decided}"
+    return STEP_LABELS[stage]
+
+
+def happening(bill: dict[str, Any], today: str) -> list[str]:
+    t = date.fromisoformat(today)
+    tags = []
+    upcoming = [p for p in bill.get("phases", []) if p["date"] > today]
+    if upcoming:
+        tags.append("upcoming")
+    vote = (bill.get("vote") or {}).get("date")
+    br = [p["date"] for p in bill.get("phases", []) if p["phase"] == "second_chamber_plenary" and p["date"] <= today]
+    last_decision = max([d for d in [vote, *br] if d], default=None)
+    if last_decision and (t - date.fromisoformat(last_decision)).days <= RECENT_DAYS:
+        tags.append("decided")
+    if (t - date.fromisoformat(bill["introduced"])).days <= NEW_DAYS:
+        tags.append("new")
+    return tags
+
+
+def next_date(bill: dict[str, Any], today: str) -> dict[str, str] | None:
+    upcoming = sorted((p for p in bill.get("phases", []) if p["date"] > today), key=lambda p: p["date"])
+    if not upcoming:
+        return None
+    p = upcoming[0]
+    chamber = p.get("chamber")
+    genitive = {"Nationalrat": "des Nationalrats", "Bundesrat": "des Bundesrats"}.get(chamber or "", "")
+    what = "Ausschuss" if "committee" in p["phase"] else "Sitzung"
+    return {"date": p["date"], "text": f"{what} {genitive} am {german_date(p['date'])}".replace("  ", " ")}
+
+
+def bill_row(bill: dict[str, Any], today: str, country: str = "AT") -> dict[str, Any]:
     stage = bill["status"]["stage"]
     kind = next(t[2] for t in TYPE_FILTERS if t[0] == bill["type"])
+    head = headline(bill)
     return {
+        "headline": head["text"],
+        "headline_source": head["source"],
+        "headline_url": head["url"],
+        "areas": areas_of(bill, country),
+        "stage_text": stage_text(bill, today),
+        "happening": happening(bill, today),
+        "next": next_date(bill, today),
         "id": bill["id"],
         "slug": bill["id"].replace("/", "-"),
         "citation": bill.get("citation") or bill["id"],
@@ -162,6 +284,40 @@ def bill_row(bill: dict[str, Any]) -> dict[str, Any]:
         "measures": bill.get("measures", []),
         "parliament_url": bill["parliament_url"],
         "eu": eu_view(bill),
+    }
+
+
+def bill_page(bill: dict[str, Any], today: str, country: str = "AT") -> dict[str, Any]:
+    row = bill_row(bill, today, country)
+    rel = bill.get("eu_relation") or {}
+    docs = bill.get("documents", {})
+    doc_links = []
+    for key, label in (
+        ("law_text_html", "Gesetzestext"),
+        ("explanations_pdf", "Erläuterungen"),
+        ("comparison_pdf", "Textgegenüberstellung alt und neu"),
+    ):
+        if docs.get(key):
+            doc_links.append({"label": label, "url": docs[key]})
+    for i, url in enumerate(docs.get("impact_assessment_pdf", []), 1):
+        suffix = f", Teil {i}" if len(docs.get("impact_assessment_pdf", [])) > 1 else ""
+        doc_links.append({"label": f"Folgenabschätzung der Regierung{suffix}", "url": url})
+    return {
+        **row,
+        "summary": bill.get("summary", []),
+        "press": [
+            {"title": p.get("heading") or p["title"], "date": german_date(p["date"]), "url": p["url"]}
+            for p in reversed(bill.get("press", []))
+        ],
+        "path": path_view(bill),
+        "vote": vote_view(bill),
+        "eu_statements": [
+            {"text": s["text"], "url": s["source"], "page": s.get("page")}
+            for s in rel.get("statements", [])
+            if s["kind"] != "eu_scope" or s["text"]
+        ],
+        "documents": doc_links,
+        "introduced_by": bill.get("introduced_by", []),
     }
 
 
@@ -180,6 +336,7 @@ def site_data(country: str = "AT") -> dict[str, Any]:
             "citation": bill.get("citation") or bill["id"],
             "article": measure["article"],
         }
+        card["bill_slug"] = bill["id"].replace("/", "-")
         card["topic"] = TOPIC_LABELS[measure["selection"]["household_relevance"]]
         card["follow_up"]["iso"] = measure["follow_up"]["date"]
         for src in card["detail"]["sources"]:
@@ -188,8 +345,8 @@ def site_data(country: str = "AT") -> dict[str, Any]:
         card["path"] = path_view(bill)
         card["approved"] = bool(measure["review"].get("approved"))
         cards.append(card)
-    rows = sorted((bill_row(b) for b in bills), key=lambda r: r["introduced"], reverse=True)
-    stand = max((b["retrieved"] for b in bills), default=None)
+    stand = max((b["retrieved"] for b in bills), default=date.today().isoformat())
+    rows = sorted((bill_page(b, stand, country) for b in bills), key=lambda r: r["introduced"], reverse=True)
     return {
         "meta": {
             "data_as_of": stand,
@@ -201,6 +358,11 @@ def site_data(country: str = "AT") -> dict[str, Any]:
             "type_filters": [{"id": k, "label": v} for k, v, _ in TYPE_FILTERS],
             "eu_filters": [{"id": k, "label": v} for k, v in EU_FILTERS],
             "eu_counts": {k: sum(1 for r in rows if r["eu"]["group"] == k) for k, _ in EU_FILTERS},
+            "area_filters": [
+                {"id": k, "label": label, "count": sum(1 for r in rows if any(a["id"] == k for a in r["areas"]))}
+                for k, label, _ in AREAS.get(country, [])
+            ],
+            "happening_counts": {k: sum(1 for r in rows if k in r["happening"]) for k in ("upcoming", "decided", "new")},
         },
         "households": households_view(country),
         "cards": cards,

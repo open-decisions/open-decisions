@@ -90,3 +90,21 @@ def test_assigned_to_committee_is_committee_stage():
     content = {"status": {"number": 2, "description": "Eingelangt"}}
     assert stage_of(content, False, {"introduced", "committee"}) == "committee"
     assert stage_of(content, False, {"introduced"}) == "introduced"
+
+
+def test_summary_and_press_from_detail_json():
+    bill = bill_from_item(item("item_XXVIII_I_91.json"), FETCHED)
+    assert bill["summary"][0] == "Anhebung der Zwischensteuer für Stiftungen"
+    assert len(bill["press"]) == 4
+    assert bill["press"][-1]["title"] == "Bundesrat finalisiert zweite Runde der Budgetsanierung"
+    assert bill["press"][0]["url"].startswith("https://www.parlament.gv.at/aktuelles/pk/")
+
+
+def test_list_hash_ignores_the_daily_timestamp_column():
+    from open_decisions_ingest_at.raw import _hash
+
+    a = {"HIS_URL": "/gegenstand/XXVIII/I/69", "sysdate???": "Mon Oct 19 16:58:16 CEST 2026"}
+    b = {"HIS_URL": "/gegenstand/XXVIII/I/69", "sysdate???": "Tue Oct 20 16:58:16 CEST 2026"}
+    assert _hash({k: v for k, v in a.items() if "sysdate" not in k.lower()}) == _hash(
+        {k: v for k, v in b.items() if "sysdate" not in k.lower()}
+    )

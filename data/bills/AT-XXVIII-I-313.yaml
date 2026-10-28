@@ -609,6 +609,29 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/313/imfname_1723278.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/313/imfname_1723280.pdf
+summary:
+- Streichung der Ausnahme von Strom und Gas im Preisgesetz 1992 und Ergänzung im E-Control-Gesetz
+- Schaffung eines neuen Preisüberwachungsmechanismus
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1053#XXVIII_I_00313
+  date: '2025-11-20'
+  title: 'Betrugsbekämpfung, Preistransparenz und Co: Wirtschafts- und Finanzausschuss schicken sechs Regierungsvorlagen in
+    Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1101#XXVIII_I_00313
+  date: '2025-11-28'
+  title: Neu im Wirtschaftsausschuss
+  heading: Schaffung eines neuen Preisüberwachungsmechanismus
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1160#XXVIII_I_00313
+  date: '2025-12-09'
+  title: 'Wirtschaftsausschuss: Gespräche für Elektrizitätswirtschaftsgesetz sollen weiterlaufen'
+  heading: Schaffung eines neuen Preisüberwachungsmechanismus
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1168#XXVIII_I_00313
+  date: '2025-12-10'
+  title: 'Nationalrat: Hattmannsdorfer fordert Opposition auf, Elektrizitätswirtschaftsgesetz zuzustimmen'
+  heading: Schaffung eines neuen Preisüberwachungsmechanismus
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1212#XXVIII_I_00313
+  date: '2025-12-17'
+  title: Auch im Bundesrat Zweidrittelmehrheit für "Günstiger-Strom-Gesetz"
 measures: []
 sources:
 - id: parl-detail
@@ -616,9 +639,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 313 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/313?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

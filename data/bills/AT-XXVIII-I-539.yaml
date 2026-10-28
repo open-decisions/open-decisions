@@ -10,6 +10,7 @@ introduced: '2026-06-17'
 introduced_by:
 - Dr. Christian Stocker (Bundeskanzleramt)
 identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/86
   eurovoc:
   - Verwaltungsrecht
   topics:
@@ -17,8 +18,10 @@ identifiers:
   keywords:
   - Verwaltungsverfahren
 status:
-  stage: passed_second_chamber
+  stage: published
   source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 86/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_86
 pre_parliamentary:
 - url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/89
   title: Allgemeine Verwaltungsverfahrensgesetz, Verwaltungsstrafgesetz, Änderung
@@ -162,6 +165,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/539/fname_1765296.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/539/imfname_1765298.pdf
+summary:
+- Chatbot-Antrag und -Manuduktion
+- No-Stop-Verfahren
+- Vollständig automatisierte Erledigungen
+- Online-Banking statt SEPA-Zahlungsanweisungen und weitere Erleichterungen bei Anonym- und Organstrafverfügungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0589#XXVIII_I_00539
+  date: '2026-06-19'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0824#XXVIII_I_00539
+  date: '2026-09-16'
+  title: 'KI in der Verwaltung: Verfassungsausschuss schickt AVG-Novelle ins Plenum'
+  heading: Vorbild antragslose Arbeitnehmerveranlagung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0841#XXVIII_I_00539
+  date: '2026-09-23'
+  title: Nationalrat schafft rechtliche Grundlagen für KI in Verwaltungsverfahren
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0923#XXVIII_I_00539
+  date: '2026-10-08'
+  title: 'KI in Verwaltungsverfahren: Bundesrat genehmigt Schaffung der rechtlichen Grundlagen'
+  heading: Einsatz von KI in Verwaltungsverfahren
 measures: []
 sources:
 - id: parl-detail
@@ -169,9 +192,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 539 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/539?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

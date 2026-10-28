@@ -161,6 +161,24 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/292/fname_1722450.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/292/imfname_1722452.pdf
+summary:
+- Regelung der Einfuhrgenehmigungen
+- Sanktion bei Nichteinhaltung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1105#XXVIII_I_00292
+  date: '2025-11-28'
+  title: Neu im Kulturausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0128#XXVIII_I_00292
+  date: '2026-02-24'
+  title: 'Kulturausschuss: Breite Mehrheit für Maßnahmen gegen illegalen Handel mit Kulturgütern'
+  heading: Kampf gegen illegalen Handel mit Kulturerbe
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0139#XXVIII_I_00292
+  date: '2026-02-26'
+  title: Breite Mehrheit im Nationalrat für Schritte gegen illegalen Handel mit Kulturgütern
+  heading: Bessere Nachvollziehbarkeit der Herkunft von Kulturgütern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0206#XXVIII_I_00292
+  date: '2026-03-12'
+  title: Stabilitätspakt passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -168,9 +186,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 292 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/292?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

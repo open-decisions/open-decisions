@@ -79,6 +79,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/466/fname_1712366.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/466/fnameorig_1712366.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/466/fname_1714082.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0891#XXVIII_A_00466
+  date: '2025-10-14'
+  title: Neu im Gleichbehandlungsausschuss
+  heading: Grüne beantragen Schutzzonen rund um Einrichtungen für Schwangerschaftsabbrüche
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0936#XXVIII_A_00466
+  date: '2025-10-21'
+  title: Gleichbehandlungsausschuss fordert mehr Kontrolle über Frauenförderungsfonds LEA
+  heading: Debatte über Schutzzonen rund um Einrichtungen für Schwangerschaftsabbrüche
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0218#XXVIII_A_00466
+  date: '2026-03-17'
+  title: 'Gleichbehandlungsausschuss: Rechtlicher Rahmen zum Schutz von Abtreibungskliniken und Gesundheitseinrichtungen soll
+    geprüft werden'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0253#XXVIII_A_00466
+  date: '2026-03-26'
+  title: Nationalrat stimmt mehrheitlich für Prüfung der rechtlichen Rahmenbedingungen zum Schutz von Gesundheitseinrichtungen
 measures: []
 sources:
 - id: parl-detail
@@ -86,9 +102,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 466/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/466?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

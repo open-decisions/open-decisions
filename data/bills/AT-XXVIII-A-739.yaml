@@ -48,6 +48,11 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/739/fname_1741478.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/739/fnameorig_1741478.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/739/fname_1743335.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0184#XXVIII_A_00739
+  date: '2026-03-09'
+  title: Neu im Innenausschuss
+  heading: Grüne wollen Richtlinienbeschwerde gegen Polizei wieder ermöglichen
 measures: []
 sources:
 - id: parl-detail
@@ -55,9 +60,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 739/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/739?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

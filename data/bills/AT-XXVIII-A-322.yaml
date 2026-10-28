@@ -140,6 +140,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/322/fname_1692730.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/322/fnameorig_1692730.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/322/fname_1693072.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0541#XXVIII_A_00322
+  date: '2025-06-16'
+  title: Neu im Geschäftsordnungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0545#XXVIII_A_00322
+  date: '2025-06-16'
+  title: 'Informationsfreiheit: Erste Lesung über Anpassung der Geschäftsordnung des Nationalrats'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0558#XXVIII_A_00322
+  date: '2025-06-17'
+  title: 'Fall Pilnacek: Noch keine Entscheidung über U-Ausschuss-Verlangen der FPÖ'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0658#XXVIII_A_00322
+  date: '2025-07-09'
+  title: 'Nationalrat: Geschäftsordnung wird an Informationsfreiheit angepasst'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0692#XXVIII_A_00322
+  date: '2025-07-11'
+  title: Nationalratssitzung endet mit Ersten Lesungen zu ORF-Haushaltsabgabe und Konversionsmaßnahmen
+  heading: Einhellige Zustimmung zur Geschäftsordnungsnovelle auch in Dritter Lesung
 measures: []
 sources:
 - id: parl-detail
@@ -147,9 +164,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 322/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/322?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

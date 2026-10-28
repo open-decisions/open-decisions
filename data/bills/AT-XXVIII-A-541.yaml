@@ -166,6 +166,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/541/fname_1717652.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/541/fnameorig_1717652.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1012#XXVIII_A_00541
+  date: '2025-11-07'
+  title: Neu im Bautenausschuss
+  heading: Änderung des Bauproduktenotifizierungsgesetzes 2013
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1120#XXVIII_A_00541
+  date: '2025-12-02'
+  title: Bautenausschuss gibt grünes Licht für 5. Mietrechtliches Inflationslinderungsgesetz
+  heading: Änderung des Bauproduktenotifizierungsgesetzes 2013
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1171#XXVIII_A_00541
+  date: '2025-12-11'
+  title: Nationalrat beschließt Dämpfung von inflationsbedingten Mieterhöhungen
+  heading: Änderung des Bauproduktenotifizierungsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1212#XXVIII_A_00541
+  date: '2025-12-17'
+  title: Auch im Bundesrat Zweidrittelmehrheit für "Günstiger-Strom-Gesetz"
 measures: []
 sources:
 - id: parl-detail
@@ -173,9 +189,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 541/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/541?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

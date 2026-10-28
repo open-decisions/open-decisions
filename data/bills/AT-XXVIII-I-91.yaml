@@ -210,6 +210,33 @@ documents:
   - https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686059.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686060.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/91/imfname_1686061.pdf
+summary:
+- Anhebung der Zwischensteuer für Stiftungen
+- Anhebung des Stiftungseingangssteueräquivalents
+- Nachholung der Valorisierung der Bundesgebühren
+- Anhebung der Sozialversicherungs-Rückerstattung für Pensionistinnen und Pensionisten
+- Anhebung des Beitragssatzes in der Krankenversicherung der Pensionist/innen und Bezieher/innen vergleichbarer Leistungen
+- Einfrieren der Rezeptgebühr 2026
+- Adaptierung der Bestimmungen über die Rezeptgebührenobergrenze
+- Anpassung von Konsulargebühren an jene des Gebührengesetzes
+- 'Kostenfreie Impfungen gegen SARS-CoV-2 im niedergelassenen Bereich für Versicherte und anspruchsberechtigte Angehörige:
+  Verlängerung der bislang bestehenden Bestimmungen.'
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0420#XXVIII_I_00091
+  date: '2025-05-19'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0429#XXVIII_I_00091
+  date: '2025-05-20'
+  title: Budgetausschuss gibt grünes Licht für weitere Maßnahmen zur Budgetsanierung
+  heading: 'Fortsetzung der Budgetsanierung: Zweites Gesetzespaket auf dem Weg ins Plenum'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0438#XXVIII_I_00091
+  date: '2025-05-22'
+  title: Zweite Runde der Budgetsanierung bringt höhere Bundesgebühren und Krankenversicherungsbeiträge
+  heading: 'Fortsetzung der Budgetsanierung: Anstieg der KV-Beiträge für Pensionist:innen und von Gebühren, aber auch Entlastungsmaßnahmen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0460#XXVIII_I_00091
+  date: '2025-05-27'
+  title: Bundesrat finalisiert zweite Runde der Budgetsanierung
+  heading: Anstieg der Krankenversicherungs-Beiträge für Pensionist:innen und von Gebühren, aber auch Entlastungsmaßnahmen
 budget_office_analyses:
 - title: Umsetzung weiterer Konsolidierungs- und Offensivmaßnahmen
   date: '2025-05-19'
@@ -223,9 +250,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 91 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/91?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -168,6 +168,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/524/fname_1763499.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/524/imfname_1763501.pdf
+summary:
+- Anpassung der Prüfungsgebiete der Pflichtschulabschluss-Prüfung
+- Anpassung der Voraussetzungen für Vortragende und Prüferinnen bzw. Prüfer bei Vorbereitungslehrgängen für die Pflichtschul-Abschluss-Prüfung
+- Weiterentwicklung des Pflichtgegenstandes "Informatik" zu "Informatik und Künstliche Intelligenz"
+- Einführung des Pflichtgegenstandes "Medien und Demokratie"
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0562#XXVIII_I_00524
+  date: '2026-06-16'
+  title: Neu im Bildungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0583#XXVIII_I_00524
+  date: '2026-06-17'
+  title: 'Bildungsausschuss: Einführung neuer Unterrichtsfächer mehrheitlich angenommen'
+  heading: Neue Fächer "Medien und Demokratie" und "Informatik und Künstliche Intelligenz"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0699#XXVIII_I_00524
+  date: '2026-07-07'
+  title: Nationalrat beschließt zwei neue Unterrichtsfächer
+  heading: 'Neue Schulfächer: Kritik von FPÖ und Grünen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0750#XXVIII_I_00524
+  date: '2026-07-16'
+  title: Mehrheit im Bundesrat für neue Unterrichtsfächer "Medien und Demokratie" sowie "Informatik und Künstliche Intelligenz"
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +195,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 524 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/524?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

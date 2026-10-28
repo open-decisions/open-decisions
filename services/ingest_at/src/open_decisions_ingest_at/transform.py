@@ -57,6 +57,27 @@ def eli_from_bgbl(title: str | None) -> str | None:
     return f"https://www.ris.bka.gv.at/eli/bgbl/{part}/{year}/{number}"
 
 
+LIST_ITEM = re.compile(r"<li[^>]*>(.*?)</li>", re.S)
+
+
+def summary(content: dict[str, Any]) -> list[str]:
+    info = content.get("shortinfo") or {}
+    items = []
+    for part in ("teil1", "teil2"):
+        items += [strip_html(m) for m in LIST_ITEM.findall(info.get(part) or "")]
+    return [i for i in items if i]
+
+
+def press(content: dict[str, Any]) -> list[dict[str, Any]]:
+    out = []
+    for c in content.get("correspondence") or []:
+        d = parse_date(c.get("date"))
+        if d and c.get("title") and c.get("url"):
+            url = c["url"] if c["url"].startswith("http") else BASE_URL + c["url"]
+            out.append({"title": strip_html(c["title"]), "date": d, "url": url})
+    return sorted(out, key=lambda x: x["date"])
+
+
 def bubbles(block: dict[str, Any] | None) -> list[str]:
     return [b["label"] for b in ((block or {}).get("data") or {}).get("bubbles", []) if b.get("label")]
 
@@ -175,6 +196,8 @@ def bill_from_item(payload: dict[str, Any], fetched_at: datetime) -> dict[str, A
         ],
         "vote": v,
         "phases": ph,
+        "summary": summary(c),
+        "press": press(c),
         "source_updated": parse_date(c.get("update")),
         "fetched_at": fetched_at,
     }
@@ -218,6 +241,8 @@ def record_from_bill(bill: dict[str, Any], curated: dict[str, Any] | None = None
         "phases": [{k: v for k, v in {**p, "date": iso(p["date"])}.items() if v is not None} for p in bill["phases"]],
         "vote": None,
         "documents": bill["documents"],
+        "summary": bill.get("summary", []),
+        "press": [{k: v for k, v in {**x, "date": iso(x["date"])}.items() if v is not None} for x in bill.get("press", [])],
         "budget_office_analyses": curated.get("budget_office_analyses", []),
         "measures": curated.get("measures", []),
         "sources": [
@@ -251,6 +276,9 @@ def record_from_bill(bill: dict[str, Any], curated: dict[str, Any] | None = None
         del rec["identifiers"]
     if not rec["pre_parliamentary"]:
         del rec["pre_parliamentary"]
+    for key in ("summary", "press"):
+        if not rec[key]:
+            del rec[key]
     if not rec["budget_office_analyses"]:
         del rec["budget_office_analyses"]
     if rec["citation"] is None:

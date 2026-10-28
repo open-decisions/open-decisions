@@ -74,6 +74,16 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/49/fname_1670037.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/49/fnameorig_1670037.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/49/fname_1671388.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0185#XXVIII_A_00049
+  date: '2025-03-25'
+  title: Neu im Gesundheitsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0371#XXVIII_A_00049
+  date: '2025-05-09'
+  title: 'Gesundheitsausschuss: Aus für Vollspaltenböden in der Schweinehaltung ab Mitte 2034'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0386#XXVIII_A_00049
+  date: '2025-05-13'
+  title: Nationalrat beschließt Aus für Vollspaltenböden in der Schweinehaltung ab Mitte 2034
 measures: []
 sources:
 - id: parl-detail
@@ -81,9 +91,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 49/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/49?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

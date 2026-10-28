@@ -170,6 +170,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/279/fname_1720295.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/279/imfname_1720297.pdf
+summary:
+- Die Rechtsprechung des OGH zu § 6 Abs. 2 Z 4 KSchG wird positiviert
+- Bei der Anknüpfung an eine frühere Indexzahl werden klare Kriterien für die Prüfung nach § 879 Abs. 3 ABGB vorgegeben
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1018#XXVIII_I_00279
+  date: '2025-11-13'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1077#XXVIII_I_00279
+  date: '2025-11-25'
+  title: Justizausschuss einstimmig für Maßnahmen gegen "Parkplatz-Abzocke"
+  heading: Regierungsvorlage zu Wertsicherungsklauseln in Mietverträgen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1173#XXVIII_I_00279
+  date: '2025-12-11'
+  title: 'Nationalrat: Einstimmigkeit für Maßnahmen gegen "Parkplatz-Abzocke"'
+  heading: Wertsicherungsklauseln in Mietverträgen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1210#XXVIII_I_00279
+  date: '2025-12-17'
+  title: Bundesrat einstimmig für Maßnahmen gegen "Parkplatz-Abzocke"
+  heading: Wertsicherungsklauseln in Mietverträgen
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +196,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 279 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/279?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

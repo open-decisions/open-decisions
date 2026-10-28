@@ -165,6 +165,23 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/410/fname_1741151.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/410/imfname_1741153.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0155#XXVIII_I_00410
+  date: '2026-03-02'
+  title: Neu im Verkehrsausschuss
+  heading: IVS-Novelle bringt Anpassungen an EU-Vorgaben
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0223#XXVIII_I_00410
+  date: '2026-03-19'
+  title: 'Verkehrsausschuss: Grünes Licht für Anpassungen zu intelligenten Verkehrssystemen und Notfallbetrieb von Straßentunneln'
+  heading: Novelle bringt Anpassungen an EU-Vorgaben zu intelligenten Verkehrssystemen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0247#XXVIII_I_00410
+  date: '2026-03-25'
+  title: 'Nationalrat: Einhellige Zustimmung für Anpassungen zu intelligenten Verkehrssystemen'
+  heading: EU-Anpassungen zu intelligenten Verkehrssystemen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0308#XXVIII_I_00410
+  date: '2026-04-10'
+  title: Verkehrssicherheitspaket für E-Fahrzeuge und Gesetzesrahmen für automatisierte Zufahrtskontrollen passiert den Bundesrat
+  heading: 'Führerscheingesetz: Vereinfachungen und Vorgehen gegen Prüfungsbetrug'
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +189,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 410 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/410?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

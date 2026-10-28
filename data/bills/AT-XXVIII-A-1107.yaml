@@ -3,12 +3,27 @@ jurisdiction: AT
 lang: de-AT
 id: AT/XXVIII/A/1107
 type: members_bill
-title: Paketsteuergesetz – PakStG
+title: Paketsteuergesetz, Änderung
 citation: 1107/A
 parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1107
 introduced: '2026-10-15'
 introduced_by:
 - Michael Fürtbauer
+identifiers:
+  eurovoc:
+  - Handel
+  - Industrie
+  - Internet
+  - Steuerwesen
+  - Unternehmen und Wettbewerb
+  topics:
+  - Budget und Finanzen
+  - Information und Medien
+  - Wirtschaft
+  keywords:
+  - Steuern und Gebühren
+  - Handel, Gewerbe und Industrie
+  - Internet
 status:
   stage: committee
   source_status: '2'
@@ -38,7 +53,13 @@ phases:
   text: '104. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Wirtschaft, Industrie und Energie'
   url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/104
 vote: null
-documents: {}
+documents:
+  law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1107/fname_1784828.pdf
+  law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1107/fnameorig_1784828.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1012#XXVIII_A_01107
+  date: '2026-10-23'
+  title: Neu im Wirtschaftsausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -46,9 +67,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1107/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1107?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

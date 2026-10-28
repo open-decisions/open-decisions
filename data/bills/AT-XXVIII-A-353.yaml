@@ -155,6 +155,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/353/fname_1694128.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/353/fnameorig_1694128.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/353/fname_1694487.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0580#XXVIII_A_00353
+  date: '2025-06-23'
+  title: Neu im Verfassungsausschuss
+  heading: Kabinettsmitarbeiter:innen sollen an Social-Media-Accounts von Minister:innen mitwirken dürfen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0612#XXVIII_A_00353
+  date: '2025-06-26'
+  title: 'Social-Media-Accounts von Regierungsmitgliedern: Verfassungsausschuss billigt Novelle zum Parteiengesetz'
+  heading: Neue Regeln für Social-Media-Accounts
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0664#XXVIII_A_00353
+  date: '2025-07-09'
+  title: 'Social-Media-Accounts von Politiker:innen: Nationalrat gibt grünes Licht für Gesetzesnovelle'
+  heading: Entscheidungen des UPTS von Rückwirkung nicht umfasst
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0720#XXVIII_A_00353
+  date: '2025-07-17'
+  title: Bundesrat will Zugang zu spezieller Strafregisterbescheinigung für Tätigkeiten mit Kindern und Jugendlichen erleichtern
+  heading: FPÖ kritisiert neue Regeln für Social-Media-Accounts von Politiker:innen
 measures: []
 sources:
 - id: parl-detail
@@ -162,9 +179,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 353/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/353?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

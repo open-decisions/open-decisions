@@ -167,6 +167,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/203/fname_1710740.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/203/imfname_1710742.pdf
+summary:
+- Festlegung von Behördenzuständigkeiten und von Strafbestimmungen
+- Umsetzung RL 2016/97 IDD
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0807#XXVIII_I_00203
+  date: '2025-09-26'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0833#XXVIII_I_00203
+  date: '2025-10-01'
+  title: 'Wirtschaftsausschuss: Debatte über Wirtschaftsförderung und ausländische Direktinvestitionen'
+  heading: Anpassungen an EU-Vorgaben in der Gewerbeordnung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0899#XXVIII_I_00203
+  date: '2025-10-15'
+  title: Nationalrat gibt grünes Licht für Entlastung der Industrie bei Stromkosten
+  heading: Anpassungen in der Gewerbeordnung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0956#XXVIII_I_00203
+  date: '2025-10-23'
+  title: Stromkostenausgleich für Industrie nimmt im Bundesrat die letzte parlamentarische Hürde
+  heading: Gewerbeordnung novelliert
 measures: []
 sources:
 - id: parl-detail
@@ -174,9 +193,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 203 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/203?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

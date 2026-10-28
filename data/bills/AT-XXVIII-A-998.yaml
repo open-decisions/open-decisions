@@ -72,6 +72,13 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/998/fname_1771832.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/998/fnameorig_1771832.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0769#XXVIII_A_00998
+  date: '2026-07-24'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0918#XXVIII_A_00998
+  date: '2026-10-07'
+  title: 'Wirtschaftsausschuss: Grünes Licht für Paket zu Versorgungssicherheit bei Energie'
 measures: []
 sources:
 - id: parl-detail
@@ -79,9 +86,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 998/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/998?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

@@ -3,7 +3,7 @@ jurisdiction: AT
 lang: de-AT
 id: AT/XXVIII/A/1162
 type: members_bill
-title: Qualitäts-Journalismus-Förderungs-Gesetz
+title: Qualitäts-Journalismus-Förderungs-Gesetz, Änderung
 citation: 1162/A
 parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1162
 introduced: '2026-10-15'
@@ -11,6 +11,13 @@ introduced_by:
 - Mag. Wolfgang Gerstl
 - Klaus Seltenheim
 - Henrike Brandstötter
+identifiers:
+  eurovoc:
+  - Presse
+  topics:
+  - Information und Medien
+  keywords:
+  - Presse
 status:
   stage: committee
   source_status: '2'
@@ -38,10 +45,41 @@ phases:
   date: '2026-10-15'
   text: '104. Sitzung des Nationalrates : Zuweisung an den Verfassungsausschuss'
   url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/104
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-22'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 16. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16964576.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-22'
+  text: 'Verfassungsausschuss: Bericht 682 d.B.'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/682
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-22'
+  text: 'Verfassungsausschuss: Selbständiger Antrag betreffend KommAustria-Gesetz (683 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/683
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-22'
+  text: 'Verfassungsausschuss: Selbständiger Antrag betreffend Zeitungszustellungs-Förderungsgesetz – ZZFG, KommAustria-Gesetz
+    u.a. (684 d.B.)'
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/I/684
 vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1162/fname_1784211.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1162/fnameorig_1784211.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1162/fname_1784450.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0955#XXVIII_A_01162
+  date: '2026-10-16'
+  title: Neu im Verfassungsausschuss
+  heading: Unabhängige Kontaktstelle zum Schutz von Journalistinnen und Journalisten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1000#XXVIII_A_01162
+  date: '2026-10-22'
+  title: 'Medienpaket: Verfassungsausschuss gibt grünes Licht für neue Zustellförderung'
+  heading: Unabhängige Kontaktstelle zum Schutz von Journalistinnen und Journalisten
 measures: []
 sources:
 - id: parl-detail
@@ -49,9 +87,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1162/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1162?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

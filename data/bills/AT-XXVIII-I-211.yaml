@@ -168,6 +168,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/211/fname_1711878.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/211/imfname_1711880.pdf
+summary:
+- Aufenthaltstitel für drittstaatsangehörige Grenzgänger
+- Arbeitsmarktzugang für drittstaatsangehörige Grenzgänger
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0805#XXVIII_I_00211
+  date: '2025-09-26'
+  title: Neu im Sozialausschuss
+  heading: Eigener Aufenthaltstitel für Grenzgänger:innen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0869#XXVIII_I_00211
+  date: '2025-10-08'
+  title: 'Bildungskarenz: Sozialausschuss gibt grünes Licht für neue Weiterbildungsbeihilfe'
+  heading: Eigener Aufenthaltstitel für Grenzgänger:innen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0907#XXVIII_I_00211
+  date: '2025-10-16'
+  title: 'Nationalrat: Weiterbildungsbeihilfe als Nachfolgeregelung der Bildungskarenz mehrheitlich beschlossen'
+  heading: Neuer Aufenthaltstitel "Grenzgänger"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0961#XXVIII_I_00211
+  date: '2025-10-24'
+  title: 'Bundesrat: Grünes Licht für Weiterbildungsbeihilfe, Pensionsanpassung 2026, EU-Rezept und EU-Patientenakte'
+  heading: Verschärfte Auflagen bei Weiterbildungsbeihilfe
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +195,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 211 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/211?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

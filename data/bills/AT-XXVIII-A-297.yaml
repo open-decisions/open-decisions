@@ -53,6 +53,15 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/297/fname_1688039.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/297/fnameorig_1688039.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0627#XXVIII_A_00297
+  date: '2025-06-30'
+  title: Neu im Gesundheitsausschuss
+  heading: Grüne fordern Anerkennung des Parkinson-Syndroms als Berufskrankheit
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0881#XXVIII_A_00297
+  date: '2025-10-09'
+  title: Gesundheitsausschuss diskutiert Gentechnik, Tierschutz und Lebensmittel- sowie Produktsicherheit
+  heading: Grüne fordern Anerkennung des Parkinson-Syndroms als Berufskrankheit
 measures: []
 sources:
 - id: parl-detail
@@ -60,9 +69,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 297/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/297?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

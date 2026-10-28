@@ -80,6 +80,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/6/fname_1658654.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/6/fnameorig_1658654.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/6/fname_1659289.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1018#XXVIII_A_00006
+  date: '2024-10-30'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1045#XXVIII_A_00006
+  date: '2024-11-14'
+  title: Budgetausschuss vertagt FPÖ-Antrag zur Handysicherstellung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1094#XXVIII_A_00006
+  date: '2024-12-09'
+  title: 'Handysicherstellung: Breite Mehrheit im Budgetausschuss für Paket zur Neuregelung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1099#XXVIII_A_00006
+  date: '2024-12-11'
+  title: Breite Mehrheit im Nationalrat für Gesetzespaket zur Handysicherstellung
+  heading: FPÖ fordert Auswertung der Daten durch Gericht
 measures: []
 sources:
 - id: parl-detail
@@ -87,9 +101,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 6/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/6?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

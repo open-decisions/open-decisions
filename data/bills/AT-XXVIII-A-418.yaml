@@ -58,6 +58,11 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/418/fname_1712697.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/418/fnameorig_1712697.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0806#XXVIII_A_00418
+  date: '2025-09-26'
+  title: Neu im Verfassungsausschuss
+  heading: Neutralität als Verfassungsprinzip
 measures: []
 sources:
 - id: parl-detail
@@ -65,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 418/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/418?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

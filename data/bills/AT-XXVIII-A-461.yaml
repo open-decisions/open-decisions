@@ -59,6 +59,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/461/fname_1712353.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/461/fnameorig_1712353.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0814#XXVIII_A_00461
+  date: '2025-09-29'
+  title: Neu im Sozialausschuss
+  heading: Erweiterte Befugnisse bei der Arzneimittelverschreibung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0866#XXVIII_A_00461
+  date: '2025-10-08'
+  title: 'Trinkgeld: Sozialausschuss befürwortet einheitliche Pauschale'
+  heading: Grünen-Anträge vertagt
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0111#XXVIII_A_00461
+  date: '2026-02-18'
+  title: 'Pensionen, Pflege und Menschen mit Behinderungen: Sozialausschuss vertagt Oppositionsanliegen'
+  heading: Oppositionsforderungen im Pflegebereich
 measures: []
 sources:
 - id: parl-detail
@@ -66,9 +79,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 461/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/461?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

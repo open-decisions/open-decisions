@@ -181,6 +181,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/90/fname_1685695.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/90/imfname_1685697.pdf
+summary:
+- Änderung des GütbefG
+- Änderung des GelverkG
+- Änderung des KflG
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0415#XXVIII_I_00090
+  date: '2025-05-19'
+  title: Neu im Verkehrsausschuss
+  heading: EU-konforme Erfassung von Daten von Transportunternehmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0646#XXVIII_I_00090
+  date: '2025-07-03'
+  title: 'Verkehrsausschuss: Anpassungen an EU-Vorgaben in der Binnenschifffahrt und im Transportgewerbe'
+  heading: EU-konforme Erfassung von Daten von Transportunternehmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0691#XXVIII_I_00090
+  date: '2025-07-11'
+  title: Nationalrat behandelt ÖBB-Rahmenplan für 2025-2030
+  heading: EU-konforme Erfassung von Daten von Transportunternehmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0720#XXVIII_I_00090
+  date: '2025-07-17'
+  title: Bundesrat will Zugang zu spezieller Strafregisterbescheinigung für Tätigkeiten mit Kindern und Jugendlichen erleichtern
+  heading: 'Grüne: Gesetzesnovelle bringt Rechtssicherheit'
 measures: []
 sources:
 - id: parl-detail
@@ -188,9 +209,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 90 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/90?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

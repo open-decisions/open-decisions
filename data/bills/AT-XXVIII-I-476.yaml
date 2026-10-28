@@ -171,6 +171,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/476/fname_1753705.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/476/imfname_1753707.pdf
+summary:
+- Erweiterte Aushändigungspflicht von Energieausweisen
+- Angabe der Gesamtenergieeffizienzklasse in Druckwerken und elektronischen Medien
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0362#XXVIII_I_00476
+  date: '2026-04-27'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0421#XXVIII_I_00476
+  date: '2026-05-12'
+  title: 'Justizausschuss: Dreierkoalition schickt Neuerungen zu Gebäude-Energieausweisen ins Plenum'
+  heading: Regierungsvorlage zu Energieausweisen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0451#XXVIII_I_00476
+  date: '2026-05-21'
+  title: Nationalrat beschließt Paket für mehr Schutz bei Verbraucher-Kleinkrediten
+  heading: Bessere Information durch Energieausweise
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0512#XXVIII_I_00476
+  date: '2026-06-03'
+  title: Bundesrat befürwortet Verbraucherkreditgesetz und neue Energieausweis-Pflichten
+  heading: Neue Energieausweis-Pflichten
 measures: []
 sources:
 - id: parl-detail
@@ -178,9 +197,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 476 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/476?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

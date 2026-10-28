@@ -185,6 +185,22 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/525/fname_1763531.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/525/imfname_1763533.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0568#XXVIII_I_00525
+  date: '2026-06-16'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0647#XXVIII_I_00525
+  date: '2026-06-30'
+  title: Anpassung des Sterbeverfügungsgesetzes passiert Justizausschuss
+  heading: Erleichterungen bei Erneuerungen von Sterbeverfügungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0703#XXVIII_I_00525
+  date: '2026-07-07'
+  title: Nationalrat genehmigt einhellig EU- Verbraucherschutzvorgaben
+  heading: Erneuerungen von Sterbeverfügungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0740#XXVIII_I_00525
+  date: '2026-07-15'
+  title: Bundesrat spricht sich für Widerrufsbutton bei Online-Verträgen sowie für neue Reparaturverpflichtungen aus
+  heading: Erneuerung von Sterbeverfügungen wird vereinfacht
 measures: []
 sources:
 - id: parl-detail
@@ -192,9 +208,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 525 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/525?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

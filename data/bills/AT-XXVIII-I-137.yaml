@@ -183,6 +183,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/137/fname_1694032.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/137/fnameorig_1694032.html
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/137/fname_1694034.pdf
+summary:
+- Verkürzung Bezugsdauer Altersteilzeitgeld auf 3 Jahre
+- Einführung einer Teilpension
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0587#XXVIII_I_00137
+  date: '2025-06-23'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0642#XXVIII_I_00137
+  date: '2025-07-02'
+  title: Sozialausschuss ebnet Weg für Einführung der Teilpension
+  heading: Einführung einer Teilpension
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0675#XXVIII_I_00137
+  date: '2025-07-10'
+  title: Nationalrat beschließt neue Teilpension
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0717#XXVIII_I_00137
+  date: '2025-07-17'
+  title: Bundesrat gibt grünes Licht für Teilpension
 measures: []
 sources:
 - id: parl-detail
@@ -190,9 +207,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 137 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/137?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

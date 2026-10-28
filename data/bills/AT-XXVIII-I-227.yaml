@@ -182,6 +182,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/227/fname_1714896.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/227/imfname_1714898.pdf
+summary:
+- Festlegung der Dauer des 75%-Bonus für emissionsfreie Fahrzeuge bei der Anlastung der Infrastrukturkosten bis Ende 2030
+- Vollständiger Umstieg auf die digitale Vignette ab dem Vignettenjahr 2027
+- Erhöhung des Maximalbetrags der Ersatzmaut
+- Neuregelung der Tarifbestimmungen über die Anlastung der verkehrsbedingt durch CO2- Emissionen entstehenden Kosten für das
+  Jahr 2026
+- Einmaliger Entfall der Valorisierung der Tarife zur Anlastung der Infrastrukturkosten für das Jahr 2026
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0884#XXVIII_I_00227
+  date: '2025-10-10'
+  title: Neu im Verkehrsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1006#XXVIII_I_00227
+  date: '2025-11-06'
+  title: Verkehrsausschuss beschließt Aus für Klebevignette ab Ende 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1046#XXVIII_I_00227
+  date: '2025-11-20'
+  title: Nationalrat beschließt mit Mehrheit neue Mautsätze und Abschaffung der Klebevignetten
+  heading: Mit Ende 2026 nur mehr digitale Mautvignetten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1138#XXVIII_I_00227
+  date: '2025-12-04'
+  title: 'Bundesrat: Mehrheit für Abschaffung der Klebevignetten'
+  heading: Mit Ende 2026 nur mehr digitale Mautvignetten
 measures: []
 sources:
 - id: parl-detail
@@ -189,9 +211,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 227 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/227?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

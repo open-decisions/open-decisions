@@ -1161,6 +1161,40 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/310/fname_1723260.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/310/imfname_1723262.pdf
+summary:
+- Verschärfte steuerliche Behandlung von Zuwendungen ausländischer stiftungsähnlicher Gebilde
+- Erweiterung der Auftraggeberhaftung im Baubereich in Fällen der Arbeitskräfteüberlassung
+- Abschaffung des Vorsteuerabzugs bei Vermietung von Luxusimmobilien (besonders repräsentative Grundstücke)
+- Einführung von Bestimmungen zur Beschlagnahme von Datenträgern und Daten aufgrund der Judikatur des VfGH
+- Reform zur Entlastung der Spruchsenate
+- Erleichterung der Anwendbarkeit des Verkürzungszuschlags
+- Einführung eines Straftatbestandes bei Erklärung ungerechtfertigter Verluste
+- Begrenzung der Annahmeverpflichtung von Bargeld zur Bekämpfung von Geldwäscherei
+- Ausweitung des Vorrechts bestimmter Abgaben bei insolvenzrechtlichen Anfechtungstatbeständen
+- Unionskonforme Anpassung der Vergütung und Vereinfachung der Tatbestände der Normverbrauchsabgabe (NoVA)
+- Klarstellungen und Ergänzungen im COFAG Neuordnungs- und Abwicklungsgesetz (COFAG-NoAG)
+- Durchbrechung des Wiederholungsverbots bei abgabenbehördlichen Prüfungen
+- Befugniserweiterung für Zollorgane bei Kontrollen im Bereich Verbote und Beschränkungen
+- Normierung von Datenübermittlungspflichten im Rahmen der Überwachung grenzüberschreitend tätiger Beförderungsunternehmen
+- Anpassung der Sicherheitsleistung bei Zuwiderhandlungen gegen die Zollverwaltung bei Vollziehung übertragener Vorschriften
+- Schaffung einer Schnittstelle zur Sozialversicherung (SV) für eine regelmäßige Übermittlung der Versicherungsdaten
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1053#XXVIII_I_00310
+  date: '2025-11-20'
+  title: 'Betrugsbekämpfung, Preistransparenz und Co: Wirtschafts- und Finanzausschuss schicken sechs Regierungsvorlagen in
+    Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1084#XXVIII_I_00310
+  date: '2025-11-26'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1117#XXVIII_I_00310
+  date: '2025-12-02'
+  title: Betrugsbekämpfungspaket passiert Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1164#XXVIII_I_00310
+  date: '2025-12-10'
+  title: Nationalrat setzt Maßnahmen zur Betrugsbekämpfung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1217#XXVIII_I_00310
+  date: '2025-12-18'
+  title: Bundesrat stimmt für Gesetzespaket zur Betrugsbekämpfung und für die Senkung der Elektrizitätsabgabe
 measures: []
 sources:
 - id: parl-detail
@@ -1168,9 +1202,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 310 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/310?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

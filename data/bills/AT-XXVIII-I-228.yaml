@@ -127,6 +127,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/228/fname_1714905.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/228/imfname_1714906.pdf
+summary:
+- Zeichnung zusätzlicher Rufkapitalanteile im Rahmen der generellen Rufkapitalerhöhung der AfEB
+- Unterstützung der Menschen in Entwicklungsländern
+- Überwachung der Leistung der österreichischen Beiträge zu IDA-21 und AsEF-14
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0933#XXVIII_I_00228
+  date: '2025-10-21'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1116#XXVIII_I_00228
+  date: '2025-12-02'
+  title: Finanzausschuss gibt grünes Licht für Abgabenänderungsgesetz 2025
+  heading: Österreichische Beiträge an internationale Finanzinstitutionen 2025
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1163#XXVIII_I_00228
+  date: '2025-12-10'
+  title: Nationalrat gibt grünes Licht für Abgabenänderungsgesetz 2025
 measures: []
 sources:
 - id: parl-detail
@@ -134,9 +149,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 228 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/228?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

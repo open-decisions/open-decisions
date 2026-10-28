@@ -188,6 +188,24 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/298/fname_1722549.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/298/imfname_1722551.pdf
+summary:
+- Schaffung einer Suspendierungsbegleitung
+- Verhinderung von Bildungsabbrüchen und nachhaltige Steigerung der Qualität an Schulen
+- Einführung eines Verbotes des Tragens von Kopftüchern islamischer Traditionen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1110#XXVIII_I_00298
+  date: '2025-11-28'
+  title: Neu im Bildungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1139#XXVIII_I_00298
+  date: '2025-12-04'
+  title: Bildungsausschuss stimmt mehrheitlich für Kopftuchverbot in der Schule für Mädchen bis 14 Jahre
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1172#XXVIII_I_00298
+  date: '2025-12-11'
+  title: 'Nationalrat: Kopftuchverbot in Schulen für Mädchen bis 14 Jahren mehrheitlich beschlossen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1221#XXVIII_I_00298
+  date: '2025-12-18'
+  title: Kopftuchverbot für Mädchen bis 14 Jahre in Schulen nimmt letzte Hürde im Bundesrat
+  heading: 'Schulrechtsnovelle: Kopftuchverbot, Suspendierungsbegleitung und verpflichtende Perspektivengespräche'
 measures: []
 sources:
 - id: parl-detail
@@ -195,9 +213,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 298 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/298?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

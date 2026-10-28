@@ -177,6 +177,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/531/fname_1763663.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/531/imfname_1763664.pdf
+summary:
+- Aufnahme neuer Produkte (tabakfreies Nikotinerzeugnis, tabakfreies Nikotinersatzerzeugnis in das Regelungsregime des TNRSG)
+- Verbot von elektronischen Zigaretten, die Einwegprodukte sind
+- Konkretisierung des Versandhandelsverbots
+- Umsetzung der Durchführungsbeschlüsse (EU) 2016/586 und (EU) 2015/1735
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0577#XXVIII_I_00531
+  date: '2026-06-17'
+  title: Neu im Gesundheitsausschuss
+  heading: 'Nichtraucherschutzgesetz: Verbot von Einweg-E-Zigaretten ab Ende des Jahres'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0604#XXVIII_I_00531
+  date: '2026-06-23'
+  title: Gesundheitsausschuss beschließt das Verbot von Einweg-E-Zigaretten ab Ende des Jahres
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0702#XXVIII_I_00531
+  date: '2026-07-07'
+  title: 'Nationalrat: Aus für Einweg-E-Zigaretten und strengere Strafen für das Wegwerfen von Nikotinprodukten auf Spielplätzen'
+  heading: Umfassendes Schutzniveau durch Einbeziehung aller Einstiegsprodukte für den Tabakkonsum
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_I_00531
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
+  heading: Verbot von Einweg-E-Zigaretten
 measures: []
 sources:
 - id: parl-detail
@@ -184,9 +205,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 531 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/531?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

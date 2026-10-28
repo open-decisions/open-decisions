@@ -67,6 +67,22 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/55/fname_1670038.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/55/fnameorig_1670038.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0091#XXVIII_A_00055
+  date: '2025-03-03'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0251#XXVIII_A_00055
+  date: '2025-04-02'
+  title: 'Hattmannsdorfer: Handwerkerbonus soll evaluiert werden'
+  heading: Grüne wollen Kammerumlage 2 für Wirtschaftskammer streichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0603#XXVIII_A_00055
+  date: '2025-06-25'
+  title: 'Bundeswettbewerbsbehörde: Fokus auf Belebung des Wettbewerbs in Energiemärkten'
+  heading: 'WKO: Grüne und FPÖ für Abschaffung der Kammerumlage 2'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0292#XXVIII_A_00055
+  date: '2026-04-08'
+  title: 'KMU im Fokus: Kleine und mittlere Betriebe sollen von Industriestrategie profitieren'
+  heading: Grüne für Abschaffung der Kammerumlage 2
 measures: []
 sources:
 - id: parl-detail
@@ -74,9 +90,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 55/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/55?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

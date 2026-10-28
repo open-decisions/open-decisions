@@ -163,6 +163,21 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/412/fname_1712051.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/412/fnameorig_1712051.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0808#XXVIII_A_00412
+  date: '2025-09-26'
+  title: Neu im Wissenschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0835#XXVIII_A_00412
+  date: '2025-10-01'
+  title: Wissenschaftsausschuss beschließt Österreich-Quote für Psychotherapie-Studium
+  heading: Österreich-Quote für Masterstudium Psychotherapie
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0898#XXVIII_A_00412
+  date: '2025-10-15'
+  title: Nationalrat regelt Details des Studiums der Psychotherapie im Universitätsgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0953#XXVIII_A_00412
+  date: '2025-10-23'
+  title: Debatte zu Wissenschaftsfreiheit und Demokratie im Bundesrat
+  heading: Quotenregelung für Masterstudium Psychotherapie
 measures: []
 sources:
 - id: parl-detail
@@ -170,9 +185,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 412/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/412?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

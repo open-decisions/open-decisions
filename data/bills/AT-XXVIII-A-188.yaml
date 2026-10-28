@@ -72,6 +72,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/188/fname_1674704.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/188/fnameorig_1674704.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0226#XXVIII_A_00188
+  date: '2025-03-28'
+  title: Neu im Justizausschuss
+  heading: 'Grüne: Ehefähigkeit erst ab Volljährigkeit'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0237#XXVIII_A_00188
+  date: '2025-04-01'
+  title: Justizausschuss spricht sich gegen Senkung des Strafmündigkeitsalters aus
+  heading: 'Grünen-Vorstoß: Ehefähigkeit erst ab Volljährigkeit'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0597#XXVIII_A_00188
+  date: '2025-06-24'
+  title: 'Justizausschuss: Einstimmigkeit für Eheverbot unter 18 samt Ausweitung des Verwandten-Eheverbots'
+  heading: Regierungsvorlage für Eheverbot für Minderjährige
 measures: []
 sources:
 - id: parl-detail
@@ -79,9 +92,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 188/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/188?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

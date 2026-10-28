@@ -190,6 +190,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/443/fname_1746963.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/443/imfname_1746965.pdf
+summary:
+- Änderung des Niederlassungs- und Aufenthaltsgesetzes
+- Änderung des Ausländerbeschäftigungsgesetzes
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0248#XXVIII_I_00443
+  date: '2026-03-25'
+  title: Nationalrat nominiert Ronald Faber als neues VfGH-Ersatzmitglied
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0299#XXVIII_I_00443
+  date: '2026-04-10'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0315#XXVIII_I_00443
+  date: '2026-04-14'
+  title: 'Asyl- und Migrationspakt: Innenausschuss genehmigt Anpassungsgesetz'
+  heading: Grundzüge des Asyl- und Migrationspakt-Anpassungsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0440#XXVIII_I_00443
+  date: '2026-05-20'
+  title: 'Asyl- und Migrationspakt: Nationalrat beschließt Anpassungsgesetz'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0511#XXVIII_I_00443
+  date: '2026-06-03'
+  title: Bundesrat besiegelt Anpassungsgesetz zu Asyl- und Migrationspakt
 measures: []
 sources:
 - id: parl-detail
@@ -197,9 +217,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 443 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/443?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

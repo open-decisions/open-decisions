@@ -91,6 +91,19 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/937/fname_1764286.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/937/fnameorig_1764286.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/937/fname_1764496.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0573#XXVIII_A_00937
+  date: '2026-06-17'
+  title: Neu im Sozialausschuss
+  heading: Sonderbestimmung zu Pensionsanpassung 2027
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0661#XXVIII_A_00937
+  date: '2026-07-01'
+  title: Sozialausschuss ebnet Weg für Sonderbestimmung zur Pensionsanpassung 2027
+  heading: Ergänzende Bestimmung zum Budgetbegleitgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0700#XXVIII_A_00937
+  date: '2026-07-07'
+  title: 'Sonderbestimmung zur Pensionsanpassung 2027: Opposition lässt Regierungsparteien vorerst abblitzen'
+  heading: Grüne pochen auf weitere Begrenzung von "Luxuspensionen"
 measures: []
 sources:
 - id: parl-detail
@@ -98,9 +111,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 937/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/937?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

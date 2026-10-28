@@ -61,6 +61,14 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/21/fname_1666479.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/21/fnameorig_1666479.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/21/fname_1666529.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0024#XXVIII_A_00021
+  date: '2025-01-28'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0526#XXVIII_A_00021
+  date: '2025-06-12'
+  title: Neu im Petitionsausschuss
+  heading: Kritik an den WHO-Gesundheitsvorschriften
 measures: []
 sources:
 - id: parl-detail
@@ -68,9 +76,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 21/A und Zu 21/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/21?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

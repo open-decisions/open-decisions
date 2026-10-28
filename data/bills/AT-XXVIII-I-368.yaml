@@ -166,6 +166,30 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/368/fname_1728793.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/368/imfname_1728795.pdf
+summary:
+- Einführung einer verpflichtenden Teilnahme an der Sommerschule für außerordentliche Schülerinnen und Schüler
+- Aufnahme von Schülerinnen und Schülern aus der Deutschförderung in die 1. Stufe der Mittelschule
+- Erhöhung der schulautonomen Entscheidungsmöglichkeiten hinsichtlich Aufstieg und Übertritt von Schülerinnen und Schülern
+  im außerordentlichen Status
+- Verwaltungsvereinfachung durch die Reduktion der Testverpflichtung auf eine MIKA-D-Testung jährlich
+- Ermächtigung zur schulautonomen Semestrierung der Lehrpläne
+- Möglichkeit zur Verordnung von Ersatzterminen von abschließenden Prüfungen in besonderen Situationen (zB Katastrophenfälle)
+- Ermächtigung Veranstaltungen zu schulbezogenen zu erklären
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1235#XXVIII_I_00368
+  date: '2025-12-30'
+  title: Neu im Bildungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0013#XXVIII_I_00368
+  date: '2026-01-14'
+  title: Bildungsausschuss beschließt verpflichtende Sommerschule und mehr Schulautonomie zur Förderung von Deutschkenntnissen
+  heading: Verpflichtende Sommerschule für außerordentliche Schülerinnen und Schüler
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0032#XXVIII_I_00368
+  date: '2026-01-21'
+  title: Nationalrat beschließt verpflichtende Sommerschule und Absicherung für Ausbau ganztägiger Schulformen
+  heading: Sommerschule soll helfen, Zahl außerordentlicher Schülerinnen und Schüler zu verringern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0090#XXVIII_I_00368
+  date: '2026-02-05'
+  title: Ausbau der Deutschförderung durch verpflichtende Teilnahme an Sommerschule
 measures: []
 sources:
 - id: parl-detail
@@ -173,9 +197,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 368 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/368?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

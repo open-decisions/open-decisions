@@ -170,6 +170,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/295/fname_1722518.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/295/imfname_1722520.pdf
+summary:
+- Schaffung von drei Gesundheitsreformfonds
+- Dotierung der Gesundheitsreformfonds
+- Verwendung der Mittel aus den Gesundheitsreformfonds
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1069#XXVIII_I_00295
+  date: '2025-11-24'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1127#XXVIII_I_00295
+  date: '2025-12-03'
+  title: Sozialausschuss setzt Gesundheitsreformfonds auf Schiene
+  heading: Dreiteiliger Gesundheitsreformfonds
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1177#XXVIII_I_00295
+  date: '2025-12-11'
+  title: Nationalrat macht Weg für Gesundheitsreformfonds frei
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1220#XXVIII_I_00295
+  date: '2025-12-18'
+  title: Bundesrat spricht sich für Verbesserungen für NS-Opfer, Gesundheitsreformfonds und Tourismusbeschäftigtenfonds aus
+  heading: Gesundheitsreformfonds mehrheitlich angenommen
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +196,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 295 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/295?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

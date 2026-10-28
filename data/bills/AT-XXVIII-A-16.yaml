@@ -229,6 +229,32 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/16/fname_1660895.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/16/fnameorig_1660895.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/16/fname_1661118.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1062#XXVIII_A_00016
+  date: '2024-11-22'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0062#XXVIII_A_00016
+  date: '2025-02-21'
+  title: 'Budgetausschuss: Mayr rechnet mit einem Maastricht-Defizit von rund 3,9 %'
+  heading: Grüne für neuen Wahlmodus beim Nationalfonds
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0107#XXVIII_A_00016
+  date: '2025-03-06'
+  title: 'Budgetausschuss: Anspruch auf Familienleistungen für ukrainische Vertriebene um ein halbes Jahr verlängert'
+  heading: Antrag der Grünen zum Nationalfonds wird dem Verfassungsausschuss zugewiesen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0115#XXVIII_A_00016
+  date: '2025-03-07'
+  title: 'Nationalrat: Frage der Leitung des Nationalfonds wird im Verfassungsausschuss weiterbehandelt'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0146#XXVIII_A_00016
+  date: '2025-03-13'
+  title: NS-Opfer-Fonds könnte bald neuen Vorsitzenden bekommen
+  heading: Breite Mehrheit für Änderung des Nationalfonds-Gesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0204#XXVIII_A_00016
+  date: '2025-03-27'
+  title: Nationalrat beschließt Novelle des Nationalfonds-Gesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0280#XXVIII_A_00016
+  date: '2025-04-10'
+  title: Bundesrat besiegelt Novellen zum Nationalfonds und zum ORF-Gesetz
+  heading: Nationalfonds-Vorsitzender kann ersetzt werden
 measures: []
 sources:
 - id: parl-detail
@@ -236,9 +262,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 16/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/16?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

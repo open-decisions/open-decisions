@@ -72,6 +72,21 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/149/fname_1673961.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/149/fnameorig_1673961.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0215#XXVIII_A_00149
+  date: '2025-03-28'
+  title: Neu im Ausschuss für Menschenrechte und Volksanwaltschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0439#XXVIII_A_00149
+  date: '2025-05-22'
+  title: Nationalrat beschließt einstimmig EU-konforme Bestimmungen zu Lenk- und Ruhezeiten von LKW- und Busfahrer:innen
+  heading: Nationalrat diskutiert über Forderung nach neuem Bestellmodus für Volksanwaltschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0632#XXVIII_A_00149
+  date: '2025-07-01'
+  title: 'Ausschuss für Menschenrechte und Volksanwaltschaft: Diskussion um Reform der Volksanwaltschaft'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0505#XXVIII_A_00149
+  date: '2026-06-02'
+  title: Ausschussberatungen zum Jahresbericht der Volksanwaltschaft
+  heading: Grüne wollen Bestellmechanismus der Volksanwaltschaft reformieren
 measures: []
 sources:
 - id: parl-detail
@@ -79,9 +94,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 149/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/149?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

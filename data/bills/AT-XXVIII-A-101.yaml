@@ -95,6 +95,45 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/101/fname_1671964.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/101/fnameorig_1671964.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/101/fname_1672313.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0153#XXVIII_A_00101
+  date: '2025-03-13'
+  title: Neu im Gesundheitsausschuss
+  heading: Grüne wollen das Impfen in Apotheken ermöglichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0160#XXVIII_A_00101
+  date: '2025-03-18'
+  title: Gesundheitsausschuss einstimmig für neuen Bericht zur Gesundheit von Menschen mit Behinderungen
+  heading: Grüne wollen das Impfen in Apotheken ermöglichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0370#XXVIII_A_00101
+  date: '2025-05-09'
+  title: Gesundheitsausschuss fordert einstimmig Erleichterungen bei Beantragung von Heilbehelfen und Hilfsmitteln
+  heading: Grüne für langfristige Absicherung des Projekts "Gesund aus der Krise" und für Impfen in Apotheken
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0650#XXVIII_A_00101
+  date: '2025-07-03'
+  title: 'Impfen in Apotheken: Gesundheitsausschuss vertagt Initiative der Grünen'
+  heading: Grüne wollen das Impfen in Apotheken ermöglichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0880#XXVIII_A_00101
+  date: '2025-10-09'
+  title: 'Gesundheitsausschuss: Abgeordnete befürworten Fortsetzung des Projekts "Gesund aus der Krise"'
+  heading: Grüne für einheitlichen Gesamtvertrag und Entmachtung der Landesärztekammern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1122#XXVIII_A_00101
+  date: '2025-12-02'
+  title: 'Gesundheitsausschuss: Umsetzung des elektronischen Eltern-Kind-Passes auf 1. Oktober 2026 verschoben'
+  heading: Grüne wollen das Impfen in Apotheken ermöglichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0058#XXVIII_A_00101
+  date: '2026-01-27'
+  title: Gesundheitsausschuss vertagt Forderungen von FPÖ und Grünen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0367#XXVIII_A_00101
+  date: '2026-04-28'
+  title: 'Gesundheitsausschuss: Novelle bringt strengere Werbe- und Gewinnverbote im Bereich der Organtransplantationen'
+  heading: Grüne wollen das Impfen in Apotheken ermöglichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0604#XXVIII_A_00101
+  date: '2026-06-23'
+  title: Gesundheitsausschuss beschließt das Verbot von Einweg-E-Zigaretten ab Ende des Jahres
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0913#XXVIII_A_00101
+  date: '2026-10-06'
+  title: Gesundheitsausschuss vertagt Oppositionsanträge zur Medikamentenversorgung und zum Kostenersatz von Abnehmspritzen
+  heading: Versorgungssicherheit bei Arzneimitteln und Medizinprodukten
 measures: []
 sources:
 - id: parl-detail
@@ -102,9 +141,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 101/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/101?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -187,6 +187,21 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/409/fname_1702428.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/409/fnameorig_1702428.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/409/fname_1703216.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0703#XXVIII_A_00409
+  date: '2025-07-14'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0768#XXVIII_A_00409
+  date: '2025-09-15'
+  title: 'ORF: Gesetzesnovelle sichert Gebührenbefreiung für einkommensschwache Haushalte ab und bringt Entlastungen für Unternehmen'
+  heading: Länder müssen in Bestellung von ORF-Landesdirektor:innen nicht mehr einbezogen werden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0791#XXVIII_A_00409
+  date: '2025-09-24'
+  title: Nationalrat setzt Novelle zum ORF-Beitrags-Gesetz auf Schiene
+  heading: FPÖ fordert vollständige Abschaffung der Haushaltsabgabe
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0873#XXVIII_A_00409
+  date: '2025-10-09'
+  title: Bundesrat legt gegen Novelle zum ORF-Gesetz kein Veto ein
 measures: []
 sources:
 - id: parl-detail
@@ -194,9 +209,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 409/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/409?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

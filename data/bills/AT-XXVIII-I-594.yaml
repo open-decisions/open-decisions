@@ -54,6 +54,15 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/594/fname_1774759.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/594/imfname_1774761.pdf
+summary:
+- Stärkung des Spielerschutzes im legalen Glücksspiel
+- Bekämpfung des illegalen Online-Glücksspiels
+- Bekämpfung des illegalen terrestrischen Glücksspiels Maßnahme
+- Finanzierung von Spielerschutz und Marktbeobachtung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0787#XXVIII_I_00594
+  date: '2026-08-12'
+  title: Neu im Finanzausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 594 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/594?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

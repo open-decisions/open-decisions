@@ -172,6 +172,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/494/fname_1712853.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/494/fnameorig_1712853.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/494/fname_1713021.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0795#XXVIII_A_00494
+  date: '2025-09-25'
+  title: Nationalrat fordert Geschlechtergerechtigkeit in der KI
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0820#XXVIII_A_00494
+  date: '2025-09-29'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0901#XXVIII_A_00494
+  date: '2025-10-15'
+  title: 'Nationalrat: Investitionsfreibetrag für Unternehmen wird vorübergehend auf 20 % verdoppelt'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0956#XXVIII_A_00494
+  date: '2025-10-23'
+  title: Stromkostenausgleich für Industrie nimmt im Bundesrat die letzte parlamentarische Hürde
+  heading: Investitionsfreibetrag für Unternehmen wird vorübergehend verdoppelt
 measures: []
 sources:
 - id: parl-detail
@@ -179,9 +193,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 494/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/494?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

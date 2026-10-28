@@ -188,6 +188,23 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/952/fname_1764430.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/952/fnameorig_1764430.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0567#XXVIII_A_00952
+  date: '2026-06-16'
+  title: Neu im Verkehrsausschuss
+  heading: 'Kraftfahrgesetz: Intervalle für "Pickerl" sollen verlängert werden'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0667#XXVIII_A_00952
+  date: '2026-07-02'
+  title: Verkehrsausschuss beschließt längere Pickerl-Intervalle und weitere Änderungen im Kraftfahrgesetz
+  heading: Änderungen im Kraftfahrgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0691#XXVIII_A_00952
+  date: '2026-07-06'
+  title: Nationalrat beschließt umfangreiche Novellen zu Luftfahrtgesetz und Kraftfahrgesetz
+  heading: Änderung im Kraftfahrgesetz bringt neue Intervalle für Pickerl
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0751#XXVIII_A_00952
+  date: '2026-07-16'
+  title: Novelle für mehr Rechtssicherheit bei Bundesstraßenprojekten passiert den Bundesrat
+  heading: Kraftfahrgesetz legt neue Intervalle für Pickerl-Überprüfungen fest
 measures: []
 sources:
 - id: parl-detail
@@ -195,9 +212,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 952/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/952?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -59,6 +59,18 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/872/fname_1758621.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/872/fnameorig_1758621.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0473#XXVIII_A_00872
+  date: '2026-05-26'
+  title: Neu im Sozialausschuss
+  heading: Anreize zur Beschäftigung von älteren Menschen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0506#XXVIII_A_00872
+  date: '2026-06-02'
+  title: Sozialausschuss schickt Initiativen von FPÖ und Grünen in die Warteschleife
+  heading: 'Grüne: Anreize zur Beschäftigung von älteren Menschen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0807#XXVIII_A_00872
+  date: '2026-09-09'
+  title: 'Sozialausschuss: "Arbeiten im Alter" wird steuerlich begünstigt'
 measures: []
 sources:
 - id: parl-detail
@@ -66,9 +78,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 872/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/872?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

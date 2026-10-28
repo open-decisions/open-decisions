@@ -161,6 +161,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/133/fname_1693632.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/133/imfname_1693634.pdf
+summary:
+- Rechtskonforme Umsetzung von EU-rechtlichen Vorgaben
+- Schaffung von Vorlaufzeiten bei der Umsetzung von EU-Vorgaben
+- Vorgaben Konkretisierung der Eigenmittelanforderungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0582#XXVIII_I_00133
+  date: '2025-06-23'
+  title: Neu im Finanzausschuss
+  heading: Klarstellungen für die österreichische Bankenlandschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0593#XXVIII_I_00133
+  date: '2025-06-24'
+  title: Finanzausschuss gibt grünes Licht für die Umsetzung von EU-Vorgaben für Finanzmärkte
+  heading: Klarstellungen für die österreichische Bankenlandschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0660#XXVIII_I_00133
+  date: '2025-07-09'
+  title: Nationalrat beschließt Umsetzung von EU-Vorgaben für Finanzmärkte
+  heading: Klarstellungen für den Bankensektor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0718#XXVIII_I_00133
+  date: '2025-07-17'
+  title: Messenger-Überwachung nimmt letzte parlamentarische Hürde
+  heading: Umsetzung von EU-Vorgaben für Finanzmärkte
 measures: []
 sources:
 - id: parl-detail
@@ -168,9 +189,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 133 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/133?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

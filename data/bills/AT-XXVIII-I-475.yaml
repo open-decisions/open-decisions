@@ -165,6 +165,24 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/475/fname_1753549.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/475/imfname_1753551.pdf
+summary:
+- Klarstellung der Bestimmungen über den Geltungsbereich
+- Verschärfung der Regelungen über Werbe- und Gewinnverbote
+- Aktualisierung und Bereinigung nicht mehr aktueller bzw. erforderlicher Bestimmungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0355#XXVIII_I_00475
+  date: '2026-04-24'
+  title: Neu im Gesundheitsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0367#XXVIII_I_00475
+  date: '2026-04-28'
+  title: 'Gesundheitsausschuss: Novelle bringt strengere Werbe- und Gewinnverbote im Bereich der Organtransplantationen'
+  heading: Organtransplantationsgesetz sieht strengere Werbe- und Gewinnverbote vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0439#XXVIII_I_00475
+  date: '2026-05-20'
+  title: Nationalrat stärkt Schutz vor kommerziellem Organhandel
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0513#XXVIII_I_00475
+  date: '2026-06-03'
+  title: Umsatzsteuersenkung für Grundnahrungsmittel passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +190,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 475 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/475?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

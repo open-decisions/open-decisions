@@ -164,6 +164,21 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/323/fname_1692731.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/323/fnameorig_1692731.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/323/fname_1693198.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0541#XXVIII_A_00323
+  date: '2025-06-16'
+  title: Neu im Geschäftsordnungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0558#XXVIII_A_00323
+  date: '2025-06-17'
+  title: 'Fall Pilnacek: Noch keine Entscheidung über U-Ausschuss-Verlangen der FPÖ'
+  heading: Einhellige Zustimmung zur Änderung der Geschäftsordnung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0658#XXVIII_A_00323
+  date: '2025-07-09'
+  title: 'Nationalrat: Geschäftsordnung wird an Informationsfreiheit angepasst'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0722#XXVIII_A_00323
+  date: '2025-07-17'
+  title: 'Bundesrat: 140 Gesetzesanpassungen zur Informationsfreiheit passieren Länderkammer'
+  heading: Anpassung der Geschäftsordnung des Bundesrats
 measures: []
 sources:
 - id: parl-detail
@@ -171,9 +186,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 323/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/323?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

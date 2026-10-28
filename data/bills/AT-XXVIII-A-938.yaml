@@ -164,6 +164,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/938/fname_1764694.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/938/fnameorig_1764694.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/938/fname_1764797.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0577#XXVIII_A_00938
+  date: '2026-06-17'
+  title: Neu im Gesundheitsausschuss
+  heading: Ausnahmeregelung für Übermittlung von Gesundheitsdaten per Fax wird um ein Jahr verlängert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0604#XXVIII_A_00938
+  date: '2026-06-23'
+  title: Gesundheitsausschuss beschließt das Verbot von Einweg-E-Zigaretten ab Ende des Jahres
+  heading: Ausnahmeregelung für Übermittlung von Gesundheitsdaten per Fax wird um ein Jahr verlängert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0701#XXVIII_A_00938
+  date: '2026-07-07'
+  title: Nationalrat verkürzt Basisausbildung für Ärztinnen und Ärzte
+  heading: Ausnahmeregelung für Übermittlung von Gesundheitsdaten per Fax wird um ein Jahr verlängert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_A_00938
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
 measures: []
 sources:
 - id: parl-detail
@@ -171,9 +187,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 938/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/938?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

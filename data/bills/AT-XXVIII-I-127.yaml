@@ -165,6 +165,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/127/fname_1693517.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/127/imfname_1693518.pdf
+summary:
+- Bestimmung einer oder mehrerer zuständiger Stellen zur Unterstützung bei der Weiterverwendung von geschützten Daten des
+  öffentlichen Sektors
+- Bestimmung einer zentralen Informationsstelle
+- Bestimmung einer zuständigen Behörde für Datenvermittlungsdienste und für datenaltruistische Organisationen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0568#XXVIII_I_00127
+  date: '2025-06-20'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0609#XXVIII_I_00127
+  date: '2025-06-26'
+  title: 'Grundrecht auf Information: Staatliche Förderungen ab 1.500 € werden künftig veröffentlicht'
+  heading: Neues Datenzugangsgesetz soll Forscher:innen und Unternehmen Zugang zu öffentlichen Daten erleichtern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0666#XXVIII_I_00127
+  date: '2025-07-09'
+  title: 'Nationalrat: Staatliche Förderungen ab 1.500 € künftig in der Transparenzdatenbank'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0722#XXVIII_I_00127
+  date: '2025-07-17'
+  title: 'Bundesrat: 140 Gesetzesanpassungen zur Informationsfreiheit passieren Länderkammer'
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +191,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 127 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/127?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

@@ -1002,6 +1002,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/405/fname_1740943.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/405/imfname_1740945.pdf
+summary:
+- Einführung der Funktion mittleres Management mit Regelungen zu Einrechnungsstunden und Entfall der pädagogisch-administrativen
+  Fachkraft
+- Einsatz von zusätzlichen Ressourcen für die Administration an AHS und BMHS
+- Einführung flexiblerer Regelungen zum Personaleinsatz für die Administration an AHS, BMHS sowie Berufsschulen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0131#XXVIII_I_00405
+  date: '2026-02-25'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0142#XXVIII_I_00405
+  date: '2026-02-26'
+  title: 'Mittleres Management an Pflichtschulen: Verfassungsausschuss hat Gesetzesnovelle in Begutachtung geschickt'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0201#XXVIII_I_00405
+  date: '2026-03-12'
+  title: Verfassungsausschuss gibt grünes Licht für "mittleres Management" an Pflichtschulen
+  heading: Mittleres Management an Pflichtschulen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0240#XXVIII_I_00405
+  date: '2026-03-25'
+  title: Nationalrat beschließt Entlastung der Pflichtschulen durch "mittleres Management"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0311#XXVIII_I_00405
+  date: '2026-04-10'
+  title: Bundesrat befürwortet Dienstrechtsnovelle zur Entlastung der Pflichtschulen durch "mittleres Management"
 measures: []
 sources:
 - id: parl-detail
@@ -1009,9 +1031,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 405 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/405?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -60,6 +60,13 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/540/fname_1717225.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/540/fnameorig_1717225.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0962#XXVIII_A_00540
+  date: '2025-10-24'
+  title: Neu im Geschäftsordnungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1052#XXVIII_A_00540
+  date: '2025-11-20'
+  title: 'Livestream von U-Ausschüssen: Konkrete Lösung noch nicht in Sicht'
 measures: []
 sources:
 - id: parl-detail
@@ -67,9 +74,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 540/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/540?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

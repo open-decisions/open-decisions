@@ -398,6 +398,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/300/fname_1722564.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/300/imfname_1722566.pdf
+summary:
+- Der Umfang der Nachhaltigkeitsberichterstattung wird erweitert und durch verbindliche Standards unionsweit harmonisiert
+- Die Nachhaltigkeitsberichterstattung wird wie die Finanzberichterstattung durch unabhängige Prüfer geprüft
+- Das DriBeG unterwirft auch Tochtergesellschaften und Zweigniederlassungen von Drittlandunternehmen der Nachhaltigkeitsberichterstattung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1064#XXVIII_I_00300
+  date: '2025-11-21'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1077#XXVIII_I_00300
+  date: '2025-11-25'
+  title: Justizausschuss einstimmig für Maßnahmen gegen "Parkplatz-Abzocke"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0030#XXVIII_I_00300
+  date: '2026-01-20'
+  title: 'Justizausschuss: Koalitionsmehrheit für Regierungsvorlage zur Nachhaltigkeitsberichterstattung von Unternehmen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0033#XXVIII_I_00300
+  date: '2026-01-21'
+  title: 'Nationalrat: Grünes Licht für Regierungsvorlage zur Nachhaltigkeitsberichterstattung von Unternehmen'
+  heading: Anpassung der Nachhaltigkeitsberichte an EU-Regelungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0087#XXVIII_I_00300
+  date: '2026-02-05'
+  title: Koalitionsmehrheit im Bundesrat zum Nachhaltigkeitsberichtgesetz für Unternehmen
+  heading: Nachhaltigkeitsberichte in Anpassung an EU-Regelungen
 measures: []
 sources:
 - id: parl-detail
@@ -405,9 +427,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 300 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/300?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

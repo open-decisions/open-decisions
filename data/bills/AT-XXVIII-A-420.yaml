@@ -96,6 +96,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/420/fname_1712719.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/420/fnameorig_1712719.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0806#XXVIII_A_00420
+  date: '2025-09-26'
+  title: Neu im Verfassungsausschuss
+  heading: Abschiebung schwerer Straftäter
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0620#XXVIII_A_00420
+  date: '2026-06-25'
+  title: Verfassungsausschuss bringt Novelle zum Volksgruppengesetz auf den Weg
+  heading: FPÖ will Abschiebung schwerer Straftäter erleichtern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0696#XXVIII_A_00420
+  date: '2026-07-07'
+  title: 'Nationalrat: FPÖ-Antrag zur leichteren Abschiebung von Straftätern abgelehnt'
+  heading: FPÖ für leichtere Abschiebung von Straftätern
 measures: []
 sources:
 - id: parl-detail
@@ -103,9 +116,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 420/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/420?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

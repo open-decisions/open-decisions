@@ -125,6 +125,22 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/623/fname_1779274.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/623/imfname_1779275.pdf
+summary:
+- Leistung eines Beitrages zur 17. Wiederauffüllung des Afrikanischen Entwicklungsfonds und zur 9. Wiederauffüllung der Globalen
+  Umweltfazilität
+- Überwachung der Leistung der österreichischen Beiträge zu AfEF-17 und GEF-9
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0853#XXVIII_I_00623
+  date: '2026-09-24'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0882#XXVIII_I_00623
+  date: '2026-09-29'
+  title: Finanzausschuss für neue Regeln zu FMA und Registern wirtschaftlicher Eigentümer
+  heading: Österreichische Beiträge an internationale Finanzinstitutionen 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0940#XXVIII_I_00623
+  date: '2026-10-14'
+  title: Nationalrat setzt neue Regeln zur Geldwäscheprävention und stärkt Unabhängigkeit der FMA
+  heading: Österreichische Beiträge an internationale Finanzinstitutionen 2026
 measures: []
 sources:
 - id: parl-detail
@@ -132,9 +148,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 623 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/623?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

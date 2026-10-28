@@ -54,6 +54,17 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/740/fname_1741480.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/740/fnameorig_1741480.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/740/fname_1742592.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0173#XXVIII_A_00740
+  date: '2026-03-05'
+  title: Neu im Finanzausschuss
+  heading: Steuerliche Gleichbehandlung von Mehr- und Überstundenzuschlägen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0216#XXVIII_A_00740
+  date: '2026-03-17'
+  title: Finanzausschuss beschließt neue EU-Regeln für Börsengänge und Prospekte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0883#XXVIII_A_00740
+  date: '2026-09-29'
+  title: Finanzausschuss diskutiert Forderungen der Grünen zur Elektrizitätsabgabe, Energiekrisenbeiträge und Dienstwägen
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +72,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 740/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/740?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

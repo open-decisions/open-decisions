@@ -178,6 +178,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/473/fname_1753534.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/473/imfname_1753536.pdf
+summary:
+- Erweiterung der Informationspflichten
+- Anpassung des Rechtsrahmens an neue digitale Kreditprodukte
+- Ausweitung des Anwendungsbereichs
+- Ausbau und Verschärfung der Kreditwürdigkeitsprüfung sowie stärkere Regulierung bei der Abfrage von Datenbanken
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0379#XXVIII_I_00473
+  date: '2026-04-29'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0420#XXVIII_I_00473
+  date: '2026-05-12'
+  title: Gesetzespaket zu Verbraucher-Kleinkrediten passiert Justizausschuss
+  heading: Anpassung des Rechtsrahmens an neue digitale Kreditprodukte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0451#XXVIII_I_00473
+  date: '2026-05-21'
+  title: Nationalrat beschließt Paket für mehr Schutz bei Verbraucher-Kleinkrediten
+  heading: Anpassung des Rechtsrahmens an neue digitale Kreditprodukte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0512#XXVIII_I_00473
+  date: '2026-06-03'
+  title: Bundesrat befürwortet Verbraucherkreditgesetz und neue Energieausweis-Pflichten
+  heading: Umsetzung der EU-Verbraucherkreditrichtlinie
 measures: []
 sources:
 - id: parl-detail
@@ -185,9 +206,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 473 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/473?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

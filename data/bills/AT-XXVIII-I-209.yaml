@@ -194,6 +194,20 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/209/fname_1711854.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/209/imfname_1711856.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0822#XXVIII_I_00209
+  date: '2025-09-30'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0869#XXVIII_I_00209
+  date: '2025-10-08'
+  title: 'Bildungskarenz: Sozialausschuss gibt grünes Licht für neue Weiterbildungsbeihilfe'
+  heading: Neue Weiterbildungsbeihilfe
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0907#XXVIII_I_00209
+  date: '2025-10-16'
+  title: 'Nationalrat: Weiterbildungsbeihilfe als Nachfolgeregelung der Bildungskarenz mehrheitlich beschlossen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0961#XXVIII_I_00209
+  date: '2025-10-24'
+  title: 'Bundesrat: Grünes Licht für Weiterbildungsbeihilfe, Pensionsanpassung 2026, EU-Rezept und EU-Patientenakte'
 measures: []
 sources:
 - id: parl-detail
@@ -201,9 +215,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 209 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/209?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

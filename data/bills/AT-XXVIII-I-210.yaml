@@ -188,6 +188,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/210/fname_1711872.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/210/imfname_1711874.pdf
+summary:
+- Schaffung einer Grundlage für die Festsetzung bundesweit einheitlicher Trinkgeldpauschalen
+- Information der Arbeitnehmer und Arbeitnehmerinnen über bargeldlos eingehobenes Trinkgeld
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0805#XXVIII_I_00210
+  date: '2025-09-26'
+  title: Neu im Sozialausschuss
+  heading: Einheitliche Trinkgeldpauschale
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0866#XXVIII_I_00210
+  date: '2025-10-08'
+  title: 'Trinkgeld: Sozialausschuss befürwortet einheitliche Pauschale'
+  heading: Einheitliche Trinkgeldpauschale
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0906#XXVIII_I_00210
+  date: '2025-10-16'
+  title: Breite Mehrheit für einheitliche Trinkgeldpauschale im Nationalrat
+  heading: Einheitliche Trinkgeldpauschale
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0960#XXVIII_I_00210
+  date: '2025-10-23'
+  title: 'Bundesrat: Bundesweit einheitliche Trinkgeld-Regelung mehrheitlich angenommen'
+  heading: Bundesweit einheitliche Trinkgeld-Pauschalen mehrheitlich angenommen
 measures: []
 sources:
 - id: parl-detail
@@ -195,9 +215,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 210 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/210?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

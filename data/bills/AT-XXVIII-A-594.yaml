@@ -166,6 +166,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/594/fname_1723504.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/594/fnameorig_1723504.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1100#XXVIII_A_00594
+  date: '2025-11-28'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1156#XXVIII_A_00594
+  date: '2025-12-09'
+  title: Wirtschaftsausschuss für Abwicklung der Investitionsprämie bis 2029
+  heading: Abwicklung der Investitionsprämie bis Ende 2029
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1167#XXVIII_A_00594
+  date: '2025-12-10'
+  title: Nationalrat beschließt Vereinfachung des Zulassungssystems für neuartige Tabakprodukte
+  heading: Abwicklung der Investitionsprämie bis Ende 2029
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1209#XXVIII_A_00594
+  date: '2025-12-17'
+  title: 'Bundesrat: Vereinfachte Zulassung von neuartigen Tabakerzeugnissen beschlossen'
+  heading: Änderungen bei Beschwerdemöglichkeiten von Nichtregierungsorganisationen und Abwicklung der Investitionsprämie
 measures: []
 sources:
 - id: parl-detail
@@ -173,9 +189,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 594/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/594?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

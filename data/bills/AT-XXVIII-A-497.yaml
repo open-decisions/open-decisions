@@ -54,6 +54,15 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/497/fname_1716522.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/497/fnameorig_1716522.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0980#XXVIII_A_00497
+  date: '2025-10-30'
+  title: Neu im Familienausschuss
+  heading: Medizinisch unterstützte Fortpflanzung soll auch alleinstehenden Frauen zur Verfügung stehen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0018#XXVIII_A_00497
+  date: '2026-01-15'
+  title: Familienausschuss will Lücken im Kinderschutz schließen
+  heading: Diskussion um Social Egg Freezing
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 497/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/497?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

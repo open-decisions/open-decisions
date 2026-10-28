@@ -167,6 +167,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/935/fname_1765271.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/935/fnameorig_1765271.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/935/fname_1765490.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0565#XXVIII_A_00935
+  date: '2026-06-16'
+  title: Budgetbegleitgesetz bringt Paketsteuer und dutzende weitere Maßnahmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0634#XXVIII_A_00935
+  date: '2026-06-26'
+  title: Budgetbegleitgesetz nimmt erste parlamentarische Hürde
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0637#XXVIII_A_00935
+  date: '2026-06-26'
+  title: 'Budgetbegleitgesetz: Opposition sieht Sparmaßnahmen kritisch'
+  heading: Klubfinanzierung, Politikerbezüge
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0706#XXVIII_A_00935
+  date: '2026-07-08'
+  title: 'Doppelbudget: Nationalrat setzt Budgetbegleitgesetz auf Schiene'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0748#XXVIII_A_00935
+  date: '2026-07-16'
+  title: Bundesrat legt kein Veto gegen budgetbegleitende Gesetze ein
 measures: []
 sources:
 - id: parl-detail
@@ -174,9 +191,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 935/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/935?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

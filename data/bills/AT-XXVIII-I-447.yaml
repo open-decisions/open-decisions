@@ -166,6 +166,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/447/fname_1747485.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/447/imfname_1747487.pdf
+summary:
+- Schülerheime werden weitgehend in das Privatschulgesetz aufgenommen
+- Schaffung eines gebündelten Verfahrens für die Gründung und Führung von Privatschulen
+- Vereinfachung der Verleihung des Öffentlichkeitsrechts
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0289#XXVIII_I_00447
+  date: '2026-04-08'
+  title: Neu im Bildungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0323#XXVIII_I_00447
+  date: '2026-04-15'
+  title: Bildungsausschuss beschließt Verwaltungsvereinfachungen im Privatschulgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0352#XXVIII_I_00447
+  date: '2026-04-23'
+  title: 'Privatschulgesetz: Nationalrat beschließt Verwaltungsvereinfachungen'
+  heading: Bündelung von Verfahren und mehr Rechtssicherheit für alle Beteiligten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0409#XXVIII_I_00447
+  date: '2026-05-07'
+  title: 'Bundesrat: ÖVP, SPÖ, NEOS und Grüne unterstreichen mit Antrag ihr "unumstößliches Bekenntnis zur gewaltfreien Erziehung
+    und Pädagogik"'
+  heading: Verfahren für die Gründung und Führung von Privatschulen
 measures: []
 sources:
 - id: parl-detail
@@ -173,9 +193,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 447 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/447?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

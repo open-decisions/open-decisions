@@ -163,6 +163,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/88/fname_1685683.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/88/imfname_1685685.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0412#XXVIII_I_00088
+  date: '2025-05-19'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0482#XXVIII_I_00088
+  date: '2025-06-03'
+  title: Budgetausschuss gibt grünes Licht für die Finanzierung des ÖBB-Rahmenplans 2025 bis 2030
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0544#XXVIII_I_00088
+  date: '2025-06-16'
+  title: Start der Debatte über das Doppelbudget 2025 und 2026 im Nationalrat
+  heading: Die zentralen Inhalte des Budgetbegleitgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0616#XXVIII_I_00088
+  date: '2025-06-26'
+  title: Bundesrat gibt grünes Licht für Budgetbegleitgesetz
+  heading: Die zentralen Inhalte des Budgetbegleitgesetzes
 measures: []
 sources:
 - id: parl-detail
@@ -170,9 +185,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 88 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/88?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

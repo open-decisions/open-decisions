@@ -170,6 +170,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/251/fname_1716199.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/251/imfname_1716201.pdf
+summary:
+- Direkte Zahlung an via donau
+- Vollkostenabrechnung
+- Regelung der Zahlung von Organmandaten und Klarstellung der Ermächtigung
+- Verpflichtung zu kostendeckendem Entgelt
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0975#XXVIII_I_00251
+  date: '2025-10-29'
+  title: Neu im Verkehrsausschuss
+  heading: … und Bund von Kosten für Schleusenbetrieb auf Donau entlasten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1006#XXVIII_I_00251
+  date: '2025-11-06'
+  title: Verkehrsausschuss beschließt Aus für Klebevignette ab Ende 2026
+  heading: Bund wird von Kosten für Schleusenbetrieb auf Donau entlastet
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1046#XXVIII_I_00251
+  date: '2025-11-20'
+  title: Nationalrat beschließt mit Mehrheit neue Mautsätze und Abschaffung der Klebevignetten
+  heading: Neue Kostenregelung für Schleusenbetrieb der Donau
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1138#XXVIII_I_00251
+  date: '2025-12-04'
+  title: 'Bundesrat: Mehrheit für Abschaffung der Klebevignetten'
+  heading: Neue Kostenregelung für Schleusenbetrieb der Donau
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +199,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 251 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/251?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

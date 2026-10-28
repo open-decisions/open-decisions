@@ -181,6 +181,32 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/296/imfname_1722534.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/296/imfname_1722536.pdf
+summary:
+- Gesetzliche Umsetzung der Vereinbarungen gemäß Art. 15a B-VG
+- Schaffung der rechtlichen Rahmenbedingungen zur Überarbeitung der Planungsinstrumente der Zielsteuerung-Gesundheit (ÖSG
+  und RSG)
+- Bewertungsboard Arzneimittel
+- Verbesserung der Datengrundlagen für Planungs- und Qualitätsarbeit
+- Erweiterung der Nutzungspflicht von ELGA und Erhöhung der Sicherheit von Netz- und Informationssystemen für GDA
+- Aufbau einer neuen Abteilung in der GÖG/BIQG
+- Etablierung einer unabhängigen Qualitätskontrolle
+- Einbindung der relevanten Stakeholder in das neue Qualitätssicherungssystem
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1094#XXVIII_I_00296
+  date: '2025-11-27'
+  title: Neu im Gesundheitsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1122#XXVIII_I_00296
+  date: '2025-12-02'
+  title: 'Gesundheitsausschuss: Umsetzung des elektronischen Eltern-Kind-Passes auf 1. Oktober 2026 verschoben'
+  heading: Ausweitung der Diagnosen- und Leistungscodierung auf den ambulanten Bereich ab Mitte 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1176#XXVIII_I_00296
+  date: '2025-12-11'
+  title: 'Diagnosecodierung: Ausweitung auf den niedergelassenen Bereich ab Mitte 2026'
+  heading: Ausweitung der Diagnose- und Leistungscodierung auf den ambulanten Bereich ab Mitte 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1219#XXVIII_I_00296
+  date: '2025-12-18'
+  title: 'Bundesrat: Grünes Licht für Preisregulierung von Medikamenten und einheitliche Dokumentation im Gesundheitswesen'
+  heading: Umsetzung einer einheitlichen Diagnose- und Leistungsdokumentation
 measures: []
 sources:
 - id: parl-detail
@@ -188,9 +214,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 296 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/296?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

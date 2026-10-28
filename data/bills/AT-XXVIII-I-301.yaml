@@ -179,6 +179,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/301/fname_1722570.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/301/imfname_1722572.pdf
+summary:
+- Änderungen bei der Anrufbarkeit des Obersten Gerichtshofs
+- Änderungen bei der Kostenstruktur von Gerichtsverfahren über unbestrittene Besitzstörungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1060#XXVIII_I_00301
+  date: '2025-11-21'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1077#XXVIII_I_00301
+  date: '2025-11-25'
+  title: Justizausschuss einstimmig für Maßnahmen gegen "Parkplatz-Abzocke"
+  heading: Umsetzung der Maßnahmen gegen "Parkplatz-Abzocke"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1173#XXVIII_I_00301
+  date: '2025-12-11'
+  title: 'Nationalrat: Einstimmigkeit für Maßnahmen gegen "Parkplatz-Abzocke"'
+  heading: Maßnahmen gegen "Parkplatz-Abzocke"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1210#XXVIII_I_00301
+  date: '2025-12-17'
+  title: Bundesrat einstimmig für Maßnahmen gegen "Parkplatz-Abzocke"
+  heading: Maßnahmen gegen "Parkplatz-Abzocke"
 measures: []
 sources:
 - id: parl-detail
@@ -186,9 +205,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 301 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/301?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

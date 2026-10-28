@@ -1,0 +1,157 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { edition, url } from "../../../lib/edition";
+import { getBills, getCards, meta } from "../../../lib/data";
+
+export async function getStaticPaths() {
+  const bills = await getBills();
+  return bills.map((bill) => ({ params: { slug: bill.slug }, props: { bill } }));
+}
+const { bill } = Astro.props;
+const cards = (await getCards()).filter((c) => bill.measures.includes(c.id));
+const euText: Record<string, string> = {
+  eu_law: "Mit diesem Gesetz setzt Österreich eine Vorgabe der EU um oder ergänzt eine EU-Verordnung, die in Österreich direkt gilt.",
+  eu_scope: "Das Gesetz betrifft einen Bereich, den auch das EU-Recht regelt. Die EU verlangt diese Regelung aber nicht.",
+  national: "Laut Folgenabschätzung der Regierung ist das eine rein österreichische Regelung. EU-Recht ist nicht betroffen.",
+  not_stated: "Dazu gibt es keine Angabe. Bei Initiativanträgen von Abgeordneten fehlt die Folgenabschätzung, in der die Regierung das sonst festhält.",
+};
+---
+<Base title={bill.headline} description={bill.summary[0] ?? bill.title} current="bills">
+  <div class="container page">
+    <p class="crumbs muted"><a href={url("gesetze/")}>Gesetze</a> / <span class="mono">{bill.citation}</span></p>
+    {bill.areas.length > 0 && <div class="pills">{bill.areas.map((a) => <span class="pill">{a.label}</span>)}</div>}
+    <h1>{bill.headline}</h1>
+    {bill.headline_source && (
+      <p class="muted src">Überschrift: <a href={bill.headline_url ?? bill.parliament_url}>{bill.headline_source}</a></p>
+    )}
+    <p class="official">
+      Offizieller Titel: {bill.title} · <span class="mono">{bill.citation}</span> · {bill.kind}{bill.introduced_by.length > 0 && `, eingebracht von ${bill.introduced_by.join(", ")}`}
+    </p>
+
+    <div class="status box">
+      <div class="steps" aria-hidden="true">{[1, 2, 3, 4, 5].map((n) => <span class={bill.step >= n ? "done" : ""}></span>)}</div>
+      <p class="stage">{bill.stage_text[0].toUpperCase() + bill.stage_text.slice(1)}.</p>
+      {bill.next && <p class="next">Nächster Termin: {bill.next.text}</p>}
+    </div>
+
+    <div class="layout">
+      <div class="main">
+        <section aria-labelledby="h-worum">
+          <h2 id="h-worum" class="eyebrow">Worum es geht</h2>
+          {bill.summary.length > 0 ? (
+            <>
+              <ul class="list">{bill.summary.map((s) => <li>{s}</li>)}</ul>
+              <p class="muted small">Quelle: Kurzinformation der Parlamentsdirektion, <a href={bill.parliament_url}>parlament.gv.at</a></p>
+            </>
+          ) : (
+            <p class="muted">Dazu gibt es noch keine Kurzinformation des Parlaments. Die Berichte der Parlamentskorrespondenz unten beschreiben den Inhalt.</p>
+          )}
+        </section>
+
+        {cards.length > 0 && (
+          <section aria-labelledby="h-dich">
+            <h2 id="h-dich" class="eyebrow">Was heißt das für dich</h2>
+            <ul class="cards">
+              {cards.map((c) => (
+                <li><a href={url(`massnahmen/${c.id}/`)}>{c.title}</a><span class="muted small">{c.status_parts.state}{!c.approved && " · Entwurf"}</span></li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <section aria-labelledby="h-eu">
+          <h2 id="h-eu" class="eyebrow">Kommt das aus der EU</h2>
+          {bill.eu.label && <p class="eu-label">{bill.eu.label[0].toUpperCase() + bill.eu.label.slice(1)}{bill.eu.goes_beyond_text && `, ${bill.eu.goes_beyond_text}`}.</p>}
+          <p>{euText[bill.eu.group]}</p>
+          {bill.eu.acts.length > 0 && (
+            <ul class="list">
+              {bill.eu.acts.map((a) => <li><a href={a.url}>{a.label}</a> <span class="muted">({a.role === "transposed" ? "wird umgesetzt" : "wird ergänzt"})</span></li>)}
+            </ul>
+          )}
+          {bill.eu_statements.length > 0 && (
+            <figure class="quote">
+              {bill.eu_statements.slice(0, 3).map((s) => <blockquote>„{s.text}“</blockquote>)}
+              <figcaption class="muted small">Folgenabschätzung der Regierung, <a href={bill.eu_statements[0].url}>Dokument{bill.eu_statements[0].page && `, S. ${bill.eu_statements[0].page}`}</a></figcaption>
+            </figure>
+          )}
+          <p class="muted small">Automatisch aus den Dokumenten gelesen, noch nicht von Hand geprüft.</p>
+        </section>
+
+        {bill.press.length > 0 && (
+          <section aria-labelledby="h-press">
+            <h2 id="h-press" class="eyebrow">Berichte des Parlaments</h2>
+            <ul class="press">{bill.press.map((p) => <li><span class="muted small">{p.date}</span><a href={p.url}>{p.title}</a></li>)}</ul>
+          </section>
+        )}
+      </div>
+
+      <aside class="side">
+        <section class="box" aria-labelledby="h-weg">
+          <h2 id="h-weg" class="side-h">Weg durchs Parlament</h2>
+          <ol class="path">{bill.path.map((p) => (<li><span class="dot" aria-hidden="true"></span><span><span class="strong block">{p.label}</span><span class="muted small">{p.detail}</span></span></li>))}</ol>
+        </section>
+        {bill.vote && (
+          <section class="box" aria-labelledby="h-vote">
+            <h2 id="h-vote" class="side-h">Wer hat dafür gestimmt</h2>
+            <p class="muted small">{edition.chambers.first}, {bill.vote.date}, Schlussabstimmung</p>
+            <div class="votebar" role="img" aria-label={`${bill.vote.yes.seats} Mandate dafür, ${bill.vote.no.seats} dagegen`}>
+              <span class="yes" style={`width:${bill.vote.share_yes}%`}></span><span class="no"></span>
+            </div>
+            <div class="vote-cols">
+              <div><div class="strong">Dafür, {bill.vote.yes.seats} Mandate</div><div class="muted">{bill.vote.yes.parties.join(" · ") || "keine"}</div></div>
+              <div><div class="strong">Dagegen, {bill.vote.no.seats} Mandate</div><div class="muted">{bill.vote.no.parties.join(" · ") || "keine"}</div></div>
+            </div>
+          </section>
+        )}
+        <section class="box" aria-labelledby="h-docs">
+          <h2 id="h-docs" class="side-h">Dokumente</h2>
+          <ul class="docs">
+            {bill.documents.map((d) => <li><a href={d.url}>{d.label}</a></li>)}
+            <li><a href={bill.parliament_url}>Seite im Parlament</a></li>
+          </ul>
+          <p class="muted small">Stand {meta.data_as_of_text}</p>
+        </section>
+      </aside>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .page { padding-block: 32px 72px; }
+  .crumbs { margin: 0 0 16px; font-size: 14px; }
+  .pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+  h1 { margin: 0; font-size: clamp(28px, 4vw, 44px); line-height: 1.1; font-weight: 800; letter-spacing: -0.02em; max-width: 880px; }
+  .src { margin: 8px 0 0; font-size: 14px; }
+  .official { margin: 14px 0 0; font-size: 16px; color: var(--muted); max-width: 880px; }
+  .status { margin-top: 24px; max-width: 880px; }
+  .steps { display: flex; gap: 4px; max-width: 300px; margin-bottom: 10px; }
+  .steps span { flex: 1; height: 8px; border-radius: 4px; background: var(--line); }
+  .steps span.done { background: var(--ink); }
+  .stage { margin: 0; font-size: 18px; font-weight: 600; }
+  .next { margin: 6px 0 0; font-size: 15px; }
+  .layout { display: flex; flex-wrap: wrap; gap: 48px; margin-top: 36px; align-items: flex-start; }
+  .main { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 36px; }
+  .side { flex: 1 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 24px; }
+  .list { margin: 0; padding-left: 22px; font-size: 17px; line-height: 1.55; display: flex; flex-direction: column; gap: 6px; }
+  .small { font-size: 14px; }
+  .main p { margin: 8px 0 0; font-size: 17px; line-height: 1.55; }
+  .eu-label { font-weight: 700; }
+  .quote { margin: 12px 0 0; padding: 14px 18px; background: var(--surface); border-radius: 10px; }
+  blockquote { margin: 0 0 6px; font-size: 16px; }
+  .cards { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+  .cards li { display: flex; flex-direction: column; border: 2px solid var(--ink); border-radius: 10px; padding: 12px 16px; }
+  .cards a { font-weight: 700; font-size: 17px; }
+  .press { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+  .press li { display: flex; flex-direction: column; }
+  .side-h { margin: 0 0 4px; font-size: 16px; font-weight: 700; }
+  .strong { font-weight: 700; }
+  .block { display: block; }
+  .path { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+  .path li { display: flex; gap: 12px; }
+  .dot { flex: 0 0 12px; height: 12px; margin-top: 5px; border-radius: 50%; background: var(--ink); }
+  .votebar { display: flex; height: 18px; border-radius: 4px; overflow: hidden; margin: 14px 0; border: 2px solid var(--ink); }
+  .votebar .yes { background: var(--ink); }
+  .votebar .no { flex: 1; }
+  .vote-cols { display: flex; flex-wrap: wrap; gap: 12px 24px; font-size: 15px; }
+  .docs { list-style: none; margin: 10px 0; padding: 0; display: flex; flex-direction: column; gap: 8px; font-size: 15px; }
+</style>

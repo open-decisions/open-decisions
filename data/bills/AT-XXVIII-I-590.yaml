@@ -10,6 +10,7 @@ introduced: '2026-07-08'
 introduced_by:
 - Claudia Bauer (Büro der Bundesministerin für Europa, Integration und Familie)
 identifiers:
+  eli: https://www.ris.bka.gv.at/eli/bgbl/I/2026/84
   eurovoc:
   - Familie
   - Familienleistungsausgleich
@@ -19,8 +20,10 @@ identifiers:
   - Familienlastenausgleich
   - Familienpolitik
 status:
-  stage: passed_second_chamber
+  stage: published
   source_status: '5'
+  gazette: Bundesgesetzblatt I Nr. 84/2026
+  gazette_url: http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2026_I_84
 pre_parliamentary:
 - url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/117
   title: Familienlastenausgleichsgesetz, Kinderbetreuungsgeldgesetz, Änderung
@@ -176,6 +179,26 @@ documents:
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/590/imfname_1770407.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/590/imfname_1770408.pdf
+summary:
+- Ausschluss von Grundversorgungsbeziehenden vom Anspruch auf Familienbeihilfe
+- Entfall der Befristung und des Erwerbstätigkeitserfordernisses für Ukraine-Vertriebene
+- Entfall des Erwerbstätigkeitserfordernisses für subsidiär Schutzberechtigte
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0722#XXVIII_I_00590
+  date: '2026-07-10'
+  title: Neu im Familienausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0806#XXVIII_I_00590
+  date: '2026-09-09'
+  title: Neuregelung der Familienleistungen von Ukraine-Vertriebenen und subsidiär Schutzberechtigten im Ausschuss beschlossen
+  heading: Einschränkungen bei Grundversorgung, Erleichterungen beim Kinderbetreuungsgeld
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0848#XXVIII_I_00590
+  date: '2026-09-23'
+  title: Nationalrat beschließt Verlängerung der Familienleistungen von Ukraine-Vertriebenen
+  heading: Einschränkungen bei Grundversorgung, Erleichterungen beim Kinderbetreuungsgeld
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0922#XXVIII_I_00590
+  date: '2026-10-08'
+  title: Bundesrat legt steuerlich begünstigter "Aktivpension" keine Steine in den Weg
+  heading: Familienleistungen für Ukraine-Vertriebene werden rückwirkend verlängert
 measures: []
 sources:
 - id: parl-detail
@@ -183,9 +206,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 590 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/590?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

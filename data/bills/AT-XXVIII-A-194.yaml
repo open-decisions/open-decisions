@@ -188,6 +188,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/194/fname_1674719.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/194/fnameorig_1674719.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/194/fname_1675150.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0228#XXVIII_A_00194
+  date: '2025-03-31'
+  title: Neu im Wirtschaftsausschuss
+  heading: ÖVP, SPÖ und NEOS fordern Änderung des Erneuerbaren-Ausbau-Gesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0253#XXVIII_A_00194
+  date: '2025-04-02'
+  title: 'Wirtschaftsausschuss: Fraktionen diskutieren notwendige Schritte zum weiteren Ausbau Erneuerbarer Energien'
+  heading: 'ÖVP, SPÖ und NEOS: Änderung des Erneuerbaren-Ausbau-Gesetzes'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0305#XXVIII_A_00194
+  date: '2025-04-24'
+  title: Nationalrat fordert einstimmig Entlastung bei Energiekosten
+  heading: 'ÖVP, SPÖ und NEOS: Änderung des Erneuerbaren-Ausbau-Gesetzes'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0361#XXVIII_A_00194
+  date: '2025-05-08'
+  title: Bundesrat diskutiert Schwerpunktsetzungen im Bereich Wirtschaft, Tourismus und Energie
+  heading: Änderung des Erneuerbaren-Ausbau-Gesetzes und Debatte über energiepolitische Prioritäten
 measures: []
 sources:
 - id: parl-detail
@@ -195,9 +212,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 194/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/194?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

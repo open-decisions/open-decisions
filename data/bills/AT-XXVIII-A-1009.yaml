@@ -49,6 +49,11 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1009/fname_1779840.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1009/fnameorig_1779840.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0900#XXVIII_A_01009
+  date: '2026-10-02'
+  title: Neu im Wirtschaftsausschuss
+  heading: Grüne für Begrenzung der Kammerumlagen und Rücklagen
 measures: []
 sources:
 - id: parl-detail
@@ -56,9 +61,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1009/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1009?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -160,6 +160,19 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1/fname_1658618.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1/fnameorig_1658618.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1023#XXVIII_A_00001
+  date: '2024-11-04'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1042#XXVIII_A_00001
+  date: '2024-11-14'
+  title: Budgetausschuss bringt neues Sanktionengesetz auf den Weg
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1057#XXVIII_A_00001
+  date: '2024-11-20'
+  title: Nationalrat beschließt neues Sanktionengesetz und Maßnahmen gegen Geldwäsche
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1086#XXVIII_A_00001
+  date: '2024-12-05'
+  title: Bundesrat besiegelt neues Sanktionengesetz und Maßnahmen gegen Geldwäsche
 measures: []
 sources:
 - id: parl-detail
@@ -167,9 +180,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

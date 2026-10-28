@@ -55,6 +55,15 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/104/fname_1672027.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/104/fnameorig_1672027.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/104/fname_1672377.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0135#XXVIII_A_00104
+  date: '2025-03-12'
+  title: Neu im Sozialausschuss
+  heading: Grüne beantragen Novellierung des Beamten-Kranken- und Unfallversicherungsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0273#XXVIII_A_00104
+  date: '2025-04-09'
+  title: 'Bildungskarenz, Essenszusteller:innen und Pflege: Sozialausschuss vertagt Oppositionsanträge'
+  heading: Weitere Forderungen der Grünen vertagt
 measures: []
 sources:
 - id: parl-detail
@@ -62,9 +71,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 104/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/104?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

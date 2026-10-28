@@ -218,6 +218,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/297/fname_1722543.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/297/imfname_1722545.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1085#XXVIII_I_00297
+  date: '2025-11-26'
+  title: Neu im Landwirtschaftsausschuss
+  heading: Lebensmittelbewirtschaftungsgesetz-Novelle zur besseren Krisenvorsorge
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1098#XXVIII_I_00297
+  date: '2025-11-27'
+  title: Grünes Licht im Landwirtschaftsausschuss zur Stärkung der Lebensmittel-Versorgungssicherheit im Krisenfall
+  heading: Lebensmittelbewirtschaftungsgesetz-Novelle soll Vorsorge im Krisenfall verbessern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0133#XXVIII_I_00297
+  date: '2026-02-25'
+  title: Nationalrat gibt grünes Licht für Anti-Mogelpackungs-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0200#XXVIII_I_00297
+  date: '2026-03-12'
+  title: 'Bundesrat: Anti-Mogelpackungs-Gesetz kann mit April in Kraft treten'
 measures: []
 sources:
 - id: parl-detail
@@ -225,9 +240,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 297 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/297?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -43,6 +43,11 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1010/fname_1779841.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1010/fnameorig_1779841.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0858#XXVIII_A_01010
+  date: '2026-09-24'
+  title: Neu im Finanzausschuss
+  heading: Ausweitung des Kinderzuschlags auf Paarhaushalte mit niedrigem Einkommen
 measures: []
 sources:
 - id: parl-detail
@@ -50,9 +55,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1010/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1010?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

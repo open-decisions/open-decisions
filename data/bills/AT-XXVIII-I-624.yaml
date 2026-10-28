@@ -17,8 +17,8 @@ identifiers:
   keywords:
   - Strafrecht
 status:
-  stage: passed_first_chamber
-  source_status: '4'
+  stage: passed_second_chamber
+  source_status: '5'
 pre_parliamentary:
 - url: https://www.parlament.gv.at/gegenstand/XXVIII/ME/122
   title: Strafrechtsänderungsgesetz 2026
@@ -104,6 +104,11 @@ phases:
 - phase: second_chamber_committee
   chamber: Bundesrat
   date: '2026-10-20'
+  text: 'Justizausschuss des Bundesrates: Bericht 11882/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11882
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
   text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 9. Sitzung des Ausschusses'
   url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_17007697.html
 - phase: second_chamber_plenary
@@ -111,6 +116,23 @@ phases:
   date: '2026-10-22'
   text: Auf der Tagesordnung der 997. Sitzung
   url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Beschluss im Bundesrat 214/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/214
 vote:
   date: '2026-10-14'
   result:
@@ -142,6 +164,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/624/fname_1779287.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/624/imfname_1779289.pdf
+summary:
+- Ausweitung der Straftatbestände gegen Menschenhandel
+- Schaffung von Straftatbeständen gegen Organhandel
+- Ausweitung der inländischen Gerichtsbarkeit gemäß § 64 Abs. 1 StGB
+- Ausweitung des Anwendungsbereichs des Kriegsverbrechens des Einsatzes verbotener Mittel der Kriegsführung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0863#XXVIII_I_00624
+  date: '2026-09-25'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0888#XXVIII_I_00624
+  date: '2026-09-30'
+  title: 'Entlastung des Strafvollzugs: Justizausschuss gibt grünes Licht für Novelle'
+  heading: Strafrechtlicher Schutz vor Menschen- und Organhandel
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0938#XXVIII_I_00624
+  date: '2026-10-14'
+  title: 'Entlastung der Justizanstalten: Breite Mehrheit im Nationalrat für Strafvollzugsnovelle'
+  heading: Strafrechtlicher Schutz vor Menschen- und Organhandel
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1003#XXVIII_I_00624
+  date: '2026-10-22'
+  title: Breite Mehrheit im Bundesrat für umfassende Novelle zur Entlastung des Strafvollzugs
+  heading: 'Sporrer: Vor allem Inhaftierte aus Westbalkanländern werden betroffen sein'
 measures: []
 sources:
 - id: parl-detail
@@ -149,9 +192,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 624 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/624?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

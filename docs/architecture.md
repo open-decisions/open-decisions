@@ -68,6 +68,10 @@ Content flows one way, from sources through review into the site. User data flow
 
 Households are national archetypes. A state-specific measure affects a household through its region field; the record says which states the measure applies to.
 
+## Plain language for bills
+
+The site leads with what a bill does, not its legal name. Sources, in order: the heading of the section about the bill inside a Parlamentskorrespondenz release (fetched by `ingest-at press` into `raw.document`, extracted into `staged.press_section`), the Kurzinformation of the parliament administration, the official title. Every headline names its source. Bills are grouped into areas of life mapped from the parliament's own topics, and the tracker opens on what is upcoming, recently decided and newly introduced. Stage descriptions are plain sentences with durations, computed in the publish step against the data date. Each bill has its own page with summary, path, vote, relation to EU law, press reports and documents.
+
 ## Relation to EU law
 
 Every bill carries `eu_relation`: whether it transposes an EU directive, contains accompanying rules for a directly applicable EU regulation, lies within EU law without being required by it, or is outside EU law. The source is the standard section "Verhältnis zu den Rechtsvorschriften der Europäischen Union" of the impact assessment, which decides the kind; transposition wording and CELEX numbers in the law text and explanations add the EU acts, and decide the kind only when no impact assessment exists. Acts link to EUR-Lex by CELEX number and carry their EU ELI. The impact assessment's statement that a bill goes beyond what EU law requires is kept as its own flag. The step is `ingest-at eu`, writing `staged.bill_eu`; the export marks the result as unchecked text extraction until a human sets `checked: true` on the bill record, after which the curated value is kept. Omnibus bills often mix kinds; the site then shows "teilweise". Per-measure EU relations and Austria's votes at EU level are later steps.

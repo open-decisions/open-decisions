@@ -192,6 +192,37 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/312/fname_1723272.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/312/imfname_1723274.pdf
+summary:
+- Verbesserte Rechte von Endkundinnen und Endkunden
+- Verbesserungen im Bereich der intelligenten Messgeräte
+- Einführung des Modells der Gemeinsamen Energienutzung
+- Schaffung von mehr Transparenz
+- Absicherung eines effizienten und sicheren Netzbetriebs
+- Maßnahmen zur Sicherung leistbarer Energie für Schutzbedürftige
+- Vorgaben für Netzanschluss, Messung und Abrechnung
+- Schaffung der Rahmenbedingungen für ein flexibleres und resilienteres Elektrizitätssystem
+- Schaffung der Grundlagen für die Festlegung zeitgemäßer Netzentgelte durch die Regulierungsbehörde
+- Überarbeitung der Bestimmungen zu Behörden, Strafbestimmungen und Geldbußen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1143#XXVIII_I_00312
+  date: '2025-12-05'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1160#XXVIII_I_00312
+  date: '2025-12-09'
+  title: 'Wirtschaftsausschuss: Gespräche für Elektrizitätswirtschaftsgesetz sollen weiterlaufen'
+  heading: Günstiger-Strom-Gesetz soll mit erneuertem Elektrizitätswirtschaftsgesetz neuen Rechtsrahmen für Strommarkt bringen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1179#XXVIII_I_00312
+  date: '2025-12-12'
+  title: 'Nationalrat: Elektrizitätswirtschaftsgesetz erhält mit Zustimmung der Grünen notwendige Verfassungsmehrheit'
+  heading: Elektrizitätswirtschaftsgesetz bringt neuen Rechtsrahmen für Strommarkt und stärkere Rechte für Endkundinnen und
+    Endkunden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1212#XXVIII_I_00312
+  date: '2025-12-17'
+  title: Auch im Bundesrat Zweidrittelmehrheit für "Günstiger-Strom-Gesetz"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0879#XXVIII_I_00312
+  date: '2026-09-29'
+  title: 'Ab Oktober in Kraft: E-Mopeds, Paketsteuer, Eltern-Kind-Pass, Psychotherapie'
+  heading: Beteiligung privater Haushalte und lokaler Gemeinschaften an der Energieversorgung wird erleichtert
 measures: []
 sources:
 - id: parl-detail
@@ -199,9 +230,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 312 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/312?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

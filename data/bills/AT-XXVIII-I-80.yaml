@@ -180,6 +180,30 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/80/fname_1684355.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/80/imfname_1684357.pdf
+summary:
+- Verarbeitung von Fingerabdrücken und legistische Anpassungen des Strafregistergesetzes 1968
+- Personelle Ausstattung des Strafregisteramts der LPD Wien
+- Anpassungen im EU-JZG
+- Anpassungen im ARHG
+- Anpassung des INÜG, des Strafregistergesetzes 1968 und des Tilgungsgesetzes 1972
+- Durchführungsbestimmungen im EU-JZG
+- Anpassungen im EUStA-DG
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0441#XXVIII_I_00080
+  date: '2025-05-23'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0600#XXVIII_I_00080
+  date: '2025-06-24'
+  title: Justizausschuss befürwortet Strafbarkeit von sexueller Belästigung durch "Dick Pics"
+  heading: Anpassungen zum EU-Strafrecht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0681#XXVIII_I_00080
+  date: '2025-07-10'
+  title: Nationalrat beschließt Eheverbot für Unter-18-Jährige
+  heading: EU-weite Zusammenarbeit von Strafrechtsbehörden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0721#XXVIII_I_00080
+  date: '2025-07-17'
+  title: Bundesrat finalisiert Strafbarkeit von Dick-Pics
+  heading: Gesetz über EU-weite Zusammenarbeit von Strafrechtsbehörden
 measures: []
 sources:
 - id: parl-detail
@@ -187,9 +211,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 80 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/80?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

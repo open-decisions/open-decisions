@@ -200,6 +200,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/403/fname_1740929.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/403/imfname_1740931.pdf
+summary:
+- Durchsetzung der unionsrechtlichen Verpflichtung insbesondere zu Kennzeichnung und Offenlegung politischer Werbung
+- Datenschutzbehörde und Parlamentarische Datenschutzkomitee überwachen Anforderungen in Bezug auf das Targeting und die Anzeigenschaltung
+- Klare Zuständigkeiten der KommAustria
+- Schaffung eines abgestuften Katalogs an Sanktionen
+- Ausbau der Selbstregulierung um den Bereich der Kennzeichnung politischer Werbung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0158#XXVIII_I_00403
+  date: '2026-03-03'
+  title: Neu im Verfassungsausschuss
+  heading: Transparenz und Targeting politischer Werbung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0198#XXVIII_I_00403
+  date: '2026-03-12'
+  title: 'ORF: Ausschreibung für neuen Generaldirektor bzw. neue Generaldirektorin muss bis Anfang Mai erfolgen'
+  heading: Politische-Werbung-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0242#XXVIII_I_00403
+  date: '2026-03-25'
+  title: 'Nationalrat: Striktes Werbeverbot für Regierungsinserate wird gelockert'
+  heading: Begleitende Gesetze zu zwei EU-Verordnungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0306#XXVIII_I_00403
+  date: '2026-04-10'
+  title: Bundesrat erhebt keinen Einspruch gegen begleitende Bestimmungen zum Europäischen Medienfreiheitsgesetz
 measures: []
 sources:
 - id: parl-detail
@@ -207,9 +229,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 403 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/403?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

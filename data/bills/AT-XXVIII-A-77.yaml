@@ -198,6 +198,21 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/77/fname_1672028.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/77/fnameorig_1672028.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/77/fname_1672129.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0153#XXVIII_A_00077
+  date: '2025-03-13'
+  title: Neu im Gesundheitsausschuss
+  heading: ÖVP, SPÖ und NEOS wollen Tierschutzgesetz novellieren
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0321#XXVIII_A_00077
+  date: '2025-04-25'
+  title: Nationalrat beendet Plenarwoche mit Debatte über ÖH-Pflichtmitgliedschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0371#XXVIII_A_00077
+  date: '2025-05-09'
+  title: 'Gesundheitsausschuss: Aus für Vollspaltenböden in der Schweinehaltung ab Mitte 2034'
+  heading: Kürzere Übergangsfrist, Härtefallregelung für 170 Betriebe und bessere Haltungsstandards ab Juni 2029
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0386#XXVIII_A_00077
+  date: '2025-05-13'
+  title: Nationalrat beschließt Aus für Vollspaltenböden in der Schweinehaltung ab Mitte 2034
 measures: []
 sources:
 - id: parl-detail
@@ -205,9 +220,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 77/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/77?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -221,6 +221,21 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/936/fname_1765049.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/936/fnameorig_1765049.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/936/fname_1765481.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0576#XXVIII_A_00936
+  date: '2026-06-17'
+  title: Neu im Verfassungsausschuss
+  heading: Novelle zum Volksgruppengesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0620#XXVIII_A_00936
+  date: '2026-06-25'
+  title: Verfassungsausschuss bringt Novelle zum Volksgruppengesetz auf den Weg
+  heading: Sonderlösung für zweisprachige Bezirksgerichte in Kärnten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0695#XXVIII_A_00936
+  date: '2026-07-07'
+  title: Nationalrat beschließt Novelle des Volksgruppengesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0747#XXVIII_A_00936
+  date: '2026-07-16'
+  title: Novelle des Volksgruppengesetzes passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -228,9 +243,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 936/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/936?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

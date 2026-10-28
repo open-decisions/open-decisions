@@ -66,6 +66,19 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/501/fname_1717204.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/501/fnameorig_1717204.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/501/fname_1718351.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0942#XXVIII_A_00501
+  date: '2025-10-22'
+  title: Neu im Verkehrsausschuss
+  heading: FPÖ fordert Abschaffung der Flugabgabe
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1052#XXVIII_A_00501
+  date: '2025-11-20'
+  title: 'Livestream von U-Ausschüssen: Konkrete Lösung noch nicht in Sicht'
+  heading: Diskussion um Abschaffung der Flugabgabe
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0223#XXVIII_A_00501
+  date: '2026-03-19'
+  title: 'Verkehrsausschuss: Grünes Licht für Anpassungen zu intelligenten Verkehrssystemen und Notfallbetrieb von Straßentunneln'
+  heading: FPÖ fordert Abschaffung der Flugabgabe
 measures: []
 sources:
 - id: parl-detail
@@ -73,9 +86,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 501/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/501?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

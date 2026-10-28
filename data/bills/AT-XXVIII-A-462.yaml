@@ -73,6 +73,23 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/462/fname_1712363.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/462/fnameorig_1712363.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0798#XXVIII_A_00462
+  date: '2025-09-25'
+  title: Neu im Sozialausschuss
+  heading: Grüne wollen "Luxuspensionen" stärker begrenzen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0867#XXVIII_A_00462
+  date: '2025-10-08'
+  title: Sozialausschuss bringt Pensionsanpassung 2026 auf den Weg
+  heading: Grüne behalten sich Zustimmung im Plenum vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1129#XXVIII_A_00462
+  date: '2025-12-03'
+  title: Sozialausschuss billigt Detailänderungen im Sozialversicherungsrecht
+  heading: Grüne wollen "Luxuspensionen" stärker begrenzen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0111#XXVIII_A_00462
+  date: '2026-02-18'
+  title: 'Pensionen, Pflege und Menschen mit Behinderungen: Sozialausschuss vertagt Oppositionsanliegen'
+  heading: FPÖ und Grüne mit Initiativen zu Pensionen
 measures: []
 sources:
 - id: parl-detail
@@ -80,9 +97,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 462/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/462?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

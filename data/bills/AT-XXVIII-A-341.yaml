@@ -59,6 +59,18 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/341/fname_1694129.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/341/fnameorig_1694129.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0592#XXVIII_A_00341
+  date: '2025-06-24'
+  title: Neu im Sozialausschuss
+  heading: Zusatzbeitrag für Schwerarbeit
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0642#XXVIII_A_00341
+  date: '2025-07-02'
+  title: Sozialausschuss ebnet Weg für Einführung der Teilpension
+  heading: Grüne fordern zusätzlichen Pensionsbeitrag für Schwerarbeit
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0504#XXVIII_A_00341
+  date: '2026-06-02'
+  title: Sozialausschuss billigt Änderungen im Notarversorgungsgesetz
 measures: []
 sources:
 - id: parl-detail
@@ -66,9 +78,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 341/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/341?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

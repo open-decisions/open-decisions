@@ -43,10 +43,21 @@ phases:
   date: '2026-10-14'
   text: '102. Sitzung des Nationalrates : Zuweisung an den Ausschuss für Arbeit und Soziales'
   url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/102
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-11-03'
+  text: 'Ausschuss für Arbeit und Soziales: auf Tagesordnung in der 11. Sitzung des Ausschusses'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-AS/1/00917/TO_16952398.html
 vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1080/fname_1783883.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1080/fnameorig_1783883.html
+  comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1080/fname_1784525.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0970#XXVIII_A_01080
+  date: '2026-10-20'
+  title: Neu im Sozialausschuss
+  heading: Unterstützungsfonds für Alleinerziehende
 measures: []
 sources:
 - id: parl-detail
@@ -54,9 +65,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1080/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1080?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -19,8 +19,8 @@ identifiers:
   keywords:
   - Zivilrecht
 status:
-  stage: passed_first_chamber
-  source_status: '4'
+  stage: passed_second_chamber
+  source_status: '5'
 phases:
 - phase: introduced
   chamber: Nationalrat
@@ -99,6 +99,11 @@ phases:
 - phase: second_chamber_committee
   chamber: Bundesrat
   date: '2026-10-20'
+  text: 'Justizausschuss des Bundesrates: Bericht 11883/BR d.B.'
+  url: https://www.parlament.gv.at/gegenstand/BR/I-BR/11883
+- phase: second_chamber_committee
+  chamber: Bundesrat
+  date: '2026-10-20'
   text: 'Justizausschuss des Bundesrates: auf Tagesordnung in der 9. Sitzung des Ausschusses'
   url: https://www.parlament.gv.at/dokument/BR/A-JU-BR/1/00114/TO_17007697.html
 - phase: second_chamber_plenary
@@ -106,6 +111,23 @@ phases:
   date: '2026-10-22'
   text: Auf der Tagesordnung der 997. Sitzung
   url: https://www.parlament.gv.at/gegenstand/BR/BRSITZ/997
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Debatte'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Wortmeldungen in der Debatte
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: '997. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen Einstimmig'
+- phase: second_chamber_plenary
+  chamber: Bundesrat
+  date: '2026-10-22'
+  text: Beschluss im Bundesrat 215/BNR
+  url: https://www.parlament.gv.at/gegenstand/XXVIII/BNR/215
 vote:
   date: '2026-10-14'
   result:
@@ -134,6 +156,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1008/fname_1779837.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1008/fnameorig_1779837.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1008/fname_1780429.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0866#XXVIII_A_01008
+  date: '2026-09-25'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0889#XXVIII_A_01008
+  date: '2026-09-30'
+  title: Justizausschuss für konsequente Weiterentwicklung eines umfassenden Kinderschutzes
+  heading: Novelle zum Verwertungsgesellschaftengesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0939#XXVIII_A_01008
+  date: '2026-10-14'
+  title: Nationalrat spricht sich einstimmig für Weiterentwicklung des Kinderschutzes aus
+  heading: Einnahmen aus der Weitersendung von Filmen auch für Schauspielerinnen und Schauspieler
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1003#XXVIII_A_01008
+  date: '2026-10-22'
+  title: Breite Mehrheit im Bundesrat für umfassende Novelle zur Entlastung des Strafvollzugs
+  heading: Anpassung der rechtlichen Grundlage für die Verteilung von Einnahmen aus Filmen
 measures: []
 sources:
 - id: parl-detail
@@ -141,9 +179,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1008/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1008?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

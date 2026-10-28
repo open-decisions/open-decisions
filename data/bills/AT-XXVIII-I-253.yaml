@@ -174,6 +174,22 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/253/fname_1716229.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/253/imfname_1716231.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0938#XXVIII_I_00253
+  date: '2025-10-21'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1130#XXVIII_I_00253
+  date: '2025-12-03'
+  title: Sozialausschuss beschließt eigenen Fonds für Tourismusbeschäftigte
+  heading: Unterstützungen sollen Tourismusbeschäftigte in der Branche halten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1178#XXVIII_I_00253
+  date: '2025-12-12'
+  title: Nationalrat beschließt einhellig neue Ausnahmeregelungen bei Zuverdienstverbot und Kündigungsfristen
+  heading: Unterstützungen sollen Tourismusbeschäftigte in der Branche halten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1220#XXVIII_I_00253
+  date: '2025-12-18'
+  title: Bundesrat spricht sich für Verbesserungen für NS-Opfer, Gesundheitsreformfonds und Tourismusbeschäftigtenfonds aus
+  heading: Fonds für Beschäftigte im Tourismus
 measures: []
 sources:
 - id: parl-detail
@@ -181,9 +197,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 253 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/253?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

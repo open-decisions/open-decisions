@@ -2263,6 +2263,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/865/fname_1758405.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/865/fnameorig_1758405.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0442#XXVIII_A_00865
+  date: '2026-05-20'
+  title: 'Schlankere Zulassungsverfahren für FH-Studiengänge: Wissenschaftsausschuss stimmt für Ausschussbegutachtung'
+  heading: Verschlankung der Programmakkreditierungsverfahren
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0515#XXVIII_A_00865
+  date: '2026-06-03'
+  title: 'Wissenschaftsausschuss: Einfachere Zulassung von FH-Studiengängen einstimmig beschlossen'
+  heading: Verschlankung der Programmakkreditierungsverfahren von Fachhochschulen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0537#XXVIII_A_00865
+  date: '2026-06-10'
+  title: Nationalrat spricht sich einstimmig für einfachere Genehmigungsverfahren für Studiengänge an Fachhochschulen aus
+  heading: Einfachere Akkreditierung von FH-Studien
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0626#XXVIII_A_00865
+  date: '2026-06-25'
+  title: Novelle zur einfacheren Akkreditierung von FH-Studiengängen passierte auch den Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -2270,9 +2286,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 865/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/865?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []
