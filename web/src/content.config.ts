@@ -83,6 +83,14 @@ const bills = defineCollection({
     step_label: z.string(),
     measures: z.array(z.string()),
     parliament_url: z.url(),
+    eu: z.object({
+      group: z.enum(["eu_law", "eu_scope", "national", "not_stated"]),
+      label: z.string().nullable(),
+      goes_beyond: z.boolean(),
+      goes_beyond_text: z.string().nullable(),
+      acts: z.array(z.object({ label: z.string(), url: z.url(), role: z.enum(["transposed", "implemented"]) })),
+      checked: z.boolean(),
+    }),
   }),
 });
 

@@ -82,3 +82,41 @@ def bills(conn: psycopg.Connection, jurisdiction: str, gp: str, ityps: tuple[str
 
                 b["vote"]["date"] = date.fromisoformat(b["vote"]["date"])
     return rows
+
+
+def bill_documents(conn: psycopg.Connection, bill_id: str) -> list[tuple[str, str]]:
+    with conn.cursor() as cur:
+        cur.execute(
+            """
+            select t.url, t.text from staged.bill b
+            cross join lateral (
+              select value as url from jsonb_each_text(b.documents) where key <> 'impact_assessment_pdf'
+              union all
+              select value from jsonb_array_elements_text(coalesce(b.documents->'impact_assessment_pdf', '[]'))
+            ) d
+            join staged.document_text t on t.url = d.url
+            where b.id = %s
+            """,
+            (bill_id,),
+        )
+        return [(r[0], r[1]) for r in cur.fetchall()]
+
+
+def upsert_eu(conn: psycopg.Connection, bill_id: str, rel: dict[str, Any]) -> None:
+    with conn.cursor() as cur:
+        cur.execute(
+            """
+            insert into staged.bill_eu (bill_id, kind, kinds, goes_beyond, statements, acts)
+            values (%s, %s, %s, %s, %s, %s)
+            on conflict (bill_id) do update set kind = excluded.kind, kinds = excluded.kinds, goes_beyond = excluded.goes_beyond,
+              statements = excluded.statements, acts = excluded.acts, extracted_at = now()
+            """,
+            (bill_id, rel["kind"], Jsonb(rel["kinds"]), rel["goes_beyond"], Jsonb(rel["statements"]), Jsonb(rel["acts"])),
+        )
+    conn.commit()
+
+
+def eu_relations(conn: psycopg.Connection) -> dict[str, dict[str, Any]]:
+    with conn.cursor() as cur:
+        cur.execute("select bill_id, kind, kinds, goes_beyond, statements, acts from staged.bill_eu")
+        return {r[0]: {"kind": r[1], "kinds": r[2], "goes_beyond": r[3], "statements": r[4], "acts": r[5]} for r in cur.fetchall()}

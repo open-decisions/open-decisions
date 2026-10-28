@@ -240,6 +240,13 @@ def record_from_bill(bill: dict[str, Any], curated: dict[str, Any] | None = None
             "result": [{k: x for k, x in r.items() if x is not None} for r in v["result"]],
             **({"note": v["note"]} if v.get("note") else {}),
         }
+    eu = bill.get("eu_relation")
+    if eu:
+        curated_eu = curated.get("eu_relation") or {}
+        if curated_eu.get("checked"):
+            rec["eu_relation"] = curated_eu
+        else:
+            rec["eu_relation"] = {**eu, "method": "text_extraction", "checked": False}
     if not rec["identifiers"]:
         del rec["identifiers"]
     if not rec["pre_parliamentary"]:

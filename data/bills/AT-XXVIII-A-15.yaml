@@ -183,3 +183,42 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2012/29/oj
+    role: transposed
+    type: directive
+    celex: 32012L0029
+    label: Richtlinie 2012/29
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012L0029
+  - eli: http://data.europa.eu/eli/dir/2016/343/oj
+    role: transposed
+    type: directive
+    celex: 32016L0343
+    label: Richtlinie 2016/343
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016L0343
+  - eli: http://data.europa.eu/eli/dir/2016/680/oj
+    role: transposed
+    type: directive
+    celex: 32016L0680
+    label: Richtlinie 2016/680
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016L0680
+  - eli: http://data.europa.eu/eli/dir/2018/1673/oj
+    role: transposed
+    type: directive
+    celex: 32018L1673
+    label: Richtlinie 2018/1673
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018L1673
+  - eli: http://data.europa.eu/eli/dir/2024/1260/oj
+    role: transposed
+    type: directive
+    celex: 32024L1260
+    label: Richtlinie 2024/1260
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1260
+  method: text_extraction
+  checked: false

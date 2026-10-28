@@ -1128,3 +1128,34 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 2
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/306/imfname_1723218.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2011/16/oj
+    role: transposed
+    type: directive
+    celex: 32011L0016
+    label: Richtlinie 2011/16
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0016
+  - eli: http://data.europa.eu/eli/dir/2018/822/oj
+    role: transposed
+    type: directive
+    celex: 32018L0822
+    label: Richtlinie 2018/822
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018L0822
+  - eli: http://data.europa.eu/eli/dir/2023/2226/oj
+    role: transposed
+    type: directive
+    celex: 32023L2226
+    label: Richtlinie 2023/2226
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L2226
+  method: text_extraction
+  checked: false

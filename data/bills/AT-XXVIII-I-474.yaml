@@ -175,3 +175,17 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: eu_scope
+  kinds:
+  - eu_scope
+  goes_beyond: false
+  statements:
+  - kind: eu_scope
+    page: 2
+    text: Bezüglich der Höhe des ermäßigten Steuersatzes ist die Mehrwertsteuersystemrichtlinie (Richtlinie 2006/112/EG) zu
+      berücksichtigen.
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/474/imfname_1753545.pdf
+  acts: []
+  method: text_extraction
+  checked: false

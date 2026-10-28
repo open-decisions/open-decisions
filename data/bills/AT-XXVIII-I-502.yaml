@@ -175,3 +175,40 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/502/imfname_1758220.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2009/65/oj
+    role: transposed
+    type: directive
+    celex: 32009L0065
+    label: Richtlinie 2009/65
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0065
+  - eli: http://data.europa.eu/eli/dir/2011/61/oj
+    role: transposed
+    type: directive
+    celex: 32011L0061
+    label: Richtlinie 2011/61
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0061
+  - eli: http://data.europa.eu/eli/dir/2014/65/oj
+    role: transposed
+    type: directive
+    celex: 32014L0065
+    label: Richtlinie 2014/65
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0065
+  - eli: http://data.europa.eu/eli/dir/2024/927/oj
+    role: transposed
+    type: directive
+    celex: 32024L0927
+    label: Richtlinie 2024/927
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L0927
+  method: text_extraction
+  checked: false

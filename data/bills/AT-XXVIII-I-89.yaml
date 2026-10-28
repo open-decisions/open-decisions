@@ -178,3 +178,34 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: true
+  statements:
+  - kind: goes_beyond
+    page: 2
+    text: Das Vorhaben geht über eine verpflichtende Umsetzung zwingender Vorschriften des Unionsrechtes hinaus
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/89/imfname_1685691.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/reg/1991/3921/oj
+    role: transposed
+    type: regulation
+    celex: 31991R3921
+    label: Verordnung 1991/3921
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31991R3921
+  - eli: http://data.europa.eu/eli/dir/2011/92/oj
+    role: transposed
+    type: directive
+    celex: 32011L0092
+    label: Richtlinie 2011/92
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0092
+  - eli: http://data.europa.eu/eli/dir/2021/1187/oj
+    role: transposed
+    type: directive
+    celex: 32021L1187
+    label: Richtlinie 2021/1187
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021L1187
+  method: text_extraction
+  checked: false

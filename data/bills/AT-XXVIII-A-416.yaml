@@ -170,3 +170,85 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  - implements_regulation
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2002/211/oj
+    role: transposed
+    type: directive
+    celex: 32002L0211
+    label: Richtlinie 2002/211
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002L0211
+  - eli: http://data.europa.eu/eli/dir/2009/52/oj
+    role: transposed
+    type: directive
+    celex: 32009L0052
+    label: Richtlinie 2009/52
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0052
+  - eli: http://data.europa.eu/eli/dir/2011/99/oj
+    role: transposed
+    type: directive
+    celex: 32011L0099
+    label: Richtlinie 2011/99
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0099
+  - eli: http://data.europa.eu/eli/dir/2014/41/oj
+    role: transposed
+    type: directive
+    celex: 32014L0041
+    label: Richtlinie 2014/41
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0041
+  - eli: http://data.europa.eu/eli/reg/2017/1939/oj
+    role: implemented
+    type: regulation
+    celex: 32017R1939
+    label: Verordnung 2017/1939
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1939
+  - eli: http://data.europa.eu/eli/reg/2018/1727/oj
+    role: implemented
+    type: regulation
+    celex: 32018R1727
+    label: Verordnung 2018/1727
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018R1727
+  - eli: http://data.europa.eu/eli/dir/2019/884/oj
+    role: transposed
+    type: directive
+    celex: 32019L0884
+    label: Richtlinie 2019/884
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0884
+  - eli: http://data.europa.eu/eli/reg/2019/816/oj
+    role: implemented
+    type: regulation
+    celex: 32019R0816
+    label: Verordnung 2019/816
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0816
+  - eli: http://data.europa.eu/eli/dir/2022/211/oj
+    role: transposed
+    type: directive
+    celex: 32022L0211
+    label: Richtlinie 2022/211
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L0211
+  - eli: http://data.europa.eu/eli/dir/2022/228/oj
+    role: transposed
+    type: directive
+    celex: 32022L0228
+    label: Richtlinie 2022/228
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L0228
+  - eli: http://data.europa.eu/eli/reg/2023/2131/oj
+    role: implemented
+    type: regulation
+    celex: 32023R2131
+    label: Verordnung 2023/2131
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2131
+  - eli: http://data.europa.eu/eli/reg/2023/2844/oj
+    role: implemented
+    type: regulation
+    celex: 32023R2844
+    label: Verordnung 2023/2844
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2844
+  method: text_extraction
+  checked: false

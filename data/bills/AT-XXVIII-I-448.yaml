@@ -181,3 +181,17 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: eu_scope
+  kinds:
+  - eu_scope
+  goes_beyond: false
+  statements:
+  - kind: eu_scope
+    page: 1
+    text: § 33 ABS. 6a und 33a Abs. 3a BPGG bezwecken die Schaffung einer Rechtsgrundlage für die Datenverarbeitung im Einklang
+      mit der Datenschutz-Grundverordnung, ABl. Nr. L 119 vom 4.5.2016 S.1 (DSGVO).
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/448/imfname_1747493.pdf
+  acts: []
+  method: text_extraction
+  checked: false

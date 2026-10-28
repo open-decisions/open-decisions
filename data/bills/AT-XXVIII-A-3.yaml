@@ -173,3 +173,36 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/dir/1996/61/oj
+    role: transposed
+    type: directive
+    celex: 31996L0061
+    label: Richtlinie 1996/61
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31996L0061
+  - eli: http://data.europa.eu/eli/dir/2009/138/oj
+    role: transposed
+    type: directive
+    celex: 32009L0138
+    label: Richtlinie 2009/138
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0138
+  - eli: http://data.europa.eu/eli/dir/2014/17/oj
+    role: transposed
+    type: directive
+    celex: 32014L0017
+    label: Richtlinie 2014/17
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0017
+  - eli: http://data.europa.eu/eli/dir/2015/849/oj
+    role: transposed
+    type: directive
+    celex: 32015L0849
+    label: Richtlinie 2015/849
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L0849
+  method: text_extraction
+  checked: false

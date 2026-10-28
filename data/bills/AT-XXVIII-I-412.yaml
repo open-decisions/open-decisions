@@ -207,3 +207,28 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: implements_regulation
+  kinds:
+  - implements_regulation
+  goes_beyond: false
+  statements:
+  - kind: implements_regulation
+    page: 2
+    text: Das Vorhaben enthält die erforderlichen flankierenden Regelungen zu Verordnungen der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/412/imfname_1741168.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/reg/2003/1/oj
+    role: implemented
+    type: regulation
+    celex: 32003R0001
+    label: Verordnung 2003/1
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003R0001
+  - eli: http://data.europa.eu/eli/reg/2021/784/oj
+    role: implemented
+    type: regulation
+    celex: 32021R0784
+    label: Verordnung 2021/784
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0784
+  method: text_extraction
+  checked: false

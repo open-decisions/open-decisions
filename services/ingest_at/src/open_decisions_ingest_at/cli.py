@@ -8,6 +8,7 @@ from open_decisions_ingest_at import BILL_TYPES, JURISDICTION
 from open_decisions_ingest_at import raw as raw_layer
 from open_decisions_ingest_at import staged as staged_layer
 from open_decisions_ingest_at.client import ParliamentClient
+from open_decisions_ingest_at.eu import relation
 from open_decisions_ingest_at.transform import bill_from_item, record_from_bill
 
 BILL_ITYPS = ("I", "A")
@@ -59,11 +60,27 @@ def cmd_transform(args) -> int:
     return 0
 
 
+def cmd_eu(args) -> int:
+    counts: dict[str, int] = {}
+    with connect() as conn:
+        bills = staged_layer.bills(conn, JURISDICTION, args.gp, BILL_ITYPS)
+        for bill in bills:
+            rel = relation(staged_layer.bill_documents(conn, bill["id"]))
+            staged_layer.upsert_eu(conn, bill["id"], rel)
+            counts[rel["kind"]] = counts.get(rel["kind"], 0) + 1
+    print("eu relation:", ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
+    return 0
+
+
 def cmd_export(args) -> int:
     out_dir = DATA / "bills"
     written = failed = 0
     with connect() as conn:
         rows = staged_layer.bills(conn, JURISDICTION, args.gp, BILL_ITYPS)
+        eu = staged_layer.eu_relations(conn)
+    for bill in rows:
+        if bill["id"] in eu:
+            bill["eu_relation"] = eu[bill["id"]]
     expected = {out_dir / (b["id"].replace("/", "-") + ".yaml") for b in rows}
     for stale in sorted(set(out_dir.glob(f"{JURISDICTION}-{args.gp}-*.yaml")) - expected):
         stale.unlink()
@@ -95,13 +112,16 @@ def main() -> int:
     d.add_argument("--limit", type=int, default=0)
     d.set_defaults(fn=cmd_details)
     sub.add_parser("transform").set_defaults(fn=cmd_transform)
+    sub.add_parser("eu").set_defaults(fn=cmd_eu)
     e = sub.add_parser("export")
     e.add_argument("--decided-only", action="store_true")
     e.set_defaults(fn=cmd_export)
     r = sub.add_parser("run")
     r.add_argument("--decided-only", action="store_true")
     r.set_defaults(
-        fn=lambda a: cmd_list(a) or cmd_details(argparse.Namespace(gp=a.gp, all=False, limit=0)) or cmd_transform(a) or cmd_export(a)
+        fn=lambda a: (
+            cmd_list(a) or cmd_details(argparse.Namespace(gp=a.gp, all=False, limit=0)) or cmd_transform(a) or cmd_eu(a) or cmd_export(a)
+        )
     )
     args = p.parse_args()
     return args.fn(args)

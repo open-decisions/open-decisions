@@ -191,3 +191,40 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/530/imfname_1763566.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/1999/44/oj
+    role: transposed
+    type: directive
+    celex: 31999L0044
+    label: Richtlinie 1999/44
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31999L0044
+  - eli: http://data.europa.eu/eli/dir/2019/770/oj
+    role: transposed
+    type: directive
+    celex: 32019L0770
+    label: Richtlinie 2019/770
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0770
+  - eli: http://data.europa.eu/eli/dir/2019/771/oj
+    role: transposed
+    type: directive
+    celex: 32019L0771
+    label: Richtlinie 2019/771
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+  - eli: http://data.europa.eu/eli/dir/2024/1799/oj
+    role: transposed
+    type: directive
+    celex: 32024L1799
+    label: Richtlinie 2024/1799
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1799
+  method: text_extraction
+  checked: false

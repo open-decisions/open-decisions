@@ -195,3 +195,82 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 2
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/302/imfname_1722595.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/1989/665/oj
+    role: transposed
+    type: directive
+    celex: 31989L0665
+    label: Richtlinie 1989/665
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31989L0665
+  - eli: http://data.europa.eu/eli/dir/1992/13/oj
+    role: transposed
+    type: directive
+    celex: 31992L0013
+    label: Richtlinie 1992/13
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31992L0013
+  - eli: http://data.europa.eu/eli/dir/2009/33/oj
+    role: transposed
+    type: directive
+    celex: 32009L0033
+    label: Richtlinie 2009/33
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0033
+  - eli: http://data.europa.eu/eli/dir/2009/81/oj
+    role: transposed
+    type: directive
+    celex: 32009L0081
+    label: Richtlinie 2009/81
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0081
+  - eli: http://data.europa.eu/eli/dir/2009/125/oj
+    role: transposed
+    type: directive
+    celex: 32009L0125
+    label: Richtlinie 2009/125
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0125
+  - eli: http://data.europa.eu/eli/dir/2014/24/oj
+    role: transposed
+    type: directive
+    celex: 32014L0024
+    label: Richtlinie 2014/24
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0024
+  - eli: http://data.europa.eu/eli/dir/2014/94/oj
+    role: transposed
+    type: directive
+    celex: 32014L0094
+    label: Richtlinie 2014/94
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0094
+  - eli: http://data.europa.eu/eli/dir/2019/633/oj
+    role: transposed
+    type: directive
+    celex: 32019L0633
+    label: Richtlinie 2019/633
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0633
+  - eli: http://data.europa.eu/eli/dir/2019/882/oj
+    role: transposed
+    type: directive
+    celex: 32019L0882
+    label: Richtlinie 2019/882
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0882
+  - eli: http://data.europa.eu/eli/dir/2019/1161/oj
+    role: transposed
+    type: directive
+    celex: 32019L1161
+    label: Richtlinie 2019/1161
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L1161
+  - eli: http://data.europa.eu/eli/dir/2023/1791/oj
+    role: transposed
+    type: directive
+    celex: 32023L1791
+    label: Richtlinie 2023/1791
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L1791
+  method: text_extraction
+  checked: false

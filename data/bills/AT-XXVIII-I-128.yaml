@@ -217,3 +217,16 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: national
+  kinds:
+  - national
+  goes_beyond: false
+  statements:
+  - kind: national
+    page: 2
+    text: Die vorgesehenen Regelungen fallen nicht in den Anwendungsbereich des Rechts der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/128/imfname_1693583.pdf
+  acts: []
+  method: text_extraction
+  checked: false

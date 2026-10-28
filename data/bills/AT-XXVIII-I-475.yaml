@@ -175,3 +175,17 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: eu_scope
+  kinds:
+  - eu_scope
+  goes_beyond: false
+  statements:
+  - kind: eu_scope
+    page: 1
+    text: Die vorgesehenen Regelungen fallen in den Anwendungsbereich des Unionsrechts; sie stehen der Erfüllung der Vorgaben
+      der RL 2010/53/EU jedoch nicht entgegen.
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/475/imfname_1753551.pdf
+  acts: []
+  method: text_extraction
+  checked: false

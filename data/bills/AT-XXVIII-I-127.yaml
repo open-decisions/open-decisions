@@ -175,3 +175,22 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: implements_regulation
+  kinds:
+  - implements_regulation
+  goes_beyond: false
+  statements:
+  - kind: implements_regulation
+    page: 1
+    text: Das Vorhaben enthält die erforderlichen flankierenden Regelungen zu Verordnungen der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/127/imfname_1693518.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/reg/2022/868/oj
+    role: implemented
+    type: regulation
+    celex: 32022R0868
+    label: Verordnung 2022/868
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0868
+  method: text_extraction
+  checked: false

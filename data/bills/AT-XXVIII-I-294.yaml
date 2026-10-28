@@ -192,3 +192,41 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 2
+    text: Mit dem AbgÄG 2025 werden insbesondere die Richtlinien (EU) 2025/872, 2024/1233 sowie das EuGH- Urteil vom 1.8.2025,
+      C-794/23, P-GmbH umgesetzt werden
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/294/imfname_1722510.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2011/16/oj
+    role: transposed
+    type: directive
+    celex: 32011L0016
+    label: Richtlinie 2011/16
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0016
+  - eli: http://data.europa.eu/eli/dir/2022/2523/oj
+    role: transposed
+    type: directive
+    celex: 32022L2523
+    label: Richtlinie 2022/2523
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L2523
+  - eli: http://data.europa.eu/eli/dir/2024/1233/oj
+    role: transposed
+    type: directive
+    celex: 32024L1233
+    label: Richtlinie 2024/1233
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1233
+  - eli: http://data.europa.eu/eli/dir/2025/872/oj
+    role: transposed
+    type: directive
+    celex: 32025L0872
+    label: Richtlinie 2025/872
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025L0872
+  method: text_extraction
+  checked: false

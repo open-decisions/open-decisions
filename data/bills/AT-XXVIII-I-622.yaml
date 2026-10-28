@@ -148,3 +148,34 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/622/imfname_1779255.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2015/849/oj
+    role: transposed
+    type: directive
+    celex: 32015L0849
+    label: Richtlinie 2015/849
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L0849
+  - eli: http://data.europa.eu/eli/dir/2017/1132/oj
+    role: transposed
+    type: directive
+    celex: 32017L1132
+    label: Richtlinie 2017/1132
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017L1132
+  - eli: http://data.europa.eu/eli/dir/2024/1640/oj
+    role: transposed
+    type: directive
+    celex: 32024L1640
+    label: Richtlinie 2024/1640
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1640
+  method: text_extraction
+  checked: false
