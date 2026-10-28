@@ -129,6 +129,18 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/10/fname_1660572.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/10/imfname_1660574.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1070#XXVIII_I_00010
+  date: '2024-11-26'
+  title: Neu im Budgetausschuss
+  heading: Technische Novelle des Bundeshaushaltsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1093#XXVIII_I_00010
+  date: '2024-12-09'
+  title: 'Budgetausschuss: Einigung auf Weiterentwicklung des Haushaltsrechts und Hochwasserhilfe'
+  heading: 'Mayr: Inhaltliches Paket zur Weiterentwicklung des Haushaltsrechts soll folgen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1096#XXVIII_I_00010
+  date: '2024-12-11'
+  title: Nationalrat beschließt technische Änderungen im Haushaltsrecht
 measures: []
 sources:
 - id: parl-detail
@@ -136,9 +148,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 10 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/10?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

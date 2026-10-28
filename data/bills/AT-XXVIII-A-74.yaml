@@ -165,6 +165,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/74/fname_1670813.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/74/fnameorig_1670813.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/74/fname_1670839.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0080#XXVIII_A_00074
+  date: '2025-02-27'
+  title: Neu im Verfassungsausschuss
+  heading: ÖVP, SPÖ und NEOS haben Novelle zum Bundesministeriengesetz beantragt
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0188#XXVIII_A_00074
+  date: '2025-03-25'
+  title: 'ORF: Haushaltsabgabe bleibt bis 2029 eingefroren, Stiftungs- und Publikumsrat werden neu bestellt'
+  heading: Weniger Gewicht der Regierung im Stiftungsrat und im Publikumsrat
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0203#XXVIII_A_00074
+  date: '2025-03-27'
+  title: Nationalrat verabschiedet Novelle zum ORF-Gesetz mit Koalitionsmehrheit
+  heading: Stiftungsrat und Publikumsrat werden mit 17. Juni neu bestellt
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0280#XXVIII_A_00074
+  date: '2025-04-10'
+  title: Bundesrat besiegelt Novellen zum Nationalfonds und zum ORF-Gesetz
+  heading: ORF-Gremienreform und ORF-Beitrag bis Ende 2029 eingefroren
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +189,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 74/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/74?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

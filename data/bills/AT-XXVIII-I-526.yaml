@@ -165,6 +165,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/526/fname_1763537.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/526/imfname_1763539.pdf
+summary:
+- Schaffung eines § 8a StVfG zur Erneuerung der Sterbeverfügung
+- Anpassung des § 190 Abs. 5 UGB
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0593#XXVIII_I_00526
+  date: '2026-06-19'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0646#XXVIII_I_00526
+  date: '2026-06-30'
+  title: Justizausschuss genehmigt EU-Konsumentenschutz-Vorgaben
+  heading: ESAP-Justizgesetz für einfachen Abruf von Unternehmensunterlagen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0704#XXVIII_I_00526
+  date: '2026-07-07'
+  title: Nationalrat beschließt ESAP-Gesetz, Vereinheitlichung von Anwaltspensionen und Reparaturpflicht
+  heading: Unionsweiter Abruf von Unternehmensunterlagen wird ermöglicht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0741#XXVIII_I_00526
+  date: '2026-07-15'
+  title: Grünes Licht für ESAP-Gesetz und Vereinheitlichung von Anwaltspensionen im Bundesrat
+  heading: Unionsweiter Abruf von Unternehmensunterlagen
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +191,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 526 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/526?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

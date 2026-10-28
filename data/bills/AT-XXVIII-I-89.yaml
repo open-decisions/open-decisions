@@ -168,6 +168,29 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/89/fname_1685689.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/89/imfname_1685691.pdf
+summary:
+- Vorrang von Vorhaben, die für das transeuropäische Verkehrsnetz von Bedeutung sind
+- Ausrichtung des Schifffahrtsgesetzes im Sinne des Klimaschutzes, des Vorsorgeprinzips und der Nachhaltigkeit
+- Einrichtung einer Kontrolldatenbank
+- Verlängerung von bereits abgelaufenen Schiffsführerpatenten
+- Verzeichnis der zuständigen Behörden betreffend das Binnenschifffahrtsgewerbe
+- Aktualisierung des Umsetzungshinweises
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0415#XXVIII_I_00089
+  date: '2025-05-19'
+  title: Neu im Verkehrsausschuss
+  heading: Schifffahrtsgesetz soll Klimaschutz Rechnung tragen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0646#XXVIII_I_00089
+  date: '2025-07-03'
+  title: 'Verkehrsausschuss: Anpassungen an EU-Vorgaben in der Binnenschifffahrt und im Transportgewerbe'
+  heading: 'Schifffahrtsgesetz: Anpassung an EU-Recht'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0691#XXVIII_I_00089
+  date: '2025-07-11'
+  title: Nationalrat behandelt ÖBB-Rahmenplan für 2025-2030
+  heading: 'Schifffahrtsgesetz: Anpassungen an EU-Recht sollen auch mehr Nachhaltigkeit bringen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0720#XXVIII_I_00089
+  date: '2025-07-17'
+  title: Bundesrat will Zugang zu spezieller Strafregisterbescheinigung für Tätigkeiten mit Kindern und Jugendlichen erleichtern
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +198,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 89 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/89?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

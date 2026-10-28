@@ -171,6 +171,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/448/fname_1747491.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/448/imfname_1747493.pdf
+summary:
+- Auszahlung des Angehörigenbonus
+- Weitere Erhebungen und datenschutzrechtliche Ermächtigungen
+- Verankerung Durchführung der Hausbesuche im Rahmen der Qualitätssicherung durch SVS
+- Redaktionelle Anpassungen im BPGG
+- Ermächtigung der Datenübermittlung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0270#XXVIII_I_00448
+  date: '2026-03-31'
+  title: Neu im Sozialausschuss
+  heading: Novelle zum Bundespflegegeldgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0326#XXVIII_I_00448
+  date: '2026-04-15'
+  title: Sozialausschuss schickt Novelle zum Bundespflegegeldgesetz ins Plenum
+  heading: Novelle zum Bundespflegegeldgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0343#XXVIII_I_00448
+  date: '2026-04-23'
+  title: 'Nationalrat: Einhellige Zustimmung zur Verlängerung des "Wohnschirms"'
+  heading: Novelle zum Bundespflegegeldgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0408#XXVIII_I_00448
+  date: '2026-05-07'
+  title: 'Länderkammer: "Wohnschirm" und Schulstarthilfe werden noch einmal um drei Jahre verlängert'
 measures: []
 sources:
 - id: parl-detail
@@ -178,9 +200,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 448 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/448?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

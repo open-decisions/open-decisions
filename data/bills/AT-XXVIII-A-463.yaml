@@ -53,6 +53,15 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/463/fname_1712362.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/463/fnameorig_1712362.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0850#XXVIII_A_00463
+  date: '2025-10-03'
+  title: Neu im Sozialausschuss
+  heading: 'Grüne: Sozialpartner sollen branchenübergreifenden Mindestlohn festlegen können'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0325#XXVIII_A_00463
+  date: '2026-04-15'
+  title: Sozialausschuss behandelt Forderungen von FPÖ und Grünen nach Verbesserungen für Arbeitnehmerinnen und Arbeitnehmer
+  heading: 'Grüne: Sozialpartner sollen branchenübergreifenden Mindestlohn festlegen können'
 measures: []
 sources:
 - id: parl-detail
@@ -60,9 +69,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 463/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/463?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

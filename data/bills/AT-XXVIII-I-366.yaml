@@ -194,6 +194,31 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/366/fname_1728779.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/366/imfname_1728781.pdf
+summary:
+- Benennung der zuständigen Behörde
+- Erlass sonstiger begleitender Verfahrens- und Aufsichtsvorschriften
+- Ausstattung der zuständigen Behörde mit erforderlichen Aufsichts- und Sanktionsbefugnissen
+- Übermittlung der Informationen an die Sammelstellen
+- Verpflichtende Verwendung eines datenextrahierbaren bzw. maschinenlesbaren Formats
+- Verpflichtende Vorgabe von bestimmten Metadaten
+- Schaffung von Flexibilität in der Kapitalsteuerung von Kreditinstitutsgruppen
+- Implementierung der Bestimmungen, die für das Wirksamwerden der Verordnung (EU) 2024/886 in Österreich notwendig sind
+- Anhebung der Obergrenze für die Kostentragung im Bereich der Banken- und Versicherungsaufsicht
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1233#XXVIII_I_00366
+  date: '2025-12-23'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0029#XXVIII_I_00366
+  date: '2026-01-20'
+  title: Finanzausschuss vertagt Gesetz zu Beleglotterien
+  heading: 'Finanzmarktsammelgesetz: Umsetzung europäischer Vorgaben für grüne Anleihen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0037#XXVIII_I_00366
+  date: '2026-01-21'
+  title: Finanzmarktsammelgesetz passiert Nationalrat
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0089#XXVIII_I_00366
+  date: '2026-02-05'
+  title: Bundesrat spricht sich mehrheitlich für Neuregelung der Steuerbegünstigung von Überstunden und Feiertagsarbeit aus
+  heading: Steuerbegünstigung von Feiertagsarbeit und Überstunden
 measures: []
 sources:
 - id: parl-detail
@@ -201,9 +226,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 366 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/366?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

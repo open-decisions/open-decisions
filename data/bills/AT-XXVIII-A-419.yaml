@@ -71,6 +71,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/419/fname_1712707.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/419/fnameorig_1712707.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0806#XXVIII_A_00419
+  date: '2025-09-26'
+  title: Neu im Verfassungsausschuss
+  heading: Scharia-Verbot als Verfassungsbestimmung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0913#XXVIII_A_00419
+  date: '2025-10-16'
+  title: Nationalrat macht Weg für behördliche Ermittlungen gegen FPÖ-Abgeordneten Deimek frei
+  heading: FPÖ drängt auf explizites Sharia-Verbot
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0407#XXVIII_A_00419
+  date: '2026-05-07'
+  title: Verfassungsausschuss berät über Scharia-Verbot und "Postenschieberei"
+  heading: Scharia-Verbot als Verfassungsbestimmung
 measures: []
 sources:
 - id: parl-detail
@@ -78,9 +91,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 419/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/419?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

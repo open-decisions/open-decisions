@@ -206,6 +206,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/414/fname_1712056.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/414/fnameorig_1712056.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0831#XXVIII_A_00414
+  date: '2025-10-01'
+  title: 'Vertriebene aus der Ukraine: Zugang zu Familienleistungen nur bei Erwerbstätigkeit oder Meldung beim AMS'
+  heading: Nachfolgeregelung für Ukrainer:innen mit vier Ausnahmebestimmungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0902#XXVIII_A_00414
+  date: '2025-10-15'
+  title: 'Nationalrat: Ukraine-Vertriebene erhalten weiterhin Familienbeihilfe und Kinderbetreuungsgeld'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0953#XXVIII_A_00414
+  date: '2025-10-23'
+  title: Debatte zu Wissenschaftsfreiheit und Demokratie im Bundesrat
+  heading: Weiterhin Familienbeihilfe und Kinderbetreuungsgeld für Ukraine-Vertriebene
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0976#XXVIII_A_00414
+  date: '2025-10-29'
+  title: Neu im Familienausschuss
+  heading: Änderungen bei Familienbeihilfe und Kinderbetreuungsgeld geplant
 measures: []
 sources:
 - id: parl-detail
@@ -213,9 +229,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 414/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/414?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

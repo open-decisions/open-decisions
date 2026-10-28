@@ -71,6 +71,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/295/fname_1688037.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/295/fnameorig_1688037.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0458#XXVIII_A_00295
+  date: '2025-05-27'
+  title: Neu im Gleichbehandlungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0479#XXVIII_A_00295
+  date: '2025-06-03'
+  title: Verbot von Konversionsmaßnahmen in Aussicht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0762#XXVIII_A_00295
+  date: '2025-09-09'
+  title: 'Gleichbehandlungsausschuss: ÖVP, SPÖ, NEOS und Grüne für Maßnahmen zur Beseitigung der Gender-Bias in der KI'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0499#XXVIII_A_00295
+  date: '2026-06-02'
+  title: Gleichbehandlungsausschuss fordert Konsequenzen bei missbräuchlichen Deepfakes
+  heading: Verbot von Konversionsmaßnahmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0540#XXVIII_A_00295
+  date: '2026-06-11'
+  title: Kurzdebatte im Nationalrat zum Verbot von Konversionstherapien
 measures: []
 sources:
 - id: parl-detail
@@ -78,9 +95,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 295/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/295?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

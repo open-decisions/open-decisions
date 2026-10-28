@@ -60,6 +60,19 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/699/fname_1741559.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/699/fnameorig_1741559.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/699/fname_1742348.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0160#XXVIII_A_00699
+  date: '2026-03-03'
+  title: Neu im Verfassungsausschuss
+  heading: FPÖ pocht auf Abschaffung der ORF-Haushaltsabgabe
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0254#XXVIII_A_00699
+  date: '2026-03-26'
+  title: FPÖ will Altersgrenze für Kassenärztinnen und Kassenärzte kippen
+  heading: Höheres Nacht-Tempolimit für Lkw
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0822#XXVIII_A_00699
+  date: '2026-09-16'
+  title: Debatte im Verfassungsausschuss über "politischen Islam", ORF-Gebühr, EMRK und "Postenschieberei"
+  heading: FPÖ pocht auf Abschaffung der ORF-Haushaltsabgabe
 measures: []
 sources:
 - id: parl-detail
@@ -67,9 +80,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 699/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/699?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

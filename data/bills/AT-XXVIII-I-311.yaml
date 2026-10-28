@@ -1105,6 +1105,33 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/311/fname_1723264.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/311/fnameorig_1723264.html
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/311/fname_1723266.pdf
+summary:
+- Erweiterung der Auftraggeberhaftung im Baubereich in Fällen der Arbeitskräfteüberlassung
+- Erweiterung der Auskunftspflichten im ASVG nach Vorbild der BAO und Vorschreibung einer zweckgewidmeten Prüfungsabgabe in
+  Sozialbetrugsfällen
+- Sozialversicherungsanstalt der Selbständigen als Kooperationsstelle und Ergänzungen iZm Scheinunternehmensfeststellung (SBBG,
+  GSVG, ASVG)
+- Verhinderung von Anfechtungen gegenüber Sozialversicherungsträgern
+- Klarstellung eines Verdachtsanhaltspunktes im SBBG in Bezug auf Vorliegen von Scheinunternehmen
+- Schaffung einer fakultativen Beschwerdevorentscheidung für das SBBG
+- Klarstellungen bei Freezingvorgängen sowie Vereinheitlichung von Zustellvorgängen nach dem SBBG
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1053#XXVIII_I_00311
+  date: '2025-11-20'
+  title: 'Betrugsbekämpfung, Preistransparenz und Co: Wirtschafts- und Finanzausschuss schicken sechs Regierungsvorlagen in
+    Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1084#XXVIII_I_00311
+  date: '2025-11-26'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1117#XXVIII_I_00311
+  date: '2025-12-02'
+  title: Betrugsbekämpfungspaket passiert Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1164#XXVIII_I_00311
+  date: '2025-12-10'
+  title: Nationalrat setzt Maßnahmen zur Betrugsbekämpfung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1217#XXVIII_I_00311
+  date: '2025-12-18'
+  title: Bundesrat stimmt für Gesetzespaket zur Betrugsbekämpfung und für die Senkung der Elektrizitätsabgabe
 measures: []
 sources:
 - id: parl-detail
@@ -1112,9 +1139,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 311 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/311?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -1,7 +1,7 @@
 import AxeBuilder from "@axe-core/playwright";
 import { expect, test } from "@playwright/test";
 
-const pages = ["/", "/gesetze/", "/massnahmen/at-2025-klimabonus/", "/massnahmen/at-2025-klimabonus/zahl-zuerst/", "/methodik/", "/korrekturen/", "/ueber/", "/impressum/"];
+const pages = ["/", "/gesetze/", "/gesetze/AT-XXVIII-I-69/", "/gesetze/AT-XXVIII-I-657/", "/massnahmen/at-2025-klimabonus/", "/massnahmen/at-2025-klimabonus/zahl-zuerst/", "/methodik/", "/korrekturen/", "/ueber/", "/impressum/"];
 
 for (const path of pages) {
   test(`no accessibility violations on ${path}`, async ({ page }) => {
@@ -31,25 +31,37 @@ test("card shows the seven elements in order and every number has a label", asyn
   await expect(page.locator(".result")).toContainText("geschätzt");
 });
 
-test("tracker filters by stage and search", async ({ page }) => {
+test("tracker opens on what is happening now and filters all bills", async ({ page }) => {
   await page.goto("/gesetze/");
-  const rows = page.locator("tbody tr");
+  await expect(page.getByRole("heading", { name: /Demnächst auf der Tagesordnung/ })).toBeVisible();
+  await page.getByRole("button", { name: /^Alle \d+ Vorhaben/ }).click();
+  const rows = page.locator("ul.all > li");
   await expect(rows).toHaveCount(311);
-  await page.getByRole("button", { name: /^Eingebracht/ }).click();
-  await expect(rows).toHaveCount(3);
-  await page.getByRole("button", { name: /^Alle \d/ }).click();
-  await page.getByLabel("Suche in Titel und Nummer").fill("Budgetbegleitgesetz 2025");
+  await page.getByRole("button", { name: /^Familie und Gleichstellung/ }).click();
+  expect(await rows.count()).toBeLessThan(40);
+  await page.getByRole("button", { name: /^Alle$/ }).first().click();
+  await page.getByLabel("Suche").fill("Budgetbegleitgesetz 2025");
   await expect(rows).toHaveCount(1);
-  await expect(rows.first()).toContainText("4 Karten".replace("4 Karten", "Der Klimabonus wird nicht mehr ausgezahlt"));
+  await expect(rows.first().getByRole("link", { name: /Was heißt das für dich: Der Klimabonus/ })).toBeVisible();
 });
 
-
-test("tracker filters by relation to EU law and links the EU act", async ({ page }) => {
+test("tracker filters by relation to EU law", async ({ page }) => {
   await page.goto("/gesetze/");
-  await page.getByRole("button", { name: /^Setzt EU-Recht um/ }).click();
-  const rows = page.locator("tbody tr");
-  expect(await rows.count()).toBeGreaterThan(40);
-  await page.getByLabel("Suche in Titel und Nummer").fill("Batterienverordnung");
-  await expect(rows).toHaveCount(1);
-  await expect(rows.first().getByRole("link", { name: "Verordnung 2023/1542" })).toHaveAttribute("href", /CELEX:32023R1542/);
+  await page.getByRole("button", { name: /^Alle \d+ Vorhaben/ }).click();
+  await page.getByText("Weitere Filter").click();
+  await page.getByRole("button", { name: /^Setzt EU-Vorgaben um/ }).click();
+  expect(await page.locator("ul.all > li").count()).toBeGreaterThan(40);
+});
+
+test("bill page shows headline, plain status, EU relation and links to the card", async ({ page }) => {
+  await page.goto("/gesetze/AT-XXVIII-I-69/");
+  await expect(page.locator("h1")).not.toHaveText("Budgetbegleitgesetz 2025");
+  await expect(page.getByText(/Offizieller Titel: Budgetbegleitgesetz 2025/)).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Kommt das aus der EU" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Der Klimabonus wird nicht mehr ausgezahlt" })).toBeVisible();
+});
+
+test("battery law links its EU regulation", async ({ page }) => {
+  await page.goto("/gesetze/AT-XXVIII-I-657/");
+  await expect(page.getByRole("link", { name: "Verordnung 2023/1542" })).toHaveAttribute("href", /CELEX:32023R1542/);
 });

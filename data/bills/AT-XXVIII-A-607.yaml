@@ -165,6 +165,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/607/fname_1723252.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/607/fnameorig_1723252.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/607/fname_1724904.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1059#XXVIII_A_00607
+  date: '2025-11-21'
+  title: Neu im Gesundheitsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1122#XXVIII_A_00607
+  date: '2025-12-02'
+  title: 'Gesundheitsausschuss: Umsetzung des elektronischen Eltern-Kind-Passes auf 1. Oktober 2026 verschoben'
+  heading: 'Vier-Parteien-Antrag: ELGA-Daten sollen erst nach 30 Jahren gelöscht werden'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1176#XXVIII_A_00607
+  date: '2025-12-11'
+  title: 'Diagnosecodierung: Ausweitung auf den niedergelassenen Bereich ab Mitte 2026'
+  heading: 'Vier-Parteien-Antrag: ELGA-Daten sollen erst nach 30 Jahren gelöscht werden'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1219#XXVIII_A_00607
+  date: '2025-12-18'
+  title: 'Bundesrat: Grünes Licht für Preisregulierung von Medikamenten und einheitliche Dokumentation im Gesundheitswesen'
+  heading: Bundesrat stimmt Speicherung von ELGA-Daten für 30 Jahre zu
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +188,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 607/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/607?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

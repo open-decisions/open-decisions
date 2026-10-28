@@ -202,6 +202,31 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/308/fname_1723246.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/308/imfname_1723248.pdf
+summary:
+- Errichtung eines Bundesamtes für Cybersicherheit
+- Umsetzung und Durchführung von Unionsrechtsakten im Bereich der Cybersicherheit
+- Weiterentwicklung und Koordination einer neuen nationalen Cybersicherheitsstrategie
+- Benennung einer zentralen Anlaufstelle für Cybersicherheit (SPOC)
+- Benennung einer nationalen Behörde für das Management von Cybersicherheitsvorfällen großen Ausmaßes
+- Benennung von Computer-Notfallteams (CSIRTs) zur Unterstützung der wesentlichen und wichtigen Einrichtungen
+- Vorschriften zum Austausch von Cybersicherheitsinformationen
+- Pflicht zur Setzung geeigneter Aufsichts- und Durchsetzungsmaßnahmen
+- Pflicht zur Setzung geeigneter Risikomanagementmaßnahmen und Berichtspflichten
+- Pflicht zur Führung eines Registers der wesentlichen und wichtigen Einrichtungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1140#XXVIII_I_00308
+  date: '2025-12-04'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1145#XXVIII_I_00308
+  date: '2025-12-05'
+  title: 'Cybersicherheit: Neuer Anlauf für NIS-2 im Innenausschuss'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1189#XXVIII_I_00308
+  date: '2025-12-12'
+  title: 'Cybersicherheit: Zweidrittelmehrheit für NIS-2-Umsetzung im Nationalrat'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1218#XXVIII_I_00308
+  date: '2025-12-18'
+  title: 'Cybersicherheit: Zweidrittelmehrheit für NIS-2-Umsetzung auch im Bundesrat'
+  heading: Hitzige Debatte zur NIS-2-Umsetzung
 measures: []
 sources:
 - id: parl-detail
@@ -209,9 +234,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 308 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/308?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

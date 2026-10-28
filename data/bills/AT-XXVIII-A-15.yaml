@@ -173,6 +173,21 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/15/fname_1660987.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/15/fnameorig_1660987.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1071#XXVIII_A_00015
+  date: '2024-11-26'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1094#XXVIII_A_00015
+  date: '2024-12-09'
+  title: 'Handysicherstellung: Breite Mehrheit im Budgetausschuss für Paket zur Neuregelung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1099#XXVIII_A_00015
+  date: '2024-12-11'
+  title: Breite Mehrheit im Nationalrat für Gesetzespaket zur Handysicherstellung
+  heading: Handysicherstellung und StPO-Reform
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1117#XXVIII_A_00015
+  date: '2024-12-19'
+  title: 'Bundesrat: Breite Mehrheit für Gesetzespaket zur Handysicherstellung'
+  heading: Handysicherstellung und StPO-Reform
 measures: []
 sources:
 - id: parl-detail
@@ -180,9 +195,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 15/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/15?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

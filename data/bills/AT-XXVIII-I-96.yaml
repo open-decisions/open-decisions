@@ -170,6 +170,28 @@ documents:
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/96/imfname_1687376.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/96/imfname_1687377.pdf
+summary:
+- Vereinfachte Verfahren bei der Aufnahme von Wissenschafter:innen und Forscher:innen
+- Erstellung einer gesetzlichen Regelung für einen digitalen Studierendenausweis
+- Schaffung von diversen Schnittstellen zum Datenverbund der Hochschulen und Universitäten (DVUH) sowie zum Studierendenregister
+- Anbindung des Studierendenregisters an die "eAusweise"-Plattform des Bundes und Bereitstellung der Attribute über den RSV
+  gemäß § 1 Abs. 3 Z 2 USPG
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0453#XXVIII_I_00096
+  date: '2025-05-26'
+  title: Neu im Wissenschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0493#XXVIII_I_00096
+  date: '2025-06-04'
+  title: 'Digitaler und internationaler: Novelle soll Anstellung von US-Wissenschaftler:innen und digitale Ausweise an Unis
+    ermöglichen'
+  heading: Änderung des Universitäts- und des Bildungsdokumentationsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0546#XXVIII_I_00096
+  date: '2025-06-16'
+  title: Nationalrat beschließt Novelle zum Universitätsgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0618#XXVIII_I_00096
+  date: '2025-06-26'
+  title: 'Bundesrat: Maturaerleichterungen für Grazer BORG "Dreierschützengasse" können in Kraft treten'
+  heading: Erleichterungen für Anstellung von Forscher:innen aus den USA
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +199,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 96 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/96?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

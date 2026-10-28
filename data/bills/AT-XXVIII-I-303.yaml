@@ -165,6 +165,22 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/303/fname_1722599.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/303/imfname_1722601.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1101#XXVIII_I_00303
+  date: '2025-11-28'
+  title: Neu im Wirtschaftsausschuss
+  heading: Missbrauchsverbot für den Energiesektor soll bis Ende 2031 verlängert werden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1160#XXVIII_I_00303
+  date: '2025-12-09'
+  title: 'Wirtschaftsausschuss: Gespräche für Elektrizitätswirtschaftsgesetz sollen weiterlaufen'
+  heading: Missbrauchsverbot für den Energiesektor soll bis Ende 2031 verlängert werden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1168#XXVIII_I_00303
+  date: '2025-12-10'
+  title: 'Nationalrat: Hattmannsdorfer fordert Opposition auf, Elektrizitätswirtschaftsgesetz zuzustimmen'
+  heading: Missbrauchsverbot für den Energiesektor bis 2031
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1212#XXVIII_I_00303
+  date: '2025-12-17'
+  title: Auch im Bundesrat Zweidrittelmehrheit für "Günstiger-Strom-Gesetz"
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +188,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 303 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/303?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -168,6 +168,24 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/397/fname_1740113.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/397/imfname_1740115.pdf
+summary:
+- Angleichung des nationalen rechtlichen Rahmens an EU-Vorschriften
+- Redaktionelle Änderungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0151#XXVIII_I_00397
+  date: '2026-03-02'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0216#XXVIII_I_00397
+  date: '2026-03-17'
+  title: Finanzausschuss beschließt neue EU-Regeln für Börsengänge und Prospekte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0250#XXVIII_I_00397
+  date: '2026-03-26'
+  title: Nationalrat beschließt neue EU-Regeln für Börsengänge und Prospekte
+  heading: Fiskalrat soll künftig alle fünf Jahre evaluiert werden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0309#XXVIII_I_00397
+  date: '2026-04-10'
+  title: Bundesrat besiegelt nationale Umsetzung neuer EU-Regeln für Börsengänge und Prospekte
+  heading: Fiskalrat soll künftig alle fünf Jahre evaluiert werden
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +193,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 397 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/397?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

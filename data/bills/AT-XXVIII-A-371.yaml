@@ -105,6 +105,29 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/371/fname_1702347.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/371/fnameorig_1702347.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/371/fname_1703348.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0708#XXVIII_A_00371
+  date: '2025-07-16'
+  title: Neu im Verkehrsausschuss
+  heading: FPÖ will weniger Bürokratie für Feuerwehren durch NoVA-Befreiung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0794#XXVIII_A_00371
+  date: '2025-09-25'
+  title: Erste Lesung von FPÖ-Initiativantrag zur Abschaffung der Normverbrauchsabgabe für Feuerwehrfahrzeuge
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1008#XXVIII_A_00371
+  date: '2025-11-06'
+  title: Anträge der Opposition führen im Verkehrsausschuss zu Debatte über Straßenausbau
+  heading: FPÖ will weniger Bürokratie für Feuerwehren durch NoVA-Befreiung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1043#XXVIII_A_00371
+  date: '2025-11-20'
+  title: 'Nationalrat: Breite Mehrheit für Novelle zu Bahn-Hochleistungsstrecken'
+  heading: FPÖ-Antrag für NoVA-Befreiung für Einsatzfahrzeuge der Feuerwehr
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1118#XXVIII_A_00371
+  date: '2025-12-02'
+  title: Finanzausschuss vertagt Oppositionsforderungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0599#XXVIII_A_00371
+  date: '2026-06-23'
+  title: Finanzausschuss schickt Oppositionsforderungen in die Warteschleife
+  heading: FPÖ fordert automatische NoVA-Befreiung für Feuerwehren
 measures: []
 sources:
 - id: parl-detail
@@ -112,9 +135,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 371/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/371?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

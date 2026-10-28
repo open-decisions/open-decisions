@@ -160,6 +160,32 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/136/fname_1693650.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/136/imfname_1693652.pdf
+summary:
+- Einführung einer Ermittlungsbefugnis zur Überwachung von Nachrichten, einschließlich verschlüsselter Kommunikation (§ 11
+  Abs 1 Z 8 und 9 SNG)
+- Neuregelung des Aufschubs der Berichtspflicht (§ 6 Abs 4 SNG)
+- Einführung einer verpflichtenden Vertrauenswürdigkeitsprüfung für den Rechtsschutzbeauftragten sowie seine Stellvertreter
+  (§ 91b Abs. 1a SPG)
+- Erweiterung von Umständen, die zu einer Erlöschung der Bestellung bzw. Abberufung des Rechtsschutzbeauftragen führen (§
+  91b Abs. 2 und 2a SPG)
+- Aktualisierung der Verweise in § 161 und § 162 TKG
+- Schaffung einer Rechtsgrundlage für eine Rufbereitschaft oder einen Journaldienst am Bundesverwaltungsgericht (§ 16a BVwGG
+  und § 66 Abs. 3 RStDG)
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0629#XXVIII_I_00136
+  date: '2025-07-01'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0643#XXVIII_I_00136
+  date: '2025-07-02'
+  title: Messenger-Überwachung passiert Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0661#XXVIII_I_00136
+  date: '2025-07-09'
+  title: Nationalrat gibt nach intensiver Debatte Zustimmung zu Messenger-Überwachung
+  heading: Die Inhalte des Gesetzes zur Messenger-Überwachung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0718#XXVIII_I_00136
+  date: '2025-07-17'
+  title: Messenger-Überwachung nimmt letzte parlamentarische Hürde
+  heading: Grundzüge der Messenger-Überwachung
 measures: []
 sources:
 - id: parl-detail
@@ -167,9 +193,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 136 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/136?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

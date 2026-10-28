@@ -197,6 +197,35 @@ documents:
   - https://www.parlament.gv.at/dokument/XXVIII/I/504/imfname_1758253.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/504/imfname_1758254.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/504/imfname_1758255.pdf
+summary:
+- Nachschärfungen bei der Wegzugsbesteuerung
+- Erweiterung der Auskünfte aus dem Kontenregister- und Konteneinschaugesetz (KontRegG)
+- Ermöglichung der steuerfreien Mitarbeiterprämie
+- Klarstellung im Zusammenhang mit der Steuerfreiheit für Feiertagsarbeitsentgelte
+- Pauschalierung von Gebühren
+- Streichung der Verpflichtung zur Auszeichnung der Standardzimmerpreiskategorien im Eingangsbereich sowie Klarstellung zur
+  Angabe von Tourismusabgaben
+- Erhöhung der Geldbußen für Verstöße gegen die Preisauszeichnungsbestimmungen
+- Einführung eines mehrstufigen Systems bei Verhängung der Strafen
+- Entfall des erhöhten Beförderungszuschusses gemäß § 7 Abs. 5 Reisegebührenvorschrift 1955 (RGV), BGBl. Nr. 133/1955
+- Absenkung des Jahresdeckels für Beförderungszuschüsse gemäß § 7 Abs. 6 RGV
+- Neufestsetzung der gesetzlichen Basisbeträge für die Arbeitsvergütung gemäß § 52 Abs. 1 StVG
+- Erhöhung der Schwelle für die Valorisierung der Arbeitsvergütung gemäß § 52 Abs. 2 StVG
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0482#XXVIII_I_00504
+  date: '2026-05-27'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0525#XXVIII_I_00504
+  date: '2026-06-09'
+  title: 'Budgetausschuss: Budgetkonsolidierung durch Steuermaßnahmen'
+  heading: 'Budgetmaßnahmengesetz 2026: Steuerfreie Mitarbeiterprämie, Verschärfungen gegen Scheinfirmen, Gebühren für Aufenthaltstitel'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0531#XXVIII_I_00504
+  date: '2026-06-10'
+  title: Nationalrat beschließt Budgetmaßnahmengesetz 2026
+  heading: Budgetmaßnahmengesetz 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0621#XXVIII_I_00504
+  date: '2026-06-25'
+  title: Budgetmaßnahmengesetz 2026 nimmt letzte Hürde im Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -204,9 +233,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 504 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/504?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

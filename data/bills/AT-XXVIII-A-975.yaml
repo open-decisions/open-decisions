@@ -54,6 +54,14 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/975/fname_1771491.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/975/fnameorig_1771491.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/975/fname_1773555.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0759#XXVIII_A_00975
+  date: '2026-07-20'
+  title: Neu im Verkehrsausschuss
+  heading: FPÖ fordert Regelung für gut sichtbare Schutzwege …
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0850#XXVIII_A_00975
+  date: '2026-09-24'
+  title: 'Nationalrat: Debatte über Entlastung von Blaulichtorganisationen und Kennzeichnung von Schutzwegen'
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +69,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 975/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/975?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

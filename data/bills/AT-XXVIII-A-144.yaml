@@ -71,6 +71,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/144/fname_1674687.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/144/fnameorig_1674687.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0225#XXVIII_A_00144
+  date: '2025-03-28'
+  title: Neu im Justizausschuss
+  heading: FPÖ für Straferschwerungsgrund für Täter:innen mit Asylantrag
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0237#XXVIII_A_00144
+  date: '2025-04-01'
+  title: Justizausschuss spricht sich gegen Senkung des Strafmündigkeitsalters aus
+  heading: Keine Verschärfung der Straferschwerungsgründe für Täter:innen mit Asylantrag
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0320#XXVIII_A_00144
+  date: '2025-04-25'
+  title: Nationalrat befasst sich mit Rechtsextremismus in Österreich
+  heading: Illegale Grenzübertritte, neuer Straferschwerungsgrund
 measures: []
 sources:
 - id: parl-detail
@@ -78,9 +91,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 144/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/144?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

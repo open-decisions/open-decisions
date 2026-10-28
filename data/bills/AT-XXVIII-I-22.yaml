@@ -163,6 +163,24 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/22/fname_1664990.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/22/imfname_1664992.pdf
+summary:
+- 'Maßnahme 1: Einführung neuer Bestimmungen für den grenzüberschreitenden Informationsaustausch zwischen den Strafverfolgungsbehörden'
+- 'Maßnahme 2: Klarstellungen im Zusammenhang mit der Bereitstellung von Informationen'
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0049#XXVIII_I_00022
+  date: '2025-02-13'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0062#XXVIII_I_00022
+  date: '2025-02-21'
+  title: 'Budgetausschuss: Mayr rechnet mit einem Maastricht-Defizit von rund 3,9 %'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0070#XXVIII_I_00022
+  date: '2025-02-26'
+  title: 'Nationalrat: EU-weite Zusammenarbeit zur Aufdeckung von Finanzvergehen wird ausgebaut'
+  heading: Verbesserung des EU-weiten Informationsaustausches zwischen Strafverfolgungsbehörden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0155#XXVIII_I_00022
+  date: '2025-03-13'
+  title: Bundesrat stimmt Verlängerung des Anspruchs auf Familienleistungen für ukrainische Vertriebene zu
+  heading: EU-weiter Informationsaustausch zwischen Strafverfolgungsbehörden soll verbessert werden
 measures: []
 sources:
 - id: parl-detail
@@ -170,9 +188,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 22 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/22?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

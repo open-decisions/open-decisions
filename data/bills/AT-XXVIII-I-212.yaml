@@ -180,6 +180,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/212/fname_1711926.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/212/imfname_1711928.pdf
+summary:
+- Schaffung der Möglichkeit der Einbeziehung freier Dienstnehmerinnen und Dienstnehmer in Kollektivverträge
+- Schaffung einer gesetzlichen Kündigungsregelung für freie Dienstverhältnisse
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0850#XXVIII_I_00212
+  date: '2025-10-03'
+  title: Neu im Sozialausschuss
+  heading: Arbeitsministerin schlägt neue Regeln für freie Dienstnehmer:innen vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0865#XXVIII_I_00212
+  date: '2025-10-08'
+  title: Sozialausschuss einstimmig für Kündigungsregeln und Kollektivverträge für freie Dienstnehmerinnen und Dienstnehmer
+  heading: Neue Regeln für freie Dienstnehmerinnen und Dienstnehmer
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0906#XXVIII_I_00212
+  date: '2025-10-16'
+  title: Breite Mehrheit für einheitliche Trinkgeldpauschale im Nationalrat
+  heading: Neue Regeln für freie Dienstnehmerinnen und Dienstnehmer
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0960#XXVIII_I_00212
+  date: '2025-10-23'
+  title: 'Bundesrat: Bundesweit einheitliche Trinkgeld-Regelung mehrheitlich angenommen'
+  heading: Bessere Absicherung für freie Dienstnehmerinnen und freie Dienstnehmer
 measures: []
 sources:
 - id: parl-detail
@@ -187,9 +207,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 212 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/212?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

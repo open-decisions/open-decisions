@@ -493,6 +493,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/372/fname_1702209.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/372/fnameorig_1702209.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/372/fname_1703000.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0700#XXVIII_A_00372
+  date: '2025-07-14'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0752#XXVIII_A_00372
+  date: '2025-09-04'
+  title: 'Waffengesetz: Innenausschuss schickt Verschärfung einstimmig in Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0773#XXVIII_A_00372
+  date: '2025-09-18'
+  title: Verschärfung des Waffengesetzes passiert nach Begutachtung Innenausschuss
+  heading: Grundzüge der Waffengesetz-Novelle
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0792#XXVIII_A_00372
+  date: '2025-09-24'
+  title: Nationalrat beschließt Verschärfung des Waffengesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0874#XXVIII_A_00372
+  date: '2025-10-09'
+  title: Bundesrat besiegelt Verschärfung des Waffengesetzes
 measures: []
 sources:
 - id: parl-detail
@@ -500,9 +517,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 372/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/372?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

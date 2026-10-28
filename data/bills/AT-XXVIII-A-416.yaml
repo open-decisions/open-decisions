@@ -160,6 +160,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/416/fname_1712698.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/416/fnameorig_1712698.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0800#XXVIII_A_00416
+  date: '2025-09-25'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0825#XXVIII_A_00416
+  date: '2025-09-30'
+  title: 'Erwachsenenvertretung: Breite Mehrheit für neuerliche Gesetzesanpassungen'
+  heading: EU-weite Zusammenarbeit von Strafrechtsbehörden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0900#XXVIII_A_00416
+  date: '2025-10-15'
+  title: Nationalrat beschließt mehr Mitbestimmung im Erwachsenenschutz
+  heading: EU-weite Zusammenarbeit von Strafrechtsbehörden
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0953#XXVIII_A_00416
+  date: '2025-10-23'
+  title: Debatte zu Wissenschaftsfreiheit und Demokratie im Bundesrat
+  heading: EU-weite Zusammenarbeit von Strafrechtsbehörden
 measures: []
 sources:
 - id: parl-detail
@@ -167,9 +183,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 416/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/416?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

@@ -181,6 +181,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/503/fname_1758230.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/503/imfname_1758231.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0456#XXVIII_I_00503
+  date: '2026-05-22'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0502#XXVIII_I_00503
+  date: '2026-06-02'
+  title: Sozialausschuss gibt grünes Licht für Unterstützungsfonds für Alleinerziehende
+  heading: Unterstützungsfonds für Alleinerziehende
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0533#XXVIII_I_00503
+  date: '2026-06-10'
+  title: 'Nationalrat: Breite Zustimmung zu Unterstützungsfonds für Alleinerziehende'
+  heading: Unterstützungsfonds für Alleinerziehende
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0625#XXVIII_I_00503
+  date: '2026-06-25'
+  title: Bundesrat besiegelt Unterstützungsfonds für Alleinerziehende
 measures: []
 sources:
 - id: parl-detail
@@ -188,9 +203,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 503 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/503?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -188,6 +188,31 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/498/fname_1757410.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/498/imfname_1757412.pdf
+summary:
+- Aufhebung des Fern-Finanzdienstleistungs-Gesetzes und Einfügung eines eigenen Abschnitts für Fernabsatzverträge über Finanzdienstleistungen
+  im FAGG
+- Adaptierung der Informationspflichten bei Fernabsatzverträgen über die Erbringung von Finanzdienstleistungen
+- Rücktrittsfunktion für sämtliche Fernabsatzverträge, die über eine Online Benutzeroberfläche geschlossen werden („Widerrufsbutton“)
+- Sicherstellung der Bereitstellung transparenter und standardisierter Nachhaltigkeitsinformation
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0458#XXVIII_I_00498
+  date: '2026-05-22'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0646#XXVIII_I_00498
+  date: '2026-06-30'
+  title: Justizausschuss genehmigt EU-Konsumentenschutz-Vorgaben
+  heading: 'Umsetzung von EU-Verbraucherrechten: "Widerrufsbutton" und nachhaltigeres Konsumverhalten'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0703#XXVIII_I_00498
+  date: '2026-07-07'
+  title: Nationalrat genehmigt einhellig EU- Verbraucherschutzvorgaben
+  heading: Widerrufsbutton und nachhaltigeres Konsumverhalten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0740#XXVIII_I_00498
+  date: '2026-07-15'
+  title: Bundesrat spricht sich für Widerrufsbutton bei Online-Verträgen sowie für neue Reparaturverpflichtungen aus
+  heading: 'EU- Verbraucherschutzvorgaben: Widerrufsbutton für Online-Käufe und Reparaturverpflichtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0879#XXVIII_I_00498
+  date: '2026-09-29'
+  title: 'Ab Oktober in Kraft: E-Mopeds, Paketsteuer, Eltern-Kind-Pass, Psychotherapie'
 measures: []
 sources:
 - id: parl-detail
@@ -195,9 +220,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 498 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/498?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

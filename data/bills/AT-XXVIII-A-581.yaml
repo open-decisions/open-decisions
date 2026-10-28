@@ -71,6 +71,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/581/fname_1722953.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/581/fnameorig_1722953.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1067#XXVIII_A_00581
+  date: '2025-11-24'
+  title: Neu im Sozialausschuss
+  heading: Grüne fordern weiterreichende Verbesserungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1134#XXVIII_A_00581
+  date: '2025-12-03'
+  title: 'Zuverdienstverbot für Arbeitslose: Sozialausschuss empfiehlt Nachbesserungen'
+  heading: Zuverdienstverbot für Arbeitslose
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1178#XXVIII_A_00581
+  date: '2025-12-12'
+  title: Nationalrat beschließt einhellig neue Ausnahmeregelungen bei Zuverdienstverbot und Kündigungsfristen
+  heading: Neue Ausnahmen vom Zuverdienstverbot für Arbeitslose
 measures: []
 sources:
 - id: parl-detail
@@ -78,9 +91,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 581/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/581?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

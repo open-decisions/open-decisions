@@ -968,6 +968,18 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/630/fname_1728900.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/630/fnameorig_1728900.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1186#XXVIII_A_00630
+  date: '2025-12-12'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1197#XXVIII_A_00630
+  date: '2025-12-15'
+  title: Lotterie für Kassenbelege - Finanzausschuss schickt Gesetz in Begutachtung
+  heading: 'Beleglotterie: 2.500 € für Kassenbelege'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0029#XXVIII_A_00630
+  date: '2026-01-20'
+  title: Finanzausschuss vertagt Gesetz zu Beleglotterien
+  heading: Lotterie für Kassenbelege erneut vertagt
 measures: []
 sources:
 - id: parl-detail
@@ -975,9 +987,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 630/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/630?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

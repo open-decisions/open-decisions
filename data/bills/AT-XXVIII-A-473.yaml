@@ -183,6 +183,19 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/473/fname_1712745.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/473/fnameorig_1712745.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0798#XXVIII_A_00473
+  date: '2025-09-25'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0867#XXVIII_A_00473
+  date: '2025-10-08'
+  title: Sozialausschuss bringt Pensionsanpassung 2026 auf den Weg
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0908#XXVIII_A_00473
+  date: '2025-10-16'
+  title: Nationalrat beschließt Pensionsanpassung 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0961#XXVIII_A_00473
+  date: '2025-10-24'
+  title: 'Bundesrat: Grünes Licht für Weiterbildungsbeihilfe, Pensionsanpassung 2026, EU-Rezept und EU-Patientenakte'
 measures: []
 sources:
 - id: parl-detail
@@ -190,9 +203,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 473/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/473?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

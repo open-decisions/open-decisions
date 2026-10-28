@@ -165,6 +165,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/502/fname_1758218.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/502/imfname_1758220.pdf
+summary:
+- Harmonisierung der Vorschriften betreffend die Kreditvergabe durch AIF
+- Einführung von Vorschriften betreffend den Einsatz und die Auswahl von geeigneten Liquiditätsmanagement-Instrumenten
+- Neuregelung der Vorschriften im Zusammenhang mit den Rahmenbedingungen zur Auslagerung von Aufgaben des AIFM bzw. der OGAW-Verwaltungsgesellschaft
+- Neuregelung der Vorschriften im Zusammenhang mit der Erbringung von Verwahrdienstleistungen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0475#XXVIII_I_00502
+  date: '2026-05-26'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0598#XXVIII_I_00502
+  date: '2026-06-23'
+  title: Finanzausschuss zu neuen Standards für alternative Investmentfonds
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0697#XXVIII_I_00502
+  date: '2026-07-07'
+  title: Nationalrat spricht sich mit breiter Mehrheit für neue Standards für alternative Investmentfonds aus
+  heading: Neue Standards für alternative Investmentfonds
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_I_00502
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
+  heading: Neue Standards für alternative Investmentfonds
 measures: []
 sources:
 - id: parl-detail
@@ -172,9 +192,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 502 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/502?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

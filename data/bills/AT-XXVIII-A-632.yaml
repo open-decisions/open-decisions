@@ -58,6 +58,18 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/632/fname_1729361.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/632/fnameorig_1729361.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/632/fname_1730592.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1223#XXVIII_A_00632
+  date: '2025-12-19'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0213#XXVIII_A_00632
+  date: '2026-03-17'
+  title: 'Justizausschuss: Grünes Licht für Frauenquote von 40 % für Aufsichtsräte börsenotierter Unternehmen'
+  heading: Grüne für "Nur Ja heißt Ja" im Sexualstrafrecht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0889#XXVIII_A_00632
+  date: '2026-09-30'
+  title: Justizausschuss für konsequente Weiterentwicklung eines umfassenden Kinderschutzes
+  heading: Grüne für "Nur Ja heißt Ja" im Sexualstrafrecht
 measures: []
 sources:
 - id: parl-detail
@@ -65,9 +77,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 632/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/632?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

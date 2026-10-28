@@ -158,6 +158,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/321/fname_1692574.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/321/fnameorig_1692574.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/321/fname_1692658.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0538#XXVIII_A_00321
+  date: '2025-06-16'
+  title: 'Amoklauf in Graz: Nationalrat will noch diese Woche Maturaerleichterungen beschließen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0553#XXVIII_A_00321
+  date: '2025-06-17'
+  title: 'Amoklauf in Graz: Bildungsausschuss gibt einstimmig grünes Licht für Maturaerleichterungen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0566#XXVIII_A_00321
+  date: '2025-06-18'
+  title: 'Amoklauf in Graz: Nationalrat fixiert einstimmig Erleichterungen für Maturant:innen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0618#XXVIII_A_00321
+  date: '2025-06-26'
+  title: 'Bundesrat: Maturaerleichterungen für Grazer BORG "Dreierschützengasse" können in Kraft treten'
+  heading: Betroffenheit bei Bundesrät:innen nach Attentat in Graz
 measures: []
 sources:
 - id: parl-detail
@@ -165,9 +179,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 321/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/321?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

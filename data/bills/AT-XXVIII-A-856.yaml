@@ -56,11 +56,28 @@ phases:
   date: '2026-06-11'
   text: '83. Sitzung des Nationalrates: Zuweisung an den Verfassungsausschuss'
   url: https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-22'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 16. Sitzung des Ausschusses In der Sitzung vom 22. Oktober 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16964576.html
 vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/856/fname_1754233.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/856/fnameorig_1754233.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/856/fname_1755140.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0359#XXVIII_A_00856
+  date: '2026-04-24'
+  title: Neu im Verfassungsausschuss
+  heading: Ergänzung des Neutralitätsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0543#XXVIII_A_00856
+  date: '2026-06-11'
+  title: 'Nationalrat: Debatte über Neutralität und Ukraine-Darlehen'
+  heading: FPÖ für Ergänzung des Neutralitätsgesetzes
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1001#XXVIII_A_00856
+  date: '2026-10-22'
+  title: Verfassungsausschuss vertagt FPÖ-Anträge zur Neutralität und für Neuwahlen
 measures: []
 sources:
 - id: parl-detail
@@ -68,9 +85,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 856/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/856?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

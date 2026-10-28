@@ -586,6 +586,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/309/fname_1723255.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/309/imfname_1723256.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1053#XXVIII_I_00309
+  date: '2025-11-20'
+  title: 'Betrugsbekämpfung, Preistransparenz und Co: Wirtschafts- und Finanzausschuss schicken sechs Regierungsvorlagen in
+    Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1095#XXVIII_I_00309
+  date: '2025-11-27'
+  title: Neu im Wirtschaftsausschuss
+  heading: '"Achtung: Weniger Inhalt – höherer Preis" als Kennzeichnung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1154#XXVIII_I_00309
+  date: '2025-12-09'
+  title: 'Wirtschaftsausschuss: Breite Mehrheit für Anti-Mogelpackungs-Gesetz und Klarstellungen im Preisauszeichnungsgesetz'
+  heading: '"Achtung: Weniger Inhalt – höherer Preis" als Kennzeichnung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0133#XXVIII_I_00309
+  date: '2026-02-25'
+  title: Nationalrat gibt grünes Licht für Anti-Mogelpackungs-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0200#XXVIII_I_00309
+  date: '2026-03-12'
+  title: 'Bundesrat: Anti-Mogelpackungs-Gesetz kann mit April in Kraft treten'
+  heading: Anti-Mogelpackungs-Gesetz gilt ab April
 measures: []
 sources:
 - id: parl-detail
@@ -593,9 +613,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 309 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/309?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

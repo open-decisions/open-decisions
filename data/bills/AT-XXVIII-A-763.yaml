@@ -175,6 +175,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/763/fname_1746812.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/763/fnameorig_1746812.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/763/fname_1746907.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0232#XXVIII_A_00763
+  date: '2026-03-23'
+  title: Neu im Wirtschaftsausschuss
+  heading: Vorschlag für Verordnungsermächtigung zur Senkung der Umsatzsteuer bei Sprit
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0235#XXVIII_A_00763
+  date: '2026-03-24'
+  title: 'Wirtschaftsausschuss: Verfassungsmehrheit für "Spritpreisbremse" im Nationalratsplenum weiter offen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0243#XXVIII_A_00763
+  date: '2026-03-25'
+  title: 'Nationalrat: Spritpreisbremse erhält mit Zustimmung der Grünen notwendige Verfassungsmehrheit'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0262#XXVIII_A_00763
+  date: '2026-03-27'
+  title: Auch Bundesrat gibt grünes Licht für Spritpreisbremse
 measures: []
 sources:
 - id: parl-detail
@@ -182,9 +196,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 763/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/763?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

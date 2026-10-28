@@ -170,6 +170,34 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/529/fname_1763558.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/529/imfname_1763560.pdf
+summary:
+- Gesetzliche Umsetzung der Vereinbarungen gemäß Art. 15a B-VG
+- Schaffung der rechtlichen Rahmenbedingungen zur Überarbeitung der Planungsinstrumente der Zielsteuerung-Gesundheit (ÖSG
+  und RSG)
+- Bewertungsboard Arzneimittel
+- Verbesserung der Datengrundlagen für Planungs- und Qualitätsarbeit
+- Erweiterung der Nutzungspflicht von ELGA und Erhöhung der Sicherheit von Netz- und Informationssystemen für GDA
+- Aufbau einer neuen Abteilung in der GÖG/BIQG
+- Etablierung einer unabhängigen Qualitätskontrolle
+- Einbindung der relevanten Stakeholder in das neue Qualitätssicherungssystem
+- Aufbau zahnärztlicher Expertise in der GÖG/BIQG und Einbindung der Zahnärztinnen/Zahnärzte in das Qualitätssicherungssystem
+- Etablierung einer unabhängigen Qualitätskontrolle im zahnärztlichen Bereich
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0577#XXVIII_I_00529
+  date: '2026-06-17'
+  title: Neu im Gesundheitsausschuss
+  heading: Integration des zahnärztlichen Sektors in das neue Qualitätssicherungssystem
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0604#XXVIII_I_00529
+  date: '2026-06-23'
+  title: Gesundheitsausschuss beschließt das Verbot von Einweg-E-Zigaretten ab Ende des Jahres
+  heading: Integration des zahnärztlichen Sektors in das neue Qualitätssicherungssystem
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0701#XXVIII_I_00529
+  date: '2026-07-07'
+  title: Nationalrat verkürzt Basisausbildung für Ärztinnen und Ärzte
+  heading: Integration des zahnärztlichen Sektors in das neue Qualitätssicherungssystem
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_I_00529
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +205,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 529 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/529?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

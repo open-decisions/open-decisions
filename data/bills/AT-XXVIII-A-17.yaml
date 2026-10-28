@@ -201,6 +201,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/17/fname_1660896.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/17/fnameorig_1660896.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1064#XXVIII_A_00017
+  date: '2024-11-22'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1093#XXVIII_A_00017
+  date: '2024-12-09'
+  title: 'Budgetausschuss: Einigung auf Weiterentwicklung des Haushaltsrechts und Hochwasserhilfe'
+  heading: Zweckzuschuss anlässlich der Hochwasserkatastrophe vom September 2024
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1100#XXVIII_A_00017
+  date: '2024-12-11'
+  title: 'Nationalrat: Länder erhalten 144 Mio. € Zweckzuschuss anlässlich der Hochwasserkatastrophe'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1116#XXVIII_A_00017
+  date: '2024-12-19'
+  title: 'Hochwasserkatastrophe: Länder erhalten 144 Mio. € Zweckzuschuss zur Beseitigung von Schäden'
 measures: []
 sources:
 - id: parl-detail
@@ -208,9 +222,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 17/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/17?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

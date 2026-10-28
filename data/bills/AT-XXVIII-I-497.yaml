@@ -177,6 +177,20 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/497/fname_1757401.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/497/imfname_1757403.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0483#XXVIII_I_00497
+  date: '2026-05-27'
+  title: Neu im Verkehrsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0670#XXVIII_I_00497
+  date: '2026-07-02'
+  title: Verkehrsausschuss beschließt Vorhaben für mehr Rechtssicherheit bei Bundesstraßenprojekten und Ladeinfrastruktur
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0692#XXVIII_I_00497
+  date: '2026-07-06'
+  title: Nationalrat beschließt Novelle für mehr Rechtssicherheit bei Bundesstraßenprojekten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0751#XXVIII_I_00497
+  date: '2026-07-16'
+  title: Novelle für mehr Rechtssicherheit bei Bundesstraßenprojekten passiert den Bundesrat
+  heading: 'Bundestraßen: Fristhemmung durch UVP-Verfahren und Ausbau der Ladeinfrastruktur für E-Fahrzeuge'
 measures: []
 sources:
 - id: parl-detail
@@ -184,9 +198,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 497 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/497?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

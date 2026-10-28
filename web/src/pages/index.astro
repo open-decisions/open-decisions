@@ -51,7 +51,7 @@ const hasDrafts = cards.some((c) => !c.approved);
         <h3>Zuletzt eingebracht</h3>
         <ul class="recent">
           {recent.map((b) => (
-            <li><span class="mono muted nr">{b.citation}</span><a href={b.parliament_url}>{b.title}</a><span class="muted">{b.kind} · {b.introduced_text} · {b.step_label}</span></li>
+            <li><span class="mono muted nr">{b.citation}</span><a href={url(`gesetze/${b.slug}/`)}>{b.headline}</a><span class="muted">{b.kind} · {b.stage_text}</span></li>
           ))}
         </ul>
       </div>

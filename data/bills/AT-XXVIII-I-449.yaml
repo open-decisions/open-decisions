@@ -195,6 +195,32 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/449/fname_1747497.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/449/imfname_1747499.pdf
+summary:
+- Einführung eines vollkonzentrierten Genehmigungsverfahrens für Energieanlagen auch unterhalb der UVP-G-Schwellenwerte
+- Nutzung einer zentralen elektronischen Kundmachungsplattform und Zustellung per Edikt
+- Ermöglichung der Durchführung von Vorarbeiten
+- Einführung von verschiedenen Verfahrensarten (ordentliches Verfahren, vereinfachtes Verfahren, Anzeigeverfahren und Freistellung)
+- Einführung von Bestimmungen zur Verfahrensstrukturierung (öffentliche Auflage, Strukturierung des Verfahrens und Verfahrensgrundsätze)
+- Ermöglichung von Online- oder Hybrid-Verhandlungen
+- Einführung eines Versuchs- und Notbetriebs
+- Erstellung eines Integrierten Netzinfrastrukturplans
+- Erlassung von Trassenfreihaltungsverordnungen
+- Festlegung von Erzeugungsbeitragswerten
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0276#XXVIII_I_00449
+  date: '2026-03-31'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0290#XXVIII_I_00449
+  date: '2026-04-08'
+  title: Noch keine Zwei-Drittel-Mehrheit für Erneuerbaren-Ausbau-Beschleunigungsgesetz
+  heading: EABG soll Verfahren verkürzen und die Länder stärker in die Pflicht nehmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0542#XXVIII_I_00449
+  date: '2026-06-11'
+  title: 'Nationalrat: Erneuerbaren-Ausbau-Beschleunigungsgesetz (EABG) erhält Zustimmung der Grünen'
+  heading: Erneuerbaren-Ausbau-Beschleunigungsgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0622#XXVIII_I_00449
+  date: '2026-06-25'
+  title: Bundesrat gibt grünes Licht für Erneuerbaren-Ausbau-Beschleunigungsgesetz
 measures: []
 sources:
 - id: parl-detail
@@ -202,9 +228,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 449 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/449?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

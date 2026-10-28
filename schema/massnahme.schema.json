@@ -643,6 +643,41 @@
               "type": "boolean"
             }
           }
+        },
+        "summary": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Kurzinformation of the parliament administration, one item per bullet point"
+        },
+        "press": {
+          "type": "array",
+          "description": "Releases of the parliament's press service (Parlamentskorrespondenz) about this bill, oldest first",
+          "items": {
+            "type": "object",
+            "required": [
+              "title",
+              "date",
+              "url"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "date": {
+                "$ref": "#/$defs/date"
+              },
+              "url": {
+                "$ref": "#/$defs/url"
+              },
+              "heading": {
+                "type": "string",
+                "description": "Heading of the section about this bill inside the release, when the release covers several items"
+              }
+            }
+          }
         }
       }
     },

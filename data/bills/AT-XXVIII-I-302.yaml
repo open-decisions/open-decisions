@@ -185,6 +185,33 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/302/fname_1722593.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/302/imfname_1722595.pdf
+summary:
+- Anpassung der Rechtslage für Bekanntmachungen und Bekanntgaben auf europäischer Ebene
+- Angleichung nationaler Bekanntmachungen und Bekanntgaben an die eForms
+- Verpflichtende Berücksichtigung nachhaltiger Aspekte bei einem größeren Spektrum von Leistungen
+- Anhebung der Schwellenwerte für Vergabeverfahren im Unterschwellenbereich
+- Erweiterung der Verpflichtung zur Barrierefreiheit
+- Anpassung der Regelungen zur Rahmenvereinbarung
+- Informationspflicht zur Strategischen Beschaffung
+- Informationspflicht über außergerichtlichen Einigungen in Rechtsschutzverfahren
+- Berücksichtigung der Richtlinie (EU) 2019/633, soweit diese das öffentliche Auftragswesen betrifft
+- Vereinfachung des Gebührensystems im vergabespezifischen Rechtsschutz
+- Ergänzung der Auskunftspflicht von Auftraggebern vor dem Bundesverwaltungsgericht
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1061#XXVIII_I_00302
+  date: '2025-11-21'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1078#XXVIII_I_00302
+  date: '2025-11-25'
+  title: Justizausschuss bringt neues Vergaberechtsgesetz auf den Weg
+  heading: Anhebung der Schwellenwerte für Direktvergaben
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1174#XXVIII_I_00302
+  date: '2025-12-11'
+  title: 'Ukraine: Nationalrat einstimmig für Verurteilung von Menschenrechtsverletzungen'
+  heading: Transparenz bei Vergabeverfahren
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1211#XXVIII_I_00302
+  date: '2025-12-17'
+  title: Dreijähriger Gehaltsabschluss für den öffentlichen Dienst passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -192,9 +219,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 302 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/302?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

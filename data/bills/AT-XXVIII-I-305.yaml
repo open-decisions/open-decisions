@@ -177,6 +177,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/305/fname_1722712.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/305/imfname_1722714.pdf
+summary:
+- Umsetzung der elektronischen Eltern-Kind-Pass Anwendung
+- Bereitstellung eines aktualisierten Untersuchungsprogramms
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1081#XXVIII_I_00305
+  date: '2025-11-26'
+  title: Neu im Gesundheitsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1122#XXVIII_I_00305
+  date: '2025-12-02'
+  title: 'Gesundheitsausschuss: Umsetzung des elektronischen Eltern-Kind-Passes auf 1. Oktober 2026 verschoben'
+  heading: Technische Umsetzung für elektronischen Eltern-Kind-Pass in die Wege geleitet
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1175#XXVIII_I_00305
+  date: '2025-12-11'
+  title: 'Nationalrat: Umsetzung des elektronischen Eltern-Kind-Passes auf 1. Oktober 2026 verschoben'
+  heading: Technische Umsetzung und Aktualisierung des Untersuchungsprogramms
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1218#XXVIII_I_00305
+  date: '2025-12-18'
+  title: 'Cybersicherheit: Zweidrittelmehrheit für NIS-2-Umsetzung auch im Bundesrat'
+  heading: 'Elektronischer Eltern-Kind-Pass: Debatte zwischen Praktikabilität und Symbolpolitik'
 measures: []
 sources:
 - id: parl-detail
@@ -184,9 +203,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 305 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/305?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

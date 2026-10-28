@@ -52,6 +52,13 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/648/fname_1782310.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/648/imfname_1782311.pdf
+summary:
+- Festlegung mehrerer Notfallverfahren, die dazu dienen die Versorgungssicherheit mit bestimmten krisenrelevanten Waren sicherzustellen
+- Festlegung organisationsrechtlich erforderlicher Vollzugszuständigkeiten
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0933#XXVIII_I_00648
+  date: '2026-10-12'
+  title: Neu im Wirtschaftsausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -59,9 +66,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 648 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/648?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

@@ -54,6 +54,15 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/684/fname_1735001.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/684/fnameorig_1735001.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/684/fname_1735516.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0065#XXVIII_A_00684
+  date: '2026-01-29'
+  title: Neu im Landwirtschaftsausschuss
+  heading: FPÖ für "Demokratisierung" des AMA-Verwaltungsrats
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0898#XXVIII_A_00684
+  date: '2026-10-01'
+  title: Landwirtschaftsausschuss will heimische Betriebe und Wasserversorgung gegen Dürre wappnen
+  heading: FPÖ will AMA-Verwaltungsrat demokratisieren
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 684/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/684?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

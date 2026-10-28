@@ -168,7 +168,7 @@ const numberFirst = variant === "number-first";
         <ol class="path">
           {card.path.map((p) => (<li><span class="dot" aria-hidden="true"></span><span><span class="strong block">{p.label}</span><span class="muted small">{p.detail}</span></span></li>))}
         </ol>
-        <a class="small strong" href={url("gesetze/")}>Alle Gesetze im Tracker</a>
+        <a class="small strong" href={url(`gesetze/${card.bill_slug}/`)}>Mehr zu diesem Gesetz</a>
       </section>
       <section id="quellen" class="box" aria-labelledby="h-quellen">
         <h2 id="h-quellen" class="side-h">Quellen</h2>

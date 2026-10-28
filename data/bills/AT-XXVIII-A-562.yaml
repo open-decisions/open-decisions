@@ -160,6 +160,19 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/562/fname_1722807.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/562/fnameorig_1722807.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/562/fname_1724430.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1055#XXVIII_A_00562
+  date: '2025-11-21'
+  title: Neu im Verfassungsausschuss
+  heading: Neuerliche Nulllohnrunde für Bundespolitik
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1093#XXVIII_A_00562
+  date: '2025-11-27'
+  title: Verfassungsausschuss bringt neuerliche Nulllohnrunde für Politikerinnen und Politiker auf den Weg
+  heading: Neuerliche Nulllohnrunde für die Bundespolitik
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1181#XXVIII_A_00562
+  date: '2025-12-12'
+  title: Nationalrat billigt dreijährigen Gehaltsabschluss für den öffentlichen Dienst
+  heading: Neuerliche Nulllohnrunde für Politikerinnen und Politiker
 measures: []
 sources:
 - id: parl-detail
@@ -167,9 +180,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 562/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/562?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

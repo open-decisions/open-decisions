@@ -53,6 +53,14 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/482/fname_1712364.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/482/fnameorig_1712364.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0850#XXVIII_A_00482
+  date: '2025-10-03'
+  title: Neu im Sozialausschuss
+  heading: Grüne wollen Betriebsrat für freie Dienstnehmer:innen ermöglichen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0865#XXVIII_A_00482
+  date: '2025-10-08'
+  title: Sozialausschuss einstimmig für Kündigungsregeln und Kollektivverträge für freie Dienstnehmerinnen und Dienstnehmer
 measures: []
 sources:
 - id: parl-detail
@@ -60,9 +68,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 482/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/482?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

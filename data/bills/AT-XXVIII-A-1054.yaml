@@ -54,6 +54,14 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1054/fname_1780736.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1054/fnameorig_1780736.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0876#XXVIII_A_01054
+  date: '2026-09-29'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0889#XXVIII_A_01054
+  date: '2026-09-30'
+  title: Justizausschuss für konsequente Weiterentwicklung eines umfassenden Kinderschutzes
+  heading: FPÖ-Initiative für höhere Strafen bei Gesichtsverhüllung
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +69,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1054/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1054?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

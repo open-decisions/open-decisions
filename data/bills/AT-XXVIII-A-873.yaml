@@ -62,6 +62,18 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/873/fname_1758622.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/873/fnameorig_1758622.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0473#XXVIII_A_00873
+  date: '2026-05-26'
+  title: Neu im Sozialausschuss
+  heading: Maßnahmen gegen Zwangspensionierungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0506#XXVIII_A_00873
+  date: '2026-06-02'
+  title: Sozialausschuss schickt Initiativen von FPÖ und Grünen in die Warteschleife
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0807#XXVIII_A_00873
+  date: '2026-09-09'
+  title: 'Sozialausschuss: "Arbeiten im Alter" wird steuerlich begünstigt'
+  heading: Bonus-Malus-System soll mehr Arbeitsplätze für ältere Menschen bringen
 measures: []
 sources:
 - id: parl-detail
@@ -69,9 +81,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 873/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/873?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

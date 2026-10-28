@@ -188,6 +188,18 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/666/fname_1730677.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/666/fnameorig_1730677.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1226#XXVIII_A_00666
+  date: '2025-12-22'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0028#XXVIII_A_00666
+  date: '2026-01-20'
+  title: Finanzausschuss beschließt steuerliche Erleichterungen bei Überstunden sowie bei Feiertagsarbeit
+  heading: Verlängerung von steuerfreien Überstundenzuschlägen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0034#XXVIII_A_00666
+  date: '2026-01-21'
+  title: Nationalrat beschließt steuerliche Erleichterungen bei Überstunden sowie bei Feiertagsarbeit
+  heading: Verlängerung von steuerfreien Überstundenzuschlägen
 measures: []
 sources:
 - id: parl-detail
@@ -195,9 +207,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 666/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/666?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

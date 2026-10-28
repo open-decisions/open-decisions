@@ -123,6 +123,19 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/71/fname_1670816.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/71/fnameorig_1670816.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/71/fname_1670853.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0096#XXVIII_A_00071
+  date: '2025-03-04'
+  title: Neu im Budgetausschuss
+  heading: Gesetzliches Budgetprovisorium 2025
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0110#XXVIII_A_00071
+  date: '2025-03-06'
+  title: Budgetausschuss gibt grünes Licht für Maßnahmen zur Budgetsanierung
+  heading: Gesetzliches Budgetprovisorium 2025 beschlossen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0119#XXVIII_A_00071
+  date: '2025-03-07'
+  title: Nationalrat beschließt Aus für Bildungskarenz und weitere Maßnahmen zur Budgetsanierung
+  heading: Gesetzliches Budgetprovisorium für 2025
 measures: []
 sources:
 - id: parl-detail
@@ -130,9 +143,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 71/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/71?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

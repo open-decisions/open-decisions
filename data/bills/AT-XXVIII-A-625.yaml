@@ -59,6 +59,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/625/fname_1723461.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/625/fnameorig_1723461.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1106#XXVIII_A_00625
+  date: '2025-11-28'
+  title: Neu im Gesundheitsausschuss
+  heading: FPÖ für zusätzliche Ausbildungsstätte für Veterinärmedizin in Wels
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1123#XXVIII_A_00625
+  date: '2025-12-02'
+  title: Gesundheitsausschuss für Ausbau von grenzüberschreitendem Rettungswesen
+  heading: FPÖ unterstützt zusätzliche Ausbildungsstätte für Veterinärmedizin
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0605#XXVIII_A_00625
+  date: '2026-06-23'
+  title: Gesundheitsausschuss befürwortet Änderungen im Lebensmittelsicherheits- und Verbraucherschutzgesetz
+  heading: Erleichterung für kleinere Tierarztpraxen und Verbot bestimmter psychoaktiver Stoffe in Lebensmitteln
 measures: []
 sources:
 - id: parl-detail
@@ -66,9 +79,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 625/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/625?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

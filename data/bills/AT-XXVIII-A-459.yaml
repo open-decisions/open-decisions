@@ -218,6 +218,23 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/459/fname_1712402.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/459/fnameorig_1712402.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0817#XXVIII_A_00459
+  date: '2025-09-29'
+  title: Neu im Wirtschaftsausschuss
+  heading: 'ÖVP, SPÖ und NEOS: Änderung des Erneuerbaren-Ausbau-Gesetzes und des Ökostromgesetzes'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0837#XXVIII_A_00459
+  date: '2025-10-01'
+  title: 'Wirtschaftsausschuss: Stromkostenausgleich soll Industrie entlasten'
+  heading: 'ÖVP, SPÖ und NEOS: Änderung des Erneuerbaren-Ausbau-Gesetzes und des Ökostromgesetzes'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0899#XXVIII_A_00459
+  date: '2025-10-15'
+  title: Nationalrat gibt grünes Licht für Entlastung der Industrie bei Stromkosten
+  heading: 'ÖVP, SPÖ und NEOS: Änderung des Erneuerbaren-Ausbau-Gesetzes und des Ökostromgesetzes'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0956#XXVIII_A_00459
+  date: '2025-10-23'
+  title: Stromkostenausgleich für Industrie nimmt im Bundesrat die letzte parlamentarische Hürde
+  heading: Neuerungen im Erneuerbaren-Ausbau-Gesetz
 measures: []
 sources:
 - id: parl-detail
@@ -225,9 +242,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 459/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/459?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

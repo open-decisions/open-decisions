@@ -187,6 +187,31 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/411/fname_1741157.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/411/imfname_1741159.pdf
+summary:
+- Schaffung einer gesetzlichen Grundlage zur Verordnungserlassung betreffend ein Zonenzufahrtsmanagement
+- Rechtliche Unterordnung der E-Mopeds unter den Begriff des Kraftfahrzeuges
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0155#XXVIII_I_00411
+  date: '2026-03-02'
+  title: Neu im Verkehrsausschuss
+  heading: Mehr Verkehrssicherheit durch Zonenzufahrtsmanagement und Verbannung von E-Mopeds von Fahrradwegen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0224#XXVIII_I_00411
+  date: '2026-03-19'
+  title: Verkehrsausschuss spricht sich mehrheitlich für Maßnahmen zur Verkehrssicherheit von E-Bikes, E-Scootern und E-Mopeds
+    aus
+  heading: Mehr Verkehrssicherheit durch Zonenzufahrtsmanagement und Verbannung von E-Mopeds von Fahrradwegen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0245#XXVIII_I_00411
+  date: '2026-03-25'
+  title: Nationalrat beschließt Verkehrssicherheitspaket für E-Bikes, E-Scooter und E-Mopeds
+  heading: Keine E-Mopeds auf Fahrradwegen, klare Helmpflichten und Zufahrtskontrollen sollen Verkehrssicherheit erhöhen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0308#XXVIII_I_00411
+  date: '2026-04-10'
+  title: Verkehrssicherheitspaket für E-Fahrzeuge und Gesetzesrahmen für automatisierte Zufahrtskontrollen passiert den Bundesrat
+  heading: Verkehrssicherheit für E-Fahrzeuge und Kontrollen für verkehrsberuhigte Zonen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0879#XXVIII_I_00411
+  date: '2026-09-29'
+  title: 'Ab Oktober in Kraft: E-Mopeds, Paketsteuer, Eltern-Kind-Pass, Psychotherapie'
+  heading: E-Mopeds werden ab 1. Oktober von den Radwegen verbannt
 measures: []
 sources:
 - id: parl-detail
@@ -194,9 +219,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 411 und Zu 411 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/411?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

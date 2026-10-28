@@ -95,6 +95,19 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/8/fname_1660867.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/8/fnameorig_1660867.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/8/fname_1661104.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1061#XXVIII_A_00008
+  date: '2024-11-22'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1092#XXVIII_A_00008
+  date: '2024-12-09'
+  title: Budgetausschuss spricht sich für Nulllohnrunde für Bundespolitik aus
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1000#XXVIII_A_00008
+  date: '2025-11-06'
+  title: 'Budgetausschuss: FPÖ-Anträge zum "Schutz biologischer Geschlechter" abgelehnt'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1040#XXVIII_A_00008
+  date: '2025-11-19'
+  title: 'Biologische Geschlechter: FPÖ-Initiativen bleiben in der Minderheit'
 measures: []
 sources:
 - id: parl-detail
@@ -102,9 +115,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 8/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/8?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

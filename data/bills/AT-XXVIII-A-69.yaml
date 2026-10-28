@@ -55,6 +55,14 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/69/fname_1670831.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/69/fnameorig_1670831.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/69/fname_1672104.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0164#XXVIII_A_00069
+  date: '2025-03-18'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0640#XXVIII_A_00069
+  date: '2025-07-02'
+  title: Innenausschuss debattiert Migrations- und Sicherheitspolitik
+  heading: FPÖ fordert Aberkennung des Schutzstatus bei falschen Angaben
 measures: []
 sources:
 - id: parl-detail
@@ -62,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 69/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/69?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

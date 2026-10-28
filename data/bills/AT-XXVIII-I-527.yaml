@@ -172,6 +172,34 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/527/fname_1763543.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/527/imfname_1763545.pdf
+summary:
+- Schaffung der gesetzlichen Rahmenbedingungen für eine organisatorische Neugestaltung des rechtsanwaltlichen Versorgungssystems
+- Erweiterung der Regelungen zum beitragsfreien Erwerb von Beitragszeiten in der rechtsanwaltlichen Altersversorgung
+- Anpassungen der gesetzlichen Rahmenbedingungen für die Tätigkeit des Kammerkommissärs
+- Das rechtsanwaltliche Sondergesellschaftsrecht nach der RAO wird mit Blick auf die Rechtsform der Flexiblen Kapitalgesellschaft
+  überarbeitet
+- Überarbeitung der Regelungen zum Gesellschafterkreis einer Rechtsanwalts-Gesellschaft
+- Erweiterung der Möglichkeit der notariellen Beglaubigung bestimmter elektronischer Signaturen anhand von Anerkennungserklärungen
+- Erweiterung der Pflichtfelder des ÖZVV um Daten zur telefonischen und elektronischen Erreichbarkeit von Vertreterinnen und
+  Vertretern
+- Gesetzliche Klarstellung der Folgen von kurz- oder langfristigen Verhinderungen bei der Rechtsanwalts- oder Notariatsprüfung
+- Änderungen im RAPG und NPG zur möglichen Durchführung der Rechtsanwalts- oder Notariatsprüfung mittels Videokonferenz
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0551#XXVIII_I_00527
+  date: '2026-06-12'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0647#XXVIII_I_00527
+  date: '2026-06-30'
+  title: Anpassung des Sterbeverfügungsgesetzes passiert Justizausschuss
+  heading: Vereinheitlichung des Pensionssystems der Rechtsanwaltschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0704#XXVIII_I_00527
+  date: '2026-07-07'
+  title: Nationalrat beschließt ESAP-Gesetz, Vereinheitlichung von Anwaltspensionen und Reparaturpflicht
+  heading: Einstimmigkeit zur Vereinheitlichung des Pensionssystems für Rechtsanwälte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0741#XXVIII_I_00527
+  date: '2026-07-15'
+  title: Grünes Licht für ESAP-Gesetz und Vereinheitlichung von Anwaltspensionen im Bundesrat
+  heading: Einstimmigkeit zur Vereinheitlichung des Pensionssystems für Rechtsanwälte
 measures: []
 sources:
 - id: parl-detail
@@ -179,9 +207,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 527 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/527?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

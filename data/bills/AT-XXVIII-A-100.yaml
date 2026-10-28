@@ -63,6 +63,15 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/100/fname_1671965.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/100/fnameorig_1671965.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0153#XXVIII_A_00100
+  date: '2025-03-13'
+  title: Neu im Gesundheitsausschuss
+  heading: Grüne treten für die Möglichkeit zur Wirkstoffverschreibung ein
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0160#XXVIII_A_00100
+  date: '2025-03-18'
+  title: Gesundheitsausschuss einstimmig für neuen Bericht zur Gesundheit von Menschen mit Behinderungen
+  heading: Grüne treten für die Möglichkeit zur Wirkstoffverschreibung ein
 measures: []
 sources:
 - id: parl-detail
@@ -70,9 +79,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 100/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/100?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -197,6 +197,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/412/fname_1741166.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/412/imfname_1741168.pdf
+summary:
+- Anpassungen im ORF-G
+- Anpassungen im MedienG
+- Beauftragung der KommAustria zur Entwicklung einer Datenbank über die Eigentumsverhältnisse bei Mediendiensten
+- Anpassungen im WettbG
+- Anpassung der Medienzusammenschlusskontrolle
+- Anpassungen im MedKF-TG
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0158#XXVIII_I_00412
+  date: '2026-03-03'
+  title: Neu im Verfassungsausschuss
+  heading: EMFG-Begleitgesetz bringt mehr Transparenz bei Bestellung der ORF-Spitze
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0198#XXVIII_I_00412
+  date: '2026-03-12'
+  title: 'ORF: Ausschreibung für neuen Generaldirektor bzw. neue Generaldirektorin muss bis Anfang Mai erfolgen'
+  heading: EMFG-Begleitgesetz bringt mehr Transparenz bei Bestellung der ORF-Spitze
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0242#XXVIII_I_00412
+  date: '2026-03-25'
+  title: 'Nationalrat: Striktes Werbeverbot für Regierungsinserate wird gelockert'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0306#XXVIII_I_00412
+  date: '2026-04-10'
+  title: Bundesrat erhebt keinen Einspruch gegen begleitende Bestimmungen zum Europäischen Medienfreiheitsgesetz
 measures: []
 sources:
 - id: parl-detail
@@ -204,9 +226,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 412 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/412?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

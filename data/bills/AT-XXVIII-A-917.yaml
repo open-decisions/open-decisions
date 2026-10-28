@@ -180,6 +180,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/917/fname_1764051.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/917/fnameorig_1764051.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0578#XXVIII_A_00917
+  date: '2026-06-17'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0660#XXVIII_A_00917
+  date: '2026-07-01'
+  title: Sozialausschuss bringt Umstrukturierung der BauID-Karte auf den Weg
+  heading: BauID-System wird neu strukturiert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0698#XXVIII_A_00917
+  date: '2026-07-07'
+  title: Nationalrat einstimmig für Umstrukturierung der BauID-Karte
+  heading: BauID-System wird neu strukturiert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_A_00917
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
+  heading: BauID-Karte wird umstrukturiert
 measures: []
 sources:
 - id: parl-detail
@@ -187,9 +203,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 917/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/917?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

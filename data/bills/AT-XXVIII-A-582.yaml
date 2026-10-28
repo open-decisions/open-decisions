@@ -57,6 +57,15 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/582/fname_1722971.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/582/fnameorig_1722971.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1079#XXVIII_A_00582
+  date: '2025-11-26'
+  title: Neu im Sozialausschuss
+  heading: Entlastung für Betriebe bei Beschäftigungsverboten von Schwangeren
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1133#XXVIII_A_00582
+  date: '2025-12-03'
+  title: Sozialausschuss debattiert anhand von Oppositionsanträgen über Entlastungsmaßnahmen für Beschäftigte und für Unternehmen
+  heading: 'Grüne: Entlastung für Betriebe bei Beschäftigungsverboten von Schwangeren'
 measures: []
 sources:
 - id: parl-detail
@@ -64,9 +73,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 582/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/582?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -167,6 +167,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/696/fname_1742142.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/696/fnameorig_1742142.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/696/fname_1743058.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0145#XXVIII_A_00696
+  date: '2026-02-27'
+  title: Neu im Justizausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0212#XXVIII_A_00696
+  date: '2026-03-17'
+  title: Altersobergrenze für Notariatskandidatinnen und -kandidaten soll angehoben werden
+  heading: Fünf-Parteien-Gesetzesinitiative zur Notariatsordnung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0244#XXVIII_A_00696
+  date: '2026-03-25'
+  title: 'Nationalrat: Dreierkoalition beschließt Frauenquote von 40 % für Aufsichtsräte börsenotierter Unternehmen'
+  heading: Fünf-Parteien-Gesetzesinitiative zur Notariatsordnung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0302#XXVIII_A_00696
+  date: '2026-04-10'
+  title: Bundesrat fixiert Frauenquote von 40 % für Aufsichtsräte börsenotierter Unternehmen
+  heading: Fünf-Parteien-Gesetzesinitiative zur Notariatsordnung
 measures: []
 sources:
 - id: parl-detail
@@ -174,9 +190,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 696/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/696?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -192,6 +192,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/667/fname_1730542.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/667/fnameorig_1730542.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/667/fname_1732001.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1203#XXVIII_A_00667
+  date: '2025-12-17'
+  title: Neu im Sozialausschuss
+  heading: Weitere Ausnahmen vom Zuverdienstverbot für Arbeitslose
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0109#XXVIII_A_00667
+  date: '2026-02-18'
+  title: Sozialausschuss gibt grünes Licht für kleine Sozialversicherungsnovelle
+  heading: Detailänderungen im Sozialversicherungsrecht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0140#XXVIII_A_00667
+  date: '2026-02-26'
+  title: 'Nationalrat: Sozialversicherungsnovelle bringt Risikominimierung für Funktionärinnen und Funktionäre'
+  heading: Änderungen im Sozialversicherungsrecht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0200#XXVIII_A_00667
+  date: '2026-03-12'
+  title: 'Bundesrat: Anti-Mogelpackungs-Gesetz kann mit April in Kraft treten'
+  heading: Kein Einspruch gegen Lebensmittelbewirtschaftungsgesetz, Hochseeschutz-Übereinkommen und Sozialversicherungsnovelle
 measures: []
 sources:
 - id: parl-detail
@@ -199,9 +216,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 667/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/667?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

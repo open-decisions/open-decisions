@@ -168,6 +168,21 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/384/fname_1734496.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/384/imfname_1734498.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0073#XXVIII_I_00384
+  date: '2026-02-02'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0216#XXVIII_I_00384
+  date: '2026-03-17'
+  title: Finanzausschuss beschließt neue EU-Regeln für Börsengänge und Prospekte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0250#XXVIII_I_00384
+  date: '2026-03-26'
+  title: Nationalrat beschließt neue EU-Regeln für Börsengänge und Prospekte
+  heading: Wirksame Anwendung der EU-Verordnung zu Nachhaltigkeits-Ratings
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0309#XXVIII_I_00384
+  date: '2026-04-10'
+  title: Bundesrat besiegelt nationale Umsetzung neuer EU-Regeln für Börsengänge und Prospekte
+  heading: Wirksame Anwendung der EU-Verordnung zu Nachhaltigkeits-Ratings
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +190,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 384 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/384?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

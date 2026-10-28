@@ -368,6 +368,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/167/fname_1673834.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/167/fnameorig_1673834.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/167/fname_1675181.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0197#XXVIII_A_00167
+  date: '2025-03-26'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0202#XXVIII_A_00167
+  date: '2025-03-27'
+  title: 'Familienzusammenführung: Innenausschuss schickt "Pause" einstimmig in Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0297#XXVIII_A_00167
+  date: '2025-04-22'
+  title: '"Pause" für Familienzusammenführung passiert Innenausschuss'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0319#XXVIII_A_00167
+  date: '2025-04-25'
+  title: Nationalrat beschließt "Pause" für Familienzusammenführung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0358#XXVIII_A_00167
+  date: '2025-05-08'
+  title: Bundesrat bestätigt "Pause" für Familienzusammenführung
+  heading: FPÖ befürchtet Schlupflöcher, Grüne sehen Völkerrechts-Verstoß
 measures: []
 sources:
 - id: parl-detail
@@ -375,9 +392,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 167/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/167?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

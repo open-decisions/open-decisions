@@ -60,6 +60,18 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/897/fname_1759463.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/897/fnameorig_1759463.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/897/fname_1760711.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0476#XXVIII_A_00897
+  date: '2026-05-26'
+  title: Neu im Landesverteidigungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0543#XXVIII_A_00897
+  date: '2026-06-11'
+  title: 'Nationalrat: Debatte über Neutralität und Ukraine-Darlehen'
+  heading: FPÖ will Adaptierungen beim Anspruch auf "Papamonat"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0823#XXVIII_A_00897
+  date: '2026-09-16'
+  title: Landesverteidigungsausschuss debattiert Umsetzung des Aufbauplans des Bundesheeres
+  heading: FPÖ will Familienzeitbonus auch bei längeren Milizübungen sichern
 measures: []
 sources:
 - id: parl-detail
@@ -67,9 +79,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 897/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/897?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

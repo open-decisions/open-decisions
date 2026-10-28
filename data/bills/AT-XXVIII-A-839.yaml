@@ -50,6 +50,14 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/839/fname_1754234.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/839/fnameorig_1754234.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0360#XXVIII_A_00839
+  date: '2026-04-24'
+  title: Neu im Verfassungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0444#XXVIII_A_00839
+  date: '2026-05-20'
+  title: FPÖ für Wahrheitspflicht im Rechnungshof-Unterausschuss und für mehr Transparenz beim ORF
+  heading: FPÖ fordert Ausweitung des ORF-Transparenzberichts
 measures: []
 sources:
 - id: parl-detail
@@ -57,9 +65,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 839/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/839?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -78,6 +78,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/661/fname_1730531.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/661/fnameorig_1730531.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/661/fname_1731508.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1230#XXVIII_A_00661
+  date: '2025-12-22'
+  title: Neu im Familienausschuss
+  heading: FPÖ will Bundesstelle für Sektenfragen abschaffen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0040#XXVIII_A_00661
+  date: '2026-01-21'
+  title: 'Nationalrat: FPÖ fordert Auflösung der Bundesstelle für Sektenfragen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0203#XXVIII_A_00661
+  date: '2026-03-12'
+  title: 'Familienausschuss: Erste Ergebnisse der Arbeitsgruppe zur Väterbeteiligung sollen Ende des Jahres vorliegen'
+  heading: FPÖ will Bundesstelle für Sektenfragen abschaffen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0248#XXVIII_A_00661
+  date: '2026-03-25'
+  title: Nationalrat nominiert Ronald Faber als neues VfGH-Ersatzmitglied
+  heading: FPÖ will Bundesstelle für Sektenfragen abschaffen
 measures: []
 sources:
 - id: parl-detail
@@ -85,9 +101,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 661/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/661?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

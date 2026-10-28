@@ -171,6 +171,28 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/404/fname_1740935.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/404/imfname_1740937.pdf
+summary:
+- Förderung des KMU-Wachstumsmarkts und Senkung des Mindeststreubesitzes
+- Anpassungen im Bereich der Ad-hoc-Publizität und der Insiderinformationen
+- Änderung der Prospektformate und -inhalte sowie Berücksichtigung der neuen Prospekte in den Verwaltungsstrafbestimmungen
+- Erweiterung der Aufsichts- und Strafbefugnisse
+- Änderung der Schwellenwerte für die Prospektpflicht und Einführung einer Billigungspflicht für Veranlagungsprospekte durch
+  die FMA
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0166#XXVIII_I_00404
+  date: '2026-03-04'
+  title: Neu im Finanzausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0216#XXVIII_I_00404
+  date: '2026-03-17'
+  title: Finanzausschuss beschließt neue EU-Regeln für Börsengänge und Prospekte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0250#XXVIII_I_00404
+  date: '2026-03-26'
+  title: Nationalrat beschließt neue EU-Regeln für Börsengänge und Prospekte
+  heading: 'EU-Listing-Act: Erleichterungen für Börsengänge'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0309#XXVIII_I_00404
+  date: '2026-04-10'
+  title: Bundesrat besiegelt nationale Umsetzung neuer EU-Regeln für Börsengänge und Prospekte
+  heading: 'EU-Listing-Act: Erleichterungen für Börsengänge'
 measures: []
 sources:
 - id: parl-detail
@@ -178,9 +200,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 404 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/404?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

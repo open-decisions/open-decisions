@@ -56,10 +56,25 @@ phases:
   text: '94. Sitzung des Nationalrates : Mitteilung des Einlangens des Verlangens auf Berichterstattung binnen eines Jahres
     nach Zuweisung'
   url: https://www.parlament.gv.at/gegenstand/XXVIII/NRSITZ/94
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-20'
+  text: 'Gleichbehandlungsausschuss: auf Tagesordnung in der 8. Sitzung des Ausschusses In der Sitzung vom 20. Oktober 2026
+    vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-GL/1/00923/TO_16844535.html
 vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/766/fname_1747296.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/766/fnameorig_1747296.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0256#XXVIII_A_00766
+  date: '2026-03-27'
+  title: Neu im Gleichbehandlungsausschuss
+  heading: Grüne schlagen Einführung von "Nur Ja heißt Ja" im Sexualstrafrecht vor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0982#XXVIII_A_00766
+  date: '2026-10-20'
+  title: 'Gleichbehandlungsausschuss: Mehr Frauen im Bundesdienst, aber weiter Aufholbedarf bei Führungspositionen'
+  heading: Grüne fordern Tempo bei Verankerung von "Nur Ja heißt Ja"
 measures: []
 sources:
 - id: parl-detail
@@ -67,9 +82,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 766/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/766?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

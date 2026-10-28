@@ -170,6 +170,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/768/fname_1747302.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/768/fnameorig_1747302.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/768/fname_1748206.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0275#XXVIII_A_00768
+  date: '2026-03-31'
+  title: Neu im Tourismusausschuss
+  heading: 'Fünf-Parteien-Antrag: Public-Viewing-Veranstaltungen auf sechs Wochen verlängern'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0294#XXVIII_A_00768
+  date: '2026-04-09'
+  title: 'Tourismusausschuss: Public-Viewing-Veranstaltungen sollen sechs statt nur vier Wochen dauern dürfen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0350#XXVIII_A_00768
+  date: '2026-04-23'
+  title: Nationalrat beschließt einstimmig Verlängerung der zulässigen Dauer von Public-Viewing-Veranstaltungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0404#XXVIII_A_00768
+  date: '2026-05-07'
+  title: 'Vor Fußball-WM: Bundesrat genehmigt längere Dauer von Public-Viewing-Veranstaltungen'
 measures: []
 sources:
 - id: parl-detail
@@ -177,9 +191,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 768/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/768?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

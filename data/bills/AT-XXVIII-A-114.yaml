@@ -54,6 +54,15 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/114/fname_1671966.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/114/fnameorig_1671966.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/114/fname_1672343.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0162#XXVIII_A_00114
+  date: '2025-03-18'
+  title: Neu im Verkehrsausschuss
+  heading: … gesetzliche Grundlage für automationsunterstützte Zufahrtskontrollen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0176#XXVIII_A_00114
+  date: '2025-03-20'
+  title: Verkehrsausschuss genehmigt europäisches Übereinkommen zur Kontrolle von Lenk- und Ruhezeiten für Berufsfahrer:innen
+  heading: Grüne sprechen sich für automationsunterstützte Zufahrtskontrollen aus
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +70,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 114/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/114?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

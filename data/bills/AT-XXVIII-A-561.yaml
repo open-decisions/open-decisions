@@ -177,6 +177,22 @@ vote:
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/561/fname_1722806.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/561/fnameorig_1722806.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1055#XXVIII_A_00561
+  date: '2025-11-21'
+  title: Neu im Verfassungsausschuss
+  heading: Dienstrechts-Novelle 2025
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1093#XXVIII_A_00561
+  date: '2025-11-27'
+  title: Verfassungsausschuss bringt neuerliche Nulllohnrunde für Politikerinnen und Politiker auf den Weg
+  heading: Dienstrechts-Novelle 2025 lässt auf sich warten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1181#XXVIII_A_00561
+  date: '2025-12-12'
+  title: Nationalrat billigt dreijährigen Gehaltsabschluss für den öffentlichen Dienst
+  heading: 3,3 % Gehaltsplus ab Juli 2026
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1211#XXVIII_A_00561
+  date: '2025-12-17'
+  title: Dreijähriger Gehaltsabschluss für den öffentlichen Dienst passiert Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -184,9 +200,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 561/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/561?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

@@ -178,6 +178,26 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/406/fname_1740949.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/406/imfname_1740951.pdf
+summary:
+- Verlängerung der Sperrfrist für den Wiederantritt von 9 auf 18 Monate
+- Schaffung einer Strafbestimmung für die Personen, die den Prüfungsbetrug organisieren und durchführen
+- Entfall der 2-jährigen Befristung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0155#XXVIII_I_00406
+  date: '2026-03-02'
+  title: Neu im Verkehrsausschuss
+  heading: 'Führerscheingesetz: Sanktionen für Prüfungsbetrug'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0224#XXVIII_I_00406
+  date: '2026-03-19'
+  title: Verkehrsausschuss spricht sich mehrheitlich für Maßnahmen zur Verkehrssicherheit von E-Bikes, E-Scootern und E-Mopeds
+    aus
+  heading: 'Führerscheingesetz: Sanktionen für Prüfungsbetrug'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0245#XXVIII_I_00406
+  date: '2026-03-25'
+  title: Nationalrat beschließt Verkehrssicherheitspaket für E-Bikes, E-Scooter und E-Mopeds
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0308#XXVIII_I_00406
+  date: '2026-04-10'
+  title: Verkehrssicherheitspaket für E-Fahrzeuge und Gesetzesrahmen für automatisierte Zufahrtskontrollen passiert den Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -185,9 +205,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 406 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/406?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

@@ -65,6 +65,21 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/678/fname_1734971.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/678/fnameorig_1734971.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0054#XXVIII_A_00678
+  date: '2026-01-26'
+  title: Neu im Sozialausschuss
+  heading: Geringfügiger Zuverdienst zum Arbeitslosengeld
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0109#XXVIII_A_00678
+  date: '2026-02-18'
+  title: Sozialausschuss gibt grünes Licht für kleine Sozialversicherungsnovelle
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0325#XXVIII_A_00678
+  date: '2026-04-15'
+  title: Sozialausschuss behandelt Forderungen von FPÖ und Grünen nach Verbesserungen für Arbeitnehmerinnen und Arbeitnehmer
+  heading: 'Grüne: Mehr Ausnahmen für geringfügigen Zuverdienst zum Arbeitslosengeld'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0506#XXVIII_A_00678
+  date: '2026-06-02'
+  title: Sozialausschuss schickt Initiativen von FPÖ und Grünen in die Warteschleife
 measures: []
 sources:
 - id: parl-detail
@@ -72,9 +87,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 678/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/678?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

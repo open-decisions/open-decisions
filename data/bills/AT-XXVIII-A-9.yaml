@@ -105,6 +105,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/9/fname_1660868.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/9/fnameorig_1660868.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/9/fname_1661112.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1061#XXVIII_A_00009
+  date: '2024-11-22'
+  title: Neu im Budgetausschuss
+  heading: Zwei biologische Geschlechter im Staatsgrundgesetz festschreiben
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2024/pk1092#XXVIII_A_00009
+  date: '2024-12-09'
+  title: Budgetausschuss spricht sich für Nulllohnrunde für Bundespolitik aus
+  heading: FPÖ fordert, bei Definition der Geschlechter das biologische Geschlecht zugrunde zu legen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1000#XXVIII_A_00009
+  date: '2025-11-06'
+  title: 'Budgetausschuss: FPÖ-Anträge zum "Schutz biologischer Geschlechter" abgelehnt'
+  heading: 'Biologische Geschlechter: FPÖ bleibt mit Anträgen in der Minderheit'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1040#XXVIII_A_00009
+  date: '2025-11-19'
+  title: 'Biologische Geschlechter: FPÖ-Initiativen bleiben in der Minderheit'
+  heading: Die zentralen Inhalte der FPÖ-Anträge
 measures: []
 sources:
 - id: parl-detail
@@ -112,9 +129,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 9/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/9?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

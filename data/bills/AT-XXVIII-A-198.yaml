@@ -107,6 +107,19 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/198/fname_1679698.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/198/fnameorig_1679698.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0394#XXVIII_A_00198
+  date: '2025-05-15'
+  title: Neu im Wirtschaftsausschuss
+  heading: Grüne drängen auf Elektrizitätswirtschafts- und Energiearmuts-Definitions-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0605#XXVIII_A_00198
+  date: '2025-06-25'
+  title: 'Wirtschaftsausschuss: Fraktionen diskutieren nächste Schritte in Energiepolitik'
+  heading: Grüne drängen auf Elektrizitätswirtschafts- und Energiearmuts-Definitions-Gesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0683#XXVIII_A_00198
+  date: '2025-07-11'
+  title: 'Nationalrat: Staatssekretärin Zehetner berichtet über Zielsetzungen des neuen Elektrizitätswirtschaftsgesetzes'
+  heading: Der Inhalt des Grünen-Antrags für ein neues Elektrizitätswirtschaftsgesetz (ElWG)
 measures: []
 sources:
 - id: parl-detail
@@ -114,9 +127,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 198/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/198?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

@@ -33,7 +33,7 @@ phases:
 - phase: introduced
   chamber: Nationalrat
   date: '2025-02-26'
-  text: Bundesverfassungsgesetz
+  text: Gesetzesvorschlag enthält Verfassungsbestimmungen
 - phase: introduced
   chamber: Nationalrat
   date: '2025-02-26'
@@ -61,6 +61,13 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/67/fname_1670830.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/67/fnameorig_1670830.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0081#XXVIII_A_00067
+  date: '2025-02-27'
+  title: Neu im Geschäftsordnungsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0210#XXVIII_A_00067
+  date: '2025-03-27'
+  title: 'Nationalrat: Debatte über Verfahrensordnung für Untersuchungsausschüsse'
 measures: []
 sources:
 - id: parl-detail
@@ -68,9 +75,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 67/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/67?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

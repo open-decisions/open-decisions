@@ -178,6 +178,25 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/532/fname_1763680.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/532/imfname_1763682.pdf
+summary:
+- Festlegung einer Ausnahme von der Sonderfachbeschränkung für Fachärztinnen/Fachärzte für Allgemeinmedizin und Familienmedizin
+- Verlängerung der bisherigen Bestimmungen im Bereich der Opioid-Substitutionsbehandlung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0577#XXVIII_I_00532
+  date: '2026-06-17'
+  title: Neu im Gesundheitsausschuss
+  heading: Ärztegesetz bringt Ausnahme von der Sonderfachbeschränkung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0604#XXVIII_I_00532
+  date: '2026-06-23'
+  title: Gesundheitsausschuss beschließt das Verbot von Einweg-E-Zigaretten ab Ende des Jahres
+  heading: Ärztegesetz bringt Ausnahme von der Sonderfachbeschränkung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0701#XXVIII_I_00532
+  date: '2026-07-07'
+  title: Nationalrat verkürzt Basisausbildung für Ärztinnen und Ärzte
+  heading: Kürzere Basisausbildung für Ärztinnen und Ärzte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0749#XXVIII_I_00532
+  date: '2026-07-16'
+  title: Bundesrat besiegelt Aus für Einweg-E-Zigaretten
 measures: []
 sources:
 - id: parl-detail
@@ -185,9 +204,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 532 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/532?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

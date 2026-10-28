@@ -210,6 +210,31 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/186/fname_1700388.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/186/imfname_1700390.pdf
+summary:
+- Benennung einer zuständigen Behörde und zentralen Anlaufstelle
+- Festlegung einer nationalen Strategie zur Verbesserung der Resilienz kritischer Einrichtungen
+- Durchführung einer nationalen Risikoanalyse
+- Ermittlung kritischer Einrichtungen
+- Festlegung von Unterstützungsmaßnahmen für kritische Einrichtungen
+- Verpflichtung zur Durchführung von Risikoanalysen, zum Ergreifen von Resilienzmaßnahmen und zur Meldung von Sicherheitsvorfällen
+- Ermöglichung der Durchführung von Zuverlässigkeitsüberprüfungen
+- Festlegung von Aufsichts- und Durchsetzungsmaßnahmen
+- Festlegung eines effektiven Sanktionsregimes
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0723#XXVIII_I_00186
+  date: '2025-07-21'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0772#XXVIII_I_00186
+  date: '2025-09-18'
+  title: Parlament soll künftig Bericht über die Sicherheit der kritischen Infrastruktur in Österreich erhalten
+  heading: Umsetzung der EU-Richtlinie über die Widerstandsfähigkeit kritischer Einrichtungen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0790#XXVIII_I_00186
+  date: '2025-09-24'
+  title: Nationalrat stimmt Umsetzung von EU-Richtlinie zum Schutz kritischer Infrastruktur zu
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0874#XXVIII_I_00186
+  date: '2025-10-09'
+  title: Bundesrat besiegelt Verschärfung des Waffengesetzes
+  heading: Verbesserung der Resilienz kritischer Einrichtungen
 measures: []
 sources:
 - id: parl-detail
@@ -217,9 +242,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 186 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/186?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

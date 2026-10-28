@@ -278,6 +278,191 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/496/fname_1763444.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/I/496/fnameorig_1763444.html
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/496/fname_1763446.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0530#XXVIII_I_00496
+  date: '2026-06-10'
+  title: 'Budgetrede im Nationalrat: Marterbauer präsentiert Eckpfeiler des Doppelbudgets'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0538#XXVIII_I_00496
+  date: '2026-06-11'
+  title: Nationalrat startet Beratungen über Doppelbudget 2027/28
+  heading: 'Marterbauer: Budget enthält zahlreiche Strukturreformen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0541#XXVIII_I_00496
+  date: '2026-06-11'
+  title: Kontroverse Debatte zum Doppelbudget 2027/28 im Nationalrat
+  heading: Weiterer Budgetfahrplan
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0631#XXVIII_I_00496
+  date: '2026-06-26'
+  title: 'Budgethearing: Expertinnen und Experten vermissen Strukturreformen für eine nachhaltige Konsolidierung des Staatshaushalts'
+  heading: 'Strohner: Konsolidierungspläne zielen auf Erfüllung der kurzfristigen europäischen Fiskalregeln ab'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0633#XXVIII_I_00496
+  date: '2026-06-26'
+  title: 'Hearing zum Budget: Breite Debatte über Konsolidierung und Strukturreformen'
+  heading: Strohner sieht weiterhin erhebliches Effizienz- und Einsparpotenzial
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0638#XXVIII_I_00496
+  date: '2026-06-29'
+  title: Budgetausschuss berät Parlamentsbudget 2027 und 2028
+  heading: Schwerpunkt Parlamentarismus
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0639#XXVIII_I_00496
+  date: '2026-06-29'
+  title: Doppelbudget 2027/28 sieht für Präsidentschaftskanzlei jährlich 12,3 Mio. € vor
+  heading: Internationale Kontakte und Demokratiebildung
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0640#XXVIII_I_00496
+  date: '2026-06-29'
+  title: Budget 2027/28 der Volksanwaltschaft im Budgetausschuss beraten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0641#XXVIII_I_00496
+  date: '2026-06-29'
+  title: Leicht steigende Budgets für die Höchstgerichte
+  heading: 'Verwaltungsgerichtshof: Budget 2027/28 "ausreichend"'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0642#XXVIII_I_00496
+  date: '2026-06-29'
+  title: Budgetausschuss berät Rechnungshofbudget 2027 und 2028
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0644#XXVIII_I_00496
+  date: '2026-06-29'
+  title: Budgetausschuss diskutiert Budgeterhöhungen für das Bundeskanzleramt für 2027 und 2028
+  heading: Budget des Bundeskanzleramts steigt durch Investitionen in Digitalisierung, IT und Integration stark an
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0645#XXVIII_I_00496
+  date: '2026-06-29'
+  title: 'Budgetausschuss: Debatte über Familienleistungen und Integration'
+  heading: Arbeitsmarktintegration und stärkere Verbindlichkeit
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0648#XXVIII_I_00496
+  date: '2026-06-30'
+  title: Wirtschaftsressort setzt auf Stromkostenentlastung für Industrie und wettbewerbsfähigen Standort
+  heading: Mittel für Wirtschaftsforschung steigen leicht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0649#XXVIII_I_00496
+  date: '2026-06-30'
+  title: Stabile Mittel für innere Sicherheit, Ausgaben für Fremdenwesen gehen deutlich zurück
+  heading: Karner verweist auf "Minuszuwanderung"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0652#XXVIII_I_00496
+  date: '2026-06-30'
+  title: 'Budgetausschuss: Großes Plus im Frauenbudget'
+  heading: Beilage zu Gender Budgeting
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0654#XXVIII_I_00496
+  date: '2026-06-30'
+  title: 'Holzleitner: Erhöhung der Mittel für FTI-Pakt zeigt Schwerpunktsetzung bei Spitzenforschung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0655#XXVIII_I_00496
+  date: '2026-06-30'
+  title: 'Budgetausschuss berät Doppelbudget 2027/28: 12,9 Mrd. € pro Jahr für Bildung vorgesehen'
+  heading: Chancenbonus und Schulautonomie
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0659#XXVIII_I_00496
+  date: '2026-07-01'
+  title: 'Mobilitätsbudget 2027/2028: Infrastrukturinvestitionen, Konsolidierung und verkehrspolitische Schwerpunkte'
+  heading: Jahreskarten, Interregio-Busse und ÖBB-Rahmenplan im Fokus der SPÖ-Fragen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0662#XXVIII_I_00496
+  date: '2026-07-01'
+  title: 'Hanke: Mittel für angewandte Forschung sollen österreichische Stärkefelder unterstützen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0663#XXVIII_I_00496
+  date: '2026-07-01'
+  title: 'Landwirtschaftsbudget für 2027: Rückgang um 1,2 % aufgrund geringerer GAP-Mittel'
+  heading: Hochwasserschutz und Bodenverbrauch
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0664#XXVIII_I_00496
+  date: '2026-07-01'
+  title: 'Budgetberatungen: Diskussion über Erreichen der EU-Klimaziele und ein mögliches "mittelfristiges Budgetrisiko"'
+  heading: Das Budget für Umwelt, Klima und Kreislaufwirtschaft im Überblick
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0665#XXVIII_I_00496
+  date: '2026-07-02'
+  title: 'Doppelbudget 27/28: Aufwendungen für Außenpolitik stabil'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0668#XXVIII_I_00496
+  date: '2026-07-02'
+  title: 'Sporrer: Geschätzter Aufwand für vorgeschlagene Bundesstaatsanwaltschaft bei 9 Mio. € jährlich'
+  heading: Zusammenlegung der Bezirksgerichte, Gewaltambulanzen gesichert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0669#XXVIII_I_00496
+  date: '2026-07-02'
+  title: 'Doppelbudget 2027/28: Rund 11 Mrd. € für Arbeitsbudget vorgesehen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0671#XXVIII_I_00496
+  date: '2026-07-02'
+  title: Sozialbudget steigt trotz Budgetkonsolidierung
+  heading: Mehr als 6 Mrd. € für den Bereich Soziales
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0673#XXVIII_I_00496
+  date: '2026-07-02'
+  title: 'Budgetausschuss: Leichter Mittelrückgang für den Konsumentenschutz im Bundeshaushalt 2027/28 geplant'
+  heading: Finanzielle Mittel für die Schuldnerberatung werden fortgeschrienen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0674#XXVIII_I_00496
+  date: '2026-07-02'
+  title: 'Königsberger-Ludwig: Bis 2040 soll es 600 Primärversorgungszentren in Österreich geben'
+  heading: '"Tierschutz macht Schule" wird heuer 20 Jahre alt'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0676#XXVIII_I_00496
+  date: '2026-07-03'
+  title: 'Doppelbudget 2027/28: Beratungen im Budgetausschuss zu den Bereichen Medien und Wohnen'
+  heading: Leistbares Wohnen, Wohnstrategie, Hitzeschutz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0677#XXVIII_I_00496
+  date: '2026-07-03'
+  title: 'Sportbudget 2027 und 2028: Aufstockung der Mittel für tägliche Bewegungseinheit in Bildungseinrichtungen'
+  heading: Duale Karriere im Nachwuchssport
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0678#XXVIII_I_00496
+  date: '2026-07-03'
+  title: 'Babler: Können Mittel für Kunst und Kultur in wichtigen Bereichen stabil halten und Planungssicherheit geben'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0681#XXVIII_I_00496
+  date: '2026-07-03'
+  title: Budgetausschuss schickt Doppelbudget 2027/28 unverändert ins Plenum
+  heading: Budgetbegleitende Gesetze
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0685#XXVIII_I_00496
+  date: '2026-07-03'
+  title: Militärbudget überschreitet Fünf-Milliarden-Grenze
+  heading: Frauenanteil, Resilienz und internationale Zusammenarbeit
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0686#XXVIII_I_00496
+  date: '2026-07-03'
+  title: 'Finale im Budgetausschuss: Marterbauer spricht von glaubwürdigem Budgetpfad und sieht Trendwende am Arbeitsmarkt'
+  heading: 'Finanzverwaltung: Vermehrte Anstrengungen in der Betrugsbekämpfung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0707#XXVIII_I_00496
+  date: '2026-07-08'
+  title: 'Nationalrat: Startschuss für Detailberatungen über das Doppelbudget 2027/2028'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0708#XXVIII_I_00496
+  date: '2026-07-08'
+  title: 'Babler: Doppelbudget stellt Mittel für Schlüsselbereiche zur Sicherung der Demokratie bereit'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0709#XXVIII_I_00496
+  date: '2026-07-08'
+  title: 'Nationalrat: Budget für Außenpolitik bleibt in den kommenden zwei Jahren stabil'
+  heading: 'Meinl-Reisinger: Leisten unseren Beitrag zur Budgetkonsolidierung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0710#XXVIII_I_00496
+  date: '2026-07-08'
+  title: Nationalrat diskutiert stabiles Justizbudget für 2027 und 2028
+  heading: NEOS für Evaluierung der Bezirksgerichtsstandorte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0711#XXVIII_I_00496
+  date: '2026-07-08'
+  title: Nationalrat berät Sicherheitsbudget und Einsparungen im Fremdenwesen
+  heading: Grüne kritisieren Personaleinsparungen und Überwachungspläne
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0712#XXVIII_I_00496
+  date: '2026-07-09'
+  title: 'Nationalrat: Hitzige Budgetdebatte über Wirtschaftsstandort und Energiepolitik'
+  heading: Mittel für Wirtschaftsforschung steigen leicht
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0713#XXVIII_I_00496
+  date: '2026-07-09'
+  title: 'Nationalrat: Debatte über Frauen- und Wissenschaftsbudget'
+  heading: Unterschiedliche Positionen zum Wissenschaftsbudget
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0714#XXVIII_I_00496
+  date: '2026-07-09'
+  title: 'Nationalrat: Kontroverser Austausch über Bildungsschwerpunkte im Doppelbudget 2027/28'
+  heading: 'Grüne: Kritik an fehlenden Reformen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0715#XXVIII_I_00496
+  date: '2026-07-09'
+  title: Budget für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft am Prüfstand im Nationalrat
+  heading: 'NEOS: Landwirtschaft muss unternehmerisch erfolgreich sein können'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0716#XXVIII_I_00496
+  date: '2026-07-09'
+  title: 'Nationalrat: Positionen zu Budget für Umwelt- und Klimaschutz liegen weit auseinander'
+  heading: NEOS sehen Abbau von klimaschädlichen Subventionen als wesentlich
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0717#XXVIII_I_00496
+  date: '2026-07-09'
+  title: 'Nationalrat: Plenartag endet mit Debatte über Sozial- und Gesundheitsbudget'
+  heading: 'Schumann: Grundpfeiler für Gesundheitsreform beschlossen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0721#XXVIII_I_00496
+  date: '2026-07-10'
+  title: 'Nationalrat: Intensive Debatte über Familienleistungen im Doppelbudget 2027/2028'
+  heading: Koalitionsparteien heben Maßnahmen hervor
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0723#XXVIII_I_00496
+  date: '2026-07-10'
+  title: 'Hanke: Sichern Investitionen in nachhaltige und leistbare Mobilität und angewandte Forschung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0724#XXVIII_I_00496
+  date: '2026-07-10'
+  title: Nationalrat gibt grünes Licht für Doppelbudget 2027/28 und neuen Finanzrahmen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0725#XXVIII_I_00496
+  date: '2026-07-10'
+  title: Nationalrat debattiert Militärbudget und weiteren Aufbau des Bundesheeres
+  heading: Das Militärbudget im Überblick
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0726#XXVIII_I_00496
+  date: '2026-07-10'
+  title: 'Marterbauer im Nationalrat: Doppelbudget ist richtige Antwort auf die Herausforderungen der Zeit'
+  heading: Bundesvermögen, Finanzmarktstabilität und Kassenverwaltung
 measures: []
 sources:
 - id: parl-detail
@@ -285,9 +470,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 496 und Zu 496 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/496?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

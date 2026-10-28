@@ -3,12 +3,27 @@ jurisdiction: AT
 lang: de-AT
 id: AT/XXVIII/A/1161
 type: members_bill
-title: Paketsteuergesetz – PakStG
+title: Paketsteuergesetz, Änderung
 citation: 1161/A
 parliament_url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1161
 introduced: '2026-10-15'
 introduced_by:
 - Michael Fürtbauer
+identifiers:
+  eurovoc:
+  - Handel
+  - Industrie
+  - Internet
+  - Steuerwesen
+  - Unternehmen und Wettbewerb
+  topics:
+  - Budget und Finanzen
+  - Information und Medien
+  - Wirtschaft
+  keywords:
+  - Steuern und Gebühren
+  - Handel, Gewerbe und Industrie
+  - Internet
 status:
   stage: introduced
   source_status: '1'
@@ -39,6 +54,10 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/1161/fname_1784152.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/1161/fnameorig_1784152.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0998#XXVIII_A_01161
+  date: '2026-10-21'
+  title: Neu im Finanzausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -46,9 +65,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 1161/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/1161?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

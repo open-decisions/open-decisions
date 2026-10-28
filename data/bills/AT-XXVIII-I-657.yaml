@@ -54,6 +54,13 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/657/fname_1783220.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/657/imfname_1783222.pdf
+summary:
+- Festlegung von zuständigen Behörden, Verfahren, Übergangsbestimmungen und Sanktionen
+- Übernahme bestehender bewährter Instrumente aus der österreichischen Batterienverordnung
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1022#XXVIII_I_00657
+  date: '2026-10-27'
+  title: Neu im Umweltausschuss
 measures: []
 sources:
 - id: parl-detail
@@ -61,9 +68,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 657 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/657?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: implements_regulation
   kinds:

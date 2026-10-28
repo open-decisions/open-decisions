@@ -160,6 +160,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/72/fname_1670818.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/72/fnameorig_1670818.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/72/fname_1670918.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0097#XXVIII_A_00072
+  date: '2025-03-04'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0109#XXVIII_A_00072
+  date: '2025-03-06'
+  title: Budgetausschuss bringt Aussetzen von Mieterhöhungen für den geregelten Wohnungsmarkt für 2025 auf den Weg
+  heading: Neues Kreditdienstleister- und Kreditkäufergesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0119#XXVIII_A_00072
+  date: '2025-03-07'
+  title: Nationalrat beschließt Aus für Bildungskarenz und weitere Maßnahmen zur Budgetsanierung
+  heading: Effizienter Sekundärmarkt für notleidende Kredite
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0157#XXVIII_A_00072
+  date: '2025-03-13'
+  title: Bundesrat besiegelt Aus für Bildungskarenz und neuerliche Mietenbremse
+  heading: EU-Richtlinie zu notleidenden Krediten
 measures: []
 sources:
 - id: parl-detail
@@ -167,9 +183,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 72/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/72?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

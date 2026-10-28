@@ -100,6 +100,25 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/179/fname_1674722.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/179/fnameorig_1674722.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0287#XXVIII_A_00179
+  date: '2025-04-11'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0297#XXVIII_A_00179
+  date: '2025-04-22'
+  title: '"Pause" für Familienzusammenführung passiert Innenausschuss'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0772#XXVIII_A_00179
+  date: '2025-09-18'
+  title: Parlament soll künftig Bericht über die Sicherheit der kritischen Infrastruktur in Österreich erhalten
+  heading: FPÖ gegen Einbürgerung von Asylwerbenden und für "Asylstopp-Novelle"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0017#XXVIII_A_00179
+  date: '2026-01-15'
+  title: Innenausschuss lehnt FPÖ-Vorschläge zu Asylverschärfungen ab
+  heading: FPÖ für "absoluten Asylstopp"
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0041#XXVIII_A_00179
+  date: '2026-01-21'
+  title: 'Asylpolitik: Nationalrat weist FPÖ-Vorstöße zurück'
+  heading: FPÖ fordert "absoluten Asylstopp" als Baustein für "Festung Österreich"
 measures: []
 sources:
 - id: parl-detail
@@ -107,9 +126,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 179/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/179?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

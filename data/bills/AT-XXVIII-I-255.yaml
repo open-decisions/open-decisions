@@ -196,6 +196,29 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/255/imfname_1716243.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/255/imfname_1716245.pdf
+summary:
+- Festlegung der zentralen Zugangsstelle gemäß Art. 50 der ETIAS-Verordnung
+- Festlegung der nationalen ETIAS-Stelle gemäß Art. 8 der ETIAS-Verordnung
+- Schaffung von Datenübermittlungsbestimmungen für ETIAS Daten
+- Festlegung des Rechtsmittels der Beschwerde vor dem Bundesverwaltungsgericht bei Verweigerung, Aufhebung oder Annullierung
+  einer Reisegenehmigung
+- Entfall der derzeit bestehenden Visumpflicht für visumbefreite Drittstaatsangehörige, die in das Bundesgebiet einreisen,
+  um einer Beschäftigung als Saisonier von nicht mehr als 90 Tagen innerhalb von 180 Tagen nachzugehen
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0997#XXVIII_I_00255
+  date: '2025-11-05'
+  title: Neu im Innenausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1004#XXVIII_I_00255
+  date: '2025-11-06'
+  title: Innenausschuss genehmigt Europäisches Reiseinformationssystem und Vernetzung von Sicherheitsdatenbanken
+  heading: Vernetzung von EU-Datenbanken
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1047#XXVIII_I_00255
+  date: '2025-11-20'
+  title: Nationalrat bekennt sich einhellig zu Drohnenschutz-Strategie
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1135#XXVIII_I_00255
+  date: '2025-12-04'
+  title: Bundesrat besiegelt AVG-Novelle zur Beschleunigung von Großverfahren
+  heading: Europäisches Reiseinformationssystem und Vernetzung von Sicherheitsdatenbanken
 measures: []
 sources:
 - id: parl-detail
@@ -203,9 +226,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 255 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/255?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

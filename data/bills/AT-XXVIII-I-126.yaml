@@ -189,6 +189,23 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/126/fname_1693467.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/126/imfname_1693469.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0639#XXVIII_I_00126
+  date: '2025-07-02'
+  title: Neu im Gesundheitsausschuss
+  heading: Erhitzte Tabakerzeugnisse künftig auch ohne Aroma
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0649#XXVIII_I_00126
+  date: '2025-07-03'
+  title: 'Gesundheitsausschuss: Künftig nur mehr Tabaksticks ohne Aroma erhältlich'
+  heading: Erhitzte Tabakerzeugnisse künftig auch ohne Aroma
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0679#XXVIII_I_00126
+  date: '2025-07-10'
+  title: Verbot von aromatisierten Tabaksticks im Nationalrat einstimmig beschlossen
+  heading: Erhitzte Tabakerzeugnisse künftig auch ohne Aroma
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0719#XXVIII_I_00126
+  date: '2025-07-17'
+  title: Verbot von aromatisierten Tabaksticks passiert den Bundesrat
+  heading: Erhitzte Tabakerzeugnisse künftig ohne Aroma
 measures: []
 sources:
 - id: parl-detail
@@ -196,9 +213,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 126 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/126?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

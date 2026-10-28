@@ -60,6 +60,20 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/145/fname_1674725.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/145/fnameorig_1674725.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/145/fname_1675711.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0224#XXVIII_A_00145
+  date: '2025-03-28'
+  title: Neu im Wissenschaftsausschuss
+  heading: FPÖ fordert Freiwilligkeit der ÖH-Mitgliedschaft
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0321#XXVIII_A_00145
+  date: '2025-04-25'
+  title: Nationalrat beendet Plenarwoche mit Debatte über ÖH-Pflichtmitgliedschaft
+  heading: FPÖ will ÖH-Pflichtmitgliedschaft abschaffen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0493#XXVIII_A_00145
+  date: '2025-06-04'
+  title: 'Digitaler und internationaler: Novelle soll Anstellung von US-Wissenschaftler:innen und digitale Ausweise an Unis
+    ermöglichen'
+  heading: FPÖ fordert Freiwilligkeit der ÖH-Mitgliedschaft
 measures: []
 sources:
 - id: parl-detail
@@ -67,9 +81,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 145/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/145?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

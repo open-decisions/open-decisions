@@ -196,6 +196,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/460/fname_1712440.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/460/fnameorig_1712440.html
   comparison_pdf: https://www.parlament.gv.at/services/hilfe/website-funktionen/textgegenueberstellung#warum_wird_keine_textgegenuberstellung_angeboten?
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0817#XXVIII_A_00460
+  date: '2025-09-29'
+  title: Neu im Wirtschaftsausschuss
+  heading: 'ÖVP, SPÖ und NEOS: Strompreiskosten-Ausgleichsgesetz soll Industrie entlasten'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0837#XXVIII_A_00460
+  date: '2025-10-01'
+  title: 'Wirtschaftsausschuss: Stromkostenausgleich soll Industrie entlasten'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0899#XXVIII_A_00460
+  date: '2025-10-15'
+  title: Nationalrat gibt grünes Licht für Entlastung der Industrie bei Stromkosten
+  heading: 'ÖVP, SPÖ und NEOS: Standortabsicherungsgesetz soll Industrie entlasten'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0956#XXVIII_A_00460
+  date: '2025-10-23'
+  title: Stromkostenausgleich für Industrie nimmt im Bundesrat die letzte parlamentarische Hürde
+  heading: Energieintensive Industriebetriebe erhalten Stromkostenausgleich
 measures: []
 sources:
 - id: parl-detail
@@ -203,9 +219,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 460/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/460?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

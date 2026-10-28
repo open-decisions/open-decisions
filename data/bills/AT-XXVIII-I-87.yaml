@@ -65,6 +65,17 @@ documents:
   - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685677.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685678.pdf
   - https://www.parlament.gv.at/dokument/XXVIII/I/87/imfname_1685679.pdf
+summary:
+- Anhebung der Zwischensteuer für Stiftungen
+- Anhebung des Stiftungseingangssteueräquivalents
+- Nachholung der Valorisierung der Bundesgebühren
+- Anhebung der Sozialversicherungs-Rückerstattung für Pensionistinnen und Pensionisten
+- Anhebung des Beitragssatzes in der Krankenversicherung der Pensionist/innen und Bezieher/innen vergleichbarer Leistungen
+- Einfrieren der Rezeptgebühr 2026
+- Adaptierung der Bestimmungen über die Rezeptgebührenobergrenze
+- Anpassung von Konsulargebühren an jene des Gebührengesetzes
+- 'Kostenfreie Impfungen gegen SARS-CoV-2 im niedergelassenen Bereich für Versicherte und anspruchsberechtigte Angehörige:
+  Verlängerung der bislang bestehenden Bestimmungen'
 measures: []
 sources:
 - id: parl-detail
@@ -72,9 +83,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 87 und Zu 87 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/87?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: national
   kinds:

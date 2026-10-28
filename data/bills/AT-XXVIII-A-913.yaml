@@ -168,6 +168,21 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/913/fname_1758936.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/913/fnameorig_1758936.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/913/fname_1760027.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0459#XXVIII_A_00913
+  date: '2026-05-22'
+  title: Neu im Sozialausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0504#XXVIII_A_00913
+  date: '2026-06-02'
+  title: Sozialausschuss billigt Änderungen im Notarversorgungsgesetz
+  heading: Gestaffelte Mindestpension für Notarinnen und Notare
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0535#XXVIII_A_00913
+  date: '2026-06-10'
+  title: 'Nationalrat: Rechtsanspruch auf Mitnahme einer Vertrauensperson bei medizinischen Begutachtungen beschlossen'
+  heading: Pensionsrechtliche Anpassungen im Notarversorgungsgesetz finden Zustimmung aller Fraktionen
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0626#XXVIII_A_00913
+  date: '2026-06-25'
+  title: Novelle zur einfacheren Akkreditierung von FH-Studiengängen passierte auch den Bundesrat
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +190,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 913/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/913?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

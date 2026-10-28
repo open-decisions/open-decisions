@@ -57,6 +57,15 @@ vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/539/fname_1717237.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/539/fnameorig_1717237.html
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0962#XXVIII_A_00539
+  date: '2025-10-24'
+  title: Neu im Geschäftsordnungsausschuss
+  heading: '"Wahrheitspflicht" bei Beantwortung parlamentarischer Anfragen'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1052#XXVIII_A_00539
+  date: '2025-11-20'
+  title: 'Livestream von U-Ausschüssen: Konkrete Lösung noch nicht in Sicht'
+  heading: '"Wahrheitspflicht" bei Beantwortung parlamentarischer Anfragen'
 measures: []
 sources:
 - id: parl-detail
@@ -64,9 +73,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 539/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/539?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

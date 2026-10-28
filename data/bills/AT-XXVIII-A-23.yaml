@@ -168,6 +168,22 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/23/fname_1670007.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/23/fnameorig_1670007.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/23/fname_1670854.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0084#XXVIII_A_00023
+  date: '2025-02-27'
+  title: Neu im Budgetausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0107#XXVIII_A_00023
+  date: '2025-03-06'
+  title: 'Budgetausschuss: Anspruch auf Familienleistungen für ukrainische Vertriebene um ein halbes Jahr verlängert'
+  heading: Anspruch auf Familienbeihilfe und Kinderbetreuungsgeld für ukrainische Vertriebene wird bis 31. Oktober 2025 verlängert
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0116#XXVIII_A_00023
+  date: '2025-03-07'
+  title: Nationalrat verlängert Anspruch auf Familienbeihilfe und Kinderbetreuungsgeld für Ukrainer:innen
+  heading: Verlängerung von Familienleistungen für ukrainische Vertriebene
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0155#XXVIII_A_00023
+  date: '2025-03-13'
+  title: Bundesrat stimmt Verlängerung des Anspruchs auf Familienleistungen für ukrainische Vertriebene zu
+  heading: Verlängerung von Familienbeihilfe und Kinderbetreuungsgeld für Ukrainer:innen
 measures: []
 sources:
 - id: parl-detail
@@ -175,9 +191,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 23/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/23?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

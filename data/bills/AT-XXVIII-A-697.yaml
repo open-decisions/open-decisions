@@ -64,6 +64,23 @@ documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/697/fname_1741557.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/697/fnameorig_1741557.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/697/fname_1744629.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0165#XXVIII_A_00697
+  date: '2026-03-04'
+  title: Neu im Gesundheitsausschuss
+  heading: FPÖ für Aufhebung der Altersgrenze von 70 Jahren für Kassenärztinnen und Kassenärzten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0254#XXVIII_A_00697
+  date: '2026-03-26'
+  title: FPÖ will Altersgrenze für Kassenärztinnen und Kassenärzte kippen
+  heading: Altersgrenze für Kassenärztinnen und Kassenärzte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0368#XXVIII_A_00697
+  date: '2026-04-28'
+  title: Gesundheitsausschuss vertagt Forderungen von FPÖ und Grünen
+  heading: FPÖ für Aufhebung der Altersgrenze von 70 Jahren für Kassenärztinnen und Kassenärzten
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0604#XXVIII_A_00697
+  date: '2026-06-23'
+  title: Gesundheitsausschuss beschließt das Verbot von Einweg-E-Zigaretten ab Ende des Jahres
+  heading: FPÖ für Aufhebung der Altersgrenze von 70 Jahren für Kassenärztinnen und Kassenärzten
 measures: []
 sources:
 - id: parl-detail
@@ -71,9 +88,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 697/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/697?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []

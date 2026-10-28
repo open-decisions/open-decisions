@@ -172,6 +172,23 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/252/fname_1716217.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/252/imfname_1716219.pdf
+summary:
+- Adaptierungen im Hinblick auf das Übereinkommen von Aarhus
+- Adaptierungen im Hinblick auf die Industrieemissionsrichtlinie
+- Adaptierungen im Hinblick auf die Seveso III - Richtlinie
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0971#XXVIII_I_00252
+  date: '2025-10-28'
+  title: Neu im Wirtschaftsausschuss
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1156#XXVIII_I_00252
+  date: '2025-12-09'
+  title: Wirtschaftsausschuss für Abwicklung der Investitionsprämie bis 2029
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1167#XXVIII_I_00252
+  date: '2025-12-10'
+  title: Nationalrat beschließt Vereinfachung des Zulassungssystems für neuartige Tabakprodukte
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1209#XXVIII_I_00252
+  date: '2025-12-17'
+  title: 'Bundesrat: Vereinfachte Zulassung von neuartigen Tabakerzeugnissen beschlossen'
 measures: []
 sources:
 - id: parl-detail
@@ -179,9 +196,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 252 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/252?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: transposes_directive
   kinds:

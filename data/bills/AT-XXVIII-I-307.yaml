@@ -583,6 +583,27 @@ documents:
   explanations_pdf: https://www.parlament.gv.at/dokument/XXVIII/I/307/fname_1723222.pdf
   impact_assessment_pdf:
   - https://www.parlament.gv.at/dokument/XXVIII/I/307/imfname_1723224.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1053#XXVIII_I_00307
+  date: '2025-11-20'
+  title: 'Betrugsbekämpfung, Preistransparenz und Co: Wirtschafts- und Finanzausschuss schicken sechs Regierungsvorlagen in
+    Begutachtung'
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1095#XXVIII_I_00307
+  date: '2025-11-27'
+  title: Neu im Wirtschaftsausschuss
+  heading: Klarstellungen im Preisauszeichnungsgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1154#XXVIII_I_00307
+  date: '2025-12-09'
+  title: 'Wirtschaftsausschuss: Breite Mehrheit für Anti-Mogelpackungs-Gesetz und Klarstellungen im Preisauszeichnungsgesetz'
+  heading: Klarstellungen im Preisauszeichnungsgesetz
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1167#XXVIII_I_00307
+  date: '2025-12-10'
+  title: Nationalrat beschließt Vereinfachung des Zulassungssystems für neuartige Tabakprodukte
+  heading: Mehr Preistransparenz im Handel
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk1209#XXVIII_I_00307
+  date: '2025-12-17'
+  title: 'Bundesrat: Vereinfachte Zulassung von neuartigen Tabakerzeugnissen beschlossen'
+  heading: Mehr Preistransparenz und bessere Vergleichbarkeit von Preisen
 measures: []
 sources:
 - id: parl-detail
@@ -590,9 +611,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 307 d.B., Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/I/307?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: eu_scope
   kinds:

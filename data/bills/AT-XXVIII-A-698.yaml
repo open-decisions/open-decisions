@@ -59,11 +59,29 @@ phases:
   date: '2026-03-12'
   text: 'Verfassungsausschuss: auf Tagesordnung in der 11. Sitzung des Ausschusses In der Sitzung vom 12. März 2026 vertagt'
   url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16814882.html
+- phase: committee
+  chamber: Nationalrat
+  date: '2026-10-22'
+  text: 'Verfassungsausschuss: auf Tagesordnung in der 16. Sitzung des Ausschusses In der Sitzung vom 22. Oktober 2026 vertagt'
+  url: https://www.parlament.gv.at/dokument/XXVIII/A-VF/1/00938/TO_16964576.html
 vote: null
 documents:
   law_text_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/698/fname_1741558.pdf
   law_text_html: https://www.parlament.gv.at/dokument/XXVIII/A/698/fnameorig_1741558.html
   comparison_pdf: https://www.parlament.gv.at/dokument/XXVIII/A/698/fname_1742591.pdf
+press:
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0159#XXVIII_A_00698
+  date: '2026-03-03'
+  title: Neu im Verfassungsausschuss
+  heading: FPÖ will österreichische Neutralität durch Verfassungsnovelle absichern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0202#XXVIII_A_00698
+  date: '2026-03-12'
+  title: Ex-Umweltministerin Leonore Gewessler wird nicht beim VfGH angeklagt
+  heading: FPÖ will österreichische Neutralität durch Verfassungsnovelle absichern
+- url: https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1001#XXVIII_A_00698
+  date: '2026-10-22'
+  title: Verfassungsausschuss vertagt FPÖ-Anträge zur Neutralität und für Neuwahlen
+  heading: FPÖ-Forderungen zur Neutralität
 measures: []
 sources:
 - id: parl-detail
@@ -71,9 +89,9 @@ sources:
   institution: Parlament Österreich
   title: Verhandlungsgegenstand 698/A, Detail-JSON
   url: https://www.parlament.gv.at/gegenstand/XXVIII/A/698?json=TRUE
-  retrieved: '2026-10-19'
+  retrieved: '2026-10-28'
   archive: null
-retrieved: '2026-10-19'
+retrieved: '2026-10-28'
 eu_relation:
   kind: not_stated
   kinds: []
