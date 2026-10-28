@@ -11,6 +11,7 @@ const bills = (await getBills()).map((b) => ({
   cards: b.measures.filter((m) => cardTitle.has(m)).map((m) => ({ title: cardTitle.get(m)!, href: url(`massnahmen/${m}/`) })),
 }));
 const stages = meta.stage_filters.map((s) => ({ ...s, count: meta.stage_counts[s.id as keyof typeof meta.stage_counts] }));
+const eus = meta.eu_filters.map((e) => ({ ...e, count: meta.eu_counts[e.id as keyof typeof meta.eu_counts] }));
 const types = meta.type_filters.map((t) => ({ ...t, count: meta.type_counts[t.id as keyof typeof meta.type_counts] }));
 ---
 <Base title="Gesetze" current="bills" description={`Alle ${meta.bill_count} Gesetzesvorhaben der ${edition.legislative_period} mit ihrem Weg durchs Parlament.`}>
@@ -28,7 +29,8 @@ const types = meta.type_filters.map((t) => ({ ...t, count: meta.type_counts[t.id
 
     <section aria-labelledby="h-liste" class="list">
       <h2 id="h-liste">Alle Vorhaben</h2>
-      <Tracker client:load bills={bills} stages={stages} types={types} total={meta.bill_count} />
+      <Tracker client:load bills={bills} stages={stages} types={types} eus={eus} total={meta.bill_count} />
+      <p class="muted note">Den EU-Bezug lesen wir automatisch aus der Folgenabschätzung und den Erläuterungen der Regierung. Er ist noch nicht von Hand geprüft. Initiativanträge haben keine Folgenabschätzung, deshalb fehlt dort oft eine Angabe.</p>
     </section>
   </div>
 </Base>

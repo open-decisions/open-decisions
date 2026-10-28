@@ -564,6 +564,85 @@
               "description": "The parliament's own keywords"
             }
           }
+        },
+        "eu_relation": {
+          "type": "object",
+          "required": [
+            "kind",
+            "method",
+            "checked"
+          ],
+          "additionalProperties": false,
+          "description": "How the bill relates to EU law. Derived from the impact assessment's section on EU law and from transposition wording in the documents; unchecked until a human confirms it.",
+          "properties": {
+            "kind": {
+              "type": "string",
+              "enum": [
+                "transposes_directive",
+                "implements_regulation",
+                "eu_scope",
+                "national",
+                "not_stated"
+              ],
+              "description": "transposes_directive: implements an EU directive; implements_regulation: accompanying rules for directly applicable EU regulations; eu_scope: within EU law but not required by it; national: outside EU law; not_stated: no statement found"
+            },
+            "kinds": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "All kinds found across parts of the bill, highest priority first"
+            },
+            "goes_beyond": {
+              "type": "boolean",
+              "description": "The impact assessment states that the bill goes beyond what EU law requires"
+            },
+            "statements": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "text",
+                  "kind",
+                  "source"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "text": {
+                    "type": "string"
+                  },
+                  "kind": {
+                    "type": "string"
+                  },
+                  "source": {
+                    "$ref": "#/$defs/url"
+                  },
+                  "page": {
+                    "type": [
+                      "integer",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            },
+            "acts": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/eu_act"
+              }
+            },
+            "method": {
+              "type": "string",
+              "enum": [
+                "text_extraction",
+                "manual"
+              ]
+            },
+            "checked": {
+              "type": "boolean"
+            }
+          }
         }
       }
     },
@@ -1410,6 +1489,49 @@
               }
             }
           }
+        }
+      }
+    },
+    "eu_act": {
+      "type": "object",
+      "required": [
+        "celex",
+        "type",
+        "label",
+        "role",
+        "eurlex_url"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "celex": {
+          "type": "string",
+          "pattern": "^3\\d{4}[LRD]\\d{4}$",
+          "description": "CELEX number of the EU act"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "directive",
+            "regulation",
+            "decision"
+          ]
+        },
+        "label": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string",
+          "enum": [
+            "transposed",
+            "implemented"
+          ],
+          "description": "transposed: the bill transposes this directive; implemented: the bill contains accompanying rules for this regulation"
+        },
+        "eurlex_url": {
+          "$ref": "#/$defs/url"
+        },
+        "eli": {
+          "type": "string"
         }
       }
     }

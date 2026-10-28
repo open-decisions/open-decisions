@@ -235,3 +235,54 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  - implements_regulation
+  - eu_scope
+  - national
+  goes_beyond: false
+  statements:
+  - kind: national
+    page: 3
+    text: Die vorgesehenen Regelungen fallen nicht in den Anwendungsbereich des Rechts der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: eu_scope
+    page: 38
+    text: Die vorgesehenen Regelungen fallen in den Anwendungsbereich des Rechts der Europäischen Union, dienen aber nicht
+      der Erfüllung unionsrechtlicher Vorgaben
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: transposes_directive
+    page: 75
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: national
+    page: 109
+    text: Die vorgesehenen Regelungen fallen nicht in den Anwendungsbereich des Rechts der Europäischen Union BBG 2025
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: implements_regulation
+    page: 170
+    text: Das Vorhaben enthält die erforderlichen flankierenden Regelungen zu Verordnungen der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: eu_scope
+    page: 208
+    text: BBG 2025
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: transposes_directive
+    page: 279
+    text: Umsetzung §3 Abs.1 Z1 GDG 2022
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  - kind: implements_regulation
+    page: 301
+    text: Das Vorhaben enthält die erforderlichen flankierenden Regelungen zu Verordnungen der Europäischen Union BBG 2025
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/69/imfname_1685635.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/reg/2023/1781/oj
+    role: implemented
+    type: regulation
+    celex: 32023R1781
+    label: Verordnung 2023/1781
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1781
+  method: text_extraction
+  checked: false

@@ -102,3 +102,18 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2013/34/oj
+    role: transposed
+    type: directive
+    celex: 32013L0034
+    label: Richtlinie 2013/34
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013L0034
+  method: text_extraction
+  checked: false

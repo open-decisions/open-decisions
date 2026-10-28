@@ -40,6 +40,18 @@ TOPIC_LABELS = {
     "indexation": "Inflationsanpassung",
     "other": "Sonstiges",
 }
+EU_LABELS = {
+    "transposes_directive": "setzt EU-Richtlinie um",
+    "implements_regulation": "Begleitregeln zu EU-Verordnung",
+    "eu_scope": "im Rahmen des EU-Rechts, nicht von ihm verlangt",
+    "national": "kein EU-Recht betroffen",
+}
+EU_FILTERS = [
+    ("eu_law", "Setzt EU-Recht um"),
+    ("eu_scope", "Im Rahmen des EU-Rechts"),
+    ("national", "Kein EU-Recht betroffen"),
+    ("not_stated", "Keine Angabe"),
+]
 TYPE_FILTERS = [("government_bill", "Regierungsvorlagen", "Regierungsvorlage"), ("members_bill", "Initiativanträge", "Initiativantrag")]
 
 
@@ -114,6 +126,24 @@ def vote_view(bill: dict[str, Any]) -> dict[str, Any] | None:
     }
 
 
+def eu_view(bill: dict[str, Any]) -> dict[str, Any]:
+    rel = bill.get("eu_relation") or {"kind": "not_stated", "kinds": [], "goes_beyond": False, "acts": [], "checked": False}
+    kind = rel["kind"]
+    group = "eu_law" if kind in ("transposes_directive", "implements_regulation") else kind
+    label = EU_LABELS.get(kind)
+    partial = group == "eu_law" and any(k in ("national", "eu_scope") for k in rel.get("kinds", []))
+    if label and partial:
+        label = "teilweise: " + label
+    return {
+        "group": group,
+        "label": label,
+        "goes_beyond": rel.get("goes_beyond", False),
+        "goes_beyond_text": "geht laut Folgenabschätzung über die EU-Vorgaben hinaus" if rel.get("goes_beyond") else None,
+        "acts": [{"label": a["label"], "url": a["eurlex_url"], "role": a["role"]} for a in rel.get("acts", [])],
+        "checked": rel.get("checked", False),
+    }
+
+
 def bill_row(bill: dict[str, Any]) -> dict[str, Any]:
     stage = bill["status"]["stage"]
     kind = next(t[2] for t in TYPE_FILTERS if t[0] == bill["type"])
@@ -131,6 +161,7 @@ def bill_row(bill: dict[str, Any]) -> dict[str, Any]:
         "step_label": STEP_LABELS[stage],
         "measures": bill.get("measures", []),
         "parliament_url": bill["parliament_url"],
+        "eu": eu_view(bill),
     }
 
 
@@ -168,6 +199,8 @@ def site_data(country: str = "AT") -> dict[str, Any]:
             "type_counts": {k: sum(1 for r in rows if r["type"] == k) for k, _, _ in TYPE_FILTERS},
             "stage_filters": [{"id": k, "label": v} for k, v in STAGE_FILTERS],
             "type_filters": [{"id": k, "label": v} for k, v, _ in TYPE_FILTERS],
+            "eu_filters": [{"id": k, "label": v} for k, v in EU_FILTERS],
+            "eu_counts": {k: sum(1 for r in rows if r["eu"]["group"] == k) for k, _ in EU_FILTERS},
         },
         "households": households_view(country),
         "cards": cards,

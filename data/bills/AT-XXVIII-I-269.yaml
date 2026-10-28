@@ -175,3 +175,17 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: eu_scope
+  kinds:
+  - eu_scope
+  goes_beyond: false
+  statements:
+  - kind: eu_scope
+    page: 1
+    text: Die Vorgaben der Richtlinie 93/13/EWG über mißbräuchliche Klauseln in Verbraucherverträgen, ABl. Nr. L 95 vom 21.04.1993
+      S. 29, sind zu berücksichtigen.
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/269/imfname_1718391.pdf
+  acts: []
+  method: text_extraction
+  checked: false

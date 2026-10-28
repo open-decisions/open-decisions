@@ -68,12 +68,17 @@ Content flows one way, from sources through review into the site. User data flow
 
 Households are national archetypes. A state-specific measure affects a household through its region field; the record says which states the measure applies to.
 
+## Relation to EU law
+
+Every bill carries `eu_relation`: whether it transposes an EU directive, contains accompanying rules for a directly applicable EU regulation, lies within EU law without being required by it, or is outside EU law. The source is the standard section "Verhältnis zu den Rechtsvorschriften der Europäischen Union" of the impact assessment, which decides the kind; transposition wording and CELEX numbers in the law text and explanations add the EU acts, and decide the kind only when no impact assessment exists. Acts link to EUR-Lex by CELEX number and carry their EU ELI. The impact assessment's statement that a bill goes beyond what EU law requires is kept as its own flag. The step is `ingest-at eu`, writing `staged.bill_eu`; the export marks the result as unchecked text extraction until a human sets `checked: true` on the bill record, after which the curated value is kept. Omnibus bills often mix kinds; the site then shows "teilweise". Per-measure EU relations and Austria's votes at EU level are later steps.
+
 ## Identifiers
 
 | What | Identifier | Where it comes from |
 | --- | --- | --- |
 | Jurisdiction | ISO 3166-1 alpha-2, ISO 3166-2 for states | fixed |
 | Published act | ELI as URL | RIS, `https://www.ris.bka.gv.at/eli/bgbl/I/<year>/<number>` |
+| EU act | CELEX number, EU ELI | extracted from the bill's documents, linked to EUR-Lex |
 | Bill | jurisdiction plus the parliament's own key | parliament API |
 | Topic | EuroVoc descriptor | parliament API |
 | Party, politician | Wikidata id | Wikidata |

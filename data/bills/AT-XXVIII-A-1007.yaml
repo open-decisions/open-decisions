@@ -163,3 +163,18 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2009/119/oj
+    role: transposed
+    type: directive
+    celex: 32009L0119
+    label: Richtlinie 2009/119
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0119
+  method: text_extraction
+  checked: false

@@ -198,3 +198,106 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/498/imfname_1757412.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/1990/619/oj
+    role: transposed
+    type: directive
+    celex: 31990L0619
+    label: Richtlinie 1990/619
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31990L0619
+  - eli: http://data.europa.eu/eli/dir/1993/13/oj
+    role: transposed
+    type: directive
+    celex: 31993L0013
+    label: Richtlinie 1993/13
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31993L0013
+  - eli: http://data.europa.eu/eli/dir/1999/44/oj
+    role: transposed
+    type: directive
+    celex: 31999L0044
+    label: Richtlinie 1999/44
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31999L0044
+  - eli: http://data.europa.eu/eli/dir/2002/65/oj
+    role: transposed
+    type: directive
+    celex: 32002L0065
+    label: Richtlinie 2002/65
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002L0065
+  - eli: http://data.europa.eu/eli/dir/2005/29/oj
+    role: transposed
+    type: directive
+    celex: 32005L0029
+    label: Richtlinie 2005/29
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32005L0029
+  - eli: http://data.europa.eu/eli/dir/2008/48/oj
+    role: transposed
+    type: directive
+    celex: 32008L0048
+    label: Richtlinie 2008/48
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008L0048
+  - eli: http://data.europa.eu/eli/dir/2011/83/oj
+    role: transposed
+    type: directive
+    celex: 32011L0083
+    label: Richtlinie 2011/83
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0083
+  - eli: http://data.europa.eu/eli/dir/2014/17/oj
+    role: transposed
+    type: directive
+    celex: 32014L0017
+    label: Richtlinie 2014/17
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0017
+  - eli: http://data.europa.eu/eli/dir/2014/65/oj
+    role: transposed
+    type: directive
+    celex: 32014L0065
+    label: Richtlinie 2014/65
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0065
+  - eli: http://data.europa.eu/eli/dir/2015/2366/oj
+    role: transposed
+    type: directive
+    celex: 32015L2366
+    label: Richtlinie 2015/2366
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2366
+  - eli: http://data.europa.eu/eli/dir/2019/770/oj
+    role: transposed
+    type: directive
+    celex: 32019L0770
+    label: Richtlinie 2019/770
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0770
+  - eli: http://data.europa.eu/eli/dir/2019/771/oj
+    role: transposed
+    type: directive
+    celex: 32019L0771
+    label: Richtlinie 2019/771
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+  - eli: http://data.europa.eu/eli/dir/2023/2225/oj
+    role: transposed
+    type: directive
+    celex: 32023L2225
+    label: Richtlinie 2023/2225
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L2225
+  - eli: http://data.europa.eu/eli/dir/2023/2673/oj
+    role: transposed
+    type: directive
+    celex: 32023L2673
+    label: Richtlinie 2023/2673
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L2673
+  - eli: http://data.europa.eu/eli/dir/2024/825/oj
+    role: transposed
+    type: directive
+    celex: 32024L0825
+    label: Richtlinie 2024/825
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L0825
+  method: text_extraction
+  checked: false

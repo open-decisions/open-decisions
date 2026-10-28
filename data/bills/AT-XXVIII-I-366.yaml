@@ -204,3 +204,35 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: implements_regulation
+  kinds:
+  - implements_regulation
+  goes_beyond: false
+  statements:
+  - kind: implements_regulation
+    page: 1
+    text: Das Vorhaben enthält die erforderlichen flankierenden Regelungen zu Verordnungen der Europäischen Union und dient
+      der Umsetzung mehrerer Richtlinien der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/366/imfname_1728781.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/reg/2014/537/oj
+    role: implemented
+    type: regulation
+    celex: 32014R0537
+    label: Verordnung 2014/537
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0537
+  - eli: http://data.europa.eu/eli/reg/2023/2631/oj
+    role: implemented
+    type: regulation
+    celex: 32023R2631
+    label: Verordnung 2023/2631
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2631
+  - eli: http://data.europa.eu/eli/reg/2023/2859/oj
+    role: implemented
+    type: regulation
+    celex: 32023R2859
+    label: Verordnung 2023/2859
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2859
+  method: text_extraction
+  checked: false

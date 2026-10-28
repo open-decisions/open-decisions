@@ -188,3 +188,58 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/473/imfname_1753536.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2002/65/oj
+    role: transposed
+    type: directive
+    celex: 32002L0065
+    label: Richtlinie 2002/65
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002L0065
+  - eli: http://data.europa.eu/eli/dir/2008/48/oj
+    role: transposed
+    type: directive
+    celex: 32008L0048
+    label: Richtlinie 2008/48
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008L0048
+  - eli: http://data.europa.eu/eli/dir/2011/83/oj
+    role: transposed
+    type: directive
+    celex: 32011L0083
+    label: Richtlinie 2011/83
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0083
+  - eli: http://data.europa.eu/eli/dir/2014/17/oj
+    role: transposed
+    type: directive
+    celex: 32014L0017
+    label: Richtlinie 2014/17
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0017
+  - eli: http://data.europa.eu/eli/dir/2014/92/oj
+    role: transposed
+    type: directive
+    celex: 32014L0092
+    label: Richtlinie 2014/92
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0092
+  - eli: http://data.europa.eu/eli/dir/2023/2225/oj
+    role: transposed
+    type: directive
+    celex: 32023L2225
+    label: Richtlinie 2023/2225
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L2225
+  - eli: http://data.europa.eu/eli/dir/2023/2973/oj
+    role: transposed
+    type: directive
+    celex: 32023L2973
+    label: Richtlinie 2023/2973
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L2973
+  method: text_extraction
+  checked: false

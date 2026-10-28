@@ -206,3 +206,31 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  - implements_regulation
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2014/36/oj
+    role: transposed
+    type: directive
+    celex: 32014L0036
+    label: Richtlinie 2014/36
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0036
+  - eli: http://data.europa.eu/eli/dir/2017/541/oj
+    role: transposed
+    type: directive
+    celex: 32017L0541
+    label: Richtlinie 2017/541
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017L0541
+  - eli: http://data.europa.eu/eli/reg/2019/817/oj
+    role: implemented
+    type: regulation
+    celex: 32019R0817
+    label: Verordnung 2019/817
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0817
+  method: text_extraction
+  checked: false

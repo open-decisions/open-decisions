@@ -42,3 +42,14 @@ test("tracker filters by stage and search", async ({ page }) => {
   await expect(rows).toHaveCount(1);
   await expect(rows.first()).toContainText("4 Karten".replace("4 Karten", "Der Klimabonus wird nicht mehr ausgezahlt"));
 });
+
+
+test("tracker filters by relation to EU law and links the EU act", async ({ page }) => {
+  await page.goto("/gesetze/");
+  await page.getByRole("button", { name: /^Setzt EU-Recht um/ }).click();
+  const rows = page.locator("tbody tr");
+  expect(await rows.count()).toBeGreaterThan(40);
+  await page.getByLabel("Suche in Titel und Nummer").fill("Batterienverordnung");
+  await expect(rows).toHaveCount(1);
+  await expect(rows.first().getByRole("link", { name: "Verordnung 2023/1542" })).toHaveAttribute("href", /CELEX:32023R1542/);
+});

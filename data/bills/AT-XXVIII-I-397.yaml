@@ -178,3 +178,28 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/397/imfname_1740115.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2011/85/oj
+    role: transposed
+    type: directive
+    celex: 32011L0085
+    label: Richtlinie 2011/85
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0085
+  - eli: http://data.europa.eu/eli/dir/2024/1265/oj
+    role: transposed
+    type: directive
+    celex: 32024L1265
+    label: Richtlinie 2024/1265
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1265
+  method: text_extraction
+  checked: false

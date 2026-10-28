@@ -191,3 +191,46 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  goes_beyond: false
+  statements:
+  - kind: transposes_directive
+    page: 1
+    text: Das Vorhaben dient der Umsetzung einer EU-Richtlinie
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/90/imfname_1685697.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/dir/2002/15/oj
+    role: transposed
+    type: directive
+    celex: 32002L0015
+    label: Richtlinie 2002/15
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002L0015
+  - eli: http://data.europa.eu/eli/dir/2003/59/oj
+    role: transposed
+    type: directive
+    celex: 32003L0059
+    label: Richtlinie 2003/59
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003L0059
+  - eli: http://data.europa.eu/eli/dir/2006/1/oj
+    role: transposed
+    type: directive
+    celex: 32006L0001
+    label: Richtlinie 2006/1
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006L0001
+  - eli: http://data.europa.eu/eli/dir/2022/738/oj
+    role: transposed
+    type: directive
+    celex: 32022L0738
+    label: Richtlinie 2022/738
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L0738
+  - eli: http://data.europa.eu/eli/dir/2022/2561/oj
+    role: transposed
+    type: directive
+    celex: 32022L2561
+    label: Richtlinie 2022/2561
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L2561
+  method: text_extraction
+  checked: false

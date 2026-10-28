@@ -49,3 +49,5 @@ Run `make check` before opening a pull request. Pre-commit runs the same checks 
 - `data/bills` contains opposition bills that never passed. The tracker needs completeness; the governing-party rule applies to measure selection only.
 - The Klimabonus example labels plain arithmetic as `estimated`, not `calculated`, because the methodology reserves `calculated` for the microsimulation. See the decision log.
 - The parliament's item type `I` covers all numbered Beilagen; bills are filtered by document type `RV` and `A`.
+- The Budgetbegleitgesetz 2025 is marked "teilweise: setzt EU-Richtlinie um" although its Klimabonus article is purely national. `eu_relation` describes the whole omnibus bill; per-measure EU relations are not modelled yet.
+- `eu_relation` follows the impact assessment's own statement even when the law text mentions EU acts elsewhere. Most members' bills have no impact assessment and show "Keine Angabe".

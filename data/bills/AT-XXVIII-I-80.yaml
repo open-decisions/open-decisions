@@ -190,3 +190,46 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: implements_regulation
+  kinds:
+  - implements_regulation
+  goes_beyond: false
+  statements:
+  - kind: implements_regulation
+    page: 2
+    text: Das Vorhaben enthält die erforderlichen flankierenden Regelungen zu Verordnungen der Europäischen Union
+    source: https://www.parlament.gv.at/dokument/XXVIII/I/80/imfname_1684357.pdf
+  acts:
+  - eli: http://data.europa.eu/eli/reg/2017/1939/oj
+    role: implemented
+    type: regulation
+    celex: 32017R1939
+    label: Verordnung 2017/1939
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1939
+  - eli: http://data.europa.eu/eli/reg/2018/1727/oj
+    role: implemented
+    type: regulation
+    celex: 32018R1727
+    label: Verordnung 2018/1727
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018R1727
+  - eli: http://data.europa.eu/eli/reg/2019/816/oj
+    role: implemented
+    type: regulation
+    celex: 32019R0816
+    label: Verordnung 2019/816
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0816
+  - eli: http://data.europa.eu/eli/reg/2023/2131/oj
+    role: implemented
+    type: regulation
+    celex: 32023R2131
+    label: Verordnung 2023/2131
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2131
+  - eli: http://data.europa.eu/eli/reg/2023/2844/oj
+    role: implemented
+    type: regulation
+    celex: 32023R2844
+    label: Verordnung 2023/2844
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2844
+  method: text_extraction
+  checked: false

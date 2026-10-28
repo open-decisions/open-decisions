@@ -117,3 +117,61 @@ sources:
   retrieved: '2026-10-19'
   archive: null
 retrieved: '2026-10-19'
+eu_relation:
+  kind: transposes_directive
+  kinds:
+  - transposes_directive
+  - implements_regulation
+  goes_beyond: false
+  statements: []
+  acts:
+  - eli: http://data.europa.eu/eli/reg/2011/1227/oj
+    role: implemented
+    type: regulation
+    celex: 32011R1227
+    label: Verordnung 2011/1227
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011R1227
+  - eli: http://data.europa.eu/eli/reg/2017/1485/oj
+    role: implemented
+    type: regulation
+    celex: 32017R1485
+    label: Verordnung 2017/1485
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1485
+  - eli: http://data.europa.eu/eli/dir/2018/2001/oj
+    role: transposed
+    type: directive
+    celex: 32018L2001
+    label: Richtlinie 2018/2001
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018L2001
+  - eli: http://data.europa.eu/eli/reg/2018/1999/oj
+    role: implemented
+    type: regulation
+    celex: 32018R1999
+    label: Verordnung 2018/1999
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018R1999
+  - eli: http://data.europa.eu/eli/dir/2019/944/oj
+    role: transposed
+    type: directive
+    celex: 32019L0944
+    label: Richtlinie 2019/944
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0944
+  - eli: http://data.europa.eu/eli/reg/2019/943/oj
+    role: implemented
+    type: regulation
+    celex: 32019R0943
+    label: Verordnung 2019/943
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0943
+  - eli: http://data.europa.eu/eli/reg/2022/869/oj
+    role: implemented
+    type: regulation
+    celex: 32022R0869
+    label: Verordnung 2022/869
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0869
+  - eli: http://data.europa.eu/eli/dir/2024/1711/oj
+    role: transposed
+    type: directive
+    celex: 32024L1711
+    label: Richtlinie 2024/1711
+    eurlex_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1711
+  method: text_extraction
+  checked: false
